@@ -1,0 +1,39 @@
+﻿menu_start_game_0|Vítej, vojáku, do hry Mount and Blade Stories: Age of Napoleon.^Než začneš hrát, musíš si vytvořit postavu a vybrat si kýženou obtížnost.
+mno_start_easy|Nižší
+mno_start_normal|Normální
+mno_start_hard|Vyšší
+mno_go_back|Zpět
+mno_debug|Debug
+menu_start_phase_2|Zahájit fázi 2
+mno_map|Mapa
+menu_start_game_3|Zahájit hru 3
+menu_tutorial|Dobré odpoledne, pane. Dnes máme krásný den, pane. Dáš si šálek čaje?
+mno_continue|Ano, prosím.
+mno_go_back_dot|Ne, děkuji.
+menu_reports|Hlášení
+mno_resume_travelling|Pokračovat v cestě.
+menu_camp|Tábor
+mno_camp_wait_here|Odpočívat.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|Je po bitvě. {s1} Tvá strana zabila {reg5} nepřátel a přišla o {reg6} jednotek. Přímo tvou rukou v boji padlo {reg7} mužů.
+menu_town_trade|Zamíříš k obchodu v táboře.
+mno_trade_with_arms_merchant|Obchodovat s kupcem se zbraněmi.
+mno_trade_with_armor_merchant|Obchodovat s krejčím.
+mno_trade_with_horse_merchant|Obchodovat s koňským handlířem.
+mno_back_to_town_menu|Vrátit se.
+menu_debug|Vybrat scénu
+mno_scene1|Vídeňský most (sp vienna)
+mno_scene2|Slavkov - 1. část (sp sokolniz)
+mno_scene3|Slavkov - 2. část (sp auster)
+mno_scene4|Slavkov - 3. část (sp sokolniz2)
+mno_scene5|Drážďany - 1. část (sp dresden1)
+mno_scene6|Drážďany - 2. část (sp dresden2)
+mno_scene7|Nová scéna 1 (NON-PLAYABLE)
+mno_scene8|Nová scéna 2 (NON-PLAYABLE)
+mno_scene9|Nová scéna 3 (NON-PLAYABLE)
+mno_scene10|Nová scéna 4 (NON-PLAYABLE)
+menu_run_mission_dummy|debug screen
+menu_run_companion_dummy|debug screen
+menu_visit_camp_dummy|debug screen
+menu_go_briefing_dummy|debug screen
+menu_quit_dummy|debug screen

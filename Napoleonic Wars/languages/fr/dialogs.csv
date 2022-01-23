@@ -1,0 +1,26 @@
+dlga_start:companion_talk|Enchanté de vous connaitre {Monsieur/Madame}, En quoi puis-je vous aider ?.
+dlga_companion_talk:companion_talk_equipment|Laissez-moi voir votre équipement.
+dlga_companion_talk_equipment:companion_talk_end|Bien, voilà.
+dlga_companion_talk_end:companion_talk|Autre chose ?
+dlga_companion_talk:companion_talk_opinion|Que pensez-vous de mon commandement?
+dlga_companion_talk_opinion:companion_talk|Très bien {Monsieur/Madame}!
+dlga_companion_talk:close_window|Rien, continuez.
+dlga_start:town_merchant_talk|Bonjour, Que puis-je faire pour vous?
+dlga_town_merchant_talk:trade_requested_weapons|Je veux acheter une nouvelle arme. Qu'est-ce que vous avez en stock?
+dlga_town_merchant_talk:trade_requested_armor|Je cherche un nouvel uniforme. Montrez moi ce que vous avez.
+dlga_town_merchant_talk:trade_requested_horse|Je pense acheter un cheval.
+dlga_trade_requested_weapons:merchant_trade|Ah, d'accord {Monsieur/Madame}. Ces armes sont les meilleurs que vous trouverez.
+dlga_trade_requested_armor:merchant_trade|Bien-sûr, {Monsieur/Madame}. Vous ne trouverez aucun uniforme de meilleure qualité ailleurs.
+dlga_trade_requested_horse:merchant_trade|Vous avez un bon oeil pour les chevaux, {Monsieur/Madame}. Vous ne trouverez pas mieux ailleurs.
+dlga_merchant_trade:town_merchant_talk|Autre chose?
+dlga_town_merchant_talk:close_window|Aurevoir.
+dlga_start:camp_dweller_talk|{s14} Au rapport {Monsieur/Madame}!
+dlga_start:camp_dweller_talk.1|Bonjour, {Monsieur/Madame}. Vous voulez me parler?
+dlga_start:camp_dweller_talk.2|Monsieur, je vous amène les objectifs de la prochaine mission, êtes-vous prêt ?
+dlga_start:camp_dweller_talk.3|C'est un honneur, {Monsieur/Madame}. En quoi puis-je vous aider ?
+dlga_camp_dweller_talk:close_window|Rien, continuez.
+dlga_camp_dweller_talk:close_window.1|Pas cette fois monsieur, bonne soirée.
+dlga_camp_dweller_talk:close_window.2|Donnez-moi les ordres ! Je dois partir immédiatement.
+dlga_camp_dweller_talk:close_window.3|Je ne suis pas encore prêt.
+dlga_camp_dweller_talk:close_window.4|Oubliez.
+dlga_start:close_window|Dialog Error. No dialog found.

@@ -1,0 +1,26 @@
+﻿dlga_start:companion_talk|"다시 만나서 반갑군요, {Sir/Madam}. 무엇을 도와드릴까요?"
+dlga_companion_talk:companion_talk_equipment|자네의 장비를 보여주게.
+dlga_companion_talk_equipment:companion_talk_end|아무렴요
+dlga_companion_talk_end:companion_talk|또 다른 건 없으세요?
+dlga_companion_talk:companion_talk_opinion|자네는 내 지휘에 대해 어떻게 생각하는가?
+dlga_companion_talk_opinion:companion_talk|"정말 좋습니다, {Sir/Madam}!"
+dlga_companion_talk:close_window|아무것도 아니라네.
+dlga_start:town_merchant_talk|좋은 날이군요. 무엇을 도와드릴까요?,
+dlga_town_merchant_talk:trade_requested_weapons|나는 새로운 무기를 사고 싶네. 재고에 무엇이 있는가?,
+dlga_town_merchant_talk:trade_requested_armor|나는 몇 가지 새로운 유니폼을 찾고 있소.
+dlga_town_merchant_talk:trade_requested_horse|나는 말을 구입할 생각이오.
+dlga_trade_requested_weapons:merchant_trade|"아, 예 {경/부인}."
+dlga_trade_requested_armor:merchant_trade|물론이죠.
+dlga_trade_requested_horse:merchant_trade|한번 보도록 하죠.
+dlga_merchant_trade:town_merchant_talk|다른 필요한 거라도?
+dlga_town_merchant_talk:close_window|수고하세요.
+dlga_start:camp_dweller_talk|{s14} 이(가) 보고합니다!
+dlga_start:camp_dweller_talk.1|좋은 하루입니다. 하실 말씀이라도?
+dlga_start:camp_dweller_talk.2|"경, 저는 당신이 다음 임무를 내리기를 기다리고 있습니다. 준비되셨나요?"
+dlga_start:camp_dweller_talk.3|당신을 만나서 영광입니다.
+dlga_camp_dweller_talk:close_window|아무것도 아닐세.
+dlga_camp_dweller_talk:close_window.1|"좋은 저녁 보내시길"
+dlga_camp_dweller_talk:close_window.2|저에게 명령을 내려 주십시오!
+dlga_camp_dweller_talk:close_window.3|난 아직 준비되지 않았다.
+dlga_camp_dweller_talk:close_window.4|신경 쓰지 마.
+dlga_start:close_window|대화 오류가 발생했습니다. 대화가 없습니다.

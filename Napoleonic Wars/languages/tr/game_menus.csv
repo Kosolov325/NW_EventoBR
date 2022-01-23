@@ -1,0 +1,39 @@
+menu_start_game_0|Mount&Blade: Napolyon Savaşları'na hoş geldin.^Oyuna başlamadan önce karakterini yaratmalı ve zorluk seviyesini seçmelisin.
+mno_start_easy|Kolay
+mno_start_normal|Normal
+mno_start_hard|Zor
+mno_go_back|Geri git
+mno_debug|Debug
+menu_start_phase_2|Baslangıç
+mno_map|Harita
+menu_start_game_3|Oyuna başla
+menu_tutorial|İyi akşamlar efendim. Hava bugün çok güzel. Bir fincan çay ister miydiniz ? 
+mno_continue|Evet, teşekkür ederim.
+mno_go_back_dot|Hayır, sağolun.
+menu_reports|Raporlar
+mno_resume_travelling|Yolculuğa devam et.
+menu_camp|Kamp
+mno_camp_wait_here|Dinlen.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|Muharabe bitti. {s1} Adamların {reg5} düşman öldürdü. {reg6} adam kaybettin. Kendi başına {reg7} düşman öldürdün.
+menu_town_trade|You head towards the camp's trading place.
+mno_trade_with_arms_merchant|Trade with the arms merchant.
+mno_trade_with_armor_merchant|Trade with the tailor.
+mno_trade_with_horse_merchant|Trade with the horse merchant.
+mno_back_to_town_menu|Head back.
+menu_debug|Choose a scene
+mno_scene1|Vienna Bridge (sp vienna)
+mno_scene2|Austerlitz part 1 (sp sokolniz)
+mno_scene3|Austerlitz part 2 (sp auster)
+mno_scene4|Austerlitz part 3 (sp sokolniz2)
+mno_scene5|Dresden part 1 (sp dresden1)
+mno_scene6|Dresden part 2 (sp dresden2)
+mno_scene7|New Scene 1 (NON-PLAYABLE)
+mno_scene8|New Scene 2 (NON-PLAYABLE)
+mno_scene9|New Scene 3 (NON-PLAYABLE)
+mno_scene10|New Scene 4 (NON-PLAYABLE)
+menu_run_mission_dummy|debug screen
+menu_run_companion_dummy|debug screen
+menu_visit_camp_dummy|debug screen
+menu_go_briefing_dummy|debug screen
+menu_quit_dummy|debug screen

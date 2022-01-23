@@ -1,0 +1,45 @@
+﻿ui_character_window|전투 함성
+ui_start_tutorial|튜토리얼
+ui_start_a_new_game|싱글 플레이어
+ui_particle_systems|세밀한 입자 시스템
+ui_no_more_bolts|탄약이 없습니다...
+ui_you_are_not_carrying_any_bolts|탄약이 더 이상 없습니다.
+ui_cut|베기
+ui_pierce|찌르기
+ui_blunt|때리기
+ui_autoexpore|고 대비 색조 사용
+ui_use_melee_weapons_e_|근접 무기를 사용하라!
+ui_use_ranged_weapons_e_|원거리 무기를 사용하라!
+ui_order_button_use_melee_weapons|근접 무기 사용
+ui_order_button_use_ranged_weapons|원거리 무기 사용
+ui_order_button_weapon_usage_orders|사용 무기 명령
+ui_fire_at_my_command_e_|내 명령에 따라 발사하라!
+ui_fire_now_e_|사격!
+ui_order_button_fire_at_my_command|명령에 따라 발사
+ui_order_button_fire_now|사격
+ui_order_form_1_row|1열 구성
+ui_order_form_2_row|2열 구성
+ui_order_form_3_row|3열 구성
+ui_order_form_4_row|4열 구성
+ui_order_form_5_row|5열 구성
+ui_form_1_row_e_|1열 구성
+ui_form_2_row_e_|2열 구성
+ui_form_3_row_e_|3열 구성
+ui_form_4_row_e_|4열 구성
+ui_form_5_row_e_|5열 구성
+ui_order_7|명령 7
+ui_order_8|명령 8
+ui_all_fire_now_e_|전체 사격
+ui_left_fire_now_e_|좌측 대열 사격
+ui_middle_fire_now_e_|중앙 대열 사격
+ui_right_fire_now_e_|우측 대열 사격
+ui_order_button_all_fire_now|전원 사격
+ui_order_button_left_fire_now|좌측 대열 사격
+ui_order_button_middle_fire_now|중앙 대열 사격
+ui_order_button_right_fire_now|우측 대열 사격
+ui_crouch|앉기
+ui_change_accessories|추가 물품
+ui_archers|연대
+ui_group_2|연대
+ui_zoom|걷기 전환
+ui_party_window|항복 

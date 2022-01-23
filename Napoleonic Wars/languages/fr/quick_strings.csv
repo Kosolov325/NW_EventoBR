@@ -1,0 +1,130 @@
+qstr_Careful...|Careful...
+qstr_{reg3}|{reg3}
+qstr_0|0
+qstr__{s5}__{s6}_|({s5},  {s6})
+qstr___{reg43}__|( {reg43} )
+qstr_Action|Action
+qstr_Mount|Monter
+qstr_Attack_Type|Type d'attaque
+qstr_Stand_Ground|Restez ici
+qstr_Charge|Chargez
+qstr_Follow_Me|Suivez-moi
+qstr_Hold_This_Position|Gardez cette position
+qstr_Spread_Out|Déployez-vous 
+qstr_Stand_Closer|Resserez-vous 
+qstr_Fall_Back|Reculez
+qstr_Advance|Avancez
+qstr_Dismount|Démonter
+qstr_Fire_At_Will|Feu à volonté
+qstr_Hold_Your_Fire|Halte au feu
+qstr_Use_Blunt_Weapons|Utilisez des armes de mélée
+qstr_Use_Any_Weapon|Utilisez n'importe-quelle arme
+qstr_Ready|Prêt
+qstr_Wounded|Blessé
+qstr_Dead|Mort
+qstr_F4___Movement_Orders|F4 - Ordres de Mouvement^F5 - Ordres de Formation^F6 - Ordres de Tir
+qstr_F4___Hold_this_posit|F4 - Tenez cette position^F5 - Suivez-moi^F6 - Chargez^F7 - Avancez^F8 - Halte^F9 - Reculez^F10 - Retraite^F11 - Marchez^F12 - Courrez
+qstr_F4___Form_line^F5___|F4 - Formez une ligne^F5 - Formez une  colonne^F6 - Formez un carré^F7 - Formation escarmouche^F8 - Conversion à gauche^F9 - Conversion à gauche^F10 - Faites face
+qstr_F4___Hold_fire^F5___|F4 - Halte au feu^F5 - Feu à volonté^F6 - Feu en volée^F7 - Feu en position^F8 - Choisissez vos cibles
+qstr_0000|00,00
+qstr_Vienna|Vienne
+qstr_Austerlitz|Austerlitz
+qstr_Drezden|Dresde
+qstr_Quit|Quitter
+qstr_Go_to_the_Camp|Aller au camp
+qstr_Continue_Campaign|Continuer la campagne
+qstr_{reg21}{reg22}|{reg21},{reg22}
+qstr_Back|Revenir
+qstr_Visit_the_camp|Visiter le camp
+qstr_Companions|Compagnions
+qstr_Merchants|Marchands
+qstr_Skip|Passer
+qstr_Available_companions|compagnions valables
+qstr_Selected_companions|compagnions disponible
+qstr_Start_Mission|Commencer la Mission
+qstr_Choose_a_companion|Choisir un compagnion
+qstr_Battle_Results|Résultats de la Bataille
+qstr_Count|Compte
+qstr_Money|Argent
+qstr_Enemies_killed:|Enemis tués:
+qstr_{reg1}|{reg1}
+qstr_Personal_kills:|Tués personellement:
+qstr_Allies_lost:|Alliés perdus:
+qstr__{reg1}|-{reg1}
+qstr_Companions_lost:|Compagnions perdus:
+qstr_Totals:|Totaux:
+qstr_Retry|Re-essayer
+qstr_Done|Fait
+qstr_Open_ze_Treasure|Ouvrir le coffre
+qstr_View_Caimpaign_Map|Voir la carte de Campagne
+qstr_Use|Use{***}
+qstr_Use_Prop|Utiliser l'objet
+qstr_Unknown_command_issu|Unknown command issued!
+qstr_{s7}_opened_the_gate|{s7} a ouvert la porte
+qstr_{s7}_closed_the_gate|{s7} a fermé la porte
+qstr_Centre_Inf|Centre Inf
+qstr_Lflank_Inf|FlancD Inf
+qstr_Rflank_Inf|FlancG Inf
+qstr_Centre_Cav|Centre Cav
+qstr_Lflank_Cav|FlancG Cav
+qstr_Rflank_Cav|FlancD Cav
+qstr_Holding|Retenez 
+qstr_Following|Suivez
+qstr_Charging|Chargez
+qstr_Advancing|Avancez
+qstr_Falling_Back|Reculez
+qstr_Standing_Closer|Reserrez
+qstr_Spreading_Out|Déployez
+qstr_Standing|Attendez
+qstr_N/A|N/A
+qstr_Free|Libre
+qstr_Any_Weapon|N'importe-quelle arme
+qstr_Blunt_Weapons|Arme contendante
+qstr_[SERVER]:_{s4}|[SERVER]: {s4}
+qstr_vFloraWindStrength|vFloraWindStrength
+qstr_vWaterWindStrength|vWaterWindStrength
+qstr_THISISAPLACEHOLDERST|THISISAPLACEHOLDERSTRING
+qstr_{s32}_hold_this_posi|{s32}, Tenez cette position!
+qstr_{s32}_follow_me!|{s32}, Suivez-moi!
+qstr_{s32}_charge!|{s32}, Chargez!
+qstr_{s32}_advance!|{s32}, Avancez!
+qstr_{s32}_halt!|{s32}, Halte!
+qstr_{s32}_fall_back!|{s32}, Reculez!
+qstr_{s32}_retreat!|{s32}, Retraite!
+qstr_{s32}_slow_pace!|{s32}, Marchez au pas!
+qstr_{s32}_quick_pace!|{s32}, Marchez vite!
+qstr_{s32}_form_line!|{s32}, Formez une ligne!
+qstr_{s32}_form_column!|{s32}, Formez une colonne!
+qstr_{s32}_form_square!|{s32}, Formez un carré!
+qstr_{s32}_skirmish_order|{s32}, Formation escarmouche!
+qstr_{s32}_wheel_left!|{s32}, Conversion gauche!
+qstr_{s32}_wheel_right!|{s32}, Conversion droite!
+qstr_{s32}_adjust_formati|{s32}, Faites face!
+qstr_Leave?|Quitter?
+qstr_SERVER|SERVEUR
+qstr_Clear_the_bridge_of_|Nettoyez le pont de ces caisses de poudre pendant que les maréchaux négocient.^Faites bien attention à ne pas vous faire repérer par les gardes.
+qstr_The_bridge_has_been_|Le pont a bien été nettoyé, bien joué!^Maintenant, cachez vous sur l'autre rive, le coté Autrichien de la rivière et attendez que les négociations finissent.
+qstr_You_ve_been_discover|Vous avez été découvert ! Tuez vite les gardes avant qu'ils ne donnent l'alerte !
+qstr_Lannes:__..._Yes_tha|Lannes: '... Oui, c'est bien vrai, l'armistice a déjà été signée. La guerre est finie.'
+qstr_Austrian_Officer:__U|Officier Autrichien: 'Ohh.. d'accord... Hé ! Qu'est-ce que c'est que ça ? Les caisses de poudres sur le pont ont disparues ! Nous avons été manipulés ! Attaquez !'
+qstr_French_Soldier:__Loo|Soldat Français: 'Regardez, un combat ! Nous devons aider nos frères. Vite, traversons ce pont !'
+qstr_Artillery_Captain:__|Capitaine d'Artillerie: 'Les Français essayent de traverser le pont. Messieurs, aux armes !'
+qstr_Prevent_the_Austrian|Empêchez l'artillerie Autrichienne de tirer sur les français qui traversent le pont.
+qstr_The_Austrians_are_la|Les Autrichiens lancent une contre-attaque !
+qstr_Fight_back_the_Austr|Repoussez la contre-attaque Autrichienne !
+qstr_The_brigde_is_now_un|Le pont est sous contrôle français. Bien joué !
+qstr_Capture_the_village_|Capturez le village de Sokolnitz aux Russes !
+qstr_You_have_captured_th|Vous avez capturé le village, Très bon travail !
+qstr_Capture_the_village_o|Capturez le village de Sokolnitz à l'armée Russe !
+qstr_Hold_the_village_at_|Tenez le village à tout prix face aux contre-attaques Russes.
+qstr_Go_to_meet_the_Emper|Allez rencontrer l'Empereur.
+qstr_Recapture_the_city_w|Reprennez les murs de la ville aux Russes.
+qstr_Help_your_allies_dri|Aidez vos alliés a repoussez les assauts Russes.
+qstr_Defend_the_gate_agai|Defendez la porte face aux Russes.
+qstr_Sally_out_and_rout_t|Jaillissez des murs et mettez en déroute les armées du Tsar.
+qstr_The_assault_has_been|L'assaut a été stoppé ! Vive la France !
+qstr_Catch_the_Austrian_c|Attrapez le commandant Autrichien avant qu'il n'atteigne les carrés d'infanterie !
+qstr_Break_the_Austrian_s|Break the Austrian squares by either killing them or making them all rout.
+qstr_Attack_the_lines_gua|Attaquez les lignes qui gardent le village et détruisez-les ou mettez-les en déroute.
+qstr_Vive_l_Empereur!_La_|Vive l'Empereur! La Victoire est à Nous!
+qstr_Talk_to_the_messenge|Parlez au messager pour votre prochaine mission.

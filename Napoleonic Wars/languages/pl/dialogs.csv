@@ -1,0 +1,26 @@
+dlga_start:companion_talk|Miło znowu {Panią/Pana} spotkać! W czym mogę pomóc?
+dlga_companion_talk:companion_talk_equipment|Pokaż mi wyposażenie.
+dlga_companion_talk_equipment:companion_talk_end|Oczywiście. Oto i ono.
+dlga_companion_talk_end:companion_talk|Coś jeszcze?
+dlga_companion_talk:companion_talk_opinion|Co myślisz o moim dowództwie?
+dlga_companion_talk_opinion:companion_talk|Stoi na wysokim poziomie, {Sir/Madam}!
+dlga_companion_talk:close_window|Nie mam jeszcze wyrobionego zdania.
+dlga_start:town_merchant_talk|Dzień dobry. Czym mogę służyć?
+dlga_town_merchant_talk:trade_requested_weapons|Pragnę zakupić oręż. Co masz na stanie?
+dlga_town_merchant_talk:trade_requested_armor|Poszukuję mundurów. Pokaż, co masz.
+dlga_town_merchant_talk:trade_requested_horse|Myślę o zakupie wierzchowca.
+dlga_trade_requested_weapons:merchant_trade|Ależ oczywiście, {Sir/Madam}. Nigdzie nie znajdziesz lepszych towarów niż moje.
+dlga_trade_requested_armor:merchant_trade|Naturalnie, {Sir/Madam}. W calej armii nie znajdziesz lepiej skrojonych mundurów.
+dlga_trade_requested_horse:merchant_trade|Masz świetne oko do koni, {Sir/Madam}. Wierzchowców o gorętszej krwi nie znajdziesz nigdzie.
+dlga_merchant_trade:town_merchant_talk|Coś jeszcze?
+dlga_town_merchant_talk:close_window|Do zobaczenia.
+dlga_start:camp_dweller_talk|{s14} zgłasza się na służbę, {Sir/Madam}!
+dlga_start:camp_dweller_talk.1|Dzień dobry, {Sir/Madam}. Pragniesz o czymś porozmawiać?
+dlga_start:camp_dweller_talk.2|Przynoszę rozkazy dotyczące kolejnej misji. Czy chcesz się znimi zapoznać, {Sir/Madam}?
+dlga_start:camp_dweller_talk.3|To zaszczyt poznać Cię, {Sir/Madam}. Czym mogę służyć?
+dlga_camp_dweller_talk:close_window|Obecnie niczym. 
+dlga_camp_dweller_talk:close_window.1|W tej chwili - niczym. Miłego wieczoru.
+dlga_camp_dweller_talk:close_window.2|Wydaj rozkazy! Wyruszę niezwłocznie.
+dlga_camp_dweller_talk:close_window.3|Nie jestem jeszcze got{ów/owa}.
+dlga_camp_dweller_talk:close_window.4|Nieważne.
+dlga_start:close_window|Błąd dialogu. Nie odnaleziono kwestii.

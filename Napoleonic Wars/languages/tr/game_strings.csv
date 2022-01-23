@@ -1,0 +1,1228 @@
+str_no_string|NO STRING!
+str_empty_string| 
+str_yes|Evet.
+str_no|Hayır.
+str_blank_string| 
+str_s50_and_s51|{s50} ve {s51}
+str_s52_and_s51|{s52} ve {s51}
+str_msg_battle_won|Savaşı kazandın! Çıkmak için Tab tuşuna bas!
+str_charge|Hücum
+str_color|Renk
+str_hold_fire|Ateşi kes
+str_blunt_hold_fire|Küt / Ateşi kes
+str_finished|(Bitti)
+str_delivered_damage|{reg60} hasar verildi.
+str_archery_target_hit|Mesafe: {reg61} metre. Skor: {reg60}
+str_cant_use_inventory_now|Envantere şu anda giriş yapılamaz.
+str_give_up_fight|Çarpışmaktan vazgeç?
+str_battle_won|Savaşı kazandın!
+str_battle_lost|Savaşı kaybettin!
+str_kingdom_1_adjective|Birleşik Krallık
+str_kingdom_2_adjective|Fransız İmparatorluğu
+str_kingdom_3_adjective|Prusya Krallığı
+str_kingdom_4_adjective|Rus İmparatorluğu
+str_kingdom_5_adjective|Avusturya
+str_kingdom_6_adjective|Sarranid
+str_credits_1|Mount&Blade Warband: Napoleonic Wars Copyright 2008-2012 Taleworlds Entertainment
+str_credits_2|Flying Squirrel Entertainment
+str_credits_3|Game design:^Maxim 'Vincenzo' Munnig Schmidt^Magnus 'Beaver' Adolfsson^Nico 'Olafson' Kamps^Vladimir 'Admiral' Nazarenko
+str_credits_4|Programming:^Maxim Munnig Schmidt^Magnus Adolfsson
+str_credits_5|Artists:^Nico Kamps^Vladimir Nazarenko
+str_credits_6|Taleworlds Entertainment
+str_credits_7|Founder/CEO:^Armagan Yavuz
+str_credits_8|Lead Programming:^Cem Cimenbicer^Serdar Kocdemir^^Programmers:^Ozan Gumus^Mustafa Onder^Abdullah Gorkem Gencay
+str_credits_9|Lead Artist:^Ozgur Saral^^Artists:^Mustafa Ozturk^Umit Singil^Yigit Savtur^Pinar Cekic^Gokalp Dogan^Oguz Tunceli
+str_credits_10|Concept Art:^Ganbat Badamkhand
+str_credits_11|Director Of Communications:^Ali Erkin
+str_credits_12|Voice acting^^Rejenorst Media www.rejenorst.com^^Lead Project Manager / Sound Editor:^Tassilo 'Rejenorst' Egloffstein^^Regional Project Manager Russia:^Nick Redfield^^Regional Project Manager United Kingdom:^Joseph Bracken^^Voice Talents:^Evgen 'Chur' Kucherov - Ukrainian/Russian Voice^Vladimir Kozubsky - Russian Voice^Rebolj Herve - French Voice^Jeremy Faucomprez - French Voice^Tassilo Egloffstein - German Voice / Combat voices^Joseph Bracken - English Voice / Combat voices^Charlie Bloomer - English Voice^Evi Stender - German Voice^Olena Vanina - Ukrainian / Russian Voice^Georgina Woodford - English / French Voice^Samuel Port - Combat voices^^Studio technical support UK:^Rich Coomber^Krzysztof Popiel^^^Additonal Sounds^^GC Sounddesign www.svengerlach.de^^Soundesign:^Sven Gerlach^^^Instrumental Music^^Snare Drum:^Mark Beecher^^Fife:^Ed Boyle^^Trumpet (Bugle):^Christopher Tolomeo^^Bagpipes:^Kenny Sutherland^^Recorded at Catacombs Studio, Broomall, PA - Mark Beecher; Engineer^and BradySound Studios, Woodlyn, PA - Greg Brady & Mark Sarro; Engineers.^All music based on ancient manuscripts of the Napoleonic Era, compiled & ^arranged by Mark Beecher. ^^Additional Bagpipes:^Charlie Hunter^^^Music^^Apollo Symphony Orchestra www.classicalmusicroyaltyfree.com^Wolfgang Amadeus Mozart - Great mass in C minor - Gloria.^Richard Wagner - Ritt der Valkuren.^Antonin Dvorak - New world symphony (4th movement)^Ludwig von Beethoven - Symphony No. 5 (1st movement)^Georges Bizet - Toreador�s Song (from Carmen)^^Neosounds.com^Ludwig von Beethoven: Symphony no.9 - 4th Movement; By the New Age Symphony Orchestra^^sounddogs.com^Johann Strauss Sr. - Radetzky March; By Bartok Consulting (BMI)^Pyotr llyrich Tchaikovsky - Overture 1812; By Bartok Consulting (BMI) ^Franz Schubert - Marche Militaire; By Quimus Music^^Musicloops.com^Ludwig von Beethoven - Fur Elise; By Bobby Cole^Johann Sebastian Bach - Cello Suite No. 1; By Tim Brown ^^Trackline.com^Edward Elgar - Pomp and Circumstance March No. 1^George Frideric Handel - The Messiah (Hallelujah Chorus) ^George Frideric Handel - Queen of Sheba^Antonio Vivaldi - Four Seasons: Summer (3rd movement)^^William Boyce - Sinfonia No. 1^^Stockmusic.com^Antonio Vivaldi - Four Seasons: Summer (1st + 2nd movement)^Antonio Vivaldi - Four Seasons: Spring (1st + 2nd movement)^Antonio Vivaldi - Four Seasons: Winter (1st + 3rd movement)^Antonio Vivaldi - Four Seasons: Autimn (1st movement)^Antonio Vivaldi - Concerto No. 10 allegro 2^Antonio Vivaldi - Concerto flute violin continuo allegro^Antonio Vivaldi - Concerto grosso No. 8 allegro^Mozart - Eine Kleine Nachtmusik^Brahms - Hungarian Dance No. 5^Rimsky-Korsakov - The Flight of the Bumble Bee ^Mendelssohn - A Wedding March Recessional^Johann Sebastian Bach - Concerto for Two Violins in D Minor^Johann Sebastian Bach - Gavotte ^Johann Sebastian Bach - Orchestral Suite No. 3^Strauss - Blue Danube Waltz^Boccherini - Minuet ^Georges Bizet - Carmen Suite No. 1, Aragonaise ^Chopin - Polonaise in A Major Op 40 N1, Military ^Geminiani - Concerto Grosso ^Grieg - Peer Gynt Overture ^Grieg - Peer Gynt Suite No 1 Op 46: In the Hall of the Mountain King^Hummel - Rondo ^Liszt - Les Preludes ^^Incompetech.com; Performed by Kevin MacLeod^Licensed under Creative Commons 'Attribution 3.0'^Ludwig von Beethoven - Laendler in C minor^Ludwig von Beethoven - Ecossaise in E-flat^Johann Sebastian Bach - Toccata and Fugue^Johann Sebastian Bach - Prelude in C^Johann Sebastian Bach - Chromatic Fantasia ^Johann Sebastian Bach - Chromatic Fugue ^Saint Saens - Danse Macabre^Richard Strauss - Also Sprach Zarathustra^William tell - Ranz des Vaches^Wagner - Lohengrin ^Pyotr llyrich Tchaikovsky - Waltz Op. 40^Johann Sebastian Bach - Brandenburg concerto no.^Pachelbel - Canon^Erik Satie - Gymnopedie No. 3^Agnus Dei ^Schmetterling^Tiny Fugue^Lift Motif^^^Contributions:^Mika'il Yazbeck - Associate Producer^Volodymyr 'Yamabushi' Hamardiuk^Andrew 'Refleax' Farrugia^Julian 'Rycon' Farrugia^Sebastian 'Donald MacDonald' Melzer^Mark 'Spunned' Echers^David 'Fahausi/Kabs' Kappelhoff^Ralf 'Fortune' van Daal^Christian 'Condoz' Gruber^Aitor 'Leberecht' Jim�nez^Simon 'Finguin' B.C^Lucas 'Nexus' Andrieu^Valentin 'Vavas' Provost^'CKtheFat'^^^Special Thanks to:^Alexis Cabaret www.mont-saint-jean.com^Andrew 'Refleax' Farrugia^Asger 'Deafboy' Gronhoj^Christian Drozdowski^Daniel Papen^David Liuzzo - Prussian Eagle^Jeroen van Kalkeren^Mark 'Spunned' Echers^Mika'il Yazbeck^Peter 'Biteme' Hyder^'Praetorian'^'Psiphoon'^'Shredzorz'^'Sodacan'^Tassilo 'Rejenorst' Egloffstein^Marc 'Macs899' Shaw^^^Community maps by:^'Gokiller'^Teemu 'Comrade Temuzu' Hepola^'KArantukki'^Levi 'Disgrntld' Wiseman^'Ghost'^'CKtheFat'^S.Santema 'Immor'^'BigMac'^Marc 'Aldemar' Sommerhoff^Martin 'Friedrich' Kieper ^Sergiu 'Nylas' Vataman^Petter Kristian 'Vikestad' Vikestad^Lewis 'Nano' Thornton^Ben 'Jebus' Durston^Jordan 'Jay One' Barnes^Jamel Donga-As 'Angel' Angel^Carl-Johan 'Leaf' Lofgren^Daan 'Chequered' Ruiter^Benjam
+str_credits_13|Paradox Interactive^^CEO:^Fredrik Wester^^CFO:^Andras Vajlok^^CAO:^Lena Blomberg^^EVP Development:^Johan Andersson^^EVP Sales:^Reena M Miranda^^EVP Publishing:^Susana Meza^^Executive Producer:^Mattias Lilja^^Senior Producer:^Gordon Van Dyke^^Producers:^Shams Jorjani^Jorgen Bj�rklund^Staffan Berglen^^DLC Producer:^Jacob Munthe^^QA Producer:^Erika S. Kling^^
+str_credits_14|PR Manager:^Boel Bermann^^Marketing Manager:^Daniela Sjunnesson^^Product & Event Manager:^Jeanette Bauer^^Sales Associate:^Andrew Ciesla^Jason Ross^Don Louie^^Finance & Accounting:^Emilia Hanssen^^Marketing assets:^Veronica Gunlycke^2Coats Creations^^Localization:^S&H Entertainment^^Packaging & Manual layout:^Retrographics^^Packshots:^Martin Doersam^^Thanks to all our partners� worldwide, in particular long-term partners^and last, but not least, a special thanks to all forum members,^operation partners and supporters, who are integral for our success.
+str_credits_15|Unused
+str_mp_ambush|Pusu (Gündüz)
+str_mp_ambush_fog|Pusu (Sis)
+str_mp_arabian_harbour|Arap limanı (Gündüz)
+str_mp_arabian_harbour_night|Arap limanı (Gece)
+str_mp_arabian_village|Arap köyü (Gündüz)
+str_mp_arabian_village_morning|Arap köyü (Sabah)
+str_mp_arabian_village_conq|Arap köyü (Gündüz)
+str_mp_arabian_village_conq_morning|Arap köyü (Sabah)
+str_mp_ardennes|Ardennes (Kar Yağışlı)
+str_mp_ardennes_morning|Ardennes (Sabah)
+str_mp_avignon|Avinyon (Gündüz)
+str_mp_avignon_morning|Avinyon (Gece)
+str_mp_bavarian_river|Bavyera Nehir (Gündüz)
+str_mp_bavarian_river_cloudy|Bavyera Nehir (Bulutlu)
+str_mp_beach|Plaj (Gündüz)
+str_mp_beach_morning|Plaj (Gece)
+str_mp_borodino|Borodino (Gündüz)
+str_mp_borodino_morn|Borodino (Gece)
+str_mp_champs_elysees|Champs-Elysees (Gündüz)
+str_mp_champs_elysees_rain|Champs-Elysees (Yağmurlu)
+str_mp_charge_to_the_rhine|için Ren şarj (Gündüz)
+str_mp_charge_to_the_rhine_cloudy|için Ren şarj (Bulutlu)
+str_mp_citadelle_napoleon|Citadelle Napoleon (Gündüz)
+str_mp_citadelle_napoleon_morning|Citadelle Napoleon (Gece)
+str_mp_columbia_hill_farm|Columbia Çifliği (Gündüz)
+str_mp_columbia_farm_morning|Columbia Çifliği (Sabah)
+str_mp_countryside|Countryside (Gündüz)
+str_mp_countryside_fog|Countryside (Sis)
+str_mp_dust|Toz (Gündüz)
+str_mp_dust_morning|Toz (Sabah)
+str_mp_european_city_summer|Avrupa Şehri (Yaz)
+str_mp_european_city_winter|Avrupa Şehri (Kış)
+str_mp_floodplain|Flooplain (Gündüz)
+str_mp_floodplain_storm|Floodplain (Fırtınalı)
+str_mp_forest_pallisade|Forest Pallisade (Gündüz)
+str_mp_forest_pallisade_fog|Forest Pallisade (Sis)
+str_mp_fort_al_hafya|Al Hafya Kalesi (Gündüz)
+str_mp_fort_al_hafya_night|Al Hafya Kalesi (Gece)
+str_mp_fort_bashir|Bashir Kalesi (Gündüz)
+str_mp_fort_bashir_morning|Bashir Kalesi (Sabah)
+str_mp_fort_beaver|Fausbourg Kalesi (Gündüz)
+str_mp_fort_beaver_morning|Fausbourg Kalesi (Sabah)
+str_mp_fort_boyd|Boyd Kalesi (Gündüz)
+str_mp_fort_boyd_raining|Boyd Kalesi (Yağmurlu)
+str_mp_fort_brochet|Brochet Kalesi (Gündüz)
+str_mp_fort_brochet_raining|Brochet Kalesi (Yağmurlu)
+str_mp_fort_de_chartres|Chartres Kalesi (Gündüz)
+str_mp_fort_de_chartres_raining|Chartres Kalesi (Yağmurlu)
+str_mp_fort_fleetwood|Fleetwood Kalesi (Sabah)
+str_mp_fort_fleetwood_storm|Fleetwood Kalesi (Fırtınalı)
+str_mp_fort_george|Fort George (Gündüz)
+str_mp_fort_george_raining|Fort George (Yağmurlu)
+str_mp_fort_hohenfels|Hohenfels Kalesi (Gündüz)
+str_mp_fort_hohenfels_night|Hohenfels Kalesi (Gece)
+str_mp_fort_lyon|Lyon Kalesi (Gündüz)
+str_mp_fort_lyon_night|Lyon Kalesi (Gece)
+str_mp_fort_mackinaw|Mackinaw Kalesi (Gündüz)
+str_mp_fort_mackinaw_raining|Mackinaw Kalesi (Raining)
+str_mp_fort_nylas|Nylas Kalesi (Day)
+str_mp_fort_nylas_raining|Nylas Kalesi (Raining)
+str_mp_fort_refleax|Willsbridge Kalesi (Gündüz)
+str_mp_fort_refleax_night|Willsbridge Kalesi (Gece)
+str_mp_fort_vincey|Whittington Kalesi (Gündüz)
+str_mp_fort_vincey_storm|Whittington Kalesi (Fırtınalı)
+str_mp_french_farm|Fransız çiftliği (Gündüz)
+str_mp_french_farm_storm|Fransız çiftliği (Fırtınalı)
+str_mp_german_village|Alman köyü (Sabah)
+str_mp_german_village_rain|Alman köyü (Yağmurlu)
+str_mp_hougoumont|Hougoumont (Gündüz)
+str_mp_hougoumont_night|Hougoumont (Gece)
+str_mp_hungarian_plains|Macar Ovası (Gündüz)
+str_mp_hungarian_plains_cloud|Macar Ovası (Bulutlu)
+str_mp_theisland|The Island (Gündüz)
+str_mp_la_haye_sainte|La Haye Sainte (Gündüz)
+str_mp_la_haye_sainte_night|La Haye Sainte (Gece)
+str_mp_landshut|Landshut (Gündüz)
+str_mp_landshut_night|Landshut (Gece)
+str_mp_minden|Minden (Gündüz)
+str_mp_minden_night|Minden (Sabah)
+str_mp_naval|Naval Battle (Gündüz)
+str_mp_oaksfield_day|Oaksfield (Gündüz)
+str_mp_oaksfield_storm|Oaksfield (Fırtına)
+str_mp_outlaws_den|Outlaw's Den (Gündüz)
+str_mp_outlaws_den_night|Outlaw's Den (Gece)
+str_mp_quatre_bras|Quatre Bras (Gündüz)
+str_mp_quatre_bras_night|Quatre Bras (Gece)
+str_mp_river_crossing|Nehir Geçidi (Gündüz)
+str_mp_river_crossing_morning|Nehir Geçidi (Sabah)
+str_mp_roxburgh|Roxburgh (Gündüz)
+str_mp_roxburgh_raining|Roxburgh (Yağmurlu)
+str_mp_russian_river_day|Rusya nehir (Gündüz)
+str_mp_russian_river_cloudy|Rusya nehir (Bulutlu)
+str_mp_russian_village|Rus Köyü (Kar Yağışlı)
+str_mp_russian_village_fog|Rus Köyü (Sis)
+str_mp_russian_village_conq|Rus Köyü (Kar Yağışlı)
+str_mp_russian_village_conq_night|Rus Köyü (Gece)
+str_mp_saints_isle|Saint's Isle (Gündüz)
+str_mp_saints_isle_rain|Saint's Isle (Yağmurlu)
+str_mp_schemmerbach|Schemmerbach (Gündüz)
+str_mp_schemmerbach_storm|Schemmerbach (Fırtına)
+str_mp_siege_of_toulon|Toulon kuşatma (Gündüz)
+str_mp_siege_of_toulon_night|Toulon kuşatma (Gece)
+str_mp_sjotofta|Sjotofta (Gündüz)
+str_mp_sjotofta_night|Sjotofta (Gece)
+str_mp_slovenian_village|Slovenya Köyü (Gündüz)
+str_mp_slovenian_village_raining|Slovenya Köyü (Yağmurlu)
+str_mp_spanish_farm|İspanyol Çiftliği (Gündüz)
+str_mp_spanish_farm_rain|İspanyol Çiftliği (Yağmurlu)
+str_mp_spanish_mountain_pass|İspanyol Dağ Geçidi (Gündüz)
+str_mp_spanish_mountain_pass_evening|İspanyol Dağ Geçidi (Akşam)
+str_mp_spanish_village|İspanyol Köyü (Gündüz)
+str_mp_spanish_village_evening|İspanyol Köyü (Akşam)
+str_mp_strangefields|Strangefields (Sisli)
+str_mp_strangefields_storm|Strangefields (Fırtınalı)
+str_mp_swamp|Siegburger Bataklığı (Sisli)
+str_mp_venice|Venice (Gündüz)
+str_mp_venice_morning|Venice (Sabah)
+str_mp_walloon_farm|Wallonya Çiftliği (Gündüz)
+str_mp_walloon_farm_night|Wallonya Çiftliği (Gece)
+str_mp_testing_map|Test haritası
+str_random_multi_plain_medium|Rastgele Ova (Orta)
+str_random_multi_plain_large|Rastgele Ova (Geniş)
+str_random_multi_plain_medium_rain|Rastgele Ova (Orta) Yağmurlu
+str_random_multi_plain_large_rain|Rastgele Ova (Geniş) Yağmurlu
+str_random_multi_steppe_medium|Rastgele Bozkır (Orta) 
+str_random_multi_steppe_large|Rastgele Bozkır (Geniş) 
+str_random_multi_steppe_forest_medium|Rastgele Bozkır Ormanlık (Orta) 
+str_random_multi_steppe_forest_large|Rastgele Bozkır Ormanlık (Geniş) 
+str_random_multi_snow_medium|Rastgele Karlı (Orta)
+str_random_multi_snow_medium_snow|Rastgele Karlı (Orta) Kar Yağışlı
+str_random_multi_snow_large|Rastgele Karlı (Geniş)
+str_random_multi_snow_large_snow|Rastgele Karlı (Geniş) Kar Yağışlı
+str_random_multi_snow_forest_medium|Rastgele Karlı Orman (Orta)
+str_random_multi_snow_forest_medium_snow|Rastgele Karlı Orman (Orta) Kar Yağışlı
+str_random_multi_snow_forest_large|Rastgele Karlı Orman (Geniş)
+str_random_multi_snow_forest_large_snow|Rastgele Karlı Orman (Geniş) Kar Yağışlı
+str_random_multi_desert_medium|Rastgele Çöl (Orta)
+str_random_multi_desert_large|Rastgele Çöl (Geniş)
+str_random_multi_desert_forest_medium|Rastgele Çöl Ormanlık (Orta)
+str_random_multi_desert_forest_large|Rastgele Çöl Ormanlık (Geniş)
+str_random_multi_forest_medium|Rastgele Orman (Orta)
+str_random_multi_forest_medium_rain|Rastgele Orman (Orta) Yağmurlu
+str_random_multi_forest_large|Rastgele Orman (Geniş)
+str_random_multi_forest_large_rain|Rastgele Orman (Geniş) Yağmurlu
+str_mp_custom_map_1|custom map 1
+str_mp_custom_map_2|custom map 2
+str_mp_custom_map_3|custom map 3
+str_mp_custom_map_4|custom map 4
+str_mp_custom_map_5|custom map 5
+str_mp_custom_map_6|custom map 6
+str_mp_custom_map_7|custom map 7
+str_mp_custom_map_8|custom map 8
+str_mp_custom_map_9|custom map 9
+str_mp_custom_map_10|custom map 10
+str_mp_custom_map_11|custom map 11
+str_mp_custom_map_12|custom map 12
+str_mp_custom_map_13|custom map 13
+str_mp_custom_map_14|custom map 14
+str_mp_custom_map_15|custom map 15
+str_mp_custom_map_16|custom map 16
+str_mp_custom_map_17|custom map 17
+str_mp_custom_map_18|custom map 18
+str_mp_custom_map_19|custom map 19
+str_mp_custom_map_20|custom map 20
+str_mp_custom_map_21|custom map 21
+str_mp_custom_map_22|custom map 22
+str_mp_custom_map_23|custom map 23
+str_mp_custom_map_24|custom map 24
+str_mp_custom_map_25|custom map 25
+str_mp_custom_map_26|custom map 26
+str_mp_custom_map_27|custom map 27
+str_mp_custom_map_28|custom map 28
+str_mp_custom_map_29|custom map 29
+str_mp_custom_map_30|custom map 30
+str_mp_custom_map_31|custom map 31
+str_mp_custom_map_32|custom map 32
+str_mp_custom_map_33|custom map 33
+str_mp_custom_map_34|custom map 34
+str_mp_custom_map_35|custom map 35
+str_mp_custom_map_36|custom map 36
+str_mp_custom_map_37|custom map 37
+str_mp_custom_map_38|custom map 38
+str_mp_custom_map_39|custom map 39
+str_mp_custom_map_40|custom map 40
+str_mp_custom_map_41|custom map 41
+str_mp_custom_map_42|custom map 42
+str_mp_custom_map_43|custom map 43
+str_mp_custom_map_44|custom map 44
+str_mp_custom_map_45|custom map 45
+str_mp_custom_map_46|custom map 46
+str_mp_custom_map_47|custom map 47
+str_mp_custom_map_48|custom map 48
+str_mp_custom_map_49|custom map 49
+str_mp_custom_map_50|custom map 50
+str_mp_custom_map_51|custom map 51
+str_mp_custom_map_52|custom map 52
+str_mp_custom_map_53|custom map 53
+str_mp_custom_map_54|custom map 54
+str_mp_custom_map_55|custom map 55
+str_mp_custom_map_56|custom map 56
+str_mp_custom_map_57|custom map 57
+str_mp_custom_map_58|custom map 58
+str_mp_custom_map_59|custom map 59
+str_mp_custom_map_60|custom map 60
+str_mp_custom_map_61|custom map 61
+str_mp_custom_map_62|custom map 62
+str_mp_custom_map_63|custom map 63
+str_mp_custom_map_64|custom map 64
+str_mp_custom_map_65|custom map 65
+str_mp_custom_map_66|custom map 66
+str_mp_custom_map_67|custom map 67
+str_mp_custom_map_68|custom map 68
+str_mp_custom_map_69|custom map 69
+str_mp_custom_map_70|custom map 70
+str_mp_custom_map_71|custom map 71
+str_mp_custom_map_72|custom map 72
+str_mp_custom_map_73|custom map 73
+str_mp_custom_map_74|custom map 74
+str_mp_custom_map_75|custom map 75
+str_mp_custom_map_76|custom map 76
+str_mp_custom_map_77|custom map 77
+str_mp_custom_map_78|custom map 78
+str_mp_custom_map_79|custom map 79
+str_mp_custom_map_80|custom map 80
+str_mp_custom_map_81|custom map 81
+str_mp_custom_map_82|custom map 82
+str_mp_custom_map_83|custom map 83
+str_mp_custom_map_84|custom map 84
+str_mp_custom_map_85|custom map 85
+str_mp_custom_map_86|custom map 86
+str_mp_custom_map_87|custom map 87
+str_mp_custom_map_88|custom map 88
+str_mp_custom_map_89|custom map 89
+str_mp_custom_map_90|custom map 90
+str_mp_custom_map_91|custom map 91
+str_mp_custom_map_92|custom map 92
+str_mp_custom_map_93|custom map 93
+str_mp_custom_map_94|custom map 94
+str_mp_custom_map_95|custom map 95
+str_mp_custom_map_96|custom map 96
+str_mp_custom_map_97|custom map 97
+str_mp_custom_map_98|custom map 98
+str_mp_custom_map_99|custom map 99
+str_mp_custom_map_100|custom map 100
+str_multi_scene_end|multi scene end
+str_multi_game_type_1|Ölüm-kalım Karşılaşması
+str_multi_game_type_2|Takım Karşılaşması
+str_multi_game_type_3|Çarpışma!
+str_multi_game_type_5|Bayrak Kapmaca!
+str_multi_game_type_6|Fetih!
+str_multi_game_type_7|Kuşatma
+str_multi_game_type_8|Düello
+str_multi_game_type_9|Komutanlar Savaşı
+str_multi_game_type_10|King of the Hill
+str_multi_game_type_12|Scene Editing
+str_multi_game_types_end|multi game types end
+str_multi_game_type_11|Sahne Düzenleme
+str_poll_kick_player_s1_by_s0|{s0}, {s1} oyuncusunu atmak için oylama başlattı.
+str_poll_ban_player_s1_by_s0|{s0}, {s1} oyuncusunu yasaklamak için oylama başlattı.
+str_poll_change_map_to_s1_by_s0|{s0}, Haritayı {s1} olarak değiştirmek için oylama başlattı.
+str_poll_change_map_to_s1_and_factions_to_s2_and_s3_by_s0|{s0}, Haritayı {s1}, ülkeleri ise {s2} ve {s3} olarak değiştirmek için oylama başlattı.
+str_poll_change_number_of_bots_to_reg0_and_reg1_by_s0|{s0} bot sayılarını {reg0} ve {reg1} olarak değiştirebilmek için oylama başlattı.
+str_poll_kick_player|{s0} oyuncusunu atmak için oy ver: 1 = Kabul et, 2 = Reddet
+str_poll_ban_player|{s0} oyuncusunu yasaklatmak için oy ver: 1 = Kabul et, 2 = Reddet
+str_poll_change_map|Haritayı {s0} olarak değiştirmek için oy ver: 1 = Kabul et, 2 = Reddet
+str_poll_change_map_with_faction|Haritayı {s0}, ülkeleri ise {s1} ve {s2} olarak değiştirmek için oy ver: 1 = Kabul et, 2 = Reddet
+str_poll_change_number_of_bots|Bot sayılarını {reg0} olarak for {s0} and {reg1} for {s1}: 1 = Kabul et, 2 = Reddet
+str_poll_time_left|({reg0} saniye kaldı.)
+str_poll_result_yes|Oylama çoğunluk onayıyla kaul edildi.
+str_poll_result_no|Oylama çoğunluk oyuyla reddedildi.
+str_server_name|Sunucu adı:
+str_game_password|Oyun şifresi:
+str_map|Harita:
+str_game_type|Oyun Türü:
+str_max_number_of_players|Azami oyuncu sayısı:
+str_number_of_bots_in_team_reg1|Takım {reg1} bot sayısı:
+str_team_reg1_faction|Takım {reg1} ırkı:
+str_enable_valve_anti_cheat|“Valve Anti-cheat” etkinleştir (Steam hesabı gerektirir)
+str_allow_friendly_fire|Mesafeli dost ateşine izin ver
+str_allow_melee_friendly_fire|Yakın dost ateşine izin ver
+str_friendly_fire_damage_self_ratio|Kendine dost ateşi hasarı (%):
+str_friendly_fire_damage_friend_ratio|Dost kuvvete dost ateşi hasarı (%):
+str_spectator_camera|İzleyici kamerası
+str_control_block_direction|Blok yönünü kontrol et:
+str_map_time_limit|Harita zaman sınırı (dakika):
+str_round_time_limit|Tur zaman sınırı (saniye):
+str_players_take_control_of_a_bot_after_death|Ölünce bota geç:
+str_team_points_limit|Takım sayı sınırı:
+str_point_gained_from_flags|Bayrak için kazanılan takım puanı (%):
+str_point_gained_from_capturing_flag|Bayrak kazanma takım puanı:
+str_respawn_period|Canlanma süresi (saniye):
+str_add_to_official_game_servers_list|Resmi sunucu listesine ekle
+str_combat_speed|Savaş hızı:
+str_combat_speed_0|En yavaş
+str_combat_speed_1|Daha yavaş
+str_combat_speed_2|Orta
+str_combat_speed_3|Daha hızlı
+str_combat_speed_4|En hızlı
+str_off|Kapalı
+str_on|Açık
+str_defender_spawn_count_limit|Savunmacı canlanma sayısı:
+str_unlimited|Sınırsız
+str_automatic|Otomatik
+str_by_mouse_movement|Fare hareketi ile
+str_free|Serbest
+str_stick_to_any_player|Herhangi bir oyuncuya odaklan
+str_stick_to_team_members|Takım arkadaşlarına odaklan
+str_stick_to_team_members_view|Takım arkadaşı bakış açısına odaklan
+str_make_factions_voteable|Oylama ile ırk değiştirilebilsin
+str_make_kick_voteable|Oylama ile oyuncu atılabilsin
+str_make_ban_voteable|Oylama ile oyuncu yasaklanabilsin
+str_bots_upper_limit_for_votes|Oylama için bot sayı sınırı:
+str_make_maps_voteable|Oylama ile harita değiştirilebilsin
+str_valid_vote_ratio|Oylama kabul eşiği (%):
+str_auto_team_balance_limit|Oto-takım eşitleme eşiği (diff.):
+str_welcome_message|Karşılama mesajı:
+str_initial_gold_multiplier|Başlangıç altını (%):
+str_battle_earnings_multiplier|Savaş altın primi (%):
+str_round_earnings_multiplier|Tur altın primi (%):
+str_allow_player_banners|Bireysel sancaklara izin ver
+str_force_default_armor|En düşük zırha zorla
+str_respawning_in_reg0_seconds|Yeniden canlanmaya {reg0} saniye var...
+str_no_more_respawns_remained_this_round|Bu tur için canlanma hakkın kalmadı
+str_reg0_respawns_remained|({reg0} can kaldı)
+str_this_is_your_last_respawn|(Son can)
+str_wait_next_round|(Sonraki turu bekle)
+str_yes_wo_dot|Evet
+str_no_wo_dot|Hayır
+str_s1_returned_flag|{s1} bayrağı üslerine geri taşıdı!
+str_s1_auto_returned_flag|{s1} bayrağı otomatik olarak üslerine geri taşındı!
+str_s1_captured_flag|{s1} düşman bayrağını kaptı!
+str_s1_taken_flag|{s1} düşman bayrağını aldı!
+str_s1_neutralized_flag_reg0|{s1} {s0} kaybetti.
+str_s1_captured_flag_reg0|{s0} {s1} tarafından kapıldı!
+str_s1_pulling_flag_reg0|{s0} {s1} tarafından kapılmaya başladı.
+str_s1_defended_castle|{s1} kalelerini korudu!
+str_s1_captured_castle|{s1} kaleyi ele geçirdi!
+str_auto_team_balance_in_20_seconds|30 saniye sonra takımlar eşitlenecek.
+str_auto_team_balance_next_round|Sonraki turda takımlar eşitlenecek.
+str_auto_team_balance_done|Takımlar eşitlendi.
+str_s1_won_round|{s1} turu kazandı!
+str_round_draw|Zaman bitti. Tur berabere.
+str_round_draw_no_one_remained|Kimse kalmadı. Tur berabere.
+str_reset_to_default|Varsayılanlara dön
+str_done|Bitti
+str_player_name|Oyunu ismi
+str_kills|Öldürme
+str_deaths|Ölüm
+str_ping|Ping
+str_dead|ölü
+str_reg0_dead|{reg0} Ölü
+str_bots_reg0_agents|Botlar ({reg0} adet)
+str_bot_1_agent|Bot (1 agent)
+str_score|Skor
+str_score_reg0|Skor: {reg0}
+str_flags_reg0|(Bayraklar: {reg0})
+str_reg0_players|({reg0} Oyuncu,  {reg40} Canlı,  {reg41} Ölü)
+str_reg0_player|({reg0} Oyuncu,  {reg40} Canlı,  {reg41} Ölü)
+str_reg0_alive|{reg0} Canlı
+str_reg0_player_only|{reg0} Oyuncu
+str_reg0_players_only|{reg0} Oyuncu
+str_reg0_spectator|{reg0} İzleyici
+str_reg0_spectators|{reg0} İzleyici
+str_open_gate|Kapıyı aç
+str_close_gate|Kapıyı kapat
+str_open_door|Kapıyı aç
+str_close_door|Kapıyı kapat
+str_raise_ladder|Merdiveni kaldır
+str_drop_ladder|Merdiveni indir
+str_back|Geri
+str_start_map|Haritayı başlat
+str_choose_an_option|Bir tercih yap:
+str_choose_a_poll_type|Bir oylama türü seç:
+str_choose_faction|Irk seçimi
+str_choose_a_faction|Bir ırk seç:
+str_choose_troop|Bayrak seçimi
+str_choose_a_troop|Bir alay seç:
+str_choose_items|Birlik seçimi
+str_choose_an_item|Bir rütbe seç:
+str_options|Tercihler
+str_redefine_keys|Tuşları tanımla
+str_submit_a_poll|Oylama gönder
+str_show_game_rules|Oyun kurallarını göster
+str_administrator_panel|Yönetici Masası
+str_kick_player|Oyuncuyu at
+str_ban_player|Oyuncuyu temelli yasakla
+str_mute_player|Oyuncuyu sustur
+str_unmute_player|Oyuncu susturmayı kaldır
+str_quit|Çıkış
+str_poll_for_changing_the_map|Haritayı değiştir
+str_poll_for_changing_the_map_and_factions|Harita ve ülkeleri değiştir
+str_poll_for_changing_number_of_bots|Takımlardaki bot sayısını değiştir
+str_poll_for_kicking_a_player|Bir oyuncuyu at
+str_poll_for_banning_a_player|Bir oyuncuyu yasakla
+str_choose_a_player|Bir oyuncu seç:
+str_choose_a_map|Bir harita seç:
+str_choose_a_faction_for_team_reg0|{reg0} takımı için ırk seç:
+str_choose_number_of_bots_for_team_reg0|{reg0} takımı için bot sayısı gir:
+str_spectator|İzleyici
+str_spectators|İzleyici
+str_score_2|Skor
+str_command|Emir:
+str_profile_banner_selection_text|Profilin için bir sancak seç:
+str_use_default_banner|Bir ırkın sancağını kullan
+str_player_name_s1|- {s1}
+str_space| 
+str_us_|Biz
+str_allies_|Müttefikler
+str_enemies_|Düşmanlar
+str_routed|Püskürtüldü
+str_maximum_seconds_for_round_is_reg0|Tur için azami süre {reg0} saniye.
+str_respawn_period_is_reg0_seconds|Canlanma süresi {reg0} saniye.
+str_bots_upper_limit_for_votes_is_reg0|Botlar için azami oy sınırı {reg0}.
+str_map_is_voteable|Harita oylanabilir.
+str_map_is_not_voteable|Harita oylanamaz.
+str_factions_are_voteable|Irk oylanabilir.
+str_factions_are_not_voteable|Irk oylanamaz.
+str_players_respawn_as_bot|Oyuncular bot olarak canlanır.
+str_players_do_not_respawn_as_bot|Oyuncular bot olarak canlanmaz.
+str_kicking_a_player_is_voteable|Oyuncu atmak oylanabilir.
+str_kicking_a_player_is_not_voteable|Oyuncu atmak oylanamaz.
+str_banning_a_player_is_voteable|Oyuncu yasaklamak oylanabilir.
+str_banning_a_player_is_not_voteable|Oyuncu yasaklamak oylanamaz.
+str_player_banners_are_allowed|Oyuncu sancakları olabilir.
+str_player_banners_are_not_allowed|Oyuncu sancakları olamaz.
+str_default_armor_is_forced|Varsayılan zırh mecburi.
+str_default_armor_is_not_forced|Varsayılan zırh mecburi değil.
+str_percentage_of_yes_votes_required_for_a_poll_to_get_accepted_is_reg0|Oylamanın kabul edilmesi için geçerli olacak en az oy sayısı {reg0}%.
+str_auto_team_balance_threshold_is_reg0|Otomatik takım denkleme eşiği {reg0}.
+str_starting_gold_ratio_is_reg0|Başlangıç altın oranı {reg0}%.
+str_combat_gold_bonus_ratio_is_reg0|Savaş altın primi oranı {reg0}%.
+str_round_gold_bonus_ratio_is_reg0|Tur altını oranı {reg0}%.
+str_point_gained_from_flags_is_reg0|Bayraklardan elde edilen takım puanları {reg0}%.
+str_point_gained_from_capturing_flag_is_reg0|Bayrak ele geçirme için takım puanları {reg0}%.
+str_map_time_limit_is_reg0|Harita zaman sınırı {reg0} dakika.
+str_team_points_limit_is_reg0|Takım puan sınırı {reg0}.
+str_defender_spawn_count_limit_is_s1|Savunan canlanma sınırı {s1}.
+str_system_error|SYSTEM ERROR!
+str_routed_2|routed
+str_s42|{s42}
+str_you|sen
+str_we|biz
+str_quick_battle_french_farm|Fransız çiftliği
+str_quick_battle_landshut|Landshut
+str_quick_battle_river_crossing|Nehir Geçidi
+str_quick_battle_spanish_village|İspanyol Köyü
+str_quick_battle_strangefields|Strangefields
+str_quick_battle_scene_1|Tepeler
+str_quick_battle_scene_2|Karlı Ova
+str_quick_battle_scene_3|Ormanlık
+str_quick_battle_scene_4|Bozkır
+str_quick_battle_scene_6|Çöl
+str_map_basic|Harita oylanabilir.
+str_game_type_basic|Oyun Tipi
+str_battle|Savaş
+str_character|Karakter
+str_player|Oyuncu atmak oylanabilir.
+str_enemy|Düşman
+str_faction|Ülke
+str_start|Başla
+str_custom_battle|Özel Savaş:
+str_plus|0
+str_minus|0
+str_server_name_s0|Sunucu İsmi: {s0}
+str_map_name_s0|Harita İsmi: {s0}
+str_game_type_s0|Oyun Türü: {s0}
+str_remaining_time_s0reg0_s1reg1|Kalan Zaman: {s0}{reg0}:{s1}{reg1}
+str_a_duel_request_is_sent_to_s0|{s0} için bir düello teklifi gönderildi.
+str_s0_offers_a_duel_with_you|{s0} sana düello teklif ediyor.
+str_your_duel_with_s0_is_cancelled|{s0} ile düellon iptal oldu.
+str_a_duel_between_you_and_s0_will_start_in_3_seconds|{s0} ile düello 3 saniye içinde başlayacak.
+str_you_have_lost_a_duel|Bir düelloyu kaybettin.
+str_you_have_won_a_duel|Bir düelloyu kazandın.
+str_server_s0|[SUNUCU]: {s0}
+str_disallow_ranged_weapons|Menzilli silahlara izin verme
+str_ranged_weapons_are_disallowed|Menzilli silahlar kaldırıldı.
+str_ranged_weapons_are_allowed|Menzilli silahlar serbest bırakıldı.
+str_duel_starts_in_reg0_seconds|Düello {reg0} saniye sonra başlayacak...
+str_true|Açık
+str_false|Kapalı
+str_teamkilled_s1_s2|{s2} takım arkadaşı {s1} tarafından öldürüldü.
+str_kick_server_kills_first_s1_reg5|{s1} {reg5} takım arkadaşını öldürdüğü için oyundan atıldı, ilk sefer.
+str_kick_server_kills_second_s1_reg5|{s1} {reg5} takım arkadaşını öldürdüğü için oyundan atıldı, ikinci sefer.
+str_ban_server_kills_s1_reg5|{s1} {reg5} veya daha fazla takım arkadaşını öldürdüğü için yasaklandı.
+str_warning_message_first_reg5|Bu haritada {reg5} takım arkadaşını öldürdün, dikkatli ol!
+str_warning_message_second_reg5|Bu haritada {reg5} takım arkadaşını öldürdün, dikkat et, bir sonrakinde atılacaksın!
+str_kick_to_message_first|Ölçüsüz şekilde takım arkadaşını öldürdüğün için atıldın, dikkatli ol!
+str_kick_to_message_second|Ölçüsüz şekilde takım arkadaşını öldürdüğün için atıldın, dikkatli ol! Bir dahaki sefere yasaklanacaksın!
+str_ban_to_message|Ölçüsüz şekilde takım arkadaşı öldürdüğün için yasaklandın, elvedall!
+str_auto_kick_message_s1|{s1} haddinden fazla takım arkadaşı öldürdüğü için atıldı.
+str_auto_ban_message_s1|{s1} haddinden fazla takım arkadaşı öldürdüğü için yasaklandı.
+str_server_hq_base_retake_s1|{s1} üslerini geri alıyor!!
+str_server_hq_base_attack_s1|{s1} üssü saldırı altında!!
+str_player_left_server_s1_reg13|{s1} oyunu ID: {reg13} ile terk etti
+str_push_cannon|Topu İttir
+str_fire_cannon|Topu Ateşle
+str_aim_cannon|Kontrolü Al
+str_unlimber_cannon|Topun İplerini Çöz
+str_limber_cannon|Topu Bağla
+str_load_cartridge|Cephaneyi Yerleştir
+str_load_bomb|Havan Güllesi Yerleştir
+str_load_rocket|Roket Yerleştir
+str_reload_cannon|Topu Doldur
+str_pick_up_round|Gülle Al
+str_pick_up_shell|Patlayıcı Kovan Al
+str_pick_up_canister|Teneke Bombası Al
+str_pick_up_bomb|Havan Güllesi Al
+str_pick_up_rocket|Roketatar Al
+str_play_piano|Piyano Çal
+str_play_organ|Erganun Çal
+str_take_a_shit|Tuvaleti Kullan
+str_play_bell|Zili Çal
+str_take_ship_control|Geminin Kontrolünü Al
+str_cannot_use_piano|At sırtındayken piyano çalamazsın!
+str_cannot_use_organ|At sırtındayken erganun çalamazsın!
+str_cannot_use_piano_angle|Bunu arkasından bir piyano çalamaz.
+str_cannot_use_organ_angle|Bunu arkasından bir organı çalamaz.
+str_cannot_use_toilet|At sırtındayken tuvaleti kullanamazsın!
+str_piano_in_use|Piyanoyu şu an başkası çalıyor!
+str_organ_in_use|Erganunu şu an başkası çalıyor!
+str_toilet_in_use|Tuvaleti şu an başkası kullanıyor!
+str_cannot_use_cannon|Topçu birliğinin üyesi olmadığın için topları kullanamazsın!
+str_cannot_use_rocket|Roketçi birliğinin üyesi olmadığın için roketleri kullanamazsın!
+str_cannon_not_loaded|Bu top dolu değil!
+str_cannon_already_has_ball|Bu topta zaten gülle var!
+str_cannon_already_loaded|Bu top zaten dolu!
+str_cannot_carry_more_cannon_ammo|Daha fazla top mühimmatı taşıyamazsın!
+str_cannon_cannot_load_type|Bu topa bu tip mühimmat yüklenemez!
+str_need_to_have_a_lighter|Topu ateşlemek için çakmağa ihtiyacın var!
+str_need_to_have_a_ramrod|Topa yükleme yapmak için harbiye ihtiyacın var!
+str_need_to_have_a_ball|Topa yüklemek için mühimmata ihtiyacın var!
+str_need_to_have_a_horse|Topu bağlamak için yakınlarda bir at arabası olması gerek!
+str_horse_already_has_cannon|Bu ata zaten bir top bağlı!
+str_already_to_many_barricades|Takımın bu turdaki tüm savunma yapısı hakkını kullandı.
+str_already_to_many_ammobox|Takımın bu turdaki tüm mühimmat kutusu hakkını kullandı.
+str_cannon_is_already_in_use|Bu topu şu an başkası kullanıyor!
+str_already_to_many_players_class_s21|Şu anda çok sayıda {s21} var. Başka bir ünite seçin.
+str_already_to_many_players_rank_mus|Bu birimde çok fazla Müzisyen var. Başka bir rütbe seçin.
+str_already_to_many_players_rank_srg|Bu birimde çok fazla {s21} var. Başka bir rütbe seçin.
+str_already_to_many_players_rank_off|Bu birimde çok fazla {s21} var. Başka bir rütbe seçin.
+str_chk_class_limits|Sınıf Limitini Aç
+str_chk_class_limits_player_count|Sınıf limiti için gereken asgari oyuncu sayısı:
+str_limit_grenadier|Takımlardaki Muhafız Piyade limiti (%):
+str_limit_skirmisher|Takımlardaki Hafif Piyade limiti (%):
+str_limit_rifle|Hafif Piyadelerdeki Tüfekli Er sayısı (%):
+str_limit_cavalry|Takımlardaki Atlı limiti (%):
+str_limit_lancer|Atlılarda azami Kargılı Süvari sayısı (%): 
+str_limit_hussar|Atlılarda azami Hussar sayısı (%) :
+str_limit_dragoon|Atlılarda azami Dragun sayısı (%):
+str_limit_cuirassier|Atlılarda azami Zırhlı Süvari sayısı (%):
+str_limit_heavycav|Atlılarda azami Zırhsız Ağır Süvari sayısı (%):
+str_limit_artillery|Takımlardaki Topçu limiti (%):
+str_limit_rocket|Takımlardaki Roketçi limiti (%):
+str_limit_sapper|Takımlardaki Mühendis limiti (%):
+str_limit_musician|Takımlardaki Müzisyen Limiti (adet):
+str_limit_sergeant|Takımlardaki Çavuş Limiti (adet):
+str_limit_officer|Birimlerdeki Subay limiti (nr):
+str_limit_general|Takımlardaki General limiti (nr):
+str_build_points_team_1|İlk takım için Yapı Puanı:
+str_build_points_team_2|İkinci takım için Yapı Puanı:
+str_allow_multiple_firearms|Birden çok ateşli silah taşınmasına izin ver:
+str_enable_bonuses|Bonusları Aç
+str_bonus_strength|Bonus Gücü (%):
+str_bonus_range|Bonus Mesafesi (metre):
+str_num_bots_per_squad|Birliklerdeki bot sayısı:
+str_scale_squad_size|Birlik boyutunu takım oranından sonra ölç
+str_max_num_bots|Botlara Max sayısı:
+str_chance_of_falling_off_horse|Vurulduğunda attan düşme ihtimali (%):
+str_damage_from_horse_dying|At öldüğünde biniciye verilecek hasar (%):
+str_admin_start_map_s0_s1_s2_s5_s6|{s0} haritayı {s1} ile, oyun modunu {s2} ile ve devletleri {s5} ve {s6} ile değiştirdi.
+str_admin_set_max_num_players_s0_reg1|{s0} Azami oyuncu sayısını {reg1} yaptı.
+str_admin_set_num_bots_in_team_s0_s1_reg1|{s0} {s1} takımının bot sayısını {reg1} yaptı.
+str_admin_set_friendly_fire_s0_s9|{s0} Menzilli dost ateşini {s9} yaptı.
+str_admin_set_melee_friendly_fire_s0_s9|{s0} Yakın dövüş dost ateşini {s9} yaptı.
+str_admin_set_friendly_fire_damage_self_ratio_s0_reg1|{s0} Dost ateşi cezasını % {reg1} yaptı.
+str_admin_set_friendly_fire_damage_friend_ratio_s0_reg1|{s0} Dost ateşi oranını % {reg1} yaptı.
+str_admin_set_ghost_mode_s0_s1|{s0} Hayalet modunu {s1} yaptı.
+str_admin_set_control_block_dir_s0_s1|{s0} Engelleme yönü kontrolünü {s1} yaptı.
+str_admin_set_combat_speed_s0_s1|{s0} Savaş hızını {s1} yaptı.
+str_admin_set_respawn_count_s0_s1|{s0} Savunan takımının dirilme hakkını {s1} yaptı.
+str_admin_set_add_to_servers_list_s0_s9|{s0} Sunucunun sunucu listesine eklenmesini {s9} yaptı.
+str_admin_set_respawn_period_s0_reg1|{s0} Dirilme süresini {reg1} saniye olarak değiştirdi.
+str_admin_set_game_max_minutes_s0_reg1|{s0} Harita zaman kısıtlamasını {reg1} dakika olarak değiştirdi.
+str_admin_set_round_max_seconds_s0_reg1|{s0} Tur zaman kısıtlamasını {reg1} saniye olarak değiştirdi.
+str_admin_set_player_respawn_as_bot_s0_s9|{s0} Oyuncuların bot olarak dirilmesini {s9} yaptı.
+str_admin_set_game_max_points_s0_reg1|{s0} Oyunun azami puanını {reg1} yaptı.
+str_admin_set_point_gained_from_flags_s0_reg1|{s0} Bayrak puanlarını {reg1} olarak değiştirdi.
+str_admin_set_point_gained_from_capturing_flag_s0_reg1|{s0} Bayrak ele geçirme puanlarını {reg1} olarak değiştirdi.
+str_admin_set_initial_gold_multiplier_s0_reg1|{s0} Başlangıç altın çarpanını % {reg1} yaptı.
+str_admin_set_battle_earnings_multiplier_s0_reg1|{s0} Savaş altın çarpanını % {reg1} yaptı.
+str_admin_set_round_earnings_multiplier_s0_reg1|{s0} Tur başı altın bonusu çarpanını % {reg1} yaptı.
+str_admin_set_server_name_s1_s0|{s1} Sunucu adınu {s0} olarak değiştirdi.
+str_admin_set_game_password_s1_s0|{s1} Sunucu şifresini {s0} olarak değiştirdi.
+str_admin_set_welcome_message_s1|{s1} Sunucu karşılama mesajını değiştirdi.
+str_admin_set_welcome_message_s1_s0|{s1} Sunucu karşılama mesajını şöyle değiştirdi: {s0}
+str_admin_set_valid_vote_ratio_s0_reg1|{s0} Geçer oy sayısını % {reg1} olarak belirledi.
+str_admin_set_auto_team_balance_limit_s0_s1|{s0} Otomatik Takım Dengeleme oranını % {s1} olarak belirledi.
+str_admin_set_num_bots_voteable_s0_reg1|{s0} Azami oylanabilir bot sayısını {reg1} yaptı.
+str_admin_set_factions_voteable_s0_s9|{s0} Oylanabilir devletleri {s9} olarak belirledi.
+str_admin_set_maps_voteable_s0_s9|{s0} Oylanabilir haritaları {s9} olarak belirledi.
+str_admin_set_kick_voteable_s0_s9|{s0} Oyundan atma oylamasını {s9} yaptı.
+str_admin_set_ban_voteable_s0_s9|{s0} Engelleme oylamasını {s9} yaptı.
+str_admin_set_allow_player_banners_s0_s9|{s0} Münferit armalar iznini {s9} olarak belirledi.
+str_admin_set_force_default_armor_s0_s9|{s0} Asgari zırh zorunluluğunu {s9} olarak belirledi.
+str_admin_set_disallow_ranged_weapons_s0_s9|{s0} Menzilli silah yasağını {s9} olarak belirledi.
+str_admin_set_mod_variable_auto_kick_s0_s9|{s0} Dost ateşi oto-atma/yasaklamasını {s9} olarak belirledi.
+str_admin_set_mod_variable_max_teamkills_before_kick_s0_reg1|{s0} Oyundan atma/yasaklamadan önceki dost zaiyatı sayısını {reg1} olarak belirledi.
+str_admin_set_mod_variable_auto_horse_s0_s9|{s0} Başıboş atların öldürülmesini {s9} olarak belirledi. 
+str_admin_set_mod_variable_auto_swap_s0_s9|{s0} Kuşatma ve savaşlarda otomatik takım dönüşümünü {s9} olarak belirledi.
+str_admin_set_use_class_limits_s0_s9|{s0} Sınıf sınırlandırmasını kullanmayı {s9} olarak belirledi.
+str_admin_set_class_limit_player_count_s0_reg1|{s0} Sınıf sınırlandırması için asgari oyuncu limitini {reg1} olarak belirledi.
+str_admin_set_limit_grenadier_s0_reg1|{s0} Ağır Piyade limitini, takımın % {reg1} olarak değiştirdi.
+str_admin_set_limit_skirmisher_s0_reg1|{s0} Hafif Piyade limitini, takımın % {reg1} olarak değiştirdi.
+str_admin_set_limit_rifle_s0_reg1|{s0} Tüfekli Er limitini, takımın % {reg1} olarak değiştirdi.
+str_admin_set_limit_cavalry_s0_reg1|{s0} Atlı asker limitini, takımın % {reg1} olarak değiştirdi.
+str_admin_set_limit_lancer_s0_reg1|{s0} Kargılı Süvari limitini, Atlıların % {reg1} olarak değiştirdi.
+str_admin_set_limit_hussar_s0_reg1|{s0} Hussar limitini, Atlıların % {reg1} olarak değiştirdi.
+str_admin_set_limit_dragoon_s0_reg1|{s0} Dragun limitini, Atlıların % {reg1} olarak değiştirdi.
+str_admin_set_limit_cuirassier_s0_reg1|{s0} Zırhlı Süvari limitini, Atlıların % {reg1} olarak değiştirdi.
+str_admin_set_limit_heavycav_s0_reg1|{s0} Zırhsız Ağır Süvari limitini, Atlıların % {reg1} olarak değiştirdi.
+str_admin_set_limit_artillery_s0_reg1|{s0} Topçu limitini, takımın % {reg1} olarak değiştirdi.
+str_admin_set_limit_rocket_s0_reg1|{s0} Roketçi limitini, takımın % {reg1} olarak değiştirdi.
+str_admin_set_limit_sapper_s0_reg1|{s0} İstihkamcı limitini, takımın % {reg1} olarak değiştirdi.
+str_admin_set_limit_musician_s0_reg1|{s0} Birlik başına Müzisyen limitini {reg1} kişi olarak belirledi.
+str_admin_set_limit_sergeant_s0_reg1|{s0} Birlik başına Çavuş sayısını {reg1} kişi olarak belirledi.
+str_admin_set_limit_officer_s0_reg1|{s0} Birlik başına Subay sayısını {reg1} kişi olarak belirledi.
+str_admin_set_limit_general_s0_reg1|{s0} Devlet başına General sayısını {reg1} kişi olarak belirledi.
+str_admin_set_build_points_team_1_s0_reg1|{s0} İlk takımın Yapı Puanını {reg1} olarak belirledi.
+str_admin_set_build_points_team_2_s0_reg1|{s0} İkinci takımın Yapı Puanını {reg1} olarak belirledi.
+str_admin_set_squad_size_s0_reg1|{s0} Birlik sayısını, birlik başına {reg1} bot olarak belirledi.
+str_admin_set_scale_squad_size_s0_s9|{s0} Birlik sayısını takımlara oranlamayı {s9} olarak ayarladı.
+str_admin_set_max_num_bots_s0_reg1|{s0} Için botlara maksimum sayısını ayarlayın {reg1}.
+str_admin_set_allow_multiple_firearms_s0_s9|{s0} Birden çok ateşli silah taşınmasını {s9} olarak ayarladı.
+str_admin_set_enable_bonuses_s0_s9|{s0} Bonus kullanımını {s9} olarak değiştirdi.
+str_admin_set_bonus_strength_s0_reg1|{s0} Bonusların gücünü % {reg1} olarak değiştirdi.
+str_admin_set_bonus_range_s0_reg1|{s0} Bonusların menzilini {reg1} metre olarak değiştirdi.
+str_admin_set_fall_off_horse_s0_reg1|{s0} Vurulduktan sonra attan düşme şansını % {reg1} olarak belirledi.
+str_admin_set_horse_dying_s0_reg1|{s0} At öldüğünde biniciye verilecek hasar oranını % {reg1} olarak ayarladı.
+str_mute_all|Herkesi Sustur
+str_unmute_all|Herkesin Sesini Aç
+str_slay_player|Oyuncuyu Öldür
+str_slay_player_s2_s3|{s2} şu oyuncuyu öldürdü: {s3}
+str_slay_all|Herkesi Öldür
+str_slay_all_s2|{s2} Herkesi Öldürdü.
+str_freeze_player|Oyuncuyu Dondur
+str_freeze_player_s2_s3|{s2} Şu Oyuncunun Donma Durumunu Değiştirdi: {s3}.
+str_freeze_all|Herkesi Dondur
+str_freeze_all_s2|{s2} Donma Durumunu Değiştirdi
+str_swap_player|Oyuncuyu Karşı Takıma Geçir
+str_swap_player_s2_s3|{s2} Şu Oyuncuyu Karşı Takıma Geçirdi: {s3}
+str_swap_all|Herkesi Karşı Takıma Geçir
+str_swap_all_s2|{s2} Herkesi Karşı Takıma Geçirdi
+str_forceautobalance_all|Takımları Dengele
+str_forceautobalance_all_s2|{s2} Takımları Dengeledi
+str_spec_player|Oyuncuyu Gözlemci Yap
+str_spec_player_s2_s3|{s2} Şu Oyuncuyu Gözlemci Yaptı: {s3}
+str_spec_all|Herkesi Değiştir
+str_spec_all_s2|{s2} Herkesi Gözlemci Yaptı
+str_kick_player_s2_s3|{s2} Şu Oyuncuyu Oyundan Attı: {s3}.
+str_ban_player_s2_s3|{s2} Şu Oyuncuyu Kalıcı Olarak Yasakladı: {s3}
+str_ban_player_temp|Oyuncuyu Geçici Olarak Yasakla
+str_ban_player_temp_s2_s3|{s2} Şu Oyuncuyu Geçici Olarak Yasakladı: {s3}.
+str_ban_hammer_s2_s3|Ulu {s2}, {s3} Kıçına Tekmeyi Bastı, Elveda!
+str_admin_cheats|Hileler
+str_choose_a_cheat_type|Hile tipi seçin: 
+str_cheat_spawn_hammer|Ceza Tokmağını Çağır
+str_cheat_spawn_hammer_s2|{s2} Bir Ceza Tokmağı Çağırdı.
+str_cheat_spawn_hammer_2_s2|Ve Ululardan ulu {s2}, Ceza Tokmağını havaya kaldırıp şöyle haykırdı: 'Tanrım, bu tokmağı kutlandır ki, düşmanlarımın böğrüne yıldırım gibi çöküp un ufak edeyim!'. Ve Tanrı ona güldü.
+str_cheat_spawn_shotgun|Pompalı Tüfek Çağır
+str_cheat_spawn_shotgun_s2|{s2} Pompalı Tüfek Çağırdı.
+str_cheat_spawn_rocketlauncher|Roketatar Çağır
+str_cheat_spawn_rocketlauncher_s2|{s2} Roketatar Çağırdı.
+str_cheat_spawn_grenade|El Bombası Çağır
+str_cheat_spawn_grenade_s2|{s2} El Bombası Çağırdı.
+str_cheat_spawn_grenade_2_s2|Ve Yüce {s2} kutsal el bombasını havaya kaldırıp şöyle dedi: 'Tanrım! Bu el bombasını kutlandır ki rakiplerimi bir anda tuzla buz etsin!'. Ve Tanrı ona güldü.
+str_cheat_spawn_horse|Yönetici Atını Çağır
+str_cheat_spawn_horse_s2|{s2} Yönetici Atını Çağırdı.
+str_cheat_beacon_player|Oyuncu İmleci
+str_cheat_beacon_player_s2_s3|{s2} şu oyuncunun üzerine bir imleç yerleştirdi: {s3}.
+str_cheat_heal_player|Oyuncuyu İyileştir
+str_cheat_heal_player_s2_s3|{s2} Şu Oyuncuyu İyileştirdi: {s3}.
+str_cheat_heal_all|Herkesi İyileştir
+str_cheat_heal_all_s2|{s2} Herkesi İyileştirdi.
+str_cheat_ammo_player|Oyuncuya Mühimmat Ver
+str_cheat_ammo_player_s2_s3|{s2} Şu Oyuncuya Mühimmat Verdi: {s3}
+str_cheat_ammo_all|Herkese Mühimmat Ver
+str_cheat_ammo_all_s2|{s2} Herkese Mühimmat Verdi.
+str_cheat_tele_to_player|Oyuncuya Işınlan
+str_cheat_tele_to_player_s2_s3|{s2} Şu Oyuncuya Işınlandı: {s3}.
+str_cheat_tele_bring_player|Oyuncuyu Getir
+str_cheat_tele_bring_player_s2_s3|{s2} Şu Oyuncuyu Kendine Işınladı: {s3}
+str_cheat_tele_wall|Duvarın İçinden Işınlan
+str_cheat_tele_wall_s2|{s2} Işınlandı.
+str_admin_chat|Yönetici Sohbeti
+str_admin_chat_intern|Iç Yönetici Sohbeti
+str_admin_chat_s1_s0|*Yönetici*[{s1}]: {s0}
+str_inter_admin_chat_s1_s0|[{s1}]: {s0}
+str_chk_auto_kick|Oto-atma/yasaklamayı aç
+str_num_max_teamkills_before_kick|Oto-atma/yasaklamadan önceki dost zaiyatı:
+str_chk_auto_horse|Başıboş atların öldürülmesini aç
+str_chk_auto_swap|Kuşatma ve savaşlarda otomatik takım değiştirmeyi aç.
+str_reset_map|Haritayı Sıfırla
+str_reset_map_s2|{s2} Haritayı Sıfırladı.
+str_console_command|Yönetici Konsolu
+str_player_kicked_cheating_s2|{s2} Hile için sunucudan otomatik başladı olduğunu.
+str_next_page|Sonraki Sayfa
+str_auto_assign|Otomatik Yerleştir
+str_begin|Başla
+str_game_rules|Oyun Kuralları:^
+str_britain_name|Birleşik Krallık
+str_france_name|Fransız İmparatorluğu
+str_prussia_name|Prusya Krallığı
+str_russia_name|Rus İmparatorluğu
+str_austria_name|Avusturya İmparatorluğu
+str_rhine_name|Ren Konfederasyonu
+str_infantry|Piyade
+str_cavalry|Süvari
+str_specialists|Uzman
+str_ranker|Er
+str_equipment|Ekipman:
+str_random|Rastgele
+str_howitzer|Havan Topu
+str_cannon|Top
+str_all_fire_now|Ateş!
+str_left_fire_now|Sol Kanat, Ateş!
+str_middle_fire_now|Orta Kanat, Ateş!
+str_right_fire_now|Sağ Kanat, Ateş!
+str_fire_at_my_command|Ateş İçin Emrimi Bekleyin!
+str_use_melee_weapons|Yakın Dövüş Silahları Kullan
+str_use_ranged_weapons|Menzilli Silahlar Kullan
+str_melee_weapons|Yakın Dövüş Silahları
+str_ranged_weapons|Menzilli Silahlar
+str_formation|Dizilim
+str_very_tight|Çok Sıkı
+str_tight|Sıkı
+str_loose|Seyrek
+str_very_loose|Çok Seyrek
+str_form_1_row|Tek Saf Olun
+str_form_reg0_rows|{reg0} Saf Olun
+str_confirm_quit_mission|Bu görevden ayrılmak istediğinize emin misiniz (görevdeki ilerlemeniz kaydedilmeyecektir)?
+str_no_troop|Boş
+str_morning|Sabah
+str_noon|Öğle
+str_evening|Akşam
+str_night|Gece
+str_timeofday|Günün Vakti:
+str_fog_none|Yok
+str_fog_light|Hafif
+str_fog_medium|Orta
+str_fog_thick|Yoğun
+str_fog_amount|Sis Durumu:
+str_rain_amount|Yağmur Miktarı:
+str_mm_stakes_construct|Büyük Örgü Barikat
+str_mm_stakes2_construct|Tahta Kazıklar
+str_sandbags_construct|Kum Torbaları
+str_chevaux_de_frise_tri_construct|Küçük Örgü Barikat
+str_gabion_construct|Hasır Sepet
+str_fence_construct|Çit
+str_plank_construct|Kalas
+str_earthwork1_construct|Basit Toprak Duvar
+str_explosives_construct|Patlayıcı Sandık
+str_reg6_build_points|Kalan Yapı Puanı: {reg6}
+str_reg7_build_points_cost|Fiyat: {reg7} Yapı Puanı
+str_repair_prop|Tamir Et
+str_destructible_object|Yıkılabilir Cisim
+str_build_prop|İnşa Et
+str_dig_prop|Kaz
+str_undig_prop|Kaldir
+str_construct_deconstruct|Yap/Yık
+str_ignite|Yak!
+str_invalid_flag_selection|Takımın tarafından kontrol edilen bir bayrak seç.
+str_invalid_prop_select|Yapı Puanı Yeterli Değil!
+str_invalid_prop_place|Buraya inşa edemezsiniz!
+str_sail_brit|Denizci, HMS Neptune
+str_sail_fren|Denizci, Intrepide
+str_select_track|Parça seç:
+str_music_calls|Komuta Çağrısı:
+str_bagpipe_extras|Ek Nağmeler (sadece gayda):
+str_play_together|'Beraber Çalma' Modunu Aç
+str_drum_britain_1|British Grenadiers
+str_drum_britain_2|The Girl I Left Behind Me
+str_drum_britain_3|Lilliburlero
+str_drum_britain_4|Men of Harlech
+str_drum_britain_5|Rule Britannia
+str_drum_france_1|Aux Champs
+str_drum_france_2|La Charge
+str_drum_france_3|La Diane ou Rigodon
+str_drum_france_4|La Grenadiere
+str_drum_france_5|Le Pas Cadence
+str_drum_prussia_1|York'scher Marsch
+str_drum_prussia_3|Hohenfriedberger Marsch
+str_drum_prussia_4|Preussischer Lockmarsch
+str_drum_prussia_5|Parademarsch der Spielleute
+str_drum_prussia_6|Praesentiermarsch
+str_drum_russia_1|Pohod Grenaderskij
+str_drum_russia_2|Pohod Leib Gvardii Izmailovskogo Polka
+str_drum_russia_3|Marsh Kolonni Idushej v Ataku
+str_drum_russia_4|Pohod Leib Gvardii Preobrazhenskogo Polka
+str_drum_russia_5|Pohod Leib Gvardii Semenovskogo Polka
+str_drum_austria_1|Oestereeichischer Grenadiermarsch
+str_drum_austria_2|Coburger Marsch
+str_drum_austria_3|Pappenheimer Marsch
+str_drum_austria_4|Pariser Einzugsmarsch
+str_drum_austria_5|Prinz von Eugen
+str_drum_highland_1|All the Blue Bonnets Are O'er the Border
+str_drum_highland_2|Bonnie Dundee
+str_drum_signal_1|Camp, Taps
+str_drum_signal_2|Cease fire
+str_drum_signal_3|Drummer Call
+str_fife_britain_1|British Grenadiers
+str_fife_britain_2|The Girl I Left Behind Me
+str_fife_britain_3|Lilliburlero March
+str_fife_britain_4|Men of Harlech
+str_fife_britain_5|Rule Britannia
+str_fife_france_1|Aux Champs
+str_fife_france_2|La Charge
+str_fife_france_3|La Diane ou Rigodon
+str_fife_france_4|La Grenadiere
+str_fife_france_5|Le Pas Cadence
+str_fife_prussia_1|York'scher Marsch
+str_fife_prussia_2|Hohenfriedberger Marsch
+str_fife_prussia_3|Preussischer Lockmarsch
+str_fife_prussia_4|Parademarsch der Spielleute
+str_fife_prussia_5|Praesentiermarsch
+str_fife_russia_1|Pohod Grenaderskij
+str_fife_russia_2|Pohod Leib Gvardii Izmailovskogo Polka
+str_fife_russia_3|Marsh Kolonni Idushej v Ataku
+str_fife_russia_4|Pohod Leib Gvardii Preobrazhenskogo Polka
+str_fife_russia_5|Pohod Leib Gvardii Semenovskogo Polka
+str_fife_austria_1|Oestereeichischer Grenadiermarsch
+str_fife_austria_2|Coburger Marsch
+str_fife_austria_3|Pappenheimer Marsch
+str_fife_austria_4|Pariser Einzugsmarsch
+str_fife_austria_5|Prinz von Eugen
+str_bugle_britain_1|British Boots
+str_bugle_britain_2|British Light Infantry
+str_bugle_france_1|Dans le Hussards
+str_bugle_france_2|La Marche
+str_bugle_prussia_1|Althessischer Reitermarsch
+str_bugle_prussia_2|Fehrbelliner Reitermarsch
+str_bugle_prussia_3|Marsch der Freiwilligen Jaeger
+str_bugle_russia_1|Pohod Mushketerskij
+str_bugle_russia_2|Pohod Artillerijskij i dlia Saperov
+str_bugle_russia_3|Pohod Egerskij
+str_bugle_austria_1|Strauch Marsch
+str_bugle_austria_2|Frohes Leben Marsch
+str_bugle_signal_1|Assemble the Men
+str_bugle_signal_2|Extend Lines
+str_bugle_signal_3|Close Ranks
+str_bugle_signal_4|On Enemy
+str_bugle_signal_5|Open Fire
+str_bagpipes_britain_1|All the Blue Bonnets Are O'er the Border
+str_bagpipes_britain_2|Bonnie Dundee
+str_bagpipes_extra_1|Black Bear
+str_bagpipes_extra_2|Amazing Grace
+str_bagpipes_extra_3|Balmoral
+str_bagpipes_extra_4|Bonnie Dundee
+str_bagpipes_extra_5|Cock o' the North
+str_bagpipes_extra_6|Highland Cathedral
+str_bagpipes_extra_7|My Home
+str_bagpipes_extra_8|Scotland the Brave
+str_bagpipes_extra_9|Skye Boat Song
+str_piano_tune_1|Beethoven - Fur Elise
+str_piano_tune_2|Beethoven - Ecossaise
+str_piano_tune_3|Erik Satie - Gymnopedie 3
+str_piano_tune_4|Beethoven - Laendler
+str_piano_tune_5|Lift Motif
+str_piano_tune_6|Bach - Prelude
+str_piano_tune_7|Wagner - Bridal Chorus
+str_piano_tune_8|Schubert - Ave Maria
+str_organ_tune_1|Bach - Toccata and Fugue
+str_organ_tune_2|Bach - Toccata and Fugue 2
+str_organ_tune_3|Bach - Prelude and Fugue
+str_organ_tune_4|Buxtehude - Prelude
+str_organ_tune_5|Tiny Fugue
+str_organ_tune_6|Wagner - Bridal Chorus
+str_organ_tune_7|Bach - Chromatic Fuge
+str_organ_tune_8|Bach - Chromatic Fantasia
+str_flag_reg3|Bayrak {reg3}
+str_mp_arabian_harbour_flag_1|Küçük Han
+str_mp_arabian_harbour_flag_2|Arka Bahçe
+str_mp_arabian_harbour_flag_3|Liman
+str_mp_arabian_harbour_flag_4|Deniz Feneri
+str_mp_arabian_harbour_flag_5|Pazaryeri
+str_mp_arabian_village_flag_1|Bağcı Kasabası
+str_mp_arabian_village_flag_2|Çiftçi Kasabası
+str_mp_arabian_village_flag_3|Müstahkem Kasaba
+str_mp_ardennes_flag_1|Ferme du Fresnois
+str_mp_ardennes_flag_2|Ferme de la Grange Dimiere
+str_mp_ardennes_flag_3|Gözcü Kulesi
+str_mp_ardennes_flag_4|Balıkçı Kulübesi
+str_mp_ardennes_flag_5|Ferme de Bray
+str_mp_ardennes_flag_6|Kara Orman
+str_mp_ardennes_flag_7|Kayalıklar
+str_mp_avignon_flag_1|Kamp
+str_mp_avignon_flag_2|Kasaba
+str_mp_avignon_flag_3|Değirmen
+str_mp_avignon_flag_4|Köy
+str_mp_borodino_flag_1|Şehir
+str_mp_borodino_flag_2|Köy
+str_mp_borodino_flag_3|Tabya
+str_mp_borodino_flag_4|Değirmen
+str_mp_borodino_flag_5|Shevradino
+str_mp_borodino_flag_6|Büyük Tabya
+str_mp_borodino_flag_7|Küçük Tabya
+str_mp_columbia_hill_farm_flag_1|Orman
+str_mp_columbia_hill_farm_flag_2|Kulübe
+str_mp_columbia_hill_farm_flag_3|Çiftlik
+str_mp_columbia_hill_farm_flag_4|Bağlar
+str_mp_european_city_flag_1|Kilise
+str_mp_european_city_flag_2|Meydan
+str_mp_european_city_flag_3|Vince'in Köşesi
+str_mp_european_city_flag_4|Sokak
+str_mp_french_farm_flag_1|Orman
+str_mp_french_farm_flag_2|Tabya
+str_mp_french_farm_flag_3|Çiftlik
+str_mp_hungarian_plains_flag_1|The Weavery
+str_mp_hungarian_plains_flag_2|Şehir
+str_mp_hungarian_plains_flag_3|The Windmill
+str_mp_hungarian_plains_flag_4|Terk Evi
+str_mp_hungarian_plains_flag_5|The Shack
+str_mp_hungarian_plains_flag_6|Emlak
+str_mp_landshut_flag_1|Landshut
+str_mp_landshut_flag_2|Abensberg Yolu
+str_mp_landshut_flag_3|Landshut Civarları
+str_mp_landshut_flag_4|Köprü
+str_mp_landshut_flag_5|Korugan
+str_mp_landshut_flag_6|Çiftlik
+str_mp_landshut_flag_7|Kavşak
+str_mp_russian_village_flag_1|Oduncu Kasabası
+str_mp_russian_village_flag_2|Avcı Kasabası
+str_mp_russian_village_flag_3|Rus Kasabası
+str_mp_minden_flag_1|Yığınak Kampı
+str_mp_minden_flag_2|Minden
+str_mp_minden_flag_3|Hahlen
+str_mp_minden_flag_4|Netsband Çiftliği
+str_mp_minden_flag_5|Stemmer
+str_mp_minden_flag_6|Todtenhausen Hanı
+str_mp_minden_flag_7|Malbergen Şapeli
+str_mp_minden_flag_8|Neuland
+str_mp_minden_flag_9|Finter Reie
+str_mp_oaksfield_flag_1|Karargah  1
+str_mp_oaksfield_flag_2|Karargah  2
+str_mp_oaksfield_flag_3|Buğday Tarlası
+str_mp_oaksfield_flag_4|Pazar
+str_mp_oaksfield_flag_5|Oakstown
+str_mp_quatre_bras_flag_1|Pireaumont
+str_mp_quatre_bras_flag_2|Quatre Bras
+str_mp_quatre_bras_flag_3|Bossu Ormanları
+str_mp_quatre_bras_flag_4|Petit Pireaumont
+str_mp_quatre_bras_flag_5|Gemioncourt
+str_mp_river_crossing_flag_1|Tabya 1
+str_mp_river_crossing_flag_2|Tabya 2
+str_mp_river_crossing_flag_3|Martinitz Kasabası
+str_mp_roxburgh_flag_1|Balıkçı Pazarı
+str_mp_roxburgh_flag_2|Riverside Köyü
+str_mp_roxburgh_flag_3|Göl Kenarı
+str_mp_roxburgh_flag_4|Zanaatkar Köyü
+str_mp_roxburgh_flag_5|Middleton Köyü
+str_mp_roxburgh_flag_6|Tapınak
+str_mp_roxburgh_flag_7|Oduncu Locası
+str_mp_schemmerbach_flag_1|Schmmerbach çiftliği
+str_mp_schemmerbach_flag_2|Schemmerbach köprüsü
+str_mp_schemmerbach_flag_3|Köprü kavşağı
+str_mp_schemmerbach_flag_4|Hemp çayırı
+str_mp_slovenian_village_flag_1|Sloven Köy Yolu
+str_mp_slovenian_village_flag_2|Liman
+str_mp_slovenian_village_flag_3|Sloven Köyü
+str_mp_slovenian_village_flag_4|Orman
+str_mp_slovenian_village_flag_5|Nehir
+str_mp_champs_elysees_flag_1|Batı Caddesi
+str_mp_champs_elysees_flag_2|Doğu Caddesi
+str_mp_champs_elysees_flag_3|Güneybatı Mevkisi
+str_mp_champs_elysees_flag_4|Güneydoğu Mevkisi
+str_mp_champs_elysees_flag_5|Kuzeydoğu Mevkisi
+str_mp_champs_elysees_flag_6|Kuzeybatı Mevkisi
+str_mp_champs_elysees_flag_7|Arc de Triomphe
+str_mp_fort_vincey_flag_1|Whittington Hisarı
+str_mp_fort_vincey_flag_2|Küçük Tabya
+str_mp_fort_vincey_flag_3|Gelişmiş Tabya
+str_mp_fort_vincey_flag_4|Siperler
+str_mp_fort_vincey_flag_5|Büyük Tabya
+str_mp_swamp_flag_1|Kamp
+str_mp_swamp_flag_2|Siegburg
+str_mp_swamp_flag_3|Köprü
+str_mp_swamp_flag_4|Swamp Adası
+str_mp_swamp_flag_5|Ana Yol
+str_mp_swamp_flag_6|Mezarlık
+str_mp_swamp_flag_7|Balıkçının Evi
+str_mp_walloon_farm_flag_1|Doğu Kampı
+str_mp_walloon_farm_flag_2|Batı Kampı
+str_mp_walloon_farm_flag_3|Doğu Tepesi
+str_mp_walloon_farm_flag_4|Çiftlik
+str_mp_walloon_farm_flag_5|Batı Tepesi
+str_mp_walloon_farm_flag_6|Tabyalar
+str_scene_making_welcome_message|Ortam düzenleme moduna hoşgeldin.^Burada yeni ortamlar yaratabilir veya halihazırda varolanları değiştirebilirsin.^^Malzeme ayarları:^^# Hava malzemeleri:^spr mm weather time      # var1 = günün zamanı 0-23; Default = 15 (hours)^spr mm hava yağmur      # var1 = yağmur tipi; 1 = yağmur 2 = kar, var2 = yağmur miktarı 0-25^spr mm hava bulutlar    # var1 = bulut miktarı 0-100; Varsayılan = 30^spr mm hava sis       # var1 = sis mesafesi metre olarak x 10 sis görüşü tamamen kapatır. 1-127^spr mm hava gök gürültüsü   # var1 = gök gürültüsü tipi: 0 = yok 1 = gök gürültüsü sadece 2 = gök gürültüsü & şimşek,^                         # var2 = gö gürültüsü aralığı 0-100 ; değer ne kadar çoksa o kadar fazla gök gürültüsü olur.^^# Kapılar:^Bütün açılabilir kapılar       # var1 = Takım sahipliği; 1 = Takım1 açabilir, 2 = Takım2 açabilir; diğer herkes açabilir.^^# Top malzemeleri:^spr mm topla beraber canlan # Haritaya eklendiğinde topçu çavuşları top yanında canlanır.^
+str_tutorial_info_1|Hay lanet! Bu kahve yahu! Ben ÇAY demiştim!!!... Hey sen! Oradaki! At&Kılıç: Napolyon Savaşları eğitseline hoşgeldin!^ Şimdi eğitimine başlamak için evvela 'WASD' tuşlarını kullanarak okla gösterilen noktaya ilerle. Fareyi kullanarak etrafına bakabilir, tabi etrafa bakarken de Fransızları görebilirsin! Değil mi? Bleeehaha!
+str_tutorial_info_2|Şu karşındaki muhteşem Britanya mühendislik harikasını görüyor musun? Tüfeğe doğru bak ve 'F' tuşuyla al!
+str_tutorial_info_3|Harika! Kuşandın! Şimdi önündeki hedeflere biraz hasar verelim.^Farenin sol tuşuyla silahını doğrultup fareyi oynatarak nişan alabilirsin. Unutma ki misketin gideceği yer pek öngörülebilir değildir, sağı solu pek belli olmaz. Bleahaha!^Nişan aldığından emin olduğunda,ateşlemeyi yapmak için sol tuşu bırakabilirsin!
+str_tutorial_info_4|Talihsizlik! Hedefi ıskaladın. Silahı tekrar doldurun bir daha dene.^ Tekrar doldurmak için, farenin sol tuşuna basıp karakterin tüfeği doldurmasını bekle – iş birkaç saniye sürecektir onun için sabırlı ol. Ama unutma ki silahını doldururken yerinden hareket edemezsin.^Tüfeği doldurmayı bitirdikten sonra hedeflere takrar ateş et. Olur da yine ıskalarsan merak etme, yeniden silahı doldurup tekrar tekrar deneyebilirsin.
+str_tutorial_info_5|İyi iş çıkardın! Eğer dilersen atış talimlerine devam edebilirsin;^ Ancak, atış kısmını becerdiğini düşünüyorsan, solunda ok ile işaretlenmiş olan yeni alana ilerleyebilirsin.
+str_tutorial_info_6|Harika! Eğer istersen silahını tekrar doldurup atış yapabilirsin.^  Tekrar doldurmak için, farenin sol tuşuna basıp karakterin tüfeği doldurmasını bekle – iş birkaç saniye sürecektir onun için sabırlı ol. Ama unutma ki silahını doldururken yerinden hareket edemezsin.^Atış kısmına hakim olduğunu düşünüyorsan, solunda ok ile işaretlenmiş olan yeni alana ilerleyebilirsin.
+str_tutorial_info_7|Bazen muharebe esnasında bir Frenkle yakın temasa geçmek de gerekebilir, böyle durumlar için tüfeğine süngü takmak isteyebilirsin.^Ancak şu anda tüfeğin 'ateşleme modu'nda; süngüyü kullanmak için 'yakın dövüş modu'na geçmelisin. Modlar arasında geçiş yapmak için 'X' tuşunu kullan.
+str_tutorial_info_8|Harika. Şu anda yakın dövüş modundasın ve karşıdaki hedeflere süngü hücumu gerçekleştirebilirsin.^ANCAK! Bunu yapmadan önce bilmen gereken önemli bir şey daha var.^Sürekli olarak dik durmak zorunda değilsin, çömelerek de ilerleyebilirsin. Bunun için 'Z' tuşuna basman gerek.
+str_tutorial_info_9|Güzel! Gördüğün gibi şu an çömelmiş pozisyondasın. Aynı zamanda “yakın dövüş” modunda olduğun için karakterinin süngüyü adaha sağlam tuttuğunu görebilirsin. Bu cepheden süvari saldırılarında çok etkilidir.^Devam etmek için doğrul. Bunu yapmak için ya 'Z' tuşuna yada istediğin yön tuşlarından birine bas.
+str_tutorial_info_10|Şimdi saldırı ve savunmaya geçelim. Saldırmak için, farenin sol tuşunu basılı tutarken farenin kendisini de saldırmak istediğin yöne hareket ettirmelisin. Süngülü tüfeğinin sadece iki saldırı yönü var: yukarıya ve aşağıya. Başka silahların daha çok saldırı açısı olabilir. Örneğin kılıçların dört saldırı yönü vardır: yukarı, aşağı, sola ve sağa. Savurmak için sol tuşu bırak.^Savunma da benzer şekilde işler. Farenin sağ tuşunu basılı tutarken fareyi savunmak istediğin yöne kaydır. Bütün silahlar dört yönde de savunma yapabilir. Düşmanın saldırısını doğru yönden karşıladığına emin ol, yoksa senin icabına bakıverirler.^^Şimdi alandaki bütün korkulukları parçalayarak biraz süngü talimi yap.
+str_tutorial_info_11|Çok güzel!
+str_tutorial_info_12|Piyade savaşının temellerine hakim olduğumuza göre, atlı muharebeye geçebiliriz.^Sana oldukça görkemli ekipmanlar ve şahane bir at verildi. Ata binmek için yanına gidip 'F' tuşuna bas.
+str_tutorial_info_13|Demek ata bindin. Pek güzel. At sırtındayken yine 'WASD' yön tuşlarını kullanacaksın, ancak hareketin kalanı biraz daha farklı olacak: 'W' hızını arttırırken 'S' düşürecek; 'A' ve 'D' tuşları ise atının yönünü değiştirecek. Fareni oynatarak baktığın yönü değiştirebilirsin – ancak bunu yapman atın yönünde bir değişiklik yaratmaz. Ok ile işaretli yere giderek kontrolleri bir dene.
+str_tutorial_info_14|Mükemmel! Şimdi atı durdur. Sıra at sırtında atış yapmaya geldi. Uzaktaki hedefleri görüyor musun? At sırtından ateş etmek normal atış yapmaktan çok farklı değil, yani şmidiye kadar öğrendiklerinle karşıdaki hedefleri vurabilirsin.
+str_tutorial_info_15|Hay saçmasına!.. Iskaladın! Ama merak etme, daha önce de olduğu gibi tekrar doldurup yine deneyebilirsin. Ama unutma, ateş ederken hareketsiz kalma kuralı at sırtındayken de geçerlidir. Silahını doldurduktan sonra tekrar deneyebilirsin.
+str_tutorial_info_16|Vurdun! İstersen biraz daha çalışabilirsin.^^Devam etmeye hazır olduğunda, at sırtında yakın dövüş tekniklerinin coşkusunu tecrübe edeceğiz. Bunun için bir kılıca ihtiyacın olacaks Kılıcını kuşanmak için farenin tekerleğini yukarı yönde çevir.
+str_tutorial_info_17|Bravo! Ateş etmeye devam edebilirsin. Unutma, ateş ederken hareketsiz kalma kuralı at sırtındayken de geçerlidir.^^Devam etmeğe hazır olduğunda, at sırtında yakın dövüş tekniklerinin coşkusunu tecrübe edeceğiz. Bunun için bir kılıca ihtiyacın olacaks Kılıcını kuşanmak için farenin tekerleğini yukarı yönde çevir.
+str_tutorial_info_18|Atışta olduğu gibi, at sırtında yaakın dövüş de yaya olarak dövüştekiyle çok benzerdir. Şimdi şu korkulukların yanında koş ve onlara vurmaya çalış.^Hareket halindeyken vurmaya çalış, çünkü olduğun yerde saldırı yaparsan hız ve manevra kabiliyeti avantajını kullanamazsın.Eğer zamanlamanı tutturursan, herif öldüğünü bile anlamadan sen çok uzaklara gitmiş olursun.
+str_tutorial_info_19|Şahane! Artık at sırtında harbin en önemli yönlerini öğrendin.
+str_tutorial_info_20|Nihayet! Artık biraz topçu talimi yapmanın zamanı geldi.^Topa doğru git ve kutudan bir miktar cephane al!^^Üç tip cephane vardır:^Gülle çok lu kullanım alanı olan ve yapılara karşı oldukça etkili bir cephanedir;^Saçmalı top mermisi bir misket yağmuru ateşleyerek topun önündeki herkesi öldürür ama uzun mesafeli hedefleri vurmada yetersizliği meşhurdur;^Patlayıcı mermiler etrafa şarapnel parçaları da fırlamasına yol açtıkları için düşman birliklerine karşı oldukça etkilidir. Ancak patlayıcı mermiler standart toplarda kullanılamaz.
+str_tutorial_info_21|Cephaneyi topun ön tarafından namluya sür. Bunu yapmak için, topun önüne geç , 'Cephaneyi koy' komutunu gördüğünde işlem bitene kadar 'F' tuşuna bas.
+str_tutorial_info_22|Şimdi topu tekrar doldurmak için Top tomarına ihtiyacın olacak. Tekrar, namlunun ucuna geç ve iş bitene kadar 'F' tuşuna bas.
+str_tutorial_info_23|Ateşleme yapmadan önce topu ileriye alman gerekecek. Bunun için topu görüşüne al ve 'F' tuşuna bas.
+str_tutorial_info_24|Son olarak, namlunun arkasına geç ve “Kontrolü al” komutunu gör. 'F' tuşuna basarak topu kontrolüne al.
+str_tutorial_info_25|Top artık kontorlünde efendim! Nişan almak için fareyi kullan. Farenin sol tuşu topu ateşlerken sağ tuşu da kontrolü bıraktırır. Şimdi topu ateşlemek için sol tuşa bas.
+str_tutorial_info_26|Eğitimin sonuna geldik. Artık At&Kılıç: Napolyon Savaşları'nın savaş tekniklerini biliyorsun. Hazır olduğunda eğitim alanından çıkmak için 'Tab' tuşuna bas.^^Savaş meydanında iyi şanslar asker! Şimdi çay ve kurabiyeye marş marş!
+str_vienna_1|Temizlenen kasa: {reg0}/{reg1}
+str_austerlitz_1_1|Bertaraf edilen dalga: {reg0}/{reg1}
+str_dresden_1_1|Bertaraf edilen düşman: {reg0}/{reg1}
+str_dresden_1_2|Bertaraf edilen dalga: {reg0}/{reg1}
+str_dresden_2_1|Bertaraf edilen grup: {reg0}/{reg1}
+str_dresden_2_2|Bertaraf edilen hatlar: {reg0}/{reg1}
+str_cutscene_vienna_1|Danube nehri, Avrupa'nın en uzun ikinci nehri, Avusturya İmparatorluğunu ikiye böler. ^Ulm seferindeki başarıksızlıklarını müteakiben Avusturya Ordusu nehrin ötesindeki Viyana'ya çekiliyor.
+str_cutscene_vienna_2|Ancak Fransız öncü birlikleri pek de geride değil. ^Diğer bütün köprüler imha edildiği için Viyana'daki geçit Fransızlar için hayati önem arz ediyor.
+str_cutscene_vienna_3|Avusturyalılar Fransızlar tarafından nehri geçmeye yönelik bir hamle görürlerse köprüyü havaya uçuracaklar. ^Eğer başarırlarsa Fransızlar geri çekilen ittifak ordusunu daha fazla takip edemeyecek veUlm'daki zafer de bir hiç uğruna kazanılmış olacak.
+str_cutscene_vienna_4|Bu durum Fransız mareşaller Murat ve Lannes'i zor durumda bırakıyor; ^Avusturyalılara fark ettirmeden nehri geçmek zorundalar.
+str_cutscene_vienna_5|Bunu başarmak için bir hile yapmaya karar veriyorlar: ^Murat ve Lannes Avusturyalıları bir ateşkes antlaşmasının imzalanmış olduğuna ikna etmeye çalışacaklar.
+str_cutscene_vienna_6|Bu esnada senin görevin de ordunun geçebilmesi için sessiz sedasız köprüyü temizlemek.
+str_cutscene_austerlitz_1_1|Sokolnitz yakınlarındaki savaş meydanına vardın. ^Öncüler Rusların köyü ele geçirdiklerini ve senin geri alman gerekeceğini rapor ediyorlar.
+str_cutscene_austerlitz_1_2|Bak! Yaklaşan biri var.
+str_cutscene_austerlitz_1_3|Ulak: 'Ruslar köyü ele geçirdi! Onu geri alman büyük önem arz ediyor!'
+str_cutscene_austerlitz_1_4|Görünüşe göre çatışma bize düşündüğümüzden daha yakın. ^Pekala, köyü  Ruslardan geri alın!
+str_cutscene_austerlitz_1_5|Köy tekrardan Fransız kontrolü altında, bravo! ^Ama Ruslar şimdiden köyü geri kazanmak için birlikler gönderiyor, bunu başaramayacaklarından emin ol!
+str_cutscene_austerlitz_1_6|Destek birlikleri yetişti!
+str_cutscene_austerlitz_1_7|Köyü düşmana karşı başarıyla savundun. ^Zafere giden yolumuzda bunun bize çok faydası dokunacak!
+str_cutscene_austerlitz_1_8|Bir ulak daha!
+str_cutscene_austerlitz_1_9|Ulak: 'General köyü zaptetme ve savunmadaki başarının haberini aldı ^Gidip imparatora bu güzel haberleri şahsen versen iyi edersin!
+str_cutscene_dresden_1_1|Dresden şehri, Saksonya'nın başkenti. ^Şehir koalisyon kuvvetlerinin ağır saldırısı altında ve senin onu kurtarman gerekiyor.
+str_cutscene_dresden_1_2|Ruslar surları ele geçirdiler ve daha kalabalık bir grup kapılara bir saldırı yapma hazırlığında. ^Senin vazifen müttefikler kapıları tutarken surları geri almak olacak.
+str_cutscene_dresden_1_3|Surlar şimdilik güvende ancak şehirdeki geri çekilme tersine döndürülebilmiş değil. ^Müttefiklerin kapıları daha fazla koruyabilecek gibi görünmüyorlar, onlara yardım etmen gerekecek!
+str_cutscene_dresden_1_4|İlk saldırı savuşturuldu ancak düşman birliklerini göndermeye devam ediyor! ^Kapıyı tekrar aşmalarına Müsaade edemezsin!
+str_cutscene_dresden_1_5|Rus hücum kolları zayıfladıkça surlardaki baskı da azalıyor. ^General sana yardımcı olmaları adına birkaç takviye birlik gönderebilecek.
+str_cutscene_dresden_1_6|Hücumun gücü kesildi ve düşman kargaşaya düştü. ^Bu fırsatı kullanarak dışarı çık ve düzensiz düşman kuvvetini şehirden uzaklaştır!
+str_cutscene_dresden_2_1|Her ne kadar şehir savunması başarılı olduysa da, çevre köy ve çiftlikler hala düşmanın elinde. ^Emirlerin gidip buraları  Avusturya istilasından kurtarmak.
+str_cutscene_dresden_2_2|Ancak bundan önce, bölgeyi bütün Avusturya birliklerinden temizlemen gerekiyor. ^Öncüler konumunun ilerisinde 4 takımdan oluşan bir birlik olduğu haberini getirdi.
+str_cutscene_dresden_2_3|Ne yazık ki dragunlarımızı farkettiler ve onları karşılamak için kare formasyonu almaya başladılar. Piyadelerin ve topçuların çok geride kaldıkları ve o mesafeden destek sağlayamayacakları için ^bu çatışma çok zorlu geçecek.
+str_cutscene_dresden_2_4|Ama görünüşe bakılırsa Avusturyalı komutan birlikleriyle arasını çok açtı! ^Eğer onu tutsak edersen askerlerinin cesareti sarsılacak ve savaşın kalanı kolaylaşacak...
+str_cutscene_dresden_2_5|Formasyonları bozuldu ancak köy hala düşmanın elinde. ^Şimdi saldırıp köyü ele geçirme vakti.
+str_cutscene_dresden_2_6|Şansına daha çok süvari birliği destek olmak için geliyor. ^Bu fırsatı iyi kullan ki zafer bizim olsun. En avant!
+str_mission_briefing_1|1 Aralık 1805^Güzelce soluklandık ama şimdi tekrar yürüyüşe geçmemiz gerekiyor. Tanrıya şükür artık bu işin sonuna geliyoruz! ^Direk savaşın içine yürüyeceğimiz söyleniyor. ^^Viyana yakınlarında geçirdiğimiz süre şüphesiz ki seferin en güzel günleriydi. ^Büyük, temiz evleri olan köyler, muazzam yemek ve şarap – ve tüm o tatlı kızlar kuvvetimizi ^toparlamamıza yardım etti. Korkunç hava şartlarındaki bitmek tükenmek bilmeyen yürüyüşümüz bizi çok sarsmıştı. Geri çekilen müttefik kuvvetlerini takibimiz bizi bitap düşürmüştü. Bir süreliğine unutmak iyi geldi. ^^Ama huzur dolu istirahatimiz aniden en kısa sürede orduya katılmamız emriyle yarıda kesildi. Şimdi ise yine çılgınlar igbi savaşa yürüyoruz. Bu zoraki yürüyüşte alayın neredeyse yarısını geride bırakmak durumunda kaldık ama General Friant savaş alanına zamanına varmakta kararlı ve destek kuvvetlerimizin geride kalmış olmasını umursamıyor. ^^Söylenenlere göre müttefik kuvvetleri sayıca bizim oldukça üzerimizde, özellikle de süvarileri. Görünüşe göre bu sefer savaş ^savaş savunma olarak cereyan edecek, ama genel durum hala belirsiz. İmparatorun karargahından gelen bir ulak söylediğine göre ordumuzun arkadan gelen kolu Vishau denen bir yerde geri çekilmeye başlamış ve Austerlitz'e doğru gerilemesini sürdürüyormuş. ^^Söylemeye bile çekiniyorum ancak önümüzdeki savaşın düşüncesi bile beni dehşete düşürmeye yetiyor. Marengo benim katıldığım ilk -^aslında tek demem daha doğru olur- büyük savaştı ve bu neredeyse 5 sene önceydi. Hala o gün yaşadığım dehşetleri ^hatırlarım; düşünmek bile tüylerimi diken diken etmeye yetiyor. ^Neyse ki, şimdiye kadar hislerimi gizlemeyi başardım. Adamlarımız korkaklıktan nefret eder, hatta onu hainlikle eş tutar.
+str_mission_briefing_2|1 Aralık 1805^Güzel bir istirahat oldu ancak şimdi tekrar yürüyüşe geçiyoruz. Tanrıya şükür bu artık son hamlemiz olacak! ^Dosdoğru savaşın ortasına yürüdüğümüz konuşuluyor.^^Viyana'nın yakınlarında geçirdiğimiz zamanlar seferin güzel günleriydi kuşkusuz. Büyük tertemiz evleri olan zengin köyler, lezzetli yemekler ve şaraplar -- ve tabi güzel kızlar. ^Hepsai enerjimizi geri kazanmamıza yardımcı oldu.^Korkunç hava koşullarında yaptığımız bitmek tükenmek bilmeyen yürüyüşler hepimizi sarsmıştı. Sürekli geri çekilmekte olan düşmanı ^takip etmek bizi bitirmişti. Bir süreliğine de olsa bunları kafamızdan atmak iyi olmuştu.^^Ancak tekrar ordunun ana kanadına katılma emri geldiğinde, bu ufak tatilimiz ansızın kesilivermişti. ^Şimdi bir kez daha savaşa yürüyoruz. Bu zoraki yürüyüşte alayın neredeyse yarısını geride bırakmak durumunda kaldık ama General Friant savaş alanına zamanına varmakta kararlı ve destek kuvvetlerimizin geride kalmış olmasını umursamıyor. ^^Söylenenlere göre müttefik kuvvetleri sayıca bizim oldukça üzerimizde, özellikle de süvarileri. Görünüşe göre bu sefer savaş ^savaş savunma olarak cereyan edecek, ama genel durum hala belirsiz. İmparatorun karargahından gelen bir ulak söylediğine göre ordumuzun arkadan gelen kolu Vishau denen bir yerde geri çekilmeye başlamış ve Austerlitz'e doğru gerilemesini sürdürüyormuş. ^^Söylemeye bile çekiniyorum ancak önümüzdeki savaşın düşüncesi bile beni dehşete düşürmeye yetiyor. Marengo benim katıldığım ilk -^aslında tek demem daha doğru olur- büyük savaştı ve bu neredeyse 5 sene önceydi. Hala o gün yaşadığım dehşetleri ^hatırlarım; düşünmek bile tüylerimi diken diken etmeye yetiyor. ^Neyse ki, şimdiye kadar hislerimi gizlemeyi başardım. Adamlarımız korkaklıktan nefret eder, hatta onu hainlikle eş tutar.
+str_mission_briefing_3|26 Ağustos 1813^Bir süre önce garnizonumuzun sayıca çok ^üstün müttefik kuvvetler tarafından kuşatıldığı Dresden üzerine yürümek için hazırlanıyoruz. Raporlara göre topçu ateşi o kadar güçlü ki şehirden 10 kilometre uzakta bile yapıların camları titriyor. ^^Asıl amaç müttefiklerin iletişim olanaklarını sekteye uğratmaktı ^ancak İmparator iki gün önce Sakson başkentinin tehlikede olduğunu öğrenince bu planları değiştirdi. ^Tehlikenin büyüklüğünün farkına varınca kuvvetlerinin büyük bölümünü önceden planlandığı gibi baskında General Vandamme'a destek olmaları için gönderirken bizleri şehri kurtarmamız için görevlendirdi. ^Müttefik kuvvetlerin Dresden'i ele geçirmeye çalışacak olmaları sürpriz değil. Savunması acınacak halde, ^ve garnizonu da zayıf. Ama Napolyon bizleri müttefiklerin keşif birlikleri göndermediği yönlerden alana sokarak onlara tatsız bir sürpriz yaşatmak niyetinde. ^^Sayıca kuvvetli bir birliğimiz ve Prens Murat tarafından şahsen komuta edilen kalabalık bir süvari grubumuz var. Aksi gibi, ^hava gittikçe kötüleşiyor ve muhtemelen Dresden'e vardığımızda yağışlı olacak. Bu şartlarda süvarilerimizden sağlamayı umduğumuz faydalar da ciddi şekilde azalacak. ^^Şahsen, savaşmayı iple çekiyorum. En nihayet Ruslardan intikamımızı alıp, geçtiğimiz altı ^sıkıntılı ayın acısını çıkarabileceğiz. Her ne kadar ^Moskova'dan Berezina'ya kadar süren yoldaki dehşet anılarını hafızamdan silmeye çalışsam da, korkunç görüntüleri zihnimden söküp atamıyorum. Korkarım ki bu kabus beni hayatımın sonuna kadar rahat ^tabip edecek. Bu savaşı kazanmalıyız ve yoldaşların yok yere ölmediklerini göstermeliyiz!
+str_mission_briefing_4|5 Eylül 1812^^Bu savaştan sıkıldım artık. Yürüyüş kaldırılabiliyor, ama şu son birkaç gün zorlu geçti, ^hastalıktan ancak kurtulabildim. Buranın iklimi berbat! Gündüzler kavuruyor, ^geceleri soğuk, havası kuru. Artık hiç Rus köylü görünmüyor. Evlerini ateşe verip kaçtılar, ^Moskova'ya uzun yürüyüşümüzde işimize yarayacak faydalı erzak edinme fırsatı bırakmadılar.^^Adamlarımız da bıkkın. Çok uzun süredir geri çekilmekte olan düşmanın peşindeyiz. ^Ama yine de yürüyüş artık bir sona yaklaştığı için umutlular ve son savaşa gönüllü olarak katılacaklar. ^Rusların korkak olduğunu ve zaferin kolay elde edilebileceğini ve sevdiklerimizin kollarına kısa zamanda dönebileceğimizi düşünüyoruz. ^Hatta askerler savaşa girerken tören kıyafetlerini giymek istediklerini söylüyorlar. Umutlarımız ve bitkinliğimiz gözlerimizi ^kör etmiş: adamlarım en zorlu sınavın daha atlatılmadığını göremiyorlar.^^Bu sırada artık geri çekilmiyor ve konumlaırnda tahkimat oluşturup kuvvetleniyorlar. ^^Hazırlıkları Shevardino'daki büyük tabyadan izlenebiliyor. Geri konumlarından oldukça uzak olması onu ^iyi bir hedef yapıyor. Mareşal Davout tabyayı en ^kısa zamanda ele geçirme emrini aldı. Ben ise herşeyin yolunda gittiğinden emin olmak adına birliklerimi General Compans'ınkilerle birleştirme emri aldım.^^Ancak tedirginim. Daha önce hiç böyle bir tahkimat görmemiştim! Bu Rusların ^korkak olmadıklarını görüyorum artık. ^Daha fazla çekilmeyecekler muhakkak ki son nefeslerine kadar Moskova'yı koruyacaklar.
+str_mission_briefings_end|brifing sonu
+str_map_changed|Harita Değişimi.
+str_round_changed|Yeni raund başladı.
+str_teamkilled_s1_s2_horse|{s1} {s2}'in atını öldürdü.
+str_teamwounded_s1_s2|{s1} {s2}'a {reg60} takım hasarı verdi.
+str_teamwounded_s1_s2_horse|{s1} {s2}'in atına {reg60} hasar verdi.
+str_revive_player|Oyuncuyu Dirilt
+str_revive_all|Herkesi Dirilt
+str_revive_player_s2_s3|{s3} {s2} tarafından diriltildi.
+str_revive_all_s2|{s2} Herkesi Diriltti.
+str_cheat_god_mode|Tanrı Modu
+str_cheat_god_mode_s3_s2|{s2} Tanrı Modunu {s3} için etkinleştirdi.
+str_cheat_god_mode_s3_s2_2|{s2} Tanrı Modunu {s3} için kapattı.
+str_suicide_player|İntihar
+str_s2_suicide|{s2} intihar etti.
+str_admin_set_limit_surgeon_s0_reg1|{s0} Cerrahlar için sınıf limitini takımın % {reg1} olarak değiştirdi.
+str_limit_surgeon|Takımlardaki Cerrah limiti (%):
+str_admin_set_limit_arty_train_s0_reg1|{s0} Topçu Refakatçisi için sınıf limitini takımın % {reg1} olarak değiştirdi.
+str_limit_arty_train|Takımlardaki Topçu Refakatçisi limiti (%):
+str_admin_set_groupfight_mode_s0_s9|{s0} Takımsavaşı modunu kullanmayı {s9} yaptı.
+str_groupfight_mode|Menzilli silahları devre dışı bırak (groupfighting)
+str_admin_set_competitive_score_mode_s0_s9|{s0} Rekabetçi Skor modunu {s9} yaptı.
+str_competitive_score_mode|Rekabetçi skor modu
+str_more_admin_tools|Daha Çok Admin Aracı
+str_choose_an_admin_tool|Bir admin aracı seç:
+str_spawn_player|Oyuncuyu Canlandır
+str_spawn_all|Herkesi Canlandır
+str_spawn_all_s2|{s2} Herkesi canlandırdı.
+str_spawn_player_s2_s3|{s2} {s3} adlı oyuncuyu canlandırdı.
+str_welcome_message_toggle|Karşılama mesajı {s9} olarak belirlendi.
+str_commit_suicide|Ölmek istediğine emin misin?
+str_no_line_inf_spread|Oyuncuyu piyadeyken gevşek düzenden alıkoy.
+str_admin_set_no_line_inf_spread_s0_s9|{s0} Oyuncuyu piyade alayıyken gevşek formasyondan alıkoymayı {s9} yaptı.
+str_line_inf_spread|Şimdiki server ayarları piyade alaylarına başlangıç yerlerinden ayrılmalarına izin vermiyor. 
+str_num_custom_maps|Mevcut özel haritalardan # seç.
+str_admin_set_num_custom_maps_s0_reg1|{s0} Seçilecek mevcut özel haritaları {reg1} yaptı.
+str_no_rambo|Takım arkadaşı hasarını devre dışı bırak.
+str_no_rambo_warning|Takımından çok uzaktasın! Hasar vermiyorsun.
+str_admin_set_no_rambo_s0_s9|{s0} Takım arkadaşı hasarını {s9} yaptı.
+str_no_rambo_range|Takımdan metre olarak en fazla uzaklık (rambo):
+str_admin_set_no_rambo_range_s0_reg1|{s0} Takımdan metre olarak en fazla uzaklığı {reg1} yaptı (temelde rambo yok).
+str_set_admin_true_s2|{s2} beyazlistece admin yapıldı.
+str_set_admin_false_s2|{s2} adminlikten alındı, beyazlistede değil.
+str_return_set_admin_true_s2|{s2}, Admin beyazlistesi tarafından admin yapıldın.
+str_return_set_admin_false_s2|{s2}, Admin beyazlistesi tarafından adminlikten alındın.
+str_admin_white_list_is_enabled|Admin beyazlistesi etkinleştirildi.
+str_admin_white_list_is_disabled|Admin beyazlistesi kapatıldı.
+str_admin_white_list_added_key_reg0|Added key: {reg0} to the admin whitelist.
+str_healed_player_s2_reg4_reg5|Oyuncu {s2} %{reg4} iyileştirildi, şimdiki sağlık: %{reg5}.
+str_healed_player_full_s2_reg4|Oyuncu {s2} %{reg4} iyileştirildi, ve şimdi canı dolu.
+str_healed_player_no_more_s2_reg4|Oyuncu {s2} %{reg4} iyileştirildi, ve daha fazla iyileştirilemez.
+str_not_healed_player_full_s2|Oyuncu {s2} zaten tamamen iyileştirildi.
+str_not_healed_player_no_more_s2|Oyuncu {s2} daha fazla iyileştirilemez.
+str_got_healed_player_s2_reg4_reg5|Oyuncu {s2} seni %{reg4} iyileştirdi, şimdiki sağlık: %{reg5}.
+str_got_healed_player_full_s2_reg4|Oyuncu {s2} seni %{reg4} iyileştirdi, şimdi canın dolu.
+str_got_healed_player_no_more_s2_reg4|Oyuncu {s2} seni %{reg4} iyileştirdi, daha fazla iyileştirilemezsin.
+str_not_got_healed_player_full_s2|Oyuncu {s2} seni iyileştiremez, Canın zaten dolu.
+str_not_got_healed_player_no_more_s2|Oyuncu {s2} seni iyileştiremez, daha fazla iyileştirilemezsin.
+str_healed_player_horse_s2_reg4_reg5|Oyuncu {s2}'in atı %{reg4} iyileştirildi, şimdiki sağlık: %{reg5}.
+str_healed_player_horse_full_s2_reg4|Oyuncu {s2}'in atı %{reg4} iyileştirildi, ve şimdi canı dolu.
+str_healed_player_horse_no_more_s2_reg4|Oyuncu {s2}'in  %{reg4} iyileştirildi, ve daha fazla iyileştirilemez.
+str_not_healed_player_horse_full_s2|Oyuncu {s2}'in atının canı zaten tamamen dolu.
+str_not_healed_player_horse_no_more_s2|Oyuncu {s2}'in atı daha fazla iyileştirilemez.
+str_got_healed_player_horse_s2_reg4_reg5|Oyuncu {s2} senin atını %{reg4} iyileştirdi, şimdiki sağlık: %{reg5}.
+str_got_healed_player_horse_full_s2_reg4|Oyuncu {s2} senin atını %{reg4} iyileştirdi, ve şimdi canı dolu.
+str_got_healed_player_horse_no_more_s2_reg4|Oyuncu {s2} senin atını %{reg4} iyileştirdi, ve daha fazla iyileştirilemez.
+str_not_got_healed_player_horse_full_s2|Oyuncu {s2} senin atını iyileştiremez, canı zaten tamamen dolu.
+str_not_got_healed_player_horse_no_more_s2|Oyuncu {s2} senin atını iyileştiremez, daha fazla iyileştirilemez.
+str_healed_horse_s2_reg4_reg5|{s2} atı %{reg4} iyileştirildi, şimdiki sağlık: %{reg5}.
+str_healed_horse_full_s2_reg4|{s2} atı %{reg4} iyileştirildi, ve şimdi canı dolu.
+str_healed_horse_no_more_s2_reg4|{s2} atı %{reg4} iyileştirildi, ve daha fazla iyileştirilemez.
+str_not_healed_horse_full_s2|Oyuncu {s2} atının canı zaten tamamen dolu.
+str_not_healed_horse_no_more_s2|Oyuncu {s2} atı daha fazla iyileştirilemez.
+str_royale_weapon_musket|Bir tüfek al
+str_royale_weapon_pistol|Bir tabanca al
+str_royale_weapon_carabine|Bir karabina al
+str_royale_weapon_smallsword|Bir küçük kılıç al
+str_royale_weapon_bigsword|Bir kılıç al
+str_royale_weapon_bottle|Bir şişe al
+str_royale_weapon_axe|Bir balta al
+str_royale_weapon_spear|Bir gönderli silah al
+str_royale_weapon_club|Bir sopa al
+str_royale_weapon_tool|Bir alet al
+str_royale_weapon_ramrod|Bir harbi al
+str_royale_weapon_lighter|Bir çakmak al
+str_royale_weapon_ammo|Mühimmat al
+str_royale_weapon_ammo_pistol|Tabanca mühimmatı al
+str_royale_weapon_ammo_musket|Tüfek mühimmatı al
+str_custom_flag_name_1|Custom Flag 1
+str_custom_flag_name_2|Custom Flag 2
+str_custom_flag_name_3|Custom Flag 3
+str_custom_flag_name_4|Custom Flag 4
+str_custom_flag_name_5|Custom Flag 5
+str_custom_flag_name_6|Custom Flag 6
+str_custom_flag_name_7|Custom Flag 7
+str_custom_flag_name_8|Custom Flag 8
+str_custom_flag_name_9|Custom Flag 9
+str_custom_flag_name_10|Custom Flag 10
+str_custom_flag_name_11|Custom Flag 11
+str_custom_flag_name_12|Custom Flag 12
+str_custom_flag_name_13|Custom Flag 13
+str_custom_flag_name_14|Custom Flag 14
+str_custom_flag_name_15|Custom Flag 15
+str_custom_flag_name_16|Custom Flag 16
+str_custom_flag_name_17|Custom Flag 17
+str_custom_flag_name_18|Custom Flag 18
+str_custom_flag_name_19|Custom Flag 19
+str_custom_flag_name_20|Custom Flag 20
+str_custom_flag_name_21|Custom Flag 21
+str_custom_flag_name_22|Custom Flag 22
+str_custom_flag_name_23|Custom Flag 23
+str_custom_flag_name_24|Custom Flag 24
+str_custom_flag_name_25|Custom Flag 25
+str_custom_flag_name_26|Custom Flag 26
+str_custom_flag_name_27|Custom Flag 27
+str_custom_flag_name_28|Custom Flag 28
+str_custom_flag_name_29|Custom Flag 29
+str_custom_flag_name_30|Custom Flag 30
+str_custom_flag_name_31|Custom Flag 31
+str_custom_flag_name_32|Custom Flag 32
+str_custom_flag_name_33|Custom Flag 33
+str_custom_flag_name_34|Custom Flag 34
+str_custom_flag_name_35|Custom Flag 35
+str_custom_flag_name_36|Custom Flag 36
+str_custom_flag_name_37|Custom Flag 37
+str_custom_flag_name_38|Custom Flag 38
+str_custom_flag_name_39|Custom Flag 39
+str_custom_flag_name_40|Custom Flag 40
+str_welcome_message_server|Hoşgeldiniz, {s3}, kullanıcı IDniz {reg44}. Lütfen server kurallarına uyun ve keyfini çıkarın!

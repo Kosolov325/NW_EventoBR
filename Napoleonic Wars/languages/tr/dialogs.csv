@@ -1,0 +1,26 @@
+dlga_start:companion_talk|Nice to meet you again {Sir/Madam}, How can I help you?.
+dlga_companion_talk:companion_talk_equipment|Let me see your equipment.
+dlga_companion_talk_equipment:companion_talk_end|Very well, Here it is.
+dlga_companion_talk_end:companion_talk|Anything else?
+dlga_companion_talk:companion_talk_opinion|What do you think of my commanding?
+dlga_companion_talk_opinion:companion_talk|It is very good {Sir/Madam}!
+dlga_companion_talk:close_window|Nothing, Carrry on.
+dlga_start:town_merchant_talk|Good day. What can I do for you?
+dlga_town_merchant_talk:trade_requested_weapons|I want to buy a new weapon. What do you have in stock?
+dlga_town_merchant_talk:trade_requested_armor|I am looking for some new uniforms. Show me what you have.
+dlga_town_merchant_talk:trade_requested_horse|I am thinking of buying a horse.
+dlga_trade_requested_weapons:merchant_trade|Ah, yes {sir/madam}. These arms are the best you'll find anywhere.
+dlga_trade_requested_armor:merchant_trade|Of course, {sir/madam}. You won't find better quality uniforms anywhere in this army.
+dlga_trade_requested_horse:merchant_trade|You have a fine eye for horses, {sir/madam}. You won't find better beasts than these anywhere else.
+dlga_merchant_trade:town_merchant_talk|Anything else?
+dlga_town_merchant_talk:close_window|Good-bye.
+dlga_start:camp_dweller_talk|{s14} reporting for duty {Sir/Madam}!
+dlga_start:camp_dweller_talk.1|Good day, {Sir/Madam}. Something to discuss?
+dlga_start:camp_dweller_talk.2|Sir, I bring orders for you to take on the next mission, are you prepared?
+dlga_start:camp_dweller_talk.3|It is a honor to meet you, {Sir/Madam}. How can I be of service?
+dlga_camp_dweller_talk:close_window|Nothing, Carry on.
+dlga_camp_dweller_talk:close_window.1|Not at this time Sir, Have a nice evening.
+dlga_camp_dweller_talk:close_window.2|Give me the orders! I shall leave at once.
+dlga_camp_dweller_talk:close_window.3|I am not prepared yet.
+dlga_camp_dweller_talk:close_window.4|Nevermind.
+dlga_start:close_window|Dialog Error. No dialog found.

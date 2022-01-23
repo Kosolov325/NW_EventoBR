@@ -1,0 +1,983 @@
+﻿trp_player|플레이어
+trp_player_pl|플레이어
+trp_multiplayer_profile_troop_male|멀티플레이어 프로필 병사 남성
+trp_multiplayer_profile_troop_male_pl|멀티플레이어 프로필 병사 남성
+trp_multiplayer_profile_troop_female|멀티플레이어 프로필 병사 여성
+trp_multiplayer_profile_troop_female_pl|멀티플레이어 프로필 병사 여성
+trp_temp_troop|임시 부대
+trp_temp_troop_pl|임시 부대
+trp_british_infantry|영국 제 33 보병연대
+trp_british_infantry_pl|전열보병
+trp_british_infantry_ai|영국 전열보병
+trp_british_infantry_ai_pl|전열보병
+trp_british_infantry2_ai|독일 전열보병
+trp_british_infantry2_ai_pl|독일 전열보병
+trp_british_highlander_ai|영국 하이랜드 보병
+trp_british_highlander_ai_pl|스코틀랜드 보병
+trp_british_foot_guard_ai|영국 근위보병
+trp_british_foot_guard_ai_pl|근위보병연대
+trp_british_light_infantry_ai|영국 경보병
+trp_british_light_infantry_ai_pl|경보병
+trp_british_rifle_ai|영국 소총병
+trp_british_rifle_ai_pl|소총병
+trp_british_hussar_ai|영국 경기병
+trp_british_hussar_ai_pl|경기병대
+trp_british_light_dragoon_ai|영국 경용기병
+trp_british_light_dragoon_ai_pl|경 용기병대
+trp_british_dragoon_ai|영국 용기병
+trp_british_dragoon_ai_pl|중 용기병대
+trp_british_horseguard_ai|영국 기마 근위병
+trp_british_horseguard_ai_pl|기마 근위대
+trp_british_ship_ai|영국 선원
+trp_british_ship_ai_pl|선원
+trp_british_ship_marine_ai|영국 해병
+trp_british_ship_marine_ai_pl|해병대
+trp_british_arty_ai|영국 포병
+trp_british_arty_ai_pl|포병대 (평사포)
+trp_british_arty_alt_ai|영국 포병
+trp_british_arty_alt_ai_pl|포병대 (곡사포)
+trp_british_rocket_ai|영국 로켓 사수
+trp_british_rocket_ai_pl|로켓 포병대
+trp_french_infantry_ai|프랑스 전열보병
+trp_french_infantry_ai_pl|전열보병
+trp_french_infantry2_ai|프랑스 척탄병
+trp_french_infantry2_ai_pl|척탄병대
+trp_french_infantry_vistula_ai|폴란드 전열보병
+trp_french_infantry_vistula_ai_pl|폴란드 전열보병
+trp_french_old_guard_ai|프랑스 근위척탄병
+trp_french_old_guard_ai_pl|근위척탄병대
+trp_french_voltigeur_ai|프랑스 경보병
+trp_french_voltigeur_ai_pl|경보병
+trp_french_hussar_ai|프랑스 경기병
+trp_french_hussar_ai_pl|경기병대
+trp_french_lancer_ai|폴란드 창기병
+trp_french_lancer_ai_pl|폴란드 창기병대
+trp_french_dragoon_ai|프랑스 용기병
+trp_french_dragoon_ai_pl|용기병대
+trp_french_cuirassier_ai|프랑스 흉갑기병
+trp_french_cuirassier_ai_pl|흉갑기병대
+trp_french_carabineer_ai|프랑스 캐러비니어
+trp_french_carabineer_ai_pl|캐러비니어 부대
+trp_french_grenadier_a_cheval_ai|프랑스 기마 척탄병
+trp_french_grenadier_a_cheval_ai_pl|기마척탄병연대
+trp_french_ship_ai|프랑스 선원
+trp_french_ship_ai_pl|선원
+trp_french_ship_marine_ai|프랑스 해병
+trp_french_ship_marine_ai_pl|해병대
+trp_french_arty_ai|프랑스 포병
+trp_french_arty_ai_pl|포병대 (평사포)
+trp_french_arty_alt_ai|프랑스 포병
+trp_french_arty_alt_ai_pl|포병대 (곡사포)
+trp_prussian_infantry_ai|프로이센 전열보병
+trp_prussian_infantry_ai_pl|전열보병 (브란덴부르크)
+trp_prussian_infantry2_ai|프로이센 전열보병
+trp_prussian_infantry2_ai_pl|전열보병 (렌)
+trp_prussian_infantry_kurmark_ai|프로이센 예비군
+trp_prussian_infantry_kurmark_ai_pl|예비군
+trp_prussian_infantry_freikorps_ai|프로이센 자유군단
+trp_prussian_infantry_freikorps_ai_pl|자유군단
+trp_prussian_infantry_15_ai|프로이센 근위보병
+trp_prussian_infantry_15_ai_pl|근위보병연대
+trp_prussian_infantry_rifle_ai|프로이센 엽병
+trp_prussian_infantry_rifle_ai_pl|엽병대
+trp_prussian_dragoon_ai|프로이센 용기병
+trp_prussian_dragoon_ai_pl|용기병대
+trp_prussian_hussar_ai|프로이센 경기병
+trp_prussian_hussar_ai_pl|경기병대
+trp_prussian_landwehr_cav_ai|프로이센 창기병
+trp_prussian_landwehr_cav_ai_pl|창기병대
+trp_prussian_cuirassier_ai|프로이센 흉갑기병
+trp_prussian_cuirassier_ai_pl|흉갑기병대
+trp_prussian_arty_ai|프로이센 포병
+trp_prussian_arty_ai_pl|포병대 (평사포)
+trp_prussian_arty_alt_ai|프로이센 포병
+trp_prussian_arty_alt_ai_pl|포병대 (곡사포)
+trp_russian_partizan_ai|러시아 유격병
+trp_russian_partizan_ai_pl|유격대
+trp_russian_opol_ai|러시아 민병대
+trp_russian_opol_ai_pl|무장 민병대
+trp_russian_infantry_ai|러시아 전열보병
+trp_russian_infantry_ai_pl|전열보병
+trp_russian_grenadier_ai|러시아 척탄병
+trp_russian_grenadier_ai_pl|척탄병대
+trp_russian_foot_guard_ai|러시아 근위보병
+trp_russian_foot_guard_ai_pl|근위보병연대
+trp_russian_infantry_rifle_ai|러시아 엽병
+trp_russian_infantry_rifle_ai_pl|엽병대
+trp_russian_hussar_ai|러시아 경기병
+trp_russian_hussar_ai_pl|경기병대
+trp_russian_uhlan_ai|러시아 창기병
+trp_russian_uhlan_ai_pl|창기병대
+trp_russian_cossack_ai|러시아 코사크 기병
+trp_russian_cossack_ai_pl|코사크 기병대
+trp_russian_dragoon_ai|러시아 용기병
+trp_russian_dragoon_ai_pl|용기병대
+trp_russian_horse_guard_ai|러시아 근위 기병
+trp_russian_horse_guard_ai_pl|근위 기병대
+trp_russian_arty_ai|러시아 포병
+trp_russian_arty_ai_pl|포병대 (평사포)
+trp_russian_arty_alt_ai|러시아 포병
+trp_russian_arty_alt_ai_pl|포병대 (곡사포)
+trp_austrian_infantry_ai|오스트리아 전열보병
+trp_austrian_infantry_ai_pl|전열보병 (오스트리아)
+trp_austrian_infantry2_ai|헝가리 전열보병
+trp_austrian_infantry2_ai_pl|전열보병 (헝가리)
+trp_austrian_grenzer_ai|오스트리아 경보병
+trp_austrian_grenzer_ai_pl|경보병대
+trp_austrian_grenadier_ai|헝가리 척탄병
+trp_austrian_grenadier_ai_pl|척탄병대
+trp_austrian_infantry_rifle_ai|오스트리아 엽병
+trp_austrian_infantry_rifle_ai_pl|엽병대
+trp_austrian_hussar_ai|오스트리아 경기병
+trp_austrian_hussar_ai_pl|경기병대
+trp_austrian_uhlan_ai|오스트리아 창기병
+trp_austrian_uhlan_ai_pl|창기병대
+trp_austrian_light_horse_ai|오스트리아 경기병
+trp_austrian_light_horse_ai_pl|경기병대
+trp_austrian_dragoon_ai|오스트리아 용기병
+trp_austrian_dragoon_ai_pl|용기병대
+trp_austrian_cuirassier_ai|오스트리아 흉갑기병
+trp_austrian_cuirassier_ai_pl|흉갑기병대
+trp_austrian_arty_ai|오스트리아 포병
+trp_austrian_arty_ai_pl|포병대 (평사포)
+trp_austrian_arty_alt_ai|오스트리아 포병
+trp_austrian_arty_alt_ai_pl|포병대 (곡사포)
+trp_rhine_infantry_bavaria_ai|바이에른 전열보병
+trp_rhine_infantry_bavaria_ai_pl|바이에른 전열보병
+trp_rhine_infantry_wurttemberg_ai|뷔르템베르크 전열보병
+trp_rhine_infantry_wurttemberg_ai_pl|뷔르템베르크 전열보병
+trp_rhine_infantry_saxony_ai|작센 전열보병
+trp_rhine_infantry_saxony_ai_pl|작센 전열보병
+trp_rhine_infantry_wurttemberg2_ai|뷔르템베르크 척탄병
+trp_rhine_infantry_wurttemberg2_ai_pl|뷔르템베르크 척탄병
+trp_rhine_grenadier_guard_ai|베스트팔렌 척탄 근위대
+trp_rhine_grenadier_guard_ai_pl|척탄 근위대
+trp_rhine_light_infantry_hessen_ai|헤센 경보병
+trp_rhine_light_infantry_hessen_ai_pl|경보병
+trp_rhine_light_infantry_bavaria_ai|바이에른 소총병
+trp_rhine_light_infantry_bavaria_ai_pl|소총병
+trp_rhine_mounted_jaeger_ai|나사우 기마 엽병
+trp_rhine_mounted_jaeger_ai_pl|기마 엽병대
+trp_rhine_uhlan_ai|작센 창기병
+trp_rhine_uhlan_ai_pl|창기병대
+trp_rhine_light_dragoon_ai|바드너 경용기병
+trp_rhine_light_dragoon_ai_pl|경용기병대
+trp_rhine_cuirassier_ai|베스트팔렌 흉갑기병
+trp_rhine_cuirassier_ai_pl|흉갑기병대
+trp_rhine_garde_du_corps_ai|작센 기마 근위병
+trp_rhine_garde_du_corps_ai_pl|기마 근위대
+trp_rhine_arty_ai|바이에른 포병
+trp_rhine_arty_ai_pl|포병대 (평사포)
+trp_rhine_arty_alt_ai|바이에른 포병
+trp_rhine_arty_alt_ai_pl|포병대 (곡사포)
+trp_british_infantry_nco|영국 전열보병
+trp_british_infantry_nco_pl|기수
+trp_british_infantry_officer|영국 전열보병
+trp_british_infantry_officer_pl|장교
+trp_british_infantry_drum|영국 전열보병
+trp_british_infantry_drum_pl|드럼 군악병
+trp_british_infantry_flute|영국 전열보병
+trp_british_infantry_flute_pl|파이프 군악병
+trp_british_infantry2|제 5 왕립독일의용군대대
+trp_british_infantry2_pl|전열보병
+trp_british_infantry2_nco|독일 전열보병
+trp_british_infantry2_nco_pl|기수
+trp_british_infantry2_officer|독일 전열보병
+trp_british_infantry2_officer_pl|장교
+trp_british_infantry2_drum|독일 전열보병
+trp_british_infantry2_drum_pl|드럼 군악병
+trp_british_infantry2_flute|독일 전열보병
+trp_british_infantry2_flute_pl|파이프 군악병
+trp_british_highlander|제 42 보병연대 (블랙와치)
+trp_british_highlander_pl|전열보병
+trp_british_highlander_nco|영국 스코틀랜드 보병
+trp_british_highlander_nco_pl|기수
+trp_british_highlander_officer|영국 스코틀랜드 보병
+trp_british_highlander_officer_pl|장교
+trp_british_highlander_drum|영국 스코틀랜드 보병
+trp_british_highlander_drum_pl|드럼 군악병
+trp_british_highlander_pipes|영국 스코틀랜드 보병
+trp_british_highlander_pipes_pl|백파이프 군악병
+trp_british_foot_guard|콜드스트림 근위보병연대
+trp_british_foot_guard_pl|근위보병
+trp_british_foot_guard_nco|영국 근위보병
+trp_british_foot_guard_nco_pl|기수
+trp_british_foot_guard_officer|영국 근위보병
+trp_british_foot_guard_officer_pl|장교
+trp_british_foot_guard_drum|영국 근위보병
+trp_british_foot_guard_drum_pl|드럼 군악병
+trp_british_foot_guard_flute|영국 근위보병
+trp_british_foot_guard_flute_pl|파이프 군악병
+trp_british_light_infantry|제 51 요크셔 보병 연대
+trp_british_light_infantry_pl|경보병
+trp_british_light_infantry_nco|영국 경보병
+trp_british_light_infantry_nco_pl|기수
+trp_british_light_infantry_officer|영국 경보병
+trp_british_light_infantry_officer_pl|장교
+trp_british_light_infantry_horn|영국 경보병
+trp_british_light_infantry_horn_pl|나팔수
+trp_british_rifle|제 95 보병연대 (소총병)
+trp_british_rifle_pl|소총병
+trp_british_rifle_nco|영국 소총병
+trp_british_rifle_nco_pl|하사관
+trp_british_rifle_officer|영국 소총병
+trp_british_rifle_officer_pl|장교
+trp_british_rifle_horn|영국 소총병
+trp_british_rifle_horn_pl|나팔수
+trp_british_hussar|제 1 왕립독일의용군 경기병대
+trp_british_hussar_pl|경기병
+trp_british_hussar_nco|영국 경기병
+trp_british_hussar_nco_pl|하사관
+trp_british_hussar_officer|영국 경기병
+trp_british_hussar_officer_pl|장교
+trp_british_hussar_bugle|영국 경기병
+trp_british_hussar_bugle_pl|나팔수
+trp_british_light_dragoon|제 23 경 용기병대
+trp_british_light_dragoon_pl|경량 기마
+trp_british_light_dragoon_nco|영국 경용기병
+trp_british_light_dragoon_nco_pl|하사관
+trp_british_light_dragoon_officer|영국 경용기병
+trp_british_light_dragoon_officer_pl|장교
+trp_british_light_dragoon_bugle|영국 경용기병
+trp_british_light_dragoon_bugle_pl|나팔수
+trp_british_dragoon|제 6 (이니스킬링) 용기병대
+trp_british_dragoon_pl|중기병
+trp_british_dragoon_nco|영국 용기병
+trp_british_dragoon_nco_pl|하사관
+trp_british_dragoon_officer|영국 용기병
+trp_british_dragoon_officer_pl|장교
+trp_british_dragoon_bugle|영국 용기병
+trp_british_dragoon_bugle_pl|나팔수
+trp_british_horseguard|왕립 기마 근위대
+trp_british_horseguard_pl|중기병
+trp_british_horseguard_nco|영국 기마 근위병
+trp_british_horseguard_nco_pl|하사관
+trp_british_horseguard_officer|영국 기마 근위병
+trp_british_horseguard_officer_pl|장교
+trp_british_horseguard_bugle|영국 기마 근위병
+trp_british_horseguard_bugle_pl|나팔수
+trp_british_arty|왕립 포병대
+trp_british_arty_pl|포병대
+trp_british_arty_guard|포병 호위대
+trp_british_arty_guard_pl|포병 호위대
+trp_british_arty_nco|영국 포병
+trp_british_arty_nco_pl|포차견인대
+trp_british_arty_officer|영국 포병
+trp_british_arty_officer_pl|장교
+trp_british_rocket|제 2 로켓 포병대
+trp_british_rocket_pl|로켓 포병대
+trp_british_medic|군의관
+trp_british_medic_pl|군의관
+trp_british_sapper|공병
+trp_british_sapper_pl|전투공병
+trp_british_ship|선박 승조원
+trp_british_ship_pl|보병
+trp_british_ship_cannon|선박 승조원
+trp_british_ship_cannon_pl|해군 포병대
+trp_british_ship_marine|선박 승조원
+trp_british_ship_marine_pl|제 1 왕립해병대대
+trp_british_ship_captain|선박 승조원
+trp_british_ship_captain_pl|HMS 넵튠 함장
+trp_wellington|웰링턴 공작 아서 웰즐리
+trp_wellington_pl|지휘관
+trp_french_infantry|제 45 전열보병 연대
+trp_french_infantry_pl|전열보병
+trp_french_infantry_nco|프랑스 전열보병
+trp_french_infantry_nco_pl|기수
+trp_french_infantry_officer|프랑스 전열보병
+trp_french_infantry_officer_pl|장교
+trp_french_infantry_drum|프랑스 전열보병
+trp_french_infantry_drum_pl|드럼 군악병
+trp_french_infantry_flute|프랑스 전열보병
+trp_french_infantry_flute_pl|파이프 군악병
+trp_french_infantry2|제 84 전열보병 연대
+trp_french_infantry2_pl|전열보병
+trp_french_infantry2_nco|프랑스 척탄병
+trp_french_infantry2_nco_pl|기수
+trp_french_infantry2_officer|프랑스 척탄병
+trp_french_infantry2_officer_pl|장교
+trp_french_infantry2_drum|프랑스 척탄병
+trp_french_infantry2_drum_pl|드럼 군악병
+trp_french_infantry2_flute|프랑스 척탄병
+trp_french_infantry2_flute_pl|파이프 군악병
+trp_french_infantry_vistula|폴란드 비스툴라 군단
+trp_french_infantry_vistula_pl|전열보병
+trp_french_infantry_vistula_colours|폴란드 전열보병
+trp_french_infantry_vistula_colours_pl|기수
+trp_french_infantry_vistula_officer|폴란드 전열보병
+trp_french_infantry_vistula_officer_pl|장교
+trp_french_infantry_vistula_drum|폴란드 전열보병
+trp_french_infantry_vistula_drum_pl|드럼 군악병
+trp_french_infantry_vistula_flute|폴란드 전열보병
+trp_french_infantry_vistula_flute_pl|파이프 군악병
+trp_french_old_guard|제 1 제국척탄근위연대
+trp_french_old_guard_pl|근위보병
+trp_french_old_guard_nco|프랑스 근위척탄병
+trp_french_old_guard_nco_pl|기수
+trp_french_old_guard_officer|프랑스 근위척탄병
+trp_french_old_guard_officer_pl|장교
+trp_french_old_guard_drum|프랑스 척탄 근위병
+trp_french_old_guard_drum_pl|드럼 군악병
+trp_french_old_guard_flute|프랑스 근위척탄병
+trp_french_old_guard_flute_pl|파이프 군악병
+trp_french_voltigeur|제 15 경보병 연대
+trp_french_voltigeur_pl|경보병
+trp_french_voltigeur_colours|프랑스 경보병
+trp_french_voltigeur_colours_pl|기수
+trp_french_voltigeur_officer|프랑스 경보병
+trp_french_voltigeur_officer_pl|장교
+trp_french_voltigeur_horn|프랑스 경보병
+trp_french_voltigeur_horn_pl|나팔수
+trp_french_hussar|제 2 경기병 연대
+trp_french_hussar_pl|경기병
+trp_french_hussar_nco|프랑스 경기병
+trp_french_hussar_nco_pl|기수
+trp_french_hussar_officer|프랑스 경기병
+trp_french_hussar_officer_pl|장교
+trp_french_hussar_trumpet|프랑스 경기병
+trp_french_hussar_trumpet_pl|트럼펫 군악병
+trp_french_lancer|근위 창기병 연대
+trp_french_lancer_pl|창기병
+trp_french_lancer_nco|폴란드 창기병
+trp_french_lancer_nco_pl|기수
+trp_french_lancer_officer|폴란드 창기병
+trp_french_lancer_officer_pl|장교
+trp_french_lancer_trumpet|폴란드 창기병
+trp_french_lancer_trumpet_pl|트럼펫 군악병
+trp_french_dragoon|황후 용기병 연대
+trp_french_dragoon_pl|용기병
+trp_french_dragoon_nco|프랑스 용기병
+trp_french_dragoon_nco_pl|기수
+trp_french_dragoon_officer|프랑스 용기병
+trp_french_dragoon_officer_pl|장교
+trp_french_dragoon_trumpet|프랑스 용기병
+trp_french_dragoon_trumpet_pl|트럼펫 군악병
+trp_french_cuirassier|제 9 흉갑기병 연대
+trp_french_cuirassier_pl|흉갑기병
+trp_french_cuirassier_nco|프랑스 흉갑기병
+trp_french_cuirassier_nco_pl|기수
+trp_french_cuirassier_officer|프랑스 흉갑기병
+trp_french_cuirassier_officer_pl|장교
+trp_french_cuirassier_trumpet|프랑스 흉갑기병
+trp_french_cuirassier_trumpet_pl|트럼펫 군악병
+trp_french_carabineer|제 1 캐러비니어 연대
+trp_french_carabineer_pl|캐러비니어
+trp_french_carabineer_nco|프랑스 캐러비니어
+trp_french_carabineer_nco_pl|기수
+trp_french_carabineer_officer|프랑스 캐러비니어
+trp_french_carabineer_officer_pl|장교
+trp_french_carabineer_trumpet|프랑스 캐러비니어
+trp_french_carabineer_trumpet_pl|트럼펫 군악병
+trp_french_grenadier_a_cheval|기마척탄근위연대
+trp_french_grenadier_a_cheval_pl|중기병
+trp_french_grenadier_a_cheval_nco|프랑스 기마 척탄병
+trp_french_grenadier_a_cheval_nco_pl|기수
+trp_french_grenadier_a_cheval_officer|프랑스 기마 척탄병
+trp_french_grenadier_a_cheval_officer_pl|장교
+trp_french_grenadier_a_cheval_trumpet|프랑스 기마 척탄병
+trp_french_grenadier_a_cheval_trumpet_pl|트럼펫 군악병
+trp_french_arty|포병대
+trp_french_arty_pl|포병대
+trp_french_arty_guard|포병 호위대
+trp_french_arty_guard_pl|포병 호위대
+trp_french_arty_nco|프랑스 포병
+trp_french_arty_nco_pl|포차견인대
+trp_french_arty_officer|프랑스 포병
+trp_french_arty_officer_pl|장교
+trp_french_medic|2급 군의관
+trp_french_medic_pl|군의관
+trp_french_sapper|공병
+trp_french_sapper_pl|전투공병
+trp_french_ship|선박 승조원
+trp_french_ship_pl|보병
+trp_french_ship_cannon|선박 승조원
+trp_french_ship_cannon_pl|해군 포병대
+trp_french_ship_marine|선박 승조원
+trp_french_ship_marine_pl|제 24 해병 대대
+trp_french_ship_captain|선박 승조원
+trp_french_ship_captain_pl|앵트레피드호 함장
+trp_napoleon|나폴레옹 보나파르트 황제
+trp_napoleon_pl|지휘관
+trp_prussian_infantry|제 8 브란덴부르크 보병 연대
+trp_prussian_infantry_pl|전열보병
+trp_prussian_infantry_nco|프로이센 전열보병
+trp_prussian_infantry_nco_pl|기수
+trp_prussian_infantry_officer|프로이센 전열보병
+trp_prussian_infantry_officer_pl|장교
+trp_prussian_infantry_drum|프로이센 전열보병
+trp_prussian_infantry_drum_pl|드럼 군악병
+trp_prussian_infantry_flute|프로이센 전열보병
+trp_prussian_infantry_flute_pl|파이프 군악병
+trp_prussian_infantry2|제 23 라인 보병 연대
+trp_prussian_infantry2_pl|전열보병
+trp_prussian_infantry2_nco|프로이센 전열보병
+trp_prussian_infantry2_nco_pl|기수
+trp_prussian_infantry2_officer|프로이센 전열보병
+trp_prussian_infantry2_officer_pl|장교
+trp_prussian_infantry2_drum|프로이센 전열보병
+trp_prussian_infantry2_drum_pl|드럼 군악병
+trp_prussian_infantry2_flute|프로이센 전열보병
+trp_prussian_infantry2_flute_pl|파이프 군악병
+trp_prussian_infantry_kurmark|제 3 쿠마크 예비군 연대
+trp_prussian_infantry_kurmark_pl|전열보병
+trp_prussian_infantry_kurmark_nco|프로이센 예비군
+trp_prussian_infantry_kurmark_nco_pl|기수
+trp_prussian_infantry_kurmark_officer|프로이센 예비군
+trp_prussian_infantry_kurmark_officer_pl|장교
+trp_prussian_infantry_kurmark_drum|프로이센 예비군
+trp_prussian_infantry_kurmark_drum_pl|드럼 군악병
+trp_prussian_infantry_kurmark_flute|프로이센 예비군
+trp_prussian_infantry_kurmark_flute_pl|파이프 군악병
+trp_prussian_infantry_freikorps|뤄초우 자유군단
+trp_prussian_infantry_freikorps_pl|전열보병
+trp_prussian_infantry_freikorps_nco|프로이센 의용병
+trp_prussian_infantry_freikorps_nco_pl|기수
+trp_prussian_infantry_freikorps_officer|프로이센 의용병
+trp_prussian_infantry_freikorps_officer_pl|장교
+trp_prussian_infantry_freikorps_drum|프로이센 의용병
+trp_prussian_infantry_freikorps_drum_pl|드럼 군악병
+trp_prussian_infantry_freikorps_flute|프로이센 의용병
+trp_prussian_infantry_freikorps_flute_pl|파이프 군악병
+trp_prussian_infantry_15|제 1 근위보병연대
+trp_prussian_infantry_15_pl|근위보병
+trp_prussian_infantry_15_nco|프로이센 근위대
+trp_prussian_infantry_15_nco_pl|기수
+trp_prussian_infantry_15_officer|프로이센 근위대
+trp_prussian_infantry_15_officer_pl|장교
+trp_prussian_infantry_15_drum|프로이센 근위대
+trp_prussian_infantry_15_drum_pl|드럼 군악병
+trp_prussian_infantry_15_flute|프로이센 근위대
+trp_prussian_infantry_15_flute_pl|파이프 군악병
+trp_prussian_infantry_rifle|슐레지엔 저격병
+trp_prussian_infantry_rifle_pl|소총병
+trp_prussian_infantry_rifle_nco|프로이센 엽병
+trp_prussian_infantry_rifle_nco_pl|하사관
+trp_prussian_infantry_rifle_officer|프로이센 엽병
+trp_prussian_infantry_rifle_officer_pl|장교
+trp_prussian_infantry_rifle_horn|프로이센 엽병
+trp_prussian_infantry_rifle_horn_pl|나팔수
+trp_prussian_dragoon|제 6 노이마크 용기병대
+trp_prussian_dragoon_pl|용기병
+trp_prussian_dragoon_nco|프로이센 용기병
+trp_prussian_dragoon_nco_pl|하사관
+trp_prussian_dragoon_officer|프로이센 용기병
+trp_prussian_dragoon_officer_pl|장교
+trp_prussian_dragoon_trumpet|프로이센 용기병
+trp_prussian_dragoon_trumpet_pl|트럼펫 군악병
+trp_prussian_hussar|제 1 토텐코프 경기병 연대
+trp_prussian_hussar_pl|경기병
+trp_prussian_hussar_nco|프로이센 경기병
+trp_prussian_hussar_nco_pl|하사관
+trp_prussian_hussar_officer|프로이센 경기병
+trp_prussian_hussar_officer_pl|장교
+trp_prussian_hussar_trumpet|프로이센 경기병
+trp_prussian_hussar_trumpet_pl|트럼펫 군악병
+trp_prussian_landwehr_cav|베스트펠리슈 기마예비군
+trp_prussian_landwehr_cav_pl|창기병
+trp_prussian_landwehr_cav_nco|프로이센 창기병
+trp_prussian_landwehr_cav_nco_pl|하사관
+trp_prussian_landwehr_cav_officer|프로이센 창기병
+trp_prussian_landwehr_cav_officer_pl|장교
+trp_prussian_landwehr_cav_trumpet|프로이센 창기병
+trp_prussian_landwehr_cav_trumpet_pl|트럼펫 군악병
+trp_prussian_cuirassier|제 3 브란덴부르크 흉갑기병 연대
+trp_prussian_cuirassier_pl|중기병
+trp_prussian_cuirassier_nco|프로이센 흉갑기병
+trp_prussian_cuirassier_nco_pl|하사관
+trp_prussian_cuirassier_officer|프로이센 흉갑기병
+trp_prussian_cuirassier_officer_pl|장교
+trp_prussian_cuirassier_trumpet|프로이센 흉갑기병
+trp_prussian_cuirassier_trumpet_pl|트럼펫 군악병
+trp_prussian_arty|제 36 포병연대
+trp_prussian_arty_pl|포병대
+trp_prussian_arty_guard|포병 호위대
+trp_prussian_arty_guard_pl|포병 호위대
+trp_prussian_arty_nco|프로이센 포병
+trp_prussian_arty_nco_pl|포차견인대
+trp_prussian_arty_officer|프로이센 포병
+trp_prussian_arty_officer_pl|장교
+trp_prussian_medic|의무병
+trp_prussian_medic_pl|군의관
+trp_prussian_sapper|제 4 만스펠더 공병단
+trp_prussian_sapper_pl|전투공병
+trp_prussian_blucher|육군원수 게프하르트 폰 블뤼허
+trp_prussian_blucher_pl|지휘관
+trp_russian_partizan|유격대
+trp_russian_partizan_pl|게릴라 비정규군
+trp_russian_opol|상트페테르부르크 민병대
+trp_russian_opol_pl|무장민병대
+trp_russian_opol_nco|러시아 민병대
+trp_russian_opol_nco_pl|기수
+trp_russian_opol_officer|러시아 민병대
+trp_russian_opol_officer_pl|장교
+trp_russian_infantry|심비르스키 보병 연대
+trp_russian_infantry_pl|전열보병
+trp_russian_infantry_nco|러시아 전열보병
+trp_russian_infantry_nco_pl|기수
+trp_russian_infantry_officer|러시아 전열보병
+trp_russian_infantry_officer_pl|장교
+trp_russian_infantry_drum|러시아 전열보병
+trp_russian_infantry_drum_pl|드럼 군악병
+trp_russian_infantry_flute|러시아 전열보병
+trp_russian_infantry_flute_pl|파이프 군악병
+trp_russian_grenadier|파블로브스키 척탄병
+trp_russian_grenadier_pl|전열보병
+trp_russian_grenadier_nco|러시아 척탄병
+trp_russian_grenadier_nco_pl|기수
+trp_russian_grenadier_officer|러시아 척탄병
+trp_russian_grenadier_officer_pl|장교
+trp_russian_grenadier_drum|러시아 척탄병
+trp_russian_grenadier_drum_pl|드럼 군악병
+trp_russian_grenadier_flute|러시아 척탄병
+trp_russian_grenadier_flute_pl|파이프 군악병
+trp_russian_foot_guard|프레오브라젠스키 근위보병연대
+trp_russian_foot_guard_pl|근위보병
+trp_russian_foot_guard_nco|러시아 근위보병
+trp_russian_foot_guard_nco_pl|기수
+trp_russian_foot_guard_officer|러시아 근위보병
+trp_russian_foot_guard_officer_pl|장교
+trp_russian_foot_guard_drum|러시아 근위보병
+trp_russian_foot_guard_drum_pl|드럼 군악병
+trp_russian_foot_guard_flute|러시아 근위보병
+trp_russian_foot_guard_flute_pl|파이프 군악병
+trp_russian_infantry_rifle|제 21 엽병 연대
+trp_russian_infantry_rifle_pl|소총병
+trp_russian_infantry_rifle_nco|러시아 저격병
+trp_russian_infantry_rifle_nco_pl|하사관
+trp_russian_infantry_rifle_officer|러시아 저격병
+trp_russian_infantry_rifle_officer_pl|장교
+trp_russian_infantry_rifle_horn|러시아 저격병
+trp_russian_infantry_rifle_horn_pl|나팔수
+trp_russian_hussar|솜스코이 구사르스키 연대
+trp_russian_hussar_pl|경기병
+trp_russian_hussar_nco|러시아 경기병
+trp_russian_hussar_nco_pl|기수
+trp_russian_hussar_officer|러시아 경기병
+trp_russian_hussar_officer_pl|장교
+trp_russian_hussar_trumpet|러시아 경기병
+trp_russian_hussar_trumpet_pl|트럼펫 군악병
+trp_russian_uhlan|리투아니아 창기병 연대
+trp_russian_uhlan_pl|창기병
+trp_russian_uhlan_nco|러시아 창기병
+trp_russian_uhlan_nco_pl|기수
+trp_russian_uhlan_officer|러시아 창기병
+trp_russian_uhlan_officer_pl|장교
+trp_russian_uhlan_trumpet|러시아 창기병
+trp_russian_uhlan_trumpet_pl|트럼펫 군악병
+trp_russian_cossack|돈스코이 카자흐스탄 연대
+trp_russian_cossack_pl|창기병
+trp_russian_cossack_nco|러시아 코사크 기병
+trp_russian_cossack_nco_pl|하사관
+trp_russian_cossack_officer|러시아 코사크 기병
+trp_russian_cossack_officer_pl|장교
+trp_russian_dragoon|키예프 용기병 연대
+trp_russian_dragoon_pl|용기병
+trp_russian_dragoon_nco|러시아 용기병
+trp_russian_dragoon_nco_pl|기수
+trp_russian_dragoon_officer|러시아 용기병
+trp_russian_dragoon_officer_pl|장교
+trp_russian_dragoon_trumpet|러시아 용기병
+trp_russian_dragoon_trumpet_pl|트럼펫 군악병
+trp_russian_horse_guard|근위기병연대
+trp_russian_horse_guard_pl|흉갑기병
+trp_russian_horse_guard_nco|러시아 근위 기병
+trp_russian_horse_guard_nco_pl|기수
+trp_russian_horse_guard_officer|러시아 근위 기병
+trp_russian_horse_guard_officer_pl|장교
+trp_russian_horse_guard_trumpet|러시아 근위 기병
+trp_russian_horse_guard_trumpet_pl|트럼펫 군악병
+trp_russian_arty|8파운드 야포 부대
+trp_russian_arty_pl|포병대
+trp_russian_arty_guard|포병 호위대
+trp_russian_arty_guard_pl|포병 호위대
+trp_russian_arty_nco|러시아 포병
+trp_russian_arty_nco_pl|포차견인대
+trp_russian_arty_officer|러시아 포병
+trp_russian_arty_officer_pl|장교
+trp_russian_medic|군의관
+trp_russian_medic_pl|군의관
+trp_russian_sapper|공병
+trp_russian_sapper_pl|전투공병
+trp_kutuzov|육군원수 미하일 쿠투조프
+trp_kutuzov_pl|지휘관
+trp_austrian_infantry|루돌프 대공 제 14 보병연대
+trp_austrian_infantry_pl|전열보병
+trp_austrian_infantry_nco|오스트리아 전열보병
+trp_austrian_infantry_nco_pl|기수
+trp_austrian_infantry_officer|오스트리아 전열보병
+trp_austrian_infantry_officer_pl|장교
+trp_austrian_infantry_drum|오스트리아 전열보병
+trp_austrian_infantry_drum_pl|드럼 군악병
+trp_austrian_infantry_flute|오스트리아 전열보병
+trp_austrian_infantry_flute_pl|파이프 군악병
+trp_austrian_infantry2|와쿠안트 남작 제 62 보병연대
+trp_austrian_infantry2_pl|전열보병
+trp_austrian_infantry2_nco|헝가리 전열보병
+trp_austrian_infantry2_nco_pl|기수
+trp_austrian_infantry2_officer|헝가리 전열보병
+trp_austrian_infantry2_officer_pl|장교
+trp_austrian_infantry2_drum|헝가리 전열보병
+trp_austrian_infantry2_drum_pl|드럼 군악병
+trp_austrian_infantry2_flute|헝가리 전열보병
+trp_austrian_infantry2_flute_pl|파이프 군악병
+trp_austrian_grenzer|제 3 오귈리너 경보병연대
+trp_austrian_grenzer_pl|전열/경보병
+trp_austrian_grenzer_nco|오스트리아 경보병
+trp_austrian_grenzer_nco_pl|기수
+trp_austrian_grenzer_officer|오스트리아 경보병
+trp_austrian_grenzer_officer_pl|장교
+trp_austrian_grenzer_drum|오스트리아 경보병
+trp_austrian_grenzer_drum_pl|드럼 군악병
+trp_austrian_grenzer_flute|오스트리아 경보병
+trp_austrian_grenzer_flute_pl|파이프 군악병
+trp_austrian_grenadier|퍼셀 대대 척탄병
+trp_austrian_grenadier_pl|근위보병
+trp_austrian_grenadier_nco|헝가리 척탄병
+trp_austrian_grenadier_nco_pl|기수
+trp_austrian_grenadier_officer|헝가리 척탄병
+trp_austrian_grenadier_officer_pl|장교
+trp_austrian_grenadier_drum|헝가리 척탄병
+trp_austrian_grenadier_drum_pl|드럼 군악병
+trp_austrian_grenadier_flute|헝가리 척탄병
+trp_austrian_grenadier_flute_pl|파이프 군악병
+trp_austrian_infantry_rifle|엽병대대
+trp_austrian_infantry_rifle_pl|소총병
+trp_austrian_infantry_rifle_nco|오스트리아 엽병
+trp_austrian_infantry_rifle_nco_pl|하사관
+trp_austrian_infantry_rifle_officer|오스트리아 엽병
+trp_austrian_infantry_rifle_officer_pl|장교
+trp_austrian_infantry_rifle_horn|오스트리아 엽병
+trp_austrian_infantry_rifle_horn_pl|나팔수
+trp_austrian_hussar|헤센 백작 홈부르크 제 4 경기병연대
+trp_austrian_hussar_pl|경기병
+trp_austrian_hussar_nco|오스트리아 경기병
+trp_austrian_hussar_nco_pl|기수
+trp_austrian_hussar_officer|오스트리아 경기병
+trp_austrian_hussar_officer_pl|장교
+trp_austrian_hussar_trumpet|오스트리아 경기병
+trp_austrian_hussar_trumpet_pl|트럼펫 군악병
+trp_austrian_uhlan|제 2 슈바르첸베르크 창기병 연대
+trp_austrian_uhlan_pl|창기병
+trp_austrian_uhlan_nco|오스트리아 창기병
+trp_austrian_uhlan_nco_pl|기수
+trp_austrian_uhlan_officer|오스트리아 창기병
+trp_austrian_uhlan_officer_pl|장교
+trp_austrian_uhlan_trumpet|오스트리아 창기병
+trp_austrian_uhlan_trumpet_pl|트럼펫 군악병
+trp_austrian_light_horse|호엔줄름 왕자 제 2 기병연대
+trp_austrian_light_horse_pl|경량 기마
+trp_austrian_light_horse_nco|오스트리아 경기병
+trp_austrian_light_horse_nco_pl|기수
+trp_austrian_light_horse_officer|오스트리아 경기병
+trp_austrian_light_horse_officer_pl|장교
+trp_austrian_light_horse_trumpet|오스트리아 경기병
+trp_austrian_light_horse_trumpet_pl|트럼펫 군악병
+trp_austrian_dragoon|페르디난드 대공 제 5 용기병연대
+trp_austrian_dragoon_pl|용기병
+trp_austrian_dragoon_nco|오스트리아 용기병
+trp_austrian_dragoon_nco_pl|기수
+trp_austrian_dragoon_officer|오스트리아 용기병
+trp_austrian_dragoon_officer_pl|장교
+trp_austrian_dragoon_trumpet|오스트리아 용기병
+trp_austrian_dragoon_trumpet_pl|트럼펫 군악병
+trp_austrian_cuirassier|프란츠 황제 제 1 흉갑기병연대
+trp_austrian_cuirassier_pl|흉갑기병
+trp_austrian_cuirassier_nco|오스트리아 흉갑기병
+trp_austrian_cuirassier_nco_pl|기수
+trp_austrian_cuirassier_officer|오스트리아 흉갑기병
+trp_austrian_cuirassier_officer_pl|장교
+trp_austrian_cuirassier_trumpet|오스트리아 흉갑기병
+trp_austrian_cuirassier_trumpet_pl|트럼펫 군악병
+trp_austrian_arty|로렌 왕자 제 7 포병연대
+trp_austrian_arty_pl|포병대
+trp_austrian_arty_guard|포병 호위대
+trp_austrian_arty_guard_pl|포병 호위대
+trp_austrian_arty_nco|오스트리아 포병
+trp_austrian_arty_nco_pl|포차견인대
+trp_austrian_arty_officer|오스트리아 포병
+trp_austrian_arty_officer_pl|장교
+trp_austrian_medic|의무병
+trp_austrian_medic_pl|군의관
+trp_austrian_sapper|제 1 공병 대대
+trp_austrian_sapper_pl|전투공병
+trp_schwarzenberg|슈바르첸베르크 공 카를 필리프
+trp_schwarzenberg_pl|지휘관
+trp_rhine_infantry_bavaria|제 2 바이에른 황태자 보병연대
+trp_rhine_infantry_bavaria_pl|전열보병
+trp_rhine_infantry_bavaria_nco|바이에른 전열보병
+trp_rhine_infantry_bavaria_nco_pl|기수
+trp_rhine_infantry_bavaria_officer|바이에른 전열보병
+trp_rhine_infantry_bavaria_officer_pl|장교
+trp_rhine_infantry_bavaria_drum|바이에른 전열보병
+trp_rhine_infantry_bavaria_drum_pl|드럼 군악병
+trp_rhine_infantry_bavaria_flute|바이에른 전열보병
+trp_rhine_infantry_bavaria_flute_pl|파이프 군악병
+trp_rhine_infantry_wurttemberg|헤르조그 빌헬름 제 2 뷔르템베르크 보병연대
+trp_rhine_infantry_wurttemberg_pl|전열보병
+trp_rhine_infantry_wurttemberg_nco|뷔르템베르크 전열보병
+trp_rhine_infantry_wurttemberg_nco_pl|기수
+trp_rhine_infantry_wurttemberg_officer|뷔르템베르크 전열보병
+trp_rhine_infantry_wurttemberg_officer_pl|장교
+trp_rhine_infantry_wurttemberg_drum|뷔르템베르크 전열보병
+trp_rhine_infantry_wurttemberg_drum_pl|드럼 군악병
+trp_rhine_infantry_wurttemberg_flute|뷔르템베르크 전열보병
+trp_rhine_infantry_wurttemberg_flute_pl|파이프 군악병
+trp_rhine_infantry_saxony|프레드리히 어거스트 왕자 작센 보병연대
+trp_rhine_infantry_saxony_pl|전열보병
+trp_rhine_infantry_saxony_nco|작센 전열보병
+trp_rhine_infantry_saxony_nco_pl|기수
+trp_rhine_infantry_saxony_officer|작센 전열보병
+trp_rhine_infantry_saxony_officer_pl|장교
+trp_rhine_infantry_saxony_drum|작센 전열보병
+trp_rhine_infantry_saxony_drum_pl|드럼 군악병
+trp_rhine_infantry_saxony_flute|작센 전열보병
+trp_rhine_infantry_saxony_flute_pl|파이프 군악병
+trp_rhine_infantry_wurttemberg2|프랑크몬트 제 4 뷔르템베르크 보병연대
+trp_rhine_infantry_wurttemberg2_pl|전열보병
+trp_rhine_infantry_wurttemberg2_nco|뷔르템베르크 척탄병
+trp_rhine_infantry_wurttemberg2_nco_pl|기수
+trp_rhine_infantry_wurttemberg2_officer|뷔르템베르크 척탄병
+trp_rhine_infantry_wurttemberg2_officer_pl|장교
+trp_rhine_infantry_wurttemberg2_drum|뷔르템베르크 척탄병
+trp_rhine_infantry_wurttemberg2_drum_pl|드럼 군악병
+trp_rhine_infantry_wurttemberg2_flute|뷔르템베르크 척탄병
+trp_rhine_infantry_wurttemberg2_flute_pl|파이프 군악병
+trp_rhine_grenadier_guard|베스트팔렌 근위 척탄병
+trp_rhine_grenadier_guard_pl|근위보병
+trp_rhine_grenadier_guard_nco|베스트팔렌 척탄 근위병
+trp_rhine_grenadier_guard_nco_pl|기수
+trp_rhine_grenadier_guard_officer|베스트팔렌 척탄 근위병
+trp_rhine_grenadier_guard_officer_pl|장교
+trp_rhine_grenadier_guard_drum|베스트팔렌 척탄 근위병
+trp_rhine_grenadier_guard_drum_pl|드럼 군악병
+trp_rhine_grenadier_guard_flute|베스트팔렌 척탄 근위병
+trp_rhine_grenadier_guard_flute_pl|파이프 군악병
+trp_rhine_light_infantry_hessen|헤센-다름슈다트 황태자 보병연대 깃발
+trp_rhine_light_infantry_hessen_pl|경보병
+trp_rhine_light_infantry_hessen_nco|헤센 경보병
+trp_rhine_light_infantry_hessen_nco_pl|기수
+trp_rhine_light_infantry_hessen_officer|헤센 경보병
+trp_rhine_light_infantry_hessen_officer_pl|장교
+trp_rhine_light_infantry_hessen_horn|헤센 경보병
+trp_rhine_light_infantry_hessen_horn_pl|나팔수
+trp_rhine_light_infantry_bavaria|제 7 바이에른 경보병대대
+trp_rhine_light_infantry_bavaria_pl|경보병/소총병
+trp_rhine_light_infantry_bavaria_nco|바이에른 소총병
+trp_rhine_light_infantry_bavaria_nco_pl|하사관
+trp_rhine_light_infantry_bavaria_officer|바이에른 소총병
+trp_rhine_light_infantry_bavaria_officer_pl|장교
+trp_rhine_light_infantry_bavaria_horn|바이에른 소총병
+trp_rhine_light_infantry_bavaria_horn_pl|나팔수
+trp_rhine_mounted_jaeger|나사우 기마 엽병
+trp_rhine_mounted_jaeger_pl|경기병
+trp_rhine_mounted_jaeger_nco|나사우 기마 엽병
+trp_rhine_mounted_jaeger_nco_pl|하사관
+trp_rhine_mounted_jaeger_officer|나사우 기마 엽병
+trp_rhine_mounted_jaeger_officer_pl|장교
+trp_rhine_mounted_jaeger_trumpet|나사우 기마 엽병
+trp_rhine_mounted_jaeger_trumpet_pl|트럼펫 군악병
+trp_rhine_uhlan|클리멘스 왕자 작센 창기병연대
+trp_rhine_uhlan_pl|창기병
+trp_rhine_uhlan_nco|작센 창기병
+trp_rhine_uhlan_nco_pl|기수
+trp_rhine_uhlan_officer|작센 창기병
+trp_rhine_uhlan_officer_pl|장교
+trp_rhine_uhlan_trumpet|작센 창기병
+trp_rhine_uhlan_trumpet_pl|트럼펫 군악병
+trp_rhine_light_dragoon|바덴 경용기병연대
+trp_rhine_light_dragoon_pl|경량 기마
+trp_rhine_light_dragoon_nco|바드너 경용기병
+trp_rhine_light_dragoon_nco_pl|기수
+trp_rhine_light_dragoon_officer|바드너 경용기병
+trp_rhine_light_dragoon_officer_pl|장교
+trp_rhine_light_dragoon_trumpet|바드너 경용기병
+trp_rhine_light_dragoon_trumpet_pl|트럼펫 군악병
+trp_rhine_cuirassier|제 1 베스트팔렌 흉갑기병 연대
+trp_rhine_cuirassier_pl|흉갑기병
+trp_rhine_cuirassier_nco|베스트팔렌 흉갑기병
+trp_rhine_cuirassier_nco_pl|기수
+trp_rhine_cuirassier_officer|베스트팔렌 흉갑기병
+trp_rhine_cuirassier_officer_pl|장교
+trp_rhine_cuirassier_trumpet|베스트팔렌 흉갑기병
+trp_rhine_cuirassier_trumpet_pl|트럼펫 군악병
+trp_rhine_garde_du_corps|작센 근위대
+trp_rhine_garde_du_corps_pl|중기병
+trp_rhine_garde_du_corps_nco|작센 기마 근위병
+trp_rhine_garde_du_corps_nco_pl|기수
+trp_rhine_garde_du_corps_officer|작센 기마 근위병
+trp_rhine_garde_du_corps_officer_pl|장교
+trp_rhine_garde_du_corps_trumpet|작센 기마 근위병
+trp_rhine_garde_du_corps_trumpet_pl|트럼펫 군악병
+trp_rhine_arty|바이에른 포병 연대
+trp_rhine_arty_pl|포병대
+trp_rhine_arty_guard|바이에른 포병 호위대
+trp_rhine_arty_guard_pl|포병 호위대
+trp_rhine_arty_nco|바이에른 포병
+trp_rhine_arty_nco_pl|포차견인대
+trp_rhine_arty_officer|바이에른 포병
+trp_rhine_arty_officer_pl|장교
+trp_rhine_medic|프랑스 2급 군의관
+trp_rhine_medic_pl|군의관
+trp_rhine_sapper|베르겐 공병
+trp_rhine_sapper_pl|전투공병
+trp_friedrich_august|작센 왕 프레드리히 어거스트 1세
+trp_friedrich_august_pl|지휘관
+trp_british_arty_commander|왕립 포병대
+trp_british_arty_commander_pl|장교
+trp_british_arty_alt_commander|왕립 포병대
+trp_british_arty_alt_commander_pl|장교
+trp_french_arty_commander|포병대
+trp_french_arty_commander_pl|장교
+trp_french_arty_alt_commander|포병대
+trp_french_arty_alt_commander_pl|장교
+trp_prussian_arty_commander|제 36 근위포병연대
+trp_prussian_arty_commander_pl|장교
+trp_prussian_arty_alt_commander|제 36 근위포병연대
+trp_prussian_arty_alt_commander_pl|장교
+trp_russian_arty_commander|포병대
+trp_russian_arty_commander_pl|장교
+trp_russian_arty_alt_commander|포병대
+trp_russian_arty_alt_commander_pl|장교
+trp_austrian_arty_commander|로트리엔 왕자 제 7 포병대
+trp_austrian_arty_commander_pl|장교
+trp_austrian_arty_alt_commander|로트리엔 왕자 제 7 포병대
+trp_austrian_arty_alt_commander_pl|장교
+trp_rhine_arty_commander|바이에른 포병대
+trp_rhine_arty_commander_pl|장교
+trp_rhine_arty_alt_commander|바이에른 포병대
+trp_rhine_arty_alt_commander_pl|장교
+trp_custom_string_1|미미사용
+trp_custom_string_2|미사용
+trp_custom_string_3|미사용
+trp_custom_string_4|미사용
+trp_custom_string_5|미사용
+trp_custom_string_6|미사용
+trp_custom_string_7|미사용
+trp_custom_string_8|미사용
+trp_custom_string_9|미사용
+trp_custom_string_10|미사용
+trp_custom_string_11|미사용
+trp_custom_string_12|미사용
+trp_custom_string_13|미사용
+trp_custom_string_14|미사용
+trp_custom_string_15|미사용
+trp_custom_string_16|미사용
+trp_custom_string_17|미사용
+trp_custom_string_18|미사용
+trp_custom_string_19|미사용
+trp_custom_string_20|미사용
+trp_custom_string_21|미사용
+trp_custom_string_22|미사용
+trp_custom_string_23|미사용
+trp_custom_string_24|미사용
+trp_custom_string_25|미사용
+trp_custom_string_26|미사용
+trp_custom_string_27|미사용
+trp_custom_string_28|미사용
+trp_custom_string_29|미사용
+trp_custom_string_30|미사용
+trp_custom_string_31|미사용
+trp_custom_string_32|미사용
+trp_custom_string_33|미사용
+trp_custom_string_34|미사용
+trp_custom_string_35|미사용
+trp_custom_string_36|미사용
+trp_custom_string_37|미사용
+trp_custom_string_38|미사용
+trp_custom_string_39|미사용
+trp_custom_string_40|미사용
+trp_quick_battle_troop_britain_1|아서 웰즐리
+trp_quick_battle_troop_britain_1_pl|장군
+trp_quick_battle_troop_france_1|나폴레옹 보나파르트
+trp_quick_battle_troop_france_1_pl|황제
+trp_quick_battle_troop_prussia_1|게프하르트 폰 블뤼허
+trp_quick_battle_troop_prussia_1_pl|장군
+trp_quick_battle_troop_russia_1|미하일 쿠투조프
+trp_quick_battle_troop_russia_1_pl|장군
+trp_quick_battle_troop_austria_1|카를 필리프
+trp_quick_battle_troop_austria_1_pl|장군
+trp_quick_battle_troop_rhine_1|프레드리히 어거스트
+trp_quick_battle_troop_rhine_1_pl|장군
+trp_companion_1|라파엘 마틴
+trp_companion_1_pl|라파엘 마틴
+trp_companion_2|클리멘트 버나드
+trp_companion_2_pl|클리멘트 버나드
+trp_companion_3|막심 무니그 슈미트
+trp_companion_3_pl|막심 프티
+trp_companion_4|알렉산더 듀란드
+trp_companion_4_pl|알렉산더 듀란드
+trp_companion_5|앙투안 리차드
+trp_companion_5_pl|앙투안 리차드
+trp_companion_6|알렉시스 모로
+trp_companion_6_pl|알렉시스 모로
+trp_companion_7|줄스 두보이스
+trp_companion_7_pl|줄스 두보이스
+trp_companion_8|마테오 로버트
+trp_companion_8_pl|마테오 로버트
+trp_companion_9|줄리안 로랑
+trp_companion_9_pl|줄리안 로랑
+trp_companion_10|사무엘 시몬
+trp_companion_10_pl|사무엘 시몬
+trp_companion_11|노 미셸
+trp_companion_11_pl|노 미셸
+trp_companion_12|코렌틴 리로이
+trp_companion_12_pl|코렌틴 리로이
+trp_companion_13|제레미 가르시아
+trp_companion_13_pl|제레미 가르시아
+trp_companion_14|찰스 르페브르
+trp_companion_14_pl|찰스 르페브르
+trp_companion_15|엘리엇 루
+trp_companion_15_pl|엘리엇 루
+trp_companion_16|테오 데이비드
+trp_companion_16_pl|테오 데이비드
+trp_companion_17|로맹 베르트랑
+trp_companion_17_pl|로맹 베르트랑
+trp_companion_18|쿠엔틴 푸르니에
+trp_companion_18_pl|쿠엔틴 푸르니에
+trp_companion_19|지라드 밥티스트
+trp_companion_19_pl|지라드 밥티스트
+trp_companion_20|발렌틴 보넷
+trp_companion_20_pl|발렌틴 보넷
+trp_companion_21|니코 캄프스
+trp_companion_21_pl|니콜라스 모렐
+trp_companion_22|마엘 루소
+trp_companion_22_pl|마엘 루소
+trp_companion_23|피에르 램버트
+trp_companion_23_pl|피에르 램버트
+trp_companion_24|마리우스 블랑
+trp_companion_24_pl|마리우스 블랑
+trp_companion_25|레미 토마스
+trp_companion_25_pl|레미 토마스
+trp_companion_26|벤자민 아길론
+trp_companion_26_pl|벤자민 아길론
+trp_companion_27|막센스 보러가드
+trp_companion_27_pl|막센스 보러가드
+trp_companion_28|악셀 르뮤
+trp_companion_28_pl|악셀 르뮤
+trp_companion_29|줄스 플렌티어
+trp_companion_29_pl|줄스 플렌티어
+trp_companion_30|마틴 로슈
+trp_companion_30_pl|마틴 로슈
+trp_companions_end|동료들 끝
+trp_companions_end_pl|동료들 끝
+trp_walker_french_infantry|보병
+trp_walker_french_infantry_pl|보병
+trp_walker_french_voltigeur|경보병
+trp_walker_french_voltigeur_pl|경보병
+trp_walker_french_hussar|경기병
+trp_walker_french_hussar_pl|경기병
+trp_walker_french_officer|장교
+trp_walker_french_officer_pl|장교
+trp_walker_messenger|전령
+trp_walker_messenger_pl|전령
+trp_walker_peasant_male|농민
+trp_walker_peasant_male_pl|농민들
+trp_walker_peasant_female|농민
+trp_walker_peasant_female_pl|농민들
+trp_walkers_end|작업자들 끝
+trp_walkers_end_pl|작업자들 끝
+trp_camp_armorer|재단사
+trp_camp_weaponsmith|무기 상인
+trp_camp_horse_merchant|말 상인
+trp_merchants_end|상인들 끝
+trp_merchants_end_pl|상인들 끝

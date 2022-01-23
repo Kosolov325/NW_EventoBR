@@ -1,0 +1,44 @@
+﻿ui_character_window|Savaş Çığlığı
+ui_start_tutorial|Başlangıç Eğitimi
+ui_start_a_new_game|Tek Oyunculu Oyun
+ui_particle_systems|Yüksek Detaylı Parçacık Sistemleri
+ui_no_more_bolts|Fişek kalmadı...
+ui_you_are_not_carrying_any_bolts|Üzerinde fişek yok.
+ui_cut|Kesici
+ui_pierce|Delici
+ui_blunt|Ezici
+ui_autoexpore|Yüksek Zıtlık Ton Haritası Kullan
+ui_use_melee_weapons_e_|Yakın dövüş silahlarını kullan!
+ui_use_ranged_weapons_e_|Menzilli silahları kullan!
+ui_order_button_use_melee_weapons|Yakın dövüş silahlarını kullan
+ui_order_button_use_ranged_weapons|Menzilli silahları kullan
+ui_order_button_weapon_usage_orders|Silah kullanma komutları
+ui_fire_at_my_command_e_|Emrimle ateş et!
+ui_fire_now_e_|Ateş!
+ui_order_button_fire_at_my_command|Emrimle ateş et
+ui_order_button_fire_now|Ateş
+ui_order_form_1_row|Tek sıra oluştur
+ui_order_form_2_row|2'li sıra oluştur
+ui_order_form_3_row|3'lü sıra oluştur
+ui_order_form_4_row|4'lü sıra oluştur
+ui_order_form_5_row|5'li sıra oluştur
+ui_form_1_row_e_|Tek sıra oluştur!
+ui_form_2_row_e_|2'li sıra oluştur!
+ui_form_3_row_e_|3'lü sıra oluştur!
+ui_form_4_row_e_|4'lü sıra oluştur!
+ui_form_5_row_e_|5'li sıra oluştur!
+ui_order_7|7. Emri Seç
+ui_order_8|8. Emri Seç
+ui_all_fire_now_e_|Herkes ateş etsin!
+ui_left_fire_now_e_|Sol kanat ateş et!
+ui_middle_fire_now_e_|Orta grup ateş et!
+ui_right_fire_now_e_|Sağ kanat ateş et!
+ui_order_button_all_fire_now|Herkes ateş etsin
+ui_order_button_left_fire_now|Sol kanat ateş etsin
+ui_order_button_middle_fire_now|Orta grup ateş etsin
+ui_order_button_right_fire_now|Sağ kanat ateş etsin
+ui_crouch|Çök
+ui_change_accessories|Ekstra
+ui_archers|Alay
+ui_group_2|Alay
+ui_zoom|Anahtar yürüyün 

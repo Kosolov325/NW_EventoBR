@@ -1,0 +1,110 @@
+﻿ui_texture_detail|텍스쳐 품질:
+ui_max_frame_rate|최대 프레임 비율:
+ui_enable_bumpmap|범프 매핑 사용
+ui_disable_blood|혈흔 숨기기
+ui_disable_music|음악 음소거
+ui_disable_sound|사운드 음소거
+ui_enable_cheats|치트 비활성화
+ui_enable_edit_mode|편집 모드 활성화 (게임 속도가 느려짐.)
+ui_enable_pixel_shaders|픽셀 셰이더 사용
+ui_enable_sound_variation|사운드 음정 무작위 활성화
+ui_enable_vertex_shaders|렌더링 방식:
+ui_shadow_quality|그림자 품질:
+ui_directx_7|DirectX 7
+ui_directx_9|DirectX 9
+ui_show_framerate|프레임 비율 표시
+ui_start_windowed|창 모드로 실행
+ui_trialmode_caption|정품 인증
+ui_trialmode|마운트&블레이드 워밴드의 정품 인증을 거치기 위해 당신에게 제공된 제품 키를 준비해 주십시오. 제품 키는 16개의 고유한 번호로 이뤄져 있으며 구매하신 제품 박스에 동봉되어 있습니다.\n정품 인증을 거치지 않더라도 계속 플레이가 가능하지만, 레벨 8 이후로는 플레이하실 수 없습니다.
+ui_launch_buy|TaleWorlds.com 를 방문하여 라이센스를 구입하십시오
+ui_launch_faq|정품인증 관련 자주 묻는 질문
+ui_trialmode2|지금 게임을 활성화하기 위해서는...
+ui_trialmode3|또는...
+ui_trialmode4|만약 정품 인증 절차에 대해 궁금한 사항이 있으시다면, 다음 사항을 참조해 주십시오...
+ui_serial_key_caption|제품 키
+ui_notification_serial_input|아래에 제품 키를 입력해 주십시오 (복사&붙여넣기 가능) 그리고 활성화 버튼을 눌러 주십시오.
+ui_notification_serial_input_vc|해당 모듈은 바이킹 컨퀘스트 제품 키를 필요로 합니다. 아래에 바이킹 컨퀘스트 제품 키를 입력해 주십시오 (복사&붙여넣기 가능) 그리고 활성화 버튼을 눌러 주십시오.
+ui_activate|정품 인증
+ui_paste|붙여넣기
+ui_notification_serial_internet_connection|정품 인증을 하려면 인터넷에 연결되어 있어야 합니다!
+ui_notification_serial_offline|만약 본 컴퓨터가 인터넷 접속이 불가능하다면 다음 방법을 시도해 보십시오:
+ui_manual_activation|직접 입력 정품 인증
+ui_offline_activation|오프라인 정품 인증
+ui_manual_activation_caption|직접 입력 정품 인증
+ui_offline_activation_caption|오프라인 정품 인증
+ui_cancel2|취소
+ui_close|닫기
+ui_ok2|동의
+ui_activation_successful|게임이 성공적으로 정품 인증 되었습니다.
+ui_activation_successful2|추후 사용을 위해 제품 키를 잘 보관해 두시기 바랍니다. 새로운 컴퓨터에서 마운트&블레이드 워밴드를 설치할 때 제품 키를 다시 사용하셔야 합니다.
+ui_activation_denied|정품 인증 승인되지 않음!
+ui_notification_serial_already_used|해당 제품 키는 이미 다른 컴퓨터에서 사용하고 있습니다. 본 컴퓨터에서 게임을 다시 활성화 시키려면 몇 주 기다리셔야 합니다.
+ui_notification_unable_to_connect_to_activation_server|정품 인증 서버에 연결할 수 없습니다! 
+ui_notification_unable_to_connect_to_activation_server2|인터넷 연결 환경이 정상적으로 돌아가고 있는지 확인한 다음 다시 시도해 보십시오. 만약 방화벽을 사용 중이라면",해당 프로그램이 인터넷에 접속할 수 있도록 권한을 부여해야 합니다. 상기 방법으로도 해결되지 않는다면,"직접 정품 인증 절차를 이용해 주십시오.,
+ui_incorrect_serial_number|잘못 된 제품 키!
+ui_incorrect_hardware_hash|잘못 된 하드웨어 해시!
+ui_incorrect_activation_code|잘못 된 정품 인증 코드!
+ui_cant_write_to_registry|레지스트리에 쓸 수 없습니다!
+ui_video|비디오
+ui_audio|오디오
+ui_game|게임
+ui_advanced|고급
+ui_mount_and_blade_is_ready|마운트 &블레이드 워밴드를 플레이 할 준비가 완료되었습니다.
+ui_notification_trial_mode|현재 마운트&블레이드 워밴드 게임이 데모 버전으로 실행되고 있습니다. 현 상태에서는 당신의 캐릭터가 6 레벨에 도달할 때까지만 모든 내용을 플레이할 수 있습니다. 그 이후에도 플레이하고 싶으시다면 Taleworlds.com 를 방문하여 게임을 손쉽게 구매하실 수 있습니다. 제품 라이센스를 구매하고 게임을 완전히 플레이할 수 있기까진 몇 분 걸리지 않습니다.
+ui_there_are_no_modules_installed|모듈이 설치되어 있지 않습니다!
+ui_notification_new_version|마운트&블레이드 워밴드의 최신 버전이 발견되었습니다.\n현재 설치된 버전: %d.%d%d%d.\n최신 버전: %d.%d%d%d.\n새로운 버전을 다음 사이트에서 다운로드 할 수 있습니다: www.taleworlds.com.
+ui_new_version_found|새로운 버전 발견!
+ui_notification_unable_to_retreive_new_version|새로운 버전 정보 회수 불가능. 잠시 뒤에 다시 시도하십시오.
+ui_new_version|새로운 버전:
+ui_notification_latest_version|현재 설치된 마운트&블레이드 워밴드의 버전이 최신 버전입니다.
+ui_mount_and_blade_is_up_to_date|마운트 &블레이드 워밴드의 업데이트가 필요합니다!
+ui_off|끄기
+ui_continue_playing_the_trial_mode|데모 버전으로 계속 플레이
+ui_faq_caption|FAQ
+ui_faq_text|질문: 정품 인증은 무엇입니까?\r\n답변: 정품 인증 시스템은 일종의 소비자 보호 불법복제 방지를 위한 시스템으로서 각 게임 복사본마다 고유의 제품 번호를 부여하는 방식입니다. 새로운 컴퓨터에서 게임을 플레이하고자 할때 보유하고 있는 제품 키를 이용해 등록 절차를 밟아야 합니다. 한번 정품 인증을 하고 난 뒤에는 게임 디스크가 드라이브에 있는 한 더 이상의 정품 인증 절차를 거치지 않아도 됩니다. 제품 키를 가지고 있는 한",어느 컴퓨터에서나 몇년이고 손쉽게 게임을 플레이하실 수 있습니다.\r\n\r\n질문: 제품 키는 어디서 찾을 수 있나요?\r\n답변: 각각의 게임 타이틀에는 고유의 제품 번호가 동봉되어 있습니다. 제품 키는 판매자에 따라 각기 다른 방식으로 제공될 수 있으나,일반적으로는 플레이 설명서의 표지에 부착되어 있습니다. 만약 게임을 온라인으로 구매하셨다면,"판매자가 제품 번호를 웹상으로 따로 제공 할 것입니다.\r\n\r\n질문: 정품 인증 절차는 어떻게 진행되나요?\r\n답변: 게임이 자동으로 귀하의 컴퓨터의 세부 사항으로부터 해시 값을 생성하여 귀하의 제품 키와 함께 인터넷을 통해 정품 인증 서버로 전송하게 됩니다. 이를 통해 게임의 데모 모드가 해제됩니다.\r\n\r\n질문: 다수의 컴퓨터에서 게임을 정품 인증할 수 있나요?\r\n답변: 가능합니다. 하지만 귀하의 제품 키는 개인 사용 용도로만 제공된다는 것을 명심하십시오. 정품 인증 서버는 단기간에 한 개의 제품 키로 여러 대의 컴퓨터에 게임이 등록 될 경우 해당 제품 키를 임시 비활성화 시킬 수도 있습니다.\r\n\r\n질문: 인증 활성화 버튼을 누르면 프로그램이 응답하지 않습니다.\r\n답변: 가끔 정품 인증 절차가 30초 가량 지연되는 수가 있습니다. 조금만 더 기다리시면 결과 창이 뜰 것입니다.\r\n\r\n질문: 제 컴퓨터는 인터넷에 접속할 수 없습니다. 이럴 경우 정품 인증을 어떻게 하나요?\r\n답변: 그럴 경우 직접 정품 인증 절차를 거치셔야 합니다. "제품 키 직접 입력" 을 클릭한 다음 "직접 정품 인증" 을 누르십시오. 직접 정품 인증 웹페이지를 보려면 인터넷에 연결된 다른 컴퓨터를 통해 접속해야 합니다.\r\n
+ui_auto_adjust|자동 조정
+ui_screen_size|화면 해상도:
+ui_antialiasing|안티 앨리어싱:
+ui_use_desktop_resolution|바탕화면 해상도 사용
+ui_play|마운트&블레이드 워밴드 플레이
+ui_check_for_new_version|새 버전 확인
+ui_configure|설정
+ui_configure_caption|설정
+ui_mountandblade_website|마운트 & 블레이드 워밴드 웹사이트
+ui_current_setting|           현재 모듈:
+ui_manual_activation_text1|1) 귀하의 브라우저에서 다음과 같은 경로를 여십시오:
+ui_manual_activation_text2|2) 곧 나타나는 웹페이지에서 당신의 제품 키를 입력하십시오...
+ui_manual_activation_text3|3) ...그리고 기기의 하드웨어 해시를 입력하십시오:
+ui_manual_activation_text4|4) 그러고 나면 페이지에서 당신의 제품 활성화 코드가 뜰 것입니다. 해당 코드를 아래에 입력하거나 붙여넣기 한 다음 OK를 누르십시오.
+ui_activation_code|제품 활성화 코드:
+ui_force_vsync|강제 수직 동기화.
+ui_module_newer_than_application|선택하신 모듈은 현재 게임 버전과 호환되지 않습니다. 현재 설정에서 해당 모듈을 플레이하지 않는 것을 적극 권장합니다. 문제를 해결하려면 게임의"
+"최신 버전이 제공되는지 확인하십시오.
+ui_module_older_than_application|선택하신 모듈은 현재 게임 버전과 호환되지 않습니다. 현재 설정에서 그대로 실행시 치명적인 오류가 발생할 수 있습니다. 문제를 해결하려면 게임의"
+"최신 버전이 제공되는지 확인하십시오.
+ui_m_low|낮음
+ui_m_high|높음
+ui_m_ultra_high|아주 높음
+ui_force_single_threading|강제 단일 스레드
+ui_not_enough_memory|아무래도 귀하의 컴퓨터는 현재 %d MB 의 물리 및 가상 메모리를 가지고 있는 듯 합니다. 마운트&블레이드 워밴드를 원활하게 플레이하기 위해선 최소 700 MB 의 가용 메모리가 필요합니다. 만약 마운트&블레이드 워밴드 플레이 도중에 잦은 강제 종료 현상이 발생된다면, 게임을 시작하기 전에 다른 몇몇 프로그램을 닫거나 설정 -> 시스템 메뉴에서 가상 메모리 용량을 늘리십시오.
+ui_install|마운트&블레이드 워밴드 설치
+"DirectXText|마운트&블레이드 워밴드를 플레이 하려면 DirectX 9.0c 및 그 이상을 필요로 합니다. 귀하의 컴퓨터는 해당 요구 사항을 충족하지 못하는 관계로 마이크로소프트 웹사이트를 방문하여 Direct X 최신 버전을 다운로드 및 설치해야 합니다. 지금 TaleWorlds 의 DirectX 다운로드 페이지로 이동하시겠습니까?
+"NoMountAndBladeText|본 컴퓨터에는 마운트&블레이드 워밴드가 설치되어 있지 않습니다. www.taleworlds.com 를 방문하여 풀 인스톨러를 다운로드 한 다음 게임을 설치해 주십시오.
+ui_SavegamesText|저장 파일을 그대로 보존하시겠습니까?
+ui_trialmode_online|현재 마운트&블레이드 워밴드 게임이 데모 버전으로 실행되고 있습니다. 현 상태에서는 당신의 캐릭터가 7 레벨에 도달할 때까지만 모든 내용을 플레이할 수 있습니다. 그 이후에는 정품 인증 절차를 걸치거나 제품 키를 입력하셔야 계속 플레이가 가능합니다. 이미 게임을 구매하셨다면, 지금 제품 키를 입력하십시오. 만약 제품 키가 없으시다면 Taleworlds.com 에서 게임을 손쉽게 구매하실 수 있습니다. 제품 라이센스를 구매하고 게임을 완전히 플레이 할 수 있기까진 몇 분 걸리지 않습니다.
+ui_launch_activate|제품 키를 입력하세요
+ui_trialmode2_online|제품 라이센스를 구입한 뒤 제품 키를 제공 받게 될 것입니다.\n데모 버전을 해제하시려면...
+ui_trialmode3_online|혹은, 게임을 구매하고 싶지 않으시다면...
+ui_trialmode4_online|저희의 온라인 판매 유통망은 완전하게 보호되고 있으며 플레이어의 개인 정보 보호 정책을 존중하며 게임의 백업 복사본 보존과 컴퓨터/하드웨어 개선에 힘쓰고 있습니다. 만약 저희의 판매 정책에 대해 더 알고 싶으시다면, 다음 항목을 참조해 주십시오:
+ui_ondemand_textures|상시 텍스쳐 파일 로드
+ui_language|언어:
+ui_steam_not_running|스팀 환경을 초기화하지 못했습니다. 게임을 플레이 하려면 스팀이 실행 중에 있어야 합니다.
+ui_switch_to_turkish_explanation|Oyunun dilini Turkce'ye cevirmek ister misiniz?
+ui_switch_to_turkish_yes|Evet
+ui_switch_to_turkish_no|Hayir
+ui_new_version_message|게임의 새로운 버전이 출시되었습니다. 다운로드 페이지로 이동하시겠습니까?
+ui_enable_version_check|자동 버전 확인 활성화
+ui_disable|비활성화
+ui_yes2|예
+ui_no2|아니오
+ui_new_version_message2|본 게임의 새로운 버전을 받으실 수 있습니다. 게임을 구매하셨던 온라인 페이지를 방문하여 새로운 버전을 다운로드 하십시오.

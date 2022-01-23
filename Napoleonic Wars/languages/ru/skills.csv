@@ -1,0 +1,84 @@
+skl_trade|Торговля
+skl_trade_desc|Каждый уровень этого навыка уменьшает штраф за торговлю на 5%%. (Навык отряда)
+skl_leadership|Лидерство
+skl_leadership_desc|Каждое очко увеличивает максимальное количество войск, которыми может командовать игрок, на 5 человек, улучшает мораль и уменьшает жалование солдат на 5%%. (Навык лидера)
+skl_prisoner_management|Обращение с пленными
+skl_prisoner_management_desc| Каждый уровень этого навыка увеличивает максимальное количество пленных в отряде %d. (Навык лидера)
+skl_reserved_1|Reserved Skill 1
+skl_reserved_1_desc|This is a reserved skill.
+skl_reserved_2|Reserved Skill 2
+skl_reserved_2_desc|This is a reserved skill.
+skl_reserved_3|Reserved Skill 3
+skl_reserved_3_desc|This is a reserved skill.
+skl_reserved_4|Reserved Skill 4
+skl_reserved_4_desc|This is a reserved skill.
+skl_persuasion|Убеждение
+skl_persuasion_desc|Этот скилл помогает Вам склонять других людей к своей точке зрения. Он также опускает минимальный уровень отношений необходимый для того, чтобы заставить НПС делать все, что Вы хотите. (Личный навык)
+skl_engineer|Инженер
+skl_engineer_desc|Этот навык позволяет строить осадное оборудование и усовершенствовать Ваш фьеф более эффективно. (Навык отряда)
+skl_first_aid|Первая помощь
+skl_first_aid_desc|Герои с каждым уровнем восстанавливают дополнительных 5%% хит-поинтов утраченных во время миссии. (Навык отряда)
+skl_surgery|Хирургия
+skl_surgery_desc|Каждое очко этого навыка дает 4%% шанс что смертельно раненный член отряда будет всего лишь ранен, а не убит. (Навык отряда)
+skl_wound_treatment| Лечение
+skl_wound_treatment_desc|Скорость лечения отряда увеличивается на 20%% за каждый уровень этого навыка. (Навык отряда)
+skl_inventory_management|Упревление инвентарём
+skl_inventory_management_desc|Увеличивает вместительность инвентаря на +6 за каждый уровень навыка. (Навык лидера)
+skl_spotting|Обнаружение
+skl_spotting_desc|Радиус обзора отряда увеличивается на 10%% с каждым уровнем навыка. (Навык отряда)
+skl_pathfinding|Логистика
+skl_pathfinding_desc|Скорость отряда на карте увеличивается на 3%% с каждым уровнем навыка. (Навык отряда)
+skl_tactics|Тактика
+skl_tactics_desc|Каждые два уровня этого навыка увеличивают начальное превосходство в живой силе в бою на 1. (Навык отряда)
+skl_tracking|Следопытство
+skl_tracking_desc|Следы дают больше информации о прошедших. (Навык отряда)
+skl_trainer|Тренер
+skl_trainer_desc|Ежедневно каждый герой с этим навыком добавляет некоторое количество опыта каждому другому члеу отряда, чей уровень ниже чем его/ее. Опыт получается следующим образом: {0,4,10,16,23,30,38,46,55,65,80}. (Личный навык)
+skl_reserved_5|Reserved Skill 5
+skl_reserved_5_desc|This is a reserved skill.
+skl_reserved_6|Reserved Skill 6
+skl_reserved_6_desc|This is a reserved skill.
+skl_reserved_7|Reserved Skill 7
+skl_reserved_7_desc|This is a reserved skill.
+skl_reserved_8|Reserved Skill 8
+skl_reserved_8_desc|This is a reserved skill.
+skl_looting|Сбор трофеев
+skl_looting_desc|Этот навык увеличивает количество обнаруженных трофеев на  10%% с каждым уровнем навыка. (Навык отряда)
+skl_horse_archery|Стрельба из лука с коня
+skl_horse_archery_desc| Снижает штрафы для нанесения урона и точности стрельбы из лука, а также падения с коня. (Личный навык)
+skl_riding|Верховая езда
+skl_riding_desc|Позволяет ездить на более сложных лошадях и повышает скорость и маневренность езды. (Личный навык)
+skl_athletics|Атлетика
+skl_athletics_desc|Повышает скорость бега персонажа. (Личный навык)
+skl_shield|Щит
+skl_shield_desc|Уменьшает повреждения, наносимые щитам (на 8%% с каждым уровнем навыка) и повышает скорость и площадь защиты щита. (Личный навык)
+skl_weapon_master|Оружейный мастер
+skl_weapon_master_desc|Позволяет легче совершенствовать умения владения оружием и повышает лимиты умений следующим образом: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Личный навык)
+skl_reserved_9|Reserved Skill 9
+skl_reserved_9_desc|This is a reserved skill.
+skl_reserved_10|Reserved Skill 10
+skl_reserved_10_desc|This is a reserved skill.
+skl_reserved_11|Reserved Skill 11
+skl_reserved_11_desc|This is a reserved skill.
+skl_reserved_12|Reserved Skill 12
+skl_reserved_12_desc|This is a reserved skill.
+skl_reserved_13|Reserved Skill 13
+skl_reserved_13_desc|This is a reserved skill.
+skl_power_draw|Сила натяжения
+skl_power_draw_desc|Позволяет персонажу использовать более мощные луки. Каждое очко этого навыка (до четырех плюс требования лука по силе натяжения) увеличивают наносимые луком повреждения на 14%%. (Личный навык)
+skl_power_throw|Сила броска
+skl_power_throw_desc|Каждое очко этого навыка увеличивает наносимые броском повреждения на 10%%. (Личный навык)
+skl_power_strike|Сила удара
+skl_power_strike_desc| Каждое очко этого навыка увеличивает повреждения, наносимые в рукопашной на 8%%. (Личный навык)
+skl_ironflesh|Железные мышци
+skl_ironflesh_desc|Каждое очко этого навыка увеличивает хит поинты на +2. (Личный навык)
+skl_reserved_14|Reserved Skill 14
+skl_reserved_14_desc|This is a reserved skill.
+skl_reserved_15|Reserved Skill 15
+skl_reserved_15_desc|This is a reserved skill.
+skl_reserved_16|Reserved Skill 16
+skl_reserved_16_desc|This is a reserved skill.
+skl_reserved_17|Reserved Skill 17
+skl_reserved_17_desc|This is a reserved skill.
+skl_reserved_18|Reserved Skill 18
+skl_reserved_18_desc|This is a reserved skill

@@ -1,0 +1,46 @@
+﻿ui_character_window|Cri de guerre
+ui_start_tutorial|Tutoriel
+ui_start_a_new_game|Mode Solo
+ui_particle_systems|Particules élevées
+ui_no_more_bolts|Plus de cartouches...
+ui_you_are_not_carrying_any_bolts|Vous n'avez pas de cartouches.
+ui_cut|Tranchant
+ui_pierce|Perçant
+ui_blunt|Contondant
+ui_autoexpore|Utiliser une gamme de tons à contraste élevé.
+ui_use_melee_weapons_e_|Sortez les armes blanches !
+ui_use_ranged_weapons_e_|Apprêtez les armes à feu !
+ui_order_button_use_melee_weapons|Sortir les armes blanches
+ui_order_button_use_ranged_weapons|Apprêtez les armes à feu
+ui_order_button_weapon_usage_orders|Ordres de feu
+ui_fire_at_my_command_e_|Feu à mon commandement!
+ui_fire_now_e_|Ouvrez le feu !
+ui_order_button_fire_at_my_command|Feu à mon commandement !
+ui_order_button_fire_now|Commencez le feu !
+ui_order_form_1_row|Formez 1 rang
+ui_order_form_2_row|Formez 2 rangs
+ui_order_form_3_row|Formez 3 rangs
+ui_order_form_4_row|Formez 4 rangs
+ui_order_form_5_row|Formez 5 rangs
+ui_form_1_row_e_|En rang sur 1 ligne !
+ui_form_2_row_e_|En rang sur 2 lignes !
+ui_form_3_row_e_|En rang sur 3 lignes !
+ui_form_4_row_e_|En rang sur 4 lignes !
+ui_form_5_row_e_|En rang sur 5 lignes !
+ui_order_7|Choisir l'ordre 7
+ui_order_8|Choisir l'ordre 8
+ui_all_fire_now_e_|Commencez le feu !
+ui_left_fire_now_e_|Flanc gauche, feu !
+ui_middle_fire_now_e_|Au centre, feu !
+ui_right_fire_now_e_|Flanc droit, feu !
+ui_order_button_all_fire_now|Feu de peloton
+ui_order_button_left_fire_now|Feu du flanc gauche
+ui_order_button_middle_fire_now|Feu du centre
+ui_order_button_right_fire_now|Feu du flanc droit
+ui_crouch|S'accroupir
+ui_change_accessories|Extra 
+ui_archers|Régiment
+ui_group_2|Régiment
+ui_zoom|Marcher
+ui_order_button_use_melee_weapon|Sortir les armes blanches
+ui_order_button_use_ranged_weapon|Apprêter les armes à feu

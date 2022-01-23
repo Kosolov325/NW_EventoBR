@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<techniques>
+		<technique name="diffuse_no_shadow_no_alpha">
+			<vertex_shader name="vs_main_no_shadow.glsl"/>
+			<fragment_shader name="ps_main_no_shadow_no_alpha.glsl"/>
+		</technique>
+		<technique name="dot3_high">
+			<vertex_shader name="vs_main_bump.glsl"/>
+			<fragment_shader name="ps_main_bump_simple.glsl"/>
+		</technique>
+		<technique name="dot3_multitex_high">
+			<vertex_shader name="vs_main_bump.glsl"/>
+			<fragment_shader name="ps_bumpmap_simple_multitex.glsl"/>
+		</technique>
+		<technique name="dot3_parallax">
+			<vertex_shader name="vs_main_bump.glsl"/>
+			<fragment_shader name="ps_bumpmap_simple_parallax.glsl"/>
+		</technique>
+		<technique name="dot3_multitex_parallax">
+			<vertex_shader name="vs_main_bump.glsl"/>
+			<fragment_shader name="ps_bumpmap_simple_multitex_parallax.glsl"/>
+		</technique>
+		<technique name="hair_shader_aniso_noblend">
+			<vertex_shader name="vs_hair_aniso.glsl"/>
+			<fragment_shader name="ps_hair_aniso.glsl"/>
+		</technique>
+		<technique name="hair_shader_noblend">
+			<vertex_shader name="vs_hair.glsl"/>
+			<fragment_shader name="ps_hair.glsl"/>
+		</technique>
+		<technique name="flora_bottomleftmove">
+			<vertex_shader name="vs_flora_bottomleftmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_bottommove">
+			<vertex_shader name="vs_flora_bottommove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_bottomrightmove">
+			<vertex_shader name="vs_flora_bottomrightmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_leftmove">
+			<vertex_shader name="vs_flora_leftmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_oimleavesmove">
+			<vertex_shader name="vs_flora_oimleavesmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_rightmove">
+			<vertex_shader name="vs_flora_rightmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_sprucemove">
+			<vertex_shader name="vs_flora_sprucemove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_flowermove">
+			<vertex_shader name="vs_flora_flowermove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_topleftmove">
+			<vertex_shader name="vs_flora_topleftmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_topleftrightmove">
+			<vertex_shader name="vs_flora_topleftrightmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_topmove">
+			<vertex_shader name="vs_flora_topmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="flora_toprightmove">
+			<vertex_shader name="vs_flora_toprightmove.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="plume">
+			<vertex_shader name="vs_plume.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="plume_skinned">
+			<vertex_shader name="vs_plume_skinned.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="plume_move">
+			<vertex_shader name="vs_plume_move.glsl"/>
+			<fragment_shader name="ps_flora.glsl"/>
+		</technique>
+		<technique name="ctf_pennon_shader">
+			<vertex_shader name="vs_standart_noskin_bump_flag4.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high_noterraincolor.glsl"/>
+		</technique>
+		<technique name="ctf_pennon_shader_nobump">
+			<vertex_shader name="vs_standart_noskin_nobump_flag4.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap_noterraincolor.glsl"/>
+		</technique>
+		
+		<technique name="envmap_specular_diffuse_noskin_bump">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_specmap_high_envmap.glsl"/>
+		</technique>
+		<technique name="envmap_specular_diffuse_Instanced_bump">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_specmap_high_envmap.glsl"/>
+		</technique>
+		<technique name="envmap_specular_diffuse_noskin_bump_colorspec">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_specmap_colorspec_envmap_high.glsl"/>
+		</technique>
+		<technique name="envmap_specular_diffuse_Instanced_bump_colorspec">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_specmap_colorspec_envmap_high.glsl"/>
+		</technique>
+		<technique name="envmap_specular_diffuse_skin_bump">
+			<vertex_shader name="vs_standart_skin_bump.glsl"/>
+			<fragment_shader name="ps_standart_skin_bump_specmap_high_envmap.glsl"/>
+		</technique>
+		<technique name="envmap_specular_diffuse_skin_bump_colorspec">
+			<vertex_shader name="vs_standart_skin_bump.glsl"/>
+			<fragment_shader name="ps_standart_skin_bump_specmap_colorspec_envmap_high.glsl"/>
+		</technique>
+		<technique name="envmap_specular_diffuse_colorspec">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_specmap_colorspec_envmap_high.glsl"/>
+		</technique>
+		<technique name="envmap_specular_diffuse_Instanced_colorspec">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_specmap_colorspec_envmap_high.glsl"/>
+		</technique>			
+		<technique name="flag_shader">
+			<vertex_shader name="vs_standart_noskin_bump_flag2.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high_noterraincolor.glsl"/>
+		</technique>
+		<technique name="flag_shader_nobump">
+			<vertex_shader name="vs_standart_noskin_nobump_flag2.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap_noterraincolor.glsl"/>
+		</technique>
+		<technique name="pennon_shader">
+			<vertex_shader name="vs_standart_noskin_bump_flag1.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high_noterraincolor.glsl"/>
+		</technique>
+		<technique name="pennon_vertical_shader">
+			<vertex_shader name="vs_standart_noskin_bump_flag1.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high_noterraincolor.glsl"/>
+		</technique>
+		<technique name="pennon_shader_nobump">
+			<vertex_shader name="vs_standart_noskin_nobump_flag1.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap_noterraincolor.glsl"/>
+		</technique>
+		<technique name="pennon_vertical_shader_nobump">
+			<vertex_shader name="vs_standart_noskin_nobump_flag1.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap_noterraincolor.glsl"/>
+		</technique>
+		<technique name="sail_shader">
+			<vertex_shader name="vs_standart_noskin_bump_flag3.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high_noterraincolor.glsl"/>
+		</technique>
+		<technique name="sail_shader_nobump">
+			<vertex_shader name="vs_standart_noskin_nobump_flag3.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap_noterraincolor.glsl"/>
+		</technique>
+
+		<technique name="standart_noskin_bump_specmap_colorspec">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_specmap_colorspec.glsl"/>
+		</technique>
+		<technique name="standart_noskin_bump_specmap_Instanced_colorspec">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_specmap_colorspec.glsl"/>
+		</technique>
+		<technique name="standart_noskin_bump_specmap_high_Instanced_colorspec">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_specmap_colorspec.glsl"/>
+		</technique>
+
+		<technique name="standart_noskin_nobump_specmap_colorspec">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_specmap_colorspec.glsl"/>
+		</technique>
+		<technique name="standart_noskin_nobump_specmap_Instanced_colorspec">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_specmap_colorspec.glsl"/>
+		</technique>		
+		<technique name="standart_skin_bump_specmap_colorspec">
+			<vertex_shader name="vs_standart_skin_bump.glsl"/>
+			<fragment_shader name="ps_standart_skin_bump_specmap_colorspec.glsl"/>
+		</technique>
+		<technique name="standart_skin_bump_specmap_colorspec">
+			<vertex_shader name="vs_standart_skin_bump.glsl"/>
+			<fragment_shader name="ps_standart_skin_bump_specmap_colorspec.glsl"/>
+		</technique>
+		<technique name="standart_skin_bump_specmap_colorspec_high">
+			<vertex_shader name="vs_standart_skin_bump.glsl"/>
+			<fragment_shader name="ps_standart_skin_bump_specmap_colorspec_high.glsl"/>
+		</technique>
+		<technique name="standart_skin_nobump_specmap_colorspec">
+			<vertex_shader name="vs_standart_skin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_skin_nobump_specmap_colorspec.glsl"/>
+		</technique>
+		<technique name="standart_noskin_bumpparallax_nospec_high">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high.glsl"/>
+		</technique>
+		<technique name="standart_noskin_bumpparallax_nospecmap_high_Instanced">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high.glsl"/>
+		</technique>
+		<technique name="standart_noskin_bumpparallaxfloor_nospec_high">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high.glsl"/>
+		</technique>
+		<technique name="standart_noskin_bumpparallaxfloor_nospecmap_high_Instanced">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospec_high.glsl"/>
+		</technique>		
+		<technique name="standart_noskin_bumpparallax_nospec_high_noterraincolor">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospecmap_high.glsl"/>
+		</technique>
+		<technique name="standart_noskin_bumpparallaxfloor_nospec_high_noterraincolor">
+			<vertex_shader name="vs_standart_noskin_bump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_bump_nospecmap_high.glsl"/>
+		</technique>
+		<technique name="standart_noskin_nobump_nospec_high">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap.glsl"/>
+		</technique>
+		<technique name="standart_noskin_nobump_nospec_high_Instanced">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap.glsl"/>
+		</technique>
+
+		<technique name="standart_noskin_nobump_nospec_noterraincolor">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap_noterraincolor.glsl"/>
+		</technique>
+		<technique name="standart_noskin_nobump_nospecmap_noterraincolor_Instanced">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap_noterraincolor.glsl"/>
+		</technique>
+		<technique name="standart_noskin_nobump_nospec_high_noterraincolor_Instanced">
+			<vertex_shader name="vs_standart_noskin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_noskin_nobump_nospecmap_noterraincolor.glsl"/>
+		</technique>
+
+		<technique name="standart_skin_nobump_nospec_high">
+			<vertex_shader name="vs_standart_skin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_skin_nobump_nospec.glsl"/>
+		</technique>
+		<technique name="standart_skin_nobump_nospec_noterraincolor">
+			<vertex_shader name="vs_standart_skin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_skin_nobump_nospec_noterraincolor.glsl"/>
+		</technique>
+		<technique name="standart_skin_nobump_nospec_high_noterraincolor">
+			<vertex_shader name="vs_standart_skin_nobump.glsl"/>
+			<fragment_shader name="ps_standart_skin_nobump_nospec_noterraincolor.glsl"/>
+		</technique>
+		
+	</techniques>
+</data>

@@ -1,0 +1,943 @@
+﻿trp_player|玩 家 
+trp_player_pl|玩 家 
+trp_multiplayer_profile_troop_male|multiplayer profile troop male
+trp_multiplayer_profile_troop_male_pl|multiplayer profile troop male 
+trp_multiplayer_profile_troop_female|multiplayer profile troop female 
+trp_multiplayer_profile_troop_female_pl|multiplayer profile troop female 
+trp_temp_troop|Temp Troop 
+trp_temp_troop_pl|Temp Troop 
+trp_british_infantry_ai|英 國 線 列 步 兵 
+trp_british_infantry_ai_pl|線 列 步 兵 
+trp_british_infantry2_ai|英 王 德 意 志 線 列 步 兵 
+trp_british_infantry2_ai_pl|線 列 步 兵 （ 英 王 德 意 志 ） 
+trp_british_highlander_ai|英 國 高 地 步 兵 
+trp_british_highlander_ai_pl|高 地 步 兵 
+trp_british_foot_guard_ai|英 國 近 衛 步 兵 
+trp_british_foot_guard_ai_pl|近 衛 步 兵 
+trp_british_light_infantry_ai|英 國 輕 步 兵 
+trp_british_light_infantry_ai_pl|輕 步 兵 
+trp_british_rifle_ai|英 國 來 福 槍 兵 
+trp_british_rifle_ai_pl|來 福 槍 兵 
+trp_british_hussar_ai|英 王 德 意 志 驃 騎 兵 
+trp_british_hussar_ai_pl|驃 騎 兵 （ 英 王 德 意 志 ） 
+trp_british_light_dragoon_ai|英 國 輕 龍 騎 兵 
+trp_british_light_dragoon_ai_pl|輕 龍 騎 兵 
+trp_british_dragoon_ai|英 國 龍 騎 兵 
+trp_british_dragoon_ai_pl|重 龍 騎 兵 
+trp_british_horseguard_ai|英 國 近 衛 騎 兵 
+trp_british_horseguard_ai_pl|近 衛 騎 兵 
+trp_british_ship_ai|英 國 水 手 
+trp_british_ship_ai_pl|水 手 
+trp_british_ship_marine_ai|英 國 水 兵 
+trp_british_ship_marine_ai_pl|水 兵 
+trp_british_arty_ai|英 國 炮 兵 
+trp_british_arty_ai_pl|炮 兵 （ 加 農 炮 ） 
+trp_british_arty_alt_ai|英 國 炮 兵 
+trp_british_arty_alt_ai_pl|炮 兵 （ 榴 彈 炮 ） 
+trp_british_rocket_ai|英 國 火 箭 炮 兵 
+trp_british_rocket_ai_pl|火 箭 炮 兵 
+trp_french_infantry_ai|法 國 線 列 步 兵 
+trp_french_infantry_ai_pl|線 列 步 兵 
+trp_french_infantry2_ai|法 國 擲 彈 兵 
+trp_french_infantry2_ai_pl|擲 彈 兵 
+trp_french_infantry_vistula_ai|波 蘭 線 列 步 兵 
+trp_french_infantry_vistula_ai_pl|線 列 步 兵 （ 波 蘭 ） 
+trp_french_old_guard_ai|法 國 近 衛 擲 彈 兵 
+trp_french_old_guard_ai_pl|近 衛 擲 彈 兵 
+trp_french_voltigeur_ai|法 國 尖 兵 
+trp_french_voltigeur_ai_pl|尖 兵 
+trp_french_hussar_ai|法 國 驃 騎 兵 
+trp_french_hussar_ai_pl|驃 騎 兵 
+trp_french_lancer_ai|波 蘭 槍 騎 兵 
+trp_french_lancer_ai_pl|槍 騎 兵 （ 波 蘭 ） 
+trp_french_dragoon_ai|法 國 龍 騎 兵 
+trp_french_dragoon_ai_pl|龍 騎 兵 
+trp_french_cuirassier_ai|法 國 胸 甲 騎 兵 
+trp_french_cuirassier_ai_pl|胸 甲 騎 兵 
+trp_french_carabineer_ai|法 國 卡 賓 槍 騎 兵 
+trp_french_carabineer_ai_pl|卡 賓 槍 騎 兵 
+trp_french_grenadier_a_cheval_ai|法 國 擲 彈 騎 兵 
+trp_french_grenadier_a_cheval_ai_pl|擲 彈 騎 兵 
+trp_french_ship_ai|法 國 水 手 
+trp_french_ship_ai_pl|水 手 
+trp_french_ship_marine_ai|法 國 水 兵 
+trp_french_ship_marine_ai_pl|水 兵 
+trp_french_arty_ai|法 國 炮 兵 
+trp_french_arty_ai_pl|炮 兵 （ 加 農 炮 ） 
+trp_french_arty_alt_ai|法 國 炮 兵 
+trp_french_arty_alt_ai_pl|炮 兵 （ 榴 彈 炮 ） 
+trp_prussian_infantry_ai|普 魯 士 線 列 步 兵 
+trp_prussian_infantry_ai_pl|線 列 步 兵 （ 勃 蘭 登 堡 ） 
+trp_prussian_infantry2_ai|普 魯 士 線 列 步 兵 
+trp_prussian_infantry2_ai_pl|線 列 步 兵 （ 萊 茵 ） 
+trp_prussian_infantry_kurmark_ai|普 魯 士 后 備 兵 
+trp_prussian_infantry_kurmark_ai_pl|后 備 兵 
+trp_prussian_infantry_freikorps_ai|普 魯 士 志 願 兵 
+trp_prussian_infantry_freikorps_ai_pl|志 願 兵 
+trp_prussian_infantry_15_ai|普 魯 士 近 衛 步 兵 
+trp_prussian_infantry_15_ai_pl|近 衛 步 兵 
+trp_prussian_infantry_rifle_ai|普 魯 士 獵 兵 
+trp_prussian_infantry_rifle_ai_pl|獵 兵 
+trp_prussian_dragoon_ai|普 魯 士 龍 騎 兵 
+trp_prussian_dragoon_ai_pl|龍 騎 兵 
+trp_prussian_hussar_ai|普 魯 士 驃 騎 兵 
+trp_prussian_hussar_ai_pl|驃 騎 兵 
+trp_prussian_landwehr_cav_ai|普 魯 士 槍 騎 兵 
+trp_prussian_landwehr_cav_ai_pl|槍 騎 兵 
+trp_prussian_cuirassier_ai|普 魯 士 胸 甲 騎 兵 
+trp_prussian_cuirassier_ai_pl|胸 甲 騎 兵 
+trp_prussian_arty_ai|普 魯 士 炮 兵 
+trp_prussian_arty_ai_pl|炮 兵 （ 加 農 炮 ） 
+trp_prussian_arty_alt_ai|普 魯 士 炮 兵 
+trp_prussian_arty_alt_ai_pl|炮 兵 （ 榴 彈 炮 ） 
+trp_russian_partizan_ai|俄 羅 斯 游 擊 隊 員 
+trp_russian_partizan_ai_pl|游 擊 隊 員 
+trp_russian_opol_ai|俄 羅 斯 民 兵 
+trp_russian_opol_ai_pl|線 列 民 兵 
+trp_russian_infantry_ai|俄 羅 斯 線 列 步 兵 
+trp_russian_infantry_ai_pl|線 列 步 兵 
+trp_russian_grenadier_ai|俄 羅 斯 擲 彈 兵 
+trp_russian_grenadier_ai_pl|擲 彈 兵 
+trp_russian_foot_guard_ai|俄 羅 斯 近 衛 步 兵 
+trp_russian_foot_guard_ai_pl|近 衛 步 兵 
+trp_russian_infantry_rifle_ai|俄 羅 斯 獵 兵 
+trp_russian_infantry_rifle_ai_pl|獵 兵 
+trp_russian_hussar_ai|俄 羅 斯 驃 騎 兵 
+trp_russian_hussar_ai_pl|驃 騎 兵 
+trp_russian_uhlan_ai|俄 羅 斯 槍 騎 兵 
+trp_russian_uhlan_ai_pl|槍 騎 兵 
+trp_russian_cossack_ai|俄 羅 斯 哥 薩 克 騎 兵 
+trp_russian_cossack_ai_pl|哥 薩 克 騎 兵 
+trp_russian_dragoon_ai|俄 羅 斯 龍 騎 兵 
+trp_russian_dragoon_ai_pl|龍 騎 兵 
+trp_russian_horse_guard_ai|俄 羅 斯 近 衛 騎 兵 
+trp_russian_horse_guard_ai_pl|近 衛 騎 兵 
+trp_russian_arty_ai|俄 羅 斯 炮 兵 
+trp_russian_arty_ai_pl|炮 兵 （ 加 農 炮 ） 
+trp_russian_arty_alt_ai|俄 羅 斯 炮 兵 
+trp_russian_arty_alt_ai_pl|炮 兵 （ 榴 彈 炮 ） 
+trp_austrian_infantry_ai|奧 地 利 線 列 步 兵 
+trp_austrian_infantry_ai_pl|線 列 步 兵 
+trp_austrian_infantry2_ai|匈 牙 利 線 列 步 兵 
+trp_austrian_infantry2_ai_pl|線 列 步 兵 （ 匈 牙 利 ） 
+trp_austrian_grenzer_ai|奧 地 利 邊 防 兵 
+trp_austrian_grenzer_ai_pl|邊 防 兵 
+trp_austrian_grenadier_ai|匈 牙 利 擲 彈 兵 
+trp_austrian_grenadier_ai_pl|擲 彈 兵 （ 匈 牙 利 ） 
+trp_austrian_infantry_rifle_ai|奧 地 利 獵 兵 
+trp_austrian_infantry_rifle_ai_pl|獵 兵 
+trp_austrian_hussar_ai|匈 牙 利 驃 騎 兵 
+trp_austrian_hussar_ai_pl|驃 騎 兵 （ 匈 牙 利 ） 
+trp_austrian_uhlan_ai|奧 地 利 槍 騎 兵 
+trp_austrian_uhlan_ai_pl|槍 騎 兵 
+trp_austrian_light_horse_ai|奧 地 利 輕 龍 騎 兵 
+trp_austrian_light_horse_ai_pl|輕 龍 騎 兵 
+trp_austrian_dragoon_ai|奧 地 利 龍 騎 兵 
+trp_austrian_dragoon_ai_pl|龍 騎 兵 
+trp_austrian_cuirassier_ai|奧 地 利 胸 甲 騎 兵 
+trp_austrian_cuirassier_ai_pl|胸 甲 騎 兵 
+trp_austrian_arty_ai|奧 地 利 炮 兵 
+trp_austrian_arty_ai_pl|炮 兵 （ 加 農 炮 ） 
+trp_austrian_arty_alt_ai|奧 地 利 炮 兵 
+trp_austrian_arty_alt_ai_pl|炮 兵 （ 榴 彈 炮 ） 
+trp_rhine_infantry_bavaria_ai|巴 伐 利 亞 線 列 步 兵 
+trp_rhine_infantry_bavaria_ai_pl|線 列 步 兵 （ 巴 伐 利 亞 ） 
+trp_rhine_infantry_wurttemberg_ai|符 騰 堡 線 列 步 兵 
+trp_rhine_infantry_wurttemberg_ai_pl|線 列 步 兵 （ 符 騰 堡 ） 
+trp_rhine_infantry_saxony_ai|薩 克 森 線 列 步 兵 
+trp_rhine_infantry_saxony_ai_pl|線 列 步 兵 （ 薩 克 森 ） 
+trp_rhine_infantry_wurttemberg2_ai|符 騰 堡 擲 彈 兵 
+trp_rhine_infantry_wurttemberg2_ai_pl|擲 彈 兵 （ 符 騰 堡 ） 
+trp_rhine_grenadier_guard_ai|威 斯 特 法 倫 近 衛 擲 彈 兵 
+trp_rhine_grenadier_guard_ai_pl|近 衛 擲 彈 兵 （ 威 斯 特 法 倫 ） 
+trp_rhine_light_infantry_hessen_ai|黑 森 輕 步 兵 
+trp_rhine_light_infantry_hessen_ai_pl|輕 步 兵 （ 黑 森 ） 
+trp_rhine_light_infantry_bavaria_ai|巴 伐 利 亞 來 福 槍 兵 
+trp_rhine_light_infantry_bavaria_ai_pl|來 福 槍 兵 （ 巴 伐 利 亞 ） 
+trp_rhine_mounted_jaeger_ai|拿 騷 獵 騎 兵 
+trp_rhine_mounted_jaeger_ai_pl|獵 騎 兵 （ 拿 騷 ） 
+trp_rhine_uhlan_ai|薩 克 森 槍 騎 兵 
+trp_rhine_uhlan_ai_pl|槍 騎 兵 （ 薩 克 森 ） 
+trp_rhine_light_dragoon_ai|巴 登 輕 龍 騎 兵 
+trp_rhine_light_dragoon_ai_pl|輕 龍 騎 兵 （ 巴 登 ） 
+trp_rhine_cuirassier_ai|威 斯 特 法 倫 胸 甲 騎 兵 
+trp_rhine_cuirassier_ai_pl|胸 甲 騎 兵 （ 威 斯 特 法 倫 ） 
+trp_rhine_garde_du_corps_ai|薩 克 森 近 衛 騎 兵 
+trp_rhine_garde_du_corps_ai_pl|近 衛 騎 兵 （ 薩 克 森 ） 
+trp_rhine_arty_ai|巴 伐 利 亞 炮 兵 
+trp_rhine_arty_ai_pl|炮 兵 （ 加 農 炮 ） （ 巴 伐 利 亞 ） 
+trp_rhine_arty_alt_ai|巴 伐 利 亞 炮 兵 
+trp_rhine_arty_alt_ai_pl|炮 兵 （ 榴 彈 炮 ） （ 巴 伐 利 亞 ） 
+trp_british_infantry|第 33步 兵 團 
+trp_british_infantry_pl|線 列 步 兵  
+trp_british_infantry_nco|英 國 線 列 步 兵 
+trp_british_infantry_nco_pl|旗 手 
+trp_british_infantry_officer|英 國 線 列 步 兵 
+trp_british_infantry_officer_pl|軍 官 
+trp_british_infantry_drum|英 國 線 列 步 兵 
+trp_british_infantry_drum_pl|鼓 手 
+trp_british_infantry_flute|英 國 線 列 步 兵 
+trp_british_infantry_flute_pl|笛 手 
+trp_british_infantry2|英 王 德 意 志 軍 團 第 5線 列 營 
+trp_british_infantry2_pl|線 列 步 兵 
+trp_british_infantry2_nco|英 王 德 意 志 線 列 步 兵 
+trp_british_infantry2_nco_pl|旗 手 
+trp_british_infantry2_officer|英 王 德 意 志 線 列 步 兵 
+trp_british_infantry2_officer_pl|軍 官 
+trp_british_infantry2_drum|英 王 德 意 志 線 列 步 兵 
+trp_british_infantry2_drum_pl|鼓 手 
+trp_british_infantry2_flute|英 王 德 意 志 線 列 步 兵 
+trp_british_infantry2_flute_pl|笛 手 
+trp_british_highlander|第 42步 兵 團 （ 黑 守 衛 ） 
+trp_british_highlander_pl|線 列 步 兵 
+trp_british_highlander_nco|英 國 高 地 步 兵 
+trp_british_highlander_nco_pl|旗 手 
+trp_british_highlander_officer|英 國 高 地 步 兵 
+trp_british_highlander_officer_pl|軍 官 
+trp_british_highlander_drum|英 國 高 地 步 兵 
+trp_british_highlander_drum_pl|鼓 手 
+trp_british_highlander_pipes|英 國 高 地 步 兵 
+trp_british_highlander_pipes_pl|風 笛 手 
+trp_british_foot_guard|冷 溪 近 衛 步 兵 團 
+trp_british_foot_guard_pl|近 衛 步 兵 
+trp_british_foot_guard_nco|英 國 近 衛 步 兵 
+trp_british_foot_guard_nco_pl|旗 手 
+trp_british_foot_guard_officer|英 國 近 衛 步 兵 
+trp_british_foot_guard_officer_pl|軍 官 
+trp_british_foot_guard_drum|英 國 近 衛 步 兵 
+trp_british_foot_guard_drum_pl|鼓 手 
+trp_british_foot_guard_flute|英 國 近 衛 步 兵 
+trp_british_foot_guard_flute_pl|笛 手 
+trp_british_light_infantry|第 51（ 第 2約 克 郡 西 區 ） 步 兵 團 
+trp_british_light_infantry_pl|輕 步 兵 
+trp_british_light_infantry_nco|英 國 輕 步 兵 
+trp_british_light_infantry_nco_pl|旗 手 
+trp_british_light_infantry_officer|英 國 輕 步 兵 
+trp_british_light_infantry_officer_pl|軍 官 
+trp_british_light_infantry_horn|英 國 輕 步 兵 
+trp_british_light_infantry_horn_pl|號 手 
+trp_british_rifle|第 95步 兵 團 （ 來 福 槍 ） 
+trp_british_rifle_pl|來 福 槍 兵 
+trp_british_rifle_nco|英 國 來 福 槍 兵 
+trp_british_rifle_nco_pl|軍 士 
+trp_british_rifle_officer|英 國 來 福 槍 兵 
+trp_british_rifle_officer_pl|軍 官 
+trp_british_rifle_horn|英 國 來 福 槍 兵 
+trp_british_rifle_horn_pl|號 手 
+trp_british_hussar|英 王 德 意 志 軍 團 第 1驃 騎 兵 團 
+trp_british_hussar_pl|驃 騎 兵 
+trp_british_hussar_nco|英 王 德 意 志 驃 騎 兵 
+trp_british_hussar_nco_pl|軍 士 
+trp_british_hussar_officer|英 王 德 意 志 驃 騎 兵 
+trp_british_hussar_officer_pl|軍 官 
+trp_british_hussar_bugle|英 王 德 意 志 驃 騎 兵 
+trp_british_hussar_bugle_pl|號 手 
+trp_british_light_dragoon|第 23輕 龍 騎 兵 團 
+trp_british_light_dragoon_pl|輕 龍 騎 兵 
+trp_british_light_dragoon_nco|英 國 輕 龍 騎 兵 
+trp_british_light_dragoon_nco_pl|軍 士 
+trp_british_light_dragoon_officer|英 國 輕 龍 騎 兵 
+trp_british_light_dragoon_officer_pl|軍 官 
+trp_british_light_dragoon_bugle|英 國 輕 龍 騎 兵 
+trp_british_light_dragoon_bugle_pl|號 手 
+trp_british_dragoon|第 6（ 恩 尼 斯 基 林 ） 龍 騎 兵 團 
+trp_british_dragoon_pl|重 騎 兵 
+trp_british_dragoon_nco|英 國 龍 騎 兵 
+trp_british_dragoon_nco_pl|軍 士 
+trp_british_dragoon_officer|英 國 龍 騎 兵 
+trp_british_dragoon_officer_pl|軍 官 
+trp_british_dragoon_bugle|英 國 龍 騎 兵 
+trp_british_dragoon_bugle_pl|號 手 
+trp_british_horseguard|皇 家 近 衛 騎 兵 團 （ 藍 ） 
+trp_british_horseguard_pl|重 騎 兵 
+trp_british_horseguard_nco|英 國 近 衛 騎 兵 
+trp_british_horseguard_nco_pl|軍 士 
+trp_british_horseguard_officer|英 國 近 衛 騎 兵 
+trp_british_horseguard_officer_pl|軍 官 
+trp_british_horseguard_bugle|英 國 近 衛 騎 兵 
+trp_british_horseguard_bugle_pl|號 手 
+trp_british_arty|皇 家 炮 兵 團 
+trp_british_arty_pl|炮 兵 
+trp_british_arty_guard|炮 兵 護 衛 
+trp_british_arty_guard_pl|炮 兵 護 衛 
+trp_british_arty_nco|英 國 炮 兵 
+trp_british_arty_nco_pl|炮 兵 輜 重 
+trp_british_arty_officer|英 國 炮 兵 
+trp_british_arty_officer_pl|軍 官 
+trp_british_rocket|第 2火 箭 炮 兵 連 
+trp_british_rocket_pl|火 箭 炮 兵 
+trp_british_medic|軍 醫 
+trp_british_medic_pl|軍 醫 
+trp_british_sapper|工 兵 
+trp_british_sapper_pl|工 兵 
+trp_british_ship|船 員 
+trp_british_ship_pl|步 兵 
+trp_british_ship_cannon|船 員 
+trp_british_ship_cannon_pl|海 軍 炮 兵 
+trp_british_ship_marine|船 員 
+trp_british_ship_marine_pl|皇 家 第 1營 水 兵 
+trp_british_ship_captain|船 員 
+trp_british_ship_captain_pl|海 王 星 號 艦 長 
+trp_wellington|阿 瑟 · 韋 爾 斯 利 ， 威 靈 頓 公 爵 
+trp_wellington_pl|指 揮 官 
+trp_french_infantry|第 45線 列 步 兵 團 
+trp_french_infantry_pl|線 列 步 兵 
+trp_french_infantry_nco|法 國 線 列 步 兵 
+trp_french_infantry_nco_pl|鷹 旗 手 
+trp_french_infantry_officer|法 國 線 列 步 兵 
+trp_french_infantry_officer_pl|軍 官 
+trp_french_infantry_drum|法 國 線 列 步 兵 
+trp_french_infantry_drum_pl|鼓 手 
+trp_french_infantry_flute|法 國 線 列 步 兵 
+trp_french_infantry_flute_pl|笛 手 
+trp_french_infantry2|第 84線 列 步 兵 團 
+trp_french_infantry2_pl|線 列 步 兵 
+trp_french_infantry2_nco|法 國 擲 彈 兵 
+trp_french_infantry2_nco_pl|鷹 旗 手 
+trp_french_infantry2_officer|法 國 擲 彈 兵 
+trp_french_infantry2_officer_pl|軍 官 
+trp_french_infantry2_drum|法 國 擲 彈 兵 
+trp_french_infantry2_drum_pl|鼓 手 
+trp_french_infantry2_flute|法 國 擲 彈 兵 
+trp_french_infantry2_flute_pl|笛 手 
+trp_french_infantry_vistula|維 斯 杜 拉 軍 團 
+trp_french_infantry_vistula_pl|線 列 步 兵 
+trp_french_infantry_vistula_colours|波 蘭 線 列 步 兵 
+trp_french_infantry_vistula_colours_pl|鷹 旗 手 
+trp_french_infantry_vistula_officer|波 蘭 線 列 步 兵 
+trp_french_infantry_vistula_officer_pl|軍 官 
+trp_french_infantry_vistula_drum|波 蘭 線 列 步 兵 
+trp_french_infantry_vistula_drum_pl|鼓 手 
+trp_french_infantry_vistula_flute|波 蘭 線 列 步 兵 
+trp_french_infantry_vistula_flute_pl|笛 手 
+trp_french_old_guard|帝 國 近 衛 軍 第 1擲 彈 兵 團 
+trp_french_old_guard_pl|近 衛 步 兵 
+trp_french_old_guard_nco|法 國 近 衛 擲 彈 兵 
+trp_french_old_guard_nco_pl|鷹 旗 手 
+trp_french_old_guard_officer|法 國 近 衛 擲 彈 兵 
+trp_french_old_guard_officer_pl|軍 官 
+trp_french_old_guard_drum|法 國 近 衛 擲 彈 兵 
+trp_french_old_guard_drum_pl|鼓 手 
+trp_french_old_guard_flute|法 國 近 衛 擲 彈 兵 
+trp_french_old_guard_flute_pl|笛 手 
+trp_french_voltigeur|第 15輕 步 兵 團 
+trp_french_voltigeur_pl|輕 步 兵 
+trp_french_voltigeur_colours|法 國 尖 兵 
+trp_french_voltigeur_colours_pl|鷹 旗 手 
+trp_french_voltigeur_officer|法 國 尖 兵 
+trp_french_voltigeur_officer_pl|軍 官 
+trp_french_voltigeur_horn|法 國 尖 兵 
+trp_french_voltigeur_horn_pl|號 手 
+trp_french_hussar|第 2驃 騎 兵 團 
+trp_french_hussar_pl|驃 騎 兵 
+trp_french_hussar_nco|法 國 驃 騎 兵 
+trp_french_hussar_nco_pl|鷹 旗 手 
+trp_french_hussar_officer|法 國 驃 騎 兵 
+trp_french_hussar_officer_pl|軍 官 
+trp_french_hussar_trumpet|法 國 驃 騎 兵 
+trp_french_hussar_trumpet_pl|號 手 
+trp_french_lancer|帝 國 近 衛 軍 波 蘭 槍 騎 兵 團 
+trp_french_lancer_pl|槍 騎 兵 
+trp_french_lancer_nco|波 蘭 槍 騎 兵 
+trp_french_lancer_nco_pl|鷹 旗 手 
+trp_french_lancer_officer|波 蘭 槍 騎 兵 
+trp_french_lancer_officer_pl|軍 官 
+trp_french_lancer_trumpet|波 蘭 槍 騎 兵 
+trp_french_lancer_trumpet_pl|號 手 
+trp_french_dragoon|皇 后 龍 騎 兵 團 
+trp_french_dragoon_pl|龍 騎 兵 
+trp_french_dragoon_nco|法 國 龍 騎 兵 
+trp_french_dragoon_nco_pl|鷹 旗 手 
+trp_french_dragoon_officer|法 國 龍 騎 兵 
+trp_french_dragoon_officer_pl|軍 官 
+trp_french_dragoon_trumpet|法 國 龍 騎 兵 
+trp_french_dragoon_trumpet_pl|號 手 
+trp_french_cuirassier|第 9胸 甲 騎 兵 團 
+trp_french_cuirassier_pl|胸 甲 騎 兵 
+trp_french_cuirassier_nco|法 國 胸 甲 騎 兵 
+trp_french_cuirassier_nco_pl|鷹 旗 手 
+trp_french_cuirassier_officer|法 國 胸 甲 騎 兵 
+trp_french_cuirassier_officer_pl|軍 官 
+trp_french_cuirassier_trumpet|法 國 胸 甲 騎 兵 
+trp_french_cuirassier_trumpet_pl|號 手 
+trp_french_carabineer|第 1卡 賓 槍 騎 兵 團 
+trp_french_carabineer_pl|卡 賓 槍 騎 兵 
+trp_french_carabineer_nco|法 國 卡 賓 槍 騎 兵 
+trp_french_carabineer_nco_pl|鷹 旗 手 
+trp_french_carabineer_officer|法 國 卡 賓 槍 騎 兵 
+trp_french_carabineer_officer_pl|軍 官 
+trp_french_carabineer_trumpet|法 國 卡 賓 槍 騎 兵 
+trp_french_carabineer_trumpet_pl|號 手 
+trp_french_grenadier_a_cheval|帝 國 近 衛 軍 擲 彈 騎 兵 團 
+trp_french_grenadier_a_cheval_pl|重 騎 兵 
+trp_french_grenadier_a_cheval_nco|法 國 擲 彈 騎 兵 
+trp_french_grenadier_a_cheval_nco_pl|鷹 旗 手 
+trp_french_grenadier_a_cheval_officer|法 國 擲 彈 騎 兵 
+trp_french_grenadier_a_cheval_officer_pl|軍 官 
+trp_french_grenadier_a_cheval_trumpet|法 國 擲 彈 騎 兵 
+trp_french_grenadier_a_cheval_trumpet_pl|號 手 
+trp_french_arty|炮 兵 
+trp_french_arty_pl|炮 兵 
+trp_french_arty_guard|炮 兵 護 衛 
+trp_french_arty_guard_pl|炮 兵 護 衛 
+trp_french_arty_nco|法 國 炮 兵 
+trp_french_arty_nco_pl|炮 兵 輜 重 
+trp_french_arty_officer|法 國 炮 兵 
+trp_french_arty_officer_pl|軍 官 
+trp_french_medic|二 級 軍 醫 
+trp_french_medic_pl|軍 醫 
+trp_french_sapper|工 兵 
+trp_french_sapper_pl|工 兵 
+trp_french_ship|船 員 
+trp_french_ship_pl|步 兵 
+trp_french_ship_cannon|船 員 
+trp_french_ship_cannon_pl|海 軍 炮 兵 
+trp_french_ship_marine|船 員 
+trp_french_ship_marine_pl|海 軍 第 24營 水 兵 
+trp_french_ship_captain|船 員 
+trp_french_ship_captain_pl|無 畏 號 艦 長 
+trp_napoleon|拿 破 侖 · 波 拿 巴 大 帝 
+trp_napoleon_pl|指 揮 官 
+trp_prussian_infantry|第 8勃 蘭 登 堡 步 兵 團 
+trp_prussian_infantry_pl|線 列 步 兵 
+trp_prussian_infantry_nco|普 魯 士 線 列 步 兵 
+trp_prussian_infantry_nco_pl|旗 手 
+trp_prussian_infantry_officer|普 魯 士 線 列 步 兵 
+trp_prussian_infantry_officer_pl|軍 官 
+trp_prussian_infantry_drum|普 魯 士 線 列 步 兵 
+trp_prussian_infantry_drum_pl|鼓 手 
+trp_prussian_infantry_flute|普 魯 士 線 列 步 兵 
+trp_prussian_infantry_flute_pl|笛 手 
+trp_prussian_infantry2|第 23萊 茵 步 兵 團 
+trp_prussian_infantry2_pl|線 列 步 兵 
+trp_prussian_infantry2_nco|普 魯 士 線 列 步 兵 
+trp_prussian_infantry2_nco_pl|旗 手 
+trp_prussian_infantry2_officer|普 魯 士 線 列 步 兵 
+trp_prussian_infantry2_officer_pl|軍 官 
+trp_prussian_infantry2_drum|普 魯 士 線 列 步 兵 
+trp_prussian_infantry2_drum_pl|鼓 手 
+trp_prussian_infantry2_flute|普 魯 士 線 列 步 兵 
+trp_prussian_infantry2_flute_pl|笛 手 
+trp_prussian_infantry_kurmark|第 3庫 爾 馬 克 后 備 兵 團 
+trp_prussian_infantry_kurmark_pl|線 列 步 兵 
+trp_prussian_infantry_kurmark_nco|普 魯 士 后 備 兵 
+trp_prussian_infantry_kurmark_nco_pl|旗 手 
+trp_prussian_infantry_kurmark_officer|普 魯 士 后 備 兵 
+trp_prussian_infantry_kurmark_officer_pl|軍 官 
+trp_prussian_infantry_kurmark_drum|普 魯 士 后 備 兵 
+trp_prussian_infantry_kurmark_drum_pl|鼓 手 
+trp_prussian_infantry_kurmark_flute|普 魯 士 后 備 兵 
+trp_prussian_infantry_kurmark_flute_pl|笛 手 
+trp_prussian_infantry_freikorps|呂 佐 夫 自 由 軍 團 
+trp_prussian_infantry_freikorps_pl|線 列 步 兵 
+trp_prussian_infantry_freikorps_nco|普 魯 士 志 願 兵 
+trp_prussian_infantry_freikorps_nco_pl|旗 手 
+trp_prussian_infantry_freikorps_officer|普 魯 士 志 願 兵 
+trp_prussian_infantry_freikorps_officer_pl|軍 官 
+trp_prussian_infantry_freikorps_drum|普 魯 士 志 願 兵 
+trp_prussian_infantry_freikorps_drum_pl|鼓 手 
+trp_prussian_infantry_freikorps_flute|普 魯 士 志 願 兵 
+trp_prussian_infantry_freikorps_flute_pl|笛 手 
+trp_prussian_infantry_15|第 1近 衛 步 兵 團 
+trp_prussian_infantry_15_pl|近 衛 步 兵 
+trp_prussian_infantry_15_nco|普 魯 士 近 衛 步 兵 
+trp_prussian_infantry_15_nco_pl|旗 手 
+trp_prussian_infantry_15_officer|普 魯 士 近 衛 步 兵 
+trp_prussian_infantry_15_officer_pl|軍 官 
+trp_prussian_infantry_15_drum|普 魯 士 近 衛 步 兵 
+trp_prussian_infantry_15_drum_pl|鼓 手 
+trp_prussian_infantry_15_flute|普 魯 士 近 衛 步 兵 
+trp_prussian_infantry_15_flute_pl|笛 手 
+trp_prussian_infantry_rifle|西 裡 西 亞 獵 兵 營 
+trp_prussian_infantry_rifle_pl|來 福 槍 兵 
+trp_prussian_infantry_rifle_nco|普 魯 士 獵 兵 
+trp_prussian_infantry_rifle_nco_pl|軍 士 
+trp_prussian_infantry_rifle_officer|普 魯 士 獵 兵 
+trp_prussian_infantry_rifle_officer_pl|軍 官 
+trp_prussian_infantry_rifle_horn|普 魯 士 獵 兵 
+trp_prussian_infantry_rifle_horn_pl|號 手 
+trp_prussian_dragoon|第 6諾 伊 馬 克 龍 騎 兵 團 
+trp_prussian_dragoon_pl|龍 騎 兵 
+trp_prussian_dragoon_nco|普 魯 士 龍 騎 兵 
+trp_prussian_dragoon_nco_pl|軍 士 
+trp_prussian_dragoon_officer|普 魯 士 龍 騎 兵 
+trp_prussian_dragoon_officer_pl|軍 官 
+trp_prussian_dragoon_trumpet|普 魯 士 龍 騎 兵 
+trp_prussian_dragoon_trumpet_pl|號 手 
+trp_prussian_hussar|第 1近 衛 驃 騎 兵 團 （ 骷 髏 驃 騎 兵 ） 
+trp_prussian_hussar_pl|驃 騎 兵 
+trp_prussian_hussar_nco|普 魯 士 驃 騎 兵 
+trp_prussian_hussar_nco_pl|軍 士 
+trp_prussian_hussar_officer|普 魯 士 驃 騎 兵 
+trp_prussian_hussar_officer_pl|軍 官 
+trp_prussian_hussar_trumpet|普 魯 士 驃 騎 兵 
+trp_prussian_hussar_trumpet_pl|號 手 
+trp_prussian_landwehr_cav|威 斯 特 法 倫 后 備 騎 兵 營 
+trp_prussian_landwehr_cav_pl|槍 騎 兵 
+trp_prussian_landwehr_cav_nco|普 魯 士 槍 騎 兵 
+trp_prussian_landwehr_cav_nco_pl|軍 士 
+trp_prussian_landwehr_cav_officer|普 魯 士 槍 騎 兵 
+trp_prussian_landwehr_cav_officer_pl|軍 官 
+trp_prussian_landwehr_cav_trumpet|普 魯 士 槍 騎 兵 
+trp_prussian_landwehr_cav_trumpet_pl|號 手 
+trp_prussian_cuirassier|第 3勃 蘭 登 堡 胸 甲 騎 兵 團 
+trp_prussian_cuirassier_pl|重 騎 兵 
+trp_prussian_cuirassier_nco|普 魯 士 胸 甲 騎 兵 
+trp_prussian_cuirassier_nco_pl|軍 士 
+trp_prussian_cuirassier_officer|普 魯 士 胸 甲 騎 兵 
+trp_prussian_cuirassier_officer_pl|軍 官 
+trp_prussian_cuirassier_trumpet|普 魯 士 胸 甲 騎 兵 
+trp_prussian_cuirassier_trumpet_pl|號 手 
+trp_prussian_arty|第 36炮 兵 團 
+trp_prussian_arty_pl|炮 兵 
+trp_prussian_arty_guard|炮 兵 護 衛 
+trp_prussian_arty_guard_pl|炮 兵 護 衛 
+trp_prussian_arty_nco|普 魯 士 炮 兵 
+trp_prussian_arty_nco_pl|炮 兵 輜 重 
+trp_prussian_arty_officer|普 魯 士 炮 兵 
+trp_prussian_arty_officer_pl|軍 官 
+trp_prussian_medic|軍 醫 
+trp_prussian_medic_pl|軍 醫 
+trp_prussian_sapper|第 4曼 斯 費 爾 德 工 兵 團 
+trp_prussian_sapper_pl|工 兵 
+trp_prussian_blucher|格 布 哈 德 · 馮 · 布 呂 歇 爾 元 帥 
+trp_prussian_blucher_pl|指 揮 官 
+trp_russian_partizan|游 擊 隊 
+trp_russian_partizan_pl|游 擊 隊 員 
+trp_russian_opol|聖 彼 德 堡 民 兵 團 
+trp_russian_opol_pl|線 列 民 兵 
+trp_russian_opol_nco|俄 羅 斯 民 兵 
+trp_russian_opol_nco_pl|旗 手 
+trp_russian_opol_officer|俄 羅 斯 民 兵 
+trp_russian_opol_officer_pl|軍 官 
+trp_russian_infantry|辛 比 爾 斯 克 步 兵 團 
+trp_russian_infantry_pl|線 列 步 兵 
+trp_russian_infantry_nco|俄 羅 斯 線 列 步 兵 
+trp_russian_infantry_nco_pl|旗 手 
+trp_russian_infantry_officer|俄 羅 斯 線 列 步 兵 
+trp_russian_infantry_officer_pl|軍 官 
+trp_russian_infantry_drum|俄 羅 斯 線 列 步 兵 
+trp_russian_infantry_drum_pl|鼓 手 
+trp_russian_infantry_flute|俄 羅 斯 線 列 步 兵 
+trp_russian_infantry_flute_pl|笛 手 
+trp_russian_grenadier|巴 甫 洛 夫 斯 克 擲 彈 兵 團 
+trp_russian_grenadier_pl|線 列 步 兵 
+trp_russian_grenadier_nco|俄 羅 斯 擲 彈 兵 
+trp_russian_grenadier_nco_pl|旗 手 
+trp_russian_grenadier_officer|俄 羅 斯 擲 彈 兵 
+trp_russian_grenadier_officer_pl|軍 官 
+trp_russian_grenadier_drum|俄 羅 斯 擲 彈 兵 
+trp_russian_grenadier_drum_pl|鼓 手 
+trp_russian_grenadier_flute|俄 羅 斯 擲 彈 兵 
+trp_russian_grenadier_flute_pl|笛 手 
+trp_russian_foot_guard|普 列 奧 布 拉 仁 斯 基 近 衛 團 
+trp_russian_foot_guard_pl|近 衛 步 兵 
+trp_russian_foot_guard_nco|俄 羅 斯 近 衛 步 兵 
+trp_russian_foot_guard_nco_pl|旗 手 
+trp_russian_foot_guard_officer|俄 羅 斯 近 衛 步 兵 
+trp_russian_foot_guard_officer_pl|軍 官 
+trp_russian_foot_guard_drum|俄 羅 斯 近 衛 步 兵 
+trp_russian_foot_guard_drum_pl|鼓 手 
+trp_russian_foot_guard_flute|俄 羅 斯 近 衛 步 兵 
+trp_russian_foot_guard_flute_pl|笛 手 
+trp_russian_infantry_rifle|第 21獵 兵 團 
+trp_russian_infantry_rifle_pl|來 福 槍 兵 
+trp_russian_infantry_rifle_nco|俄 羅 斯 獵 兵 
+trp_russian_infantry_rifle_nco_pl|軍 士 
+trp_russian_infantry_rifle_officer|俄 羅 斯 獵 兵 
+trp_russian_infantry_rifle_officer_pl|軍 官 
+trp_russian_infantry_rifle_horn|俄 羅 斯 獵 兵 
+trp_russian_infantry_rifle_horn_pl|號 手 
+trp_russian_hussar|蘇 梅 驃 騎 兵 團 
+trp_russian_hussar_pl|驃 騎 兵 
+trp_russian_hussar_nco|俄 羅 斯 驃 騎 兵 
+trp_russian_hussar_nco_pl|旗 手 
+trp_russian_hussar_officer|俄 羅 斯 驃 騎 兵 
+trp_russian_hussar_officer_pl|軍 官 
+trp_russian_hussar_trumpet|俄 羅 斯 驃 騎 兵 
+trp_russian_hussar_trumpet_pl|號 手 
+trp_russian_uhlan|立 陶 宛 槍 騎 兵 團 
+trp_russian_uhlan_pl|槍 騎 兵 
+trp_russian_uhlan_nco|俄 羅 斯 槍 騎 兵 
+trp_russian_uhlan_nco_pl|旗 手 
+trp_russian_uhlan_officer|俄 羅 斯 槍 騎 兵 
+trp_russian_uhlan_officer_pl|軍 官 
+trp_russian_uhlan_trumpet|俄 羅 斯 槍 騎 兵 
+trp_russian_uhlan_trumpet_pl|號 手 
+trp_russian_cossack|頓 河 哥 薩 克 騎 兵 團 
+trp_russian_cossack_pl|槍 騎 兵 
+trp_russian_cossack_nco|俄 羅 斯 哥 薩 克 騎 兵 
+trp_russian_cossack_nco_pl|軍 士 
+trp_russian_cossack_officer|俄 羅 斯 哥 薩 克 騎 兵 
+trp_russian_cossack_officer_pl|軍 官 
+trp_russian_dragoon|基 輔 龍 騎 兵 團 
+trp_russian_dragoon_pl|龍 騎 兵 
+trp_russian_dragoon_nco|俄 羅 斯 龍 騎 兵 
+trp_russian_dragoon_nco_pl|旗 手 
+trp_russian_dragoon_officer|俄 羅 斯 龍 騎 兵 
+trp_russian_dragoon_officer_pl|軍 官 
+trp_russian_dragoon_trumpet|俄 羅 斯 龍 騎 兵 
+trp_russian_dragoon_trumpet_pl|號 手 
+trp_russian_horse_guard|近 衛 騎 兵 團 
+trp_russian_horse_guard_pl|胸 甲 騎 兵 
+trp_russian_horse_guard_nco|俄 羅 斯 近 衛 騎 兵 
+trp_russian_horse_guard_nco_pl|旗 手 
+trp_russian_horse_guard_officer|俄 羅 斯 近 衛 騎 兵 
+trp_russian_horse_guard_officer_pl|軍 官 
+trp_russian_horse_guard_trumpet|俄 羅 斯 近 衛 騎 兵 
+trp_russian_horse_guard_trumpet_pl|號 手 
+trp_russian_arty|第 8炮 兵 連 
+trp_russian_arty_pl|炮 兵 
+trp_russian_arty_guard|炮 兵 護 衛 
+trp_russian_arty_guard_pl|炮 兵 護 衛 
+trp_russian_arty_nco|俄 羅 斯 炮 兵 
+trp_russian_arty_nco_pl|炮 兵 輜 重 
+trp_russian_arty_officer|俄 羅 斯 炮 兵 
+trp_russian_arty_officer_pl|軍 官 
+trp_russian_medic|軍 醫 
+trp_russian_medic_pl|軍 醫 
+trp_russian_sapper|工 兵 
+trp_russian_sapper_pl|工 兵 
+trp_kutuzov|米 哈 伊 爾 · 庫 圖 佐 夫 元 帥 
+trp_kutuzov_pl|指 揮 官 
+trp_austrian_infantry|第 14魯 道 夫 大 公 步 兵 團 
+trp_austrian_infantry_pl|線 列 步 兵 
+trp_austrian_infantry_nco|奧 地 利 線 列 步 兵 
+trp_austrian_infantry_nco_pl|旗 手 
+trp_austrian_infantry_officer|奧 地 利 線 列 步 兵 
+trp_austrian_infantry_officer_pl|軍 官 
+trp_austrian_infantry_drum|奧 地 利 線 列 步 兵 
+trp_austrian_infantry_drum_pl|鼓 手 
+trp_austrian_infantry_flute|奧 地 利 線 列 步 兵 
+trp_austrian_infantry_flute_pl|笛 手 
+trp_austrian_infantry2|第 62馮 · 華 康 德 男 爵 步 兵 團 
+trp_austrian_infantry2_pl|線 列 步 兵 
+trp_austrian_infantry2_nco|匈 牙 利 線 列 步 兵 
+trp_austrian_infantry2_nco_pl|旗 手 
+trp_austrian_infantry2_officer|匈 牙 利 線 列 步 兵 
+trp_austrian_infantry2_officer_pl|軍 官 
+trp_austrian_infantry2_drum|匈 牙 利 線 列 步 兵 
+trp_austrian_infantry2_drum_pl|鼓 手 
+trp_austrian_infantry2_flute|匈 牙 利 線 列 步 兵 
+trp_austrian_infantry2_flute_pl|笛 手 
+trp_austrian_grenzer|第 3奧 古 林 邊 防 團 
+trp_austrian_grenzer_pl|線 列 /輕 步 兵 
+trp_austrian_grenzer_nco|奧 地 利 邊 防 兵 
+trp_austrian_grenzer_nco_pl|旗 手 
+trp_austrian_grenzer_officer|奧 地 利 邊 防 兵 
+trp_austrian_grenzer_officer_pl|軍 官 
+trp_austrian_grenzer_drum|奧 地 利 邊 防 兵 
+trp_austrian_grenzer_drum_pl|鼓 手 
+trp_austrian_grenzer_flute|奧 地 利 邊 防 兵 
+trp_austrian_grenzer_flute_pl|笛 手 
+trp_austrian_grenadier|珀 塞 爾 擲 彈 兵 營 
+trp_austrian_grenadier_pl|近 衛 步 兵 
+trp_austrian_grenadier_nco|匈 牙 利 擲 彈 兵 
+trp_austrian_grenadier_nco_pl|旗 手 
+trp_austrian_grenadier_officer|匈 牙 利 擲 彈 兵 
+trp_austrian_grenadier_officer_pl|軍 官 
+trp_austrian_grenadier_drum|匈 牙 利 擲 彈 兵 
+trp_austrian_grenadier_drum_pl|鼓 手 
+trp_austrian_grenadier_flute|匈 牙 利 擲 彈 兵 
+trp_austrian_grenadier_flute_pl|笛 手 
+trp_austrian_infantry_rifle|第 2獵 兵 營 
+trp_austrian_infantry_rifle_pl|來 福 槍 兵 
+trp_austrian_infantry_rifle_nco|奧 地 利 獵 兵 
+trp_austrian_infantry_rifle_nco_pl|軍 士 
+trp_austrian_infantry_rifle_officer|奧 地 利 獵 兵 
+trp_austrian_infantry_rifle_officer_pl|軍 官 
+trp_austrian_infantry_rifle_horn|奧 地 利 獵 兵 
+trp_austrian_infantry_rifle_horn_pl|號 手 
+trp_austrian_hussar|第 4馮 · 黑 森 -洪 堡 伯 爵 驃 騎 兵 團 
+trp_austrian_hussar_pl|驃 騎 兵 
+trp_austrian_hussar_nco|匈 牙 利 驃 騎 兵 
+trp_austrian_hussar_nco_pl|旗 手 
+trp_austrian_hussar_officer|匈 牙 利 驃 騎 兵 
+trp_austrian_hussar_officer_pl|軍 官 
+trp_austrian_hussar_trumpet|匈 牙 利 驃 騎 兵 
+trp_austrian_hussar_trumpet_pl|號 手 
+trp_austrian_uhlan|第 2施 瓦 岑 貝 格 親 王 槍 騎 兵 團 
+trp_austrian_uhlan_pl|槍 騎 兵 
+trp_austrian_uhlan_nco|奧 地 利 槍 騎 兵 
+trp_austrian_uhlan_nco_pl|旗 手 
+trp_austrian_uhlan_officer|奧 地 利 槍 騎 兵 
+trp_austrian_uhlan_officer_pl|軍 官 
+trp_austrian_uhlan_trumpet|奧 地 利 槍 騎 兵 
+trp_austrian_uhlan_trumpet_pl|號 手 
+trp_austrian_light_horse|第 2馮 · 霍 亨 索 倫 親 王 輕 騎 兵 團 
+trp_austrian_light_horse_pl|輕 龍 騎 兵 
+trp_austrian_light_horse_nco|奧 地 利 輕 龍 騎 兵 
+trp_austrian_light_horse_nco_pl|旗 手 
+trp_austrian_light_horse_officer|奧 地 利 輕 龍 騎 兵 
+trp_austrian_light_horse_officer_pl|軍 官 
+trp_austrian_light_horse_trumpet|奧 地 利 輕 龍 騎 兵 
+trp_austrian_light_horse_trumpet_pl|號 手 
+trp_austrian_dragoon|第 5斐 迪 南 大 公 龍 騎 兵 團 
+trp_austrian_dragoon_pl|龍 騎 兵 
+trp_austrian_dragoon_nco|奧 地 利 龍 騎 兵 
+trp_austrian_dragoon_nco_pl|旗 手 
+trp_austrian_dragoon_officer|奧 地 利 龍 騎 兵 
+trp_austrian_dragoon_officer_pl|軍 官 
+trp_austrian_dragoon_trumpet|奧 地 利 龍 騎 兵 
+trp_austrian_dragoon_trumpet_pl|號 手 
+trp_austrian_cuirassier|第 1弗 朗 茨 皇 帝 胸 甲 騎 兵 團 
+trp_austrian_cuirassier_pl|胸 甲 騎 兵 
+trp_austrian_cuirassier_nco|奧 地 利 胸 甲 騎 兵 
+trp_austrian_cuirassier_nco_pl|旗 手 
+trp_austrian_cuirassier_officer|奧 地 利 胸 甲 騎 兵 
+trp_austrian_cuirassier_officer_pl|軍 官 
+trp_austrian_cuirassier_trumpet|奧 地 利 胸 甲 騎 兵 
+trp_austrian_cuirassier_trumpet_pl|號 手 
+trp_austrian_arty|第 7洛 林 親 王 炮 兵 團 
+trp_austrian_arty_pl|炮 兵 
+trp_austrian_arty_guard|炮 兵 護 衛 
+trp_austrian_arty_guard_pl|炮 兵 護 衛 
+trp_austrian_arty_nco|奧 地 利 炮 兵 
+trp_austrian_arty_nco_pl|炮 兵 輜 重 
+trp_austrian_arty_officer|奧 地 利 炮 兵 
+trp_austrian_arty_officer_pl|軍 官 
+trp_austrian_medic|軍 醫 
+trp_austrian_medic_pl|軍 醫 
+trp_austrian_sapper|第 1工 兵 營 
+trp_austrian_sapper_pl|工 兵 
+trp_schwarzenberg|卡 爾 · 菲 利 普 ， 施 瓦 岑 貝 格 親 王 
+trp_schwarzenberg_pl|指 揮 官 
+trp_rhine_infantry_bavaria|巴 伐 利 亞 第 2王 儲 步 兵 團 
+trp_rhine_infantry_bavaria_pl|線 列 步 兵 
+trp_rhine_infantry_bavaria_nco|巴 伐 利 亞 線 列 步 兵 
+trp_rhine_infantry_bavaria_nco_pl|旗 手 
+trp_rhine_infantry_bavaria_officer|巴 伐 利 亞 線 列 步 兵 
+trp_rhine_infantry_bavaria_officer_pl|軍 官 
+trp_rhine_infantry_bavaria_drum|巴 伐 利 亞 線 列 步 兵 
+trp_rhine_infantry_bavaria_drum_pl|鼓 手 
+trp_rhine_infantry_bavaria_flute|巴 伐 利 亞 線 列 步 兵 
+trp_rhine_infantry_bavaria_flute_pl|笛 手 
+trp_rhine_infantry_wurttemberg|符 騰 堡 第 2威 廉 公 爵 步 兵 團 
+trp_rhine_infantry_wurttemberg_pl|線 列 步 兵 
+trp_rhine_infantry_wurttemberg_nco|符 騰 堡 線 列 步 兵 
+trp_rhine_infantry_wurttemberg_nco_pl|旗 手 
+trp_rhine_infantry_wurttemberg_officer|符 騰 堡 線 列 步 兵 
+trp_rhine_infantry_wurttemberg_officer_pl|軍 官 
+trp_rhine_infantry_wurttemberg_drum|符 騰 堡 線 列 步 兵 
+trp_rhine_infantry_wurttemberg_drum_pl|鼓 手 
+trp_rhine_infantry_wurttemberg_flute|符 騰 堡 線 列 步 兵 
+trp_rhine_infantry_wurttemberg_flute_pl|笛 手 
+trp_rhine_infantry_saxony|薩 克 森 腓 特 烈 · 奧 古 斯 特 親 王 步 兵 團 
+trp_rhine_infantry_saxony_pl|線 列 步 兵 
+trp_rhine_infantry_saxony_nco|薩 克 森 線 列 步 兵 
+trp_rhine_infantry_saxony_nco_pl|旗 手 
+trp_rhine_infantry_saxony_officer|薩 克 森 線 列 步 兵 
+trp_rhine_infantry_saxony_officer_pl|軍 官 
+trp_rhine_infantry_saxony_drum|薩 克 森 線 列 步 兵 
+trp_rhine_infantry_saxony_drum_pl|鼓 手 
+trp_rhine_infantry_saxony_flute|薩 克 森 線 列 步 兵 
+trp_rhine_infantry_saxony_flute_pl|笛 手 
+trp_rhine_infantry_wurttemberg2|符 騰 堡 第 4馮 · 弗 蘭 克 蒙 特 步 兵 團 
+trp_rhine_infantry_wurttemberg2_pl|線 列 步 兵 
+trp_rhine_infantry_wurttemberg2_nco|符 騰 堡 擲 彈 兵 
+trp_rhine_infantry_wurttemberg2_nco_pl|旗 手 
+trp_rhine_infantry_wurttemberg2_officer|符 騰 堡 擲 彈 兵 
+trp_rhine_infantry_wurttemberg2_officer_pl|軍 官 
+trp_rhine_infantry_wurttemberg2_drum|符 騰 堡 擲 彈 兵 
+trp_rhine_infantry_wurttemberg2_drum_pl|鼓 手 
+trp_rhine_infantry_wurttemberg2_flute|符 騰 堡 擲 彈 兵 
+trp_rhine_infantry_wurttemberg2_flute_pl|笛 手 
+trp_rhine_grenadier_guard|威 斯 特 法 倫 近 衛 擲 彈 兵 團 
+trp_rhine_grenadier_guard_pl|近 衛 步 兵 
+trp_rhine_grenadier_guard_nco|威 斯 特 法 倫 近 衛 擲 彈 兵 
+trp_rhine_grenadier_guard_nco_pl|旗 手 
+trp_rhine_grenadier_guard_officer|威 斯 特 法 倫 近 衛 擲 彈 兵 
+trp_rhine_grenadier_guard_officer_pl|軍 官 
+trp_rhine_grenadier_guard_drum|威 斯 特 法 倫 近 衛 擲 彈 兵 
+trp_rhine_grenadier_guard_drum_pl|鼓 手 
+trp_rhine_grenadier_guard_flute|威 斯 特 法 倫 近 衛 擲 彈 兵 
+trp_rhine_grenadier_guard_flute_pl|笛 手 
+trp_rhine_light_infantry_hessen|黑 森 -達 姆 施 塔 特 大 世 襲 親 王 步 兵 團 
+trp_rhine_light_infantry_hessen_pl|輕 步 兵 
+trp_rhine_light_infantry_hessen_nco|黑 森 輕 步 兵 
+trp_rhine_light_infantry_hessen_nco_pl|旗 手 
+trp_rhine_light_infantry_hessen_officer|黑 森 輕 步 兵 
+trp_rhine_light_infantry_hessen_officer_pl|軍 官 
+trp_rhine_light_infantry_hessen_horn|黑 森 輕 步 兵 
+trp_rhine_light_infantry_hessen_horn_pl|號 手 
+trp_rhine_light_infantry_bavaria|巴 伐 利 亞 第 7輕 步 兵 營 
+trp_rhine_light_infantry_bavaria_pl|輕 步 兵 /來 福 槍 兵 
+trp_rhine_light_infantry_bavaria_nco|巴 伐 利 亞 來 福 槍 兵 
+trp_rhine_light_infantry_bavaria_nco_pl|軍 士 
+trp_rhine_light_infantry_bavaria_officer|巴 伐 利 亞 來 福 槍 兵 
+trp_rhine_light_infantry_bavaria_officer_pl|軍 官 
+trp_rhine_light_infantry_bavaria_horn|巴 伐 利 亞 來 福 槍 兵 
+trp_rhine_light_infantry_bavaria_horn_pl|號 手 
+trp_rhine_mounted_jaeger|拿 騷 獵 騎 兵 團 
+trp_rhine_mounted_jaeger_pl|驃 騎 兵 
+trp_rhine_mounted_jaeger_nco|拿 騷 獵 騎 兵 
+trp_rhine_mounted_jaeger_nco_pl|軍 士 
+trp_rhine_mounted_jaeger_officer|拿 騷 獵 騎 兵 
+trp_rhine_mounted_jaeger_officer_pl|軍 官 
+trp_rhine_mounted_jaeger_trumpet|拿 騷 獵 騎 兵 
+trp_rhine_mounted_jaeger_trumpet_pl|號 手 
+trp_rhine_uhlan|薩 克 森 克 萊 門 斯 親 王 槍 騎 兵 團 
+trp_rhine_uhlan_pl|槍 騎 兵 
+trp_rhine_uhlan_nco|薩 克 森 槍 騎 兵 
+trp_rhine_uhlan_nco_pl|旗 手 
+trp_rhine_uhlan_officer|薩 克 森 槍 騎 兵 
+trp_rhine_uhlan_officer_pl|軍 官 
+trp_rhine_uhlan_trumpet|薩 克 森 槍 騎 兵 
+trp_rhine_uhlan_trumpet_pl|號 手 
+trp_rhine_light_dragoon|巴 登 輕 龍 騎 兵 團 
+trp_rhine_light_dragoon_pl|輕 龍 騎 兵 
+trp_rhine_light_dragoon_nco|巴 登 輕 龍 騎 兵 
+trp_rhine_light_dragoon_nco_pl|旗 手 
+trp_rhine_light_dragoon_officer|巴 登 輕 龍 騎 兵 
+trp_rhine_light_dragoon_officer_pl|軍 官 
+trp_rhine_light_dragoon_trumpet|巴 登 輕 龍 騎 兵 
+trp_rhine_light_dragoon_trumpet_pl|號 手 
+trp_rhine_cuirassier|威 斯 特 法 倫 第 1胸 甲 騎 兵 團 
+trp_rhine_cuirassier_pl|胸 甲 騎 兵 
+trp_rhine_cuirassier_nco|威 斯 特 法 倫 胸 甲 騎 兵 
+trp_rhine_cuirassier_nco_pl|旗 手 
+trp_rhine_cuirassier_officer|威 斯 特 法 倫 胸 甲 騎 兵 
+trp_rhine_cuirassier_officer_pl|軍 官 
+trp_rhine_cuirassier_trumpet|威 斯 特 法 倫 胸 甲 騎 兵 
+trp_rhine_cuirassier_trumpet_pl|號 手 
+trp_rhine_garde_du_corps|薩 克 森 近 衛 騎 兵 團 
+trp_rhine_garde_du_corps_pl|重 騎 兵 
+trp_rhine_garde_du_corps_nco|薩 克 森 近 衛 騎 兵 
+trp_rhine_garde_du_corps_nco_pl|旗 手 
+trp_rhine_garde_du_corps_officer|薩 克 森 近 衛 騎 兵 
+trp_rhine_garde_du_corps_officer_pl|軍 官 
+trp_rhine_garde_du_corps_trumpet|薩 克 森 近 衛 騎 兵 
+trp_rhine_garde_du_corps_trumpet_pl|號 手 
+trp_rhine_arty|巴 伐 利 亞 炮 兵 團 
+trp_rhine_arty_pl|炮 兵 
+trp_rhine_arty_guard|巴 伐 利 亞 炮 兵 護 衛 
+trp_rhine_arty_guard_pl|炮 兵 護 衛 
+trp_rhine_arty_nco|巴 伐 利 亞 炮 兵 
+trp_rhine_arty_nco_pl|炮 兵 輜 重 
+trp_rhine_arty_officer|巴 伐 利 亞 炮 兵 
+trp_rhine_arty_officer_pl|軍 官 
+trp_rhine_medic|法 國 二 級 軍 醫 
+trp_rhine_medic_pl|軍 醫 
+trp_rhine_sapper|貝 格 工 兵 
+trp_rhine_sapper_pl|工 兵 
+trp_friedrich_august|腓 特 烈 · 奧 古 斯 特 一 世 ， 薩 克 森 國 王 
+trp_friedrich_august_pl|指 揮 官 
+trp_british_arty_commander|皇 家 炮 兵 團 
+trp_british_arty_commander_pl|軍 官 
+trp_british_arty_alt_commander|皇 家 炮 兵 團 
+trp_british_arty_alt_commander_pl|軍 官 
+trp_french_arty_commander|炮 兵 
+trp_french_arty_commander_pl|軍 官 
+trp_french_arty_alt_commander|炮 兵 
+trp_french_arty_alt_commander_pl|軍 官 
+trp_prussian_arty_commander|第 36炮 兵 團 
+trp_prussian_arty_commander_pl|軍 官 
+trp_prussian_arty_alt_commander|第 36炮 兵 團 
+trp_prussian_arty_alt_commander_pl|軍 官 
+trp_russian_arty_commander|炮 兵 
+trp_russian_arty_commander_pl|軍 官 
+trp_russian_arty_alt_commander|炮 兵 
+trp_russian_arty_alt_commander_pl|軍 官 
+trp_austrian_arty_commander|第 7洛 林 親 王 炮 兵 團 
+trp_austrian_arty_commander_pl|軍 官 
+trp_austrian_arty_alt_commander|第 7洛 林 親 王 炮 兵 團
+trp_austrian_arty_alt_commander_pl|軍 官 
+trp_rhine_arty_commander|巴 伐 利 亞 炮 兵 
+trp_rhine_arty_commander_pl|軍 官 
+trp_rhine_arty_alt_commander|巴 伐 利 亞 炮 兵 
+trp_rhine_arty_alt_commander_pl|軍 官 
+trp_quick_battle_troop_britain_1|阿 瑟 · 韋 爾 斯 利 
+trp_quick_battle_troop_britain_1_pl|將 軍 
+trp_quick_battle_troop_france_1|拿 破 侖 · 波 拿 巴 
+trp_quick_battle_troop_france_1_pl|皇 帝 
+trp_quick_battle_troop_prussia_1|格 布 哈 德 · 馮 · 布 呂 歇 爾 
+trp_quick_battle_troop_prussia_1_pl|將 軍 
+trp_quick_battle_troop_russia_1|米 哈 伊 爾 · 庫 圖 佐 夫 
+trp_quick_battle_troop_russia_1_pl|將 軍 
+trp_quick_battle_troop_austria_1|卡 爾 · 菲 利 普 
+trp_quick_battle_troop_austria_1_pl|將 軍 
+trp_quick_battle_troop_rhine_1|腓 特 烈 · 奧 古 斯 特 
+trp_quick_battle_troop_rhine_1_pl|將 軍 
+trp_companion_1|拉 斐 爾 · 馬 丁 
+trp_companion_1_pl|拉 斐 爾 · 馬 丁 
+trp_companion_2|克 萊 門 特 · 伯 納 德 
+trp_companion_2_pl|克 萊 門 特 · 伯 納 德 
+trp_companion_3|馬 克 西 姆 · 漢 穆 尼 · 胥 密 特 
+trp_companion_3_pl|馬 克 西 姆 · 佩 蒂 特 
+trp_companion_4|亞 歷 山 大 · 杜 蘭 德 
+trp_companion_4_pl|亞 歷 山 大 · 杜 蘭 德 
+trp_companion_5|安 托 萬 · 理 查 德 
+trp_companion_5_pl|安 托 萬 · 理 查 德 
+trp_companion_6|亞 歷 克 西 斯 · 莫 羅 
+trp_companion_6_pl|亞 歷 克 西 斯 · 莫 羅 
+trp_companion_7|朱 爾 斯 · 杜 波 依 斯 
+trp_companion_7_pl|朱 爾 斯 · 杜 波 依 斯 
+trp_companion_8|利 瑪 竇 · 羅 伯 特 
+trp_companion_8_pl|利 瑪 竇 · 羅 伯 特 
+trp_companion_9|朱 利 安 · 洛 朗 
+trp_companion_9_pl|朱 利 安 · 洛 朗 
+trp_companion_10|塞 繆 爾 · 西 蒙 
+trp_companion_10_pl|塞 繆 爾 · 西 蒙 
+trp_companion_11|諾 埃 · 米 歇 爾 
+trp_companion_11_pl|諾 埃 · 米 歇 爾 
+trp_companion_12|克 朗 丹 · 勒 魯 瓦 
+trp_companion_12_pl|克 朗 丹 · 勒 魯 瓦 
+trp_companion_13|杰 裡 米 · 加 西 亞 
+trp_companion_13_pl|杰 裡 米 · 加 西 亞 
+trp_companion_14|查 爾 斯 · 勒 費 弗 爾 
+trp_companion_14_pl|查 爾 斯 · 勒 費 弗 爾 
+trp_companion_15|艾 洛 特 · 盧 克 斯 
+trp_companion_15_pl|艾 洛 特 · 盧 克 斯 
+trp_companion_16|西 奧 · 大 衛 
+trp_companion_16_pl|西 奧 · 大 衛 
+trp_companion_17|羅 曼 · 貝 特 朗 
+trp_companion_17_pl|羅 曼 · 貝 特 朗 
+trp_companion_18|昆 汀 · 富 尼 耶 
+trp_companion_18_pl|昆 汀 · 富 尼 耶 
+trp_companion_19|吉 拉 德 · 巴 蒂 斯 特 
+trp_companion_19_pl|吉 拉 德 · 巴 蒂 斯 特 
+trp_companion_20|瓦 倫 丁 · 邦 尼 特 
+trp_companion_20_pl|瓦 倫 丁 · 邦 尼 特 
+trp_companion_21|尼 科 · 坎 普 斯 
+trp_companion_21_pl|尼 古 拉 斯 · 莫 雷 爾 
+trp_companion_22|米 歐 · 盧 梭 
+trp_companion_22_pl|米 歐 · 盧 梭 
+trp_companion_23|皮 埃 爾 · 蘭 伯 特 
+trp_companion_23_pl|皮 埃 爾 · 蘭 伯 特 
+trp_companion_24|馬 呂 斯 · 布 萊 克 
+trp_companion_24_pl|馬 呂 斯 · 布 萊 克 
+trp_companion_25|雷 米 · 托 馬 斯 
+trp_companion_25_pl|雷 米 · 托 馬 斯 
+trp_companion_26|本 杰 明 · 阿 奎 隆 
+trp_companion_26_pl|本 杰 明 · 阿 奎 隆 
+trp_companion_27|馬 克 桑 斯 · 加 德 
+trp_companion_27_pl|馬 克 桑 斯 · 加 德 
+trp_companion_28|阿 克 塞 爾 · 勒 米 厄 
+trp_companion_28_pl|阿 克 塞 爾 · 勒 米 厄 
+trp_companion_29|朱 爾 斯 · 普 朗 
+trp_companion_29_pl|朱 爾 斯 · 普 朗 
+trp_companion_30|馬 丁 · 羅 氏 
+trp_companion_30_pl|馬 丁 · 羅 氏 
+trp_companions_end|companions end 
+trp_companions_end_pl|companions end 
+trp_walker_french_infantry|步 兵 
+trp_walker_french_infantry_pl|步 兵 
+trp_walker_french_voltigeur|尖 兵 
+trp_walker_french_voltigeur_pl|尖 兵 
+trp_walker_french_hussar|驃 騎 兵 
+trp_walker_french_hussar_pl|驃 騎 兵 
+trp_walker_french_officer|軍 官 
+trp_walker_french_officer_pl|軍 官 
+trp_walker_messenger|信 差 
+trp_walker_messenger_pl|信 差 
+trp_walker_peasant_male|農 民 
+trp_walker_peasant_male_pl|農 民 
+trp_walker_peasant_female|農 民 
+trp_walker_peasant_female_pl|農 民 
+trp_walkers_end|walkers end 
+trp_walkers_end_pl|walkers end 
+trp_camp_armorer|裁 縫 
+trp_camp_weaponsmith|武 器 商 人 
+trp_camp_horse_merchant|馬 匹 商 人 
+trp_merchants_end|merchants_end 
+trp_merchants_end_pl|merchants_end 

@@ -1,0 +1,128 @@
+qstr_Careful...|小 心 ...
+qstr_{reg3}|{reg3}
+qstr_0|0 
+qstr__{s5}__{s6}_|({s5}, {s6})
+qstr___{reg43}__|( {reg43} )
+qstr_Action|行 动 
+qstr_Mount|上 马 
+qstr_Attack_Type|武 器 选 择 
+qstr_Stand_Ground|站 岗 
+qstr_Charge|冲 锋 
+qstr_Follow_Me|随 我 来 
+qstr_Hold_This_Position|坚 守 此 地 
+qstr_Spread_Out|散 开 
+qstr_Stand_Closer|聚 拢 
+qstr_Fall_Back|退 后 
+qstr_Advance|前 进 
+qstr_Dismount|下 马 
+qstr_Fire_At_Will|任 意 射 击 
+qstr_Hold_Your_Fire|停 止 射 击 
+qstr_Use_Blunt_Weapons|使 用 钝 击 武 器 
+qstr_Use_Any_Weapon|使 用 任 意 武 器 
+qstr_Ready|准 备 
+qstr_Wounded|受 伤 
+qstr_Dead|死 亡 
+qstr_F4___Movement_Orders|F4 - 移 动 命 令 ^F5 - 编 队 命 令 ^F6 - 射 击 命 令 
+qstr_F4___Hold_this_posit|F4 - 坚 守 此 地 ^F5 - 随 我 来 ^F6 - 冲 锋 ^F7 - 前 进 ^F8 - 站 在 原 地 ^F9 - 退 后 ^F10 - 撤 退 ^F11 - 慢 步 前 进 ^F12 - 快 步 前 进 
+qstr_F4___Form_line^F5___|F4 - 列 横 队 ^F5 - 列 纵 队 ^F6 - 列 方 阵 ^F7 - 松 散 列 阵 ^F8 - 左 转 ^F9 - 右 转 ^F10 - 调 整 朝 向 
+qstr_F4___Hold_fire^F5___|F4 - 停 止 射 击 ^F5 - 自 由 射 击 ^F6 - 全 体 射 击 ^F7 - Fire at position^F8 - 瞄 准 
+qstr_0000|00,00 
+qstr_Vienna|维 也 纳 
+qstr_Austerlitz|奥 斯 特 里 茨 
+qstr_Drezden|德 雷 斯 顿 
+qstr_Quit|退 出 
+qstr_Go_to_the_Camp|去 营 地 
+qstr_Continue_Campaign|继 续 战 役 
+qstr_{reg21}{reg22}|{reg21},{reg22}
+qstr_Back|返 回 
+qstr_Visit_the_camp|访 问 营 地 
+qstr_Companions|同 伴 
+qstr_Merchants|商 人 
+qstr_Skip|跳 过 
+qstr_Available_companions|可 选 的 同 伴 
+qstr_Selected_companions|已 选 的 同 伴 
+qstr_Start_Mission|开 始 任 务 
+qstr_Choose_a_companion|选 一 个 同 伴 
+qstr_Battle_Results|战 斗 结 果 
+qstr_Count|计 数 
+qstr_Money|钱 
+qstr_Enemies_killed:|干 掉 的 敌 人 ： 
+qstr_{reg1}|{reg1}
+qstr_Personal_kills:|个 人 击 杀 ： 
+qstr_Allies_lost:|友 军 损 失 ： 
+qstr__{reg1}|-{reg1}
+qstr_Companions_lost:|同 伴 损 失 ： 
+qstr_Totals:|总 计 ： 
+qstr_Retry|重 试 
+qstr_Done|完 成 
+qstr_Open_ze_Treasure|打 开 宝 箱 
+qstr_View_Caimpaign_Map|查 看 战 役 地 图 
+qstr_Use|使 用 
+qstr_Use_Prop|使 用 道 具 
+qstr_Unknown_command_issu|未 知 的 命 令 发 生 ！ 
+qstr_{s7}_opened_the_gate|{s7}打 开 了 大 门 
+qstr_{s7}_closed_the_gate|{s7}关 闭 了 大 门 
+qstr_Centre_Inf|中 央 步 兵 
+qstr_Lflank_Inf|左 翼 步 兵 
+qstr_Rflank_Inf|右 翼 步 兵 
+qstr_Centre_Cav|中 央 骑 兵 
+qstr_Lflank_Cav|左 翼 骑 兵 
+qstr_Rflank_Cav|右 翼 骑 兵 
+qstr_Holding|坚 守 中 
+qstr_Following|随 行 中 
+qstr_Charging|冲 锋 中 
+qstr_Advancing|前 进 中 
+qstr_Falling_Back|后 退 中 
+qstr_Standing_Closer|聚 拢 中 
+qstr_Spreading_Out|散 开 中 
+qstr_Standing|站 立 中 
+qstr_N/A|无 效 
+qstr_Free|自 由 行 动 中 
+qstr_Any_Weapon|任 意 武 器 
+qstr_Blunt_Weapons|钝 击 武 器 
+qstr_[SERVER]:_{s4}|[服 务 器 ]： {s4}
+qstr_THISISAPLACEHOLDERST|这 是 一 个 占 位 字 符 串 
+qstr_{s32}_hold_this_posi|{s32}， 坚 守 此 地 ！ 
+qstr_{s32}_follow_me!|{s32}， 随 我 来 ！ 
+qstr_{s32}_charge!|{s32}， 冲 锋 ！ 
+qstr_{s32}_advance!|{s32}， 前 进 ！ 
+qstr_{s32}_halt!|{s32}， 停 止 前 进 ！ 
+qstr_{s32}_fall_back!|{s32}， 后 退 ！ 
+qstr_{s32}_retreat!|{s32}， 撤 退 ！ 
+qstr_{s32}_slow_pace!|{s32}， 放 慢 脚 步 ！ 
+qstr_{s32}_quick_pace!|{s32}， 加 快 脚 步 ！ 
+qstr_{s32}_form_line!|{s32}， 列 横 队 ！ 
+qstr_{s32}_form_column!|{s32}， 列 纵 队 ！ 
+qstr_{s32}_form_square!|{s32}， 列 方 阵 ！ 
+qstr_{s32}_skirmish_order|{s32}， 松 散 列 阵 ！ 
+qstr_{s32}_wheel_left!|{s32}， 左 转 ！ 
+qstr_{s32}_wheel_right!|{s32}， 右 转 ！ 
+qstr_{s32}_adjust_formati|{s32}， 调 整 阵 型 ！ 
+qstr_Leave?|离 开 ？ 
+qstr_SERVER|服 务 器 
+qstr_Clear_the_bridge_of_|趁 元 帅 们 在 谈 判 的 时 候 清 除 掉 桥 上 的 板 条 箱 。 ^注 意 不 要 被 卫 兵 发 现 了 。 
+qstr_The_bridge_has_been_|桥 已 经 被 清 理 干 净 了 ， 干 得 不 错 ！ 现 在 隐 藏 在 河 对 岸 奥 地 利 人 的 另 外 一 边 ， 等 到 谈 判 结 束 。 
+qstr_You_ve_been_discover|你 被 发 现 了 ！ 在 卫 兵 发 出 警 报 之 前 干 掉 他 ！ 
+qstr_Lannes:__..._Yes_tha|兰 尼 斯 ： “ … … 是 的 ， 那 是 正 确 的 ， 和 平 协 议 已 经 签 署 了 。 战 争 结 束 了 。 ” 
+qstr_Austrian_Officer:__U|奥 地 利 长 官 ： “ 嗯 … … 好 的 … … 嘿 ！ 那 是 怎 么 回 事 ？桥 上 的 板 条 箱 不 见 了 ！ 我 们 被 耍 了 ！ 进 攻 ！ ” 
+qstr_French_Soldier:__Loo|法 国 士 兵 ： “ 看 ， 开 战 了 ！ 我 们 必 须 帮 助 我 们 的 战 友 。 都 快 点 ， 穿 过 这 座 桥 ！ ” 
+qstr_Artillery_Captain:__|炮 兵 队 长 ： “ 那 些 法 国 人 试 图 穿 过 这 座 桥 。 各 位 准 备 好 枪 炮 ！ ” 
+qstr_Prevent_the_Austrian|阻 止 奥 地 利 炮 兵 射 击 正 在 穿 过 这 座 桥 的 法 国 士 兵 。 
+qstr_The_Austrians_are_la|奥 地 利 士 兵 发 起 了 一 轮 反 攻 ！ 
+qstr_Fight_back_the_Austr|回 击 奥 地 利 士 兵 的 反 攻 ！ 
+qstr_The_brigde_is_now_un|这 座 桥 被 法 国 士 兵 牢 牢 控 制 了 。 干 得 不 错 ！ 
+qstr_Capture_the_village_|从 俄 罗 斯 人 那 里 夺 取 索 科 尔 尼 兹 村 ！ 
+qstr_You_have_captured_th|你 已 经 夺 取 了 这 个 村 子 ， 干 得 太 棒 了 ！ 
+qstr_Capture_the_village_o|从 俄 军 那 里 夺 取 索 科 尔 尼 兹 村 
+qstr_Hold_the_village_at_|不 惜 一 切 代 价 守 住 村 子 ， 顶 住 俄 军 的 反 击 。 
+qstr_Go_to_meet_the_Emper|去 见 皇 帝 陛 下 
+qstr_Recapture_the_city_w|从 俄 军 那 里 夺 回 城 墙 。 
+qstr_Help_your_allies_dri|帮 助 你 的 盟 友 赶 走 俄 罗 斯 人 。 
+qstr_Defend_the_gate_agai|防 守 大 门 ， 抵 挡 俄 罗 斯 人 的 进 攻 。 
+qstr_Sally_out_and_rout_t|突 围 ， 击 溃 残 余 的 俄 罗 斯 人 。 
+qstr_The_assault_has_been|敌 人 的 进 攻 被 粉 碎 了 ！ 法 国 万 岁 ！ 
+qstr_Catch_the_Austrian_c|在 奥 地 利 指 挥 官 到 达 奥 地 利 方 阵 前 活 捉 他 ！ 
+qstr_Break_the_Austrian_s|干 掉 他 们 或 者 击 溃 他 们 ， 以 解 决 奥 地 利 方 阵 。 
+qstr_Attack_the_lines_gua|攻 击 守 卫 村 子 的 防 线 ， 消 灭 他 们 或 者 击 溃 他 们 。 
+qstr_Vive_l_Empereur!_La_|皇 帝 万 岁 ！ 胜 利 属 于 我 们 ！ 
+qstr_Talk_to_the_messenge|和 信 使 谈 谈 你 的 下 一 个 任 务 。 

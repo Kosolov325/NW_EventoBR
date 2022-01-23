@@ -1,0 +1,44 @@
+﻿ui_character_window|Schlachtruf
+ui_start_tutorial|Tutorial
+ui_start_a_new_game|Einzelspieler
+ui_particle_systems|Detailliertes Partikelsystem
+ui_no_more_bolts|Keine Munition...
+ui_you_are_not_carrying_any_bolts|Du bist nicht in Besitz von Munition.
+ui_cut|Schneidend
+ui_pierce|Stechend
+ui_blunt|Stumpf
+ui_autoexpore|Kontrastreiche Tonemap
+ui_use_melee_weapons_e_|Nahkampfwaffen!
+ui_use_ranged_weapons_e_|Feuerwaffen!
+ui_order_button_use_melee_weapons|Nutzt Nahkampfwaffen!
+ui_order_button_use_ranged_weapons|Nutzt Feuerwaffen!
+ui_order_button_weapon_usage_orders|Waffen befehle
+ui_fire_at_my_command_e_|Feuer auf meinen Befehl!
+ui_fire_now_e_|Feuer!
+ui_order_button_fire_at_my_command|Feuer auf meinen Befehl!
+ui_order_button_fire_now|Feuer!
+ui_order_form_1_row|Forme 1 Rang!
+ui_order_form_2_row|Forme 2 Ränge!
+ui_order_form_3_row|Forme 3 Ränge!
+ui_order_form_4_row|Forme 4 Ränge!
+ui_order_form_5_row|Forme 4 Ränge!
+ui_form_1_row_e_|Forme 1 Rang!
+ui_form_2_row_e_|Forme 2 Ränge!
+ui_form_3_row_e_|Forme 3 Ränge!
+ui_form_4_row_e_|Forme 4 Ränge!
+ui_form_5_row_e_|Forme 5 Ränge!
+ui_order_7|Wähle Befehl 7
+ui_order_8|Wähle Befehl 8
+ui_all_fire_now_e_|Feuer!
+ui_left_fire_now_e_|Linke Flanke, Feuer!
+ui_middle_fire_now_e_|Mitte, Feuer!
+ui_right_fire_now_e_|Rechte Flanke, Feuer!
+ui_order_button_all_fire_now|Kompanie, Feuer!
+ui_order_button_left_fire_now|Linke FLanke, Feuer!
+ui_order_button_middle_fire_now|Mitte, Feuer!
+ui_order_button_right_fire_now|Rechte Flanke, Feuer!
+ui_crouch|In Deckung gehen!
+ui_change_accessories|Extras
+ui_archers|Regiment
+ui_group_2|Regiment
+ui_zoom|Laufbutton 

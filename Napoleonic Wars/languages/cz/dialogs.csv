@@ -1,0 +1,26 @@
+﻿dlga_start:companion_talk|Těší mě, že se opět setkáváme, {pane/paní}. Jak ti mohu pomoci?
+dlga_companion_talk:companion_talk_equipment|Ukaž mi své vybavení.
+dlga_companion_talk_equipment:companion_talk_end|Nuže dobrá, tady to je.
+dlga_companion_talk_end:companion_talk|Ještě něco?
+dlga_companion_talk:companion_talk_opinion|Co si myslíš o mém velení?
+dlga_companion_talk_opinion:companion_talk|Jde ti to velmi dobře, {pane/paní}!
+dlga_companion_talk:close_window|Nic, pokračuj.
+dlga_start:town_merchant_talk|Dobrý den. Co pro tebe mohu udělat?
+dlga_town_merchant_talk:trade_requested_weapons|Chci si koupit zbraně. Co máš na prodej?
+dlga_town_merchant_talk:trade_requested_armor|Sháním nové uniformy. Ukaž mi, co máš.
+dlga_town_merchant_talk:trade_requested_horse|Uvažuji nad koupí nového koně.
+dlga_trade_requested_weapons:merchant_trade|Ach ano, {pane/paní}. Lepší zbraně v širém okolí nenajdeš.
+dlga_trade_requested_armor:merchant_trade|Zajisté, {pane/paní}. Kvalitnější uniformy v celé této armádě nenajdeš.
+dlga_trade_requested_horse:merchant_trade|Máš na koně vytříbený vkus, {pane/paní}. Lepší zvíře nikde jinde nenajdeš.
+dlga_merchant_trade:town_merchant_talk|Ještě něco?
+dlga_town_merchant_talk:close_window|Sbohem.
+dlga_start:camp_dweller_talk|{s14} se hlásí do služby, {pane/paní}!
+dlga_start:camp_dweller_talk.1|Dobrý den, {pane/paní}. Chceš si o něčem popovídat?
+dlga_start:camp_dweller_talk.2|Pane, přináším ti rozkazy o další misi. Jsi připraven?
+dlga_start:camp_dweller_talk.3|Je mi ctí tě poznat, {pane/paní}. Co pro tebe mohu udělat?
+dlga_camp_dweller_talk:close_window|Nic, pokračuj.
+dlga_camp_dweller_talk:close_window.1|Zatím nic, pane, přeji pěkný večer.
+dlga_camp_dweller_talk:close_window.2|Dej mi ty rozkazy! Ihned vyrazím.
+dlga_camp_dweller_talk:close_window.3|Potřebuji ještě čas na přípravu.
+dlga_camp_dweller_talk:close_window.4|Ale nic.
+dlga_start:close_window|Chyba. Dialog nebyl nalezen.

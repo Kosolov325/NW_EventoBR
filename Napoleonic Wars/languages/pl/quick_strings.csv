@@ -1,0 +1,136 @@
+qstr_Careful...|Careful...
+qstr_{reg3}|{reg3}
+qstr_0|0
+qstr__{s5}__{s6}_|({s5},  {s6})
+qstr___{reg43}__|( {reg43} )
+qstr_Action|Wykonaj
+qstr_Mount|Na koń
+qstr_Attack_Type|Typ ataku
+qstr_Stand_Ground|Nie poddawać się
+qstr_Charge|Atakować
+qstr_Follow_Me|Podążać za mną
+qstr_Hold_This_Position|Utrzymać pozycję
+qstr_Spread_Out|Rozproszyć się
+qstr_Stand_Closer|Zgrupować się
+qstr_Fall_Back|Wycofać się
+qstr_Advance|Naprzód
+qstr_Dismount|Z koni
+qstr_Fire_At_Will|Strzelać bez rozkazu
+qstr_Hold_Your_Fire|Wstrzymać ogień
+qstr_Use_Blunt_Weapons|Użyć broni obuchowej
+qstr_Use_Any_Weapon|Użyć dowolnej broni
+qstr_Ready|Gotowi
+qstr_Wounded|Ranni
+qstr_Dead|Martwi
+qstr_F4___Movement_Orders|F4 - Rozkazy ruchu^F5 - Rozkazy formacji^F6 - Rozkazy ostrzału
+qstr_F4___Hold_this_posit|F4 - Utrzymać pozucję^F5 - Za mną^F6 - Do ataku^F7 - Naprzód^F8 - Stać^F9 - Wycofać się^F10 - Odwrót^F11 - Wolno marsz^F12 - Szybko marsz
+qstr_F4___Form_line^F5___|F4 - Formować szereg^F5 - Formować kolumnę^F6 - Formować czworobok^F7 - Do pojedynków^F8 - W lewo^F9 - W prawo^F10 - Poprawić formację
+qstr_F4___Hold_fire^F5___|F4 - Wstrzymać ogień^F5 - Strzelać bez rozkazu^F6 - Pal^F7 - Strzelać w pozycje^F8 - Cel
+qstr_0000|0
+qstr_Vienna|Wiedeń
+qstr_Austerlitz|Austerlitz
+qstr_Drezden|Drezno
+qstr_Quit|Wyjdź
+qstr_Go_to_the_Camp|Udaj się do obozu
+qstr_Continue_Campaign|Kontynuuj kampanię
+qstr_{reg21}{reg22}|{reg21},{reg22}
+qstr_Back|Wróć
+qstr_Visit_the_camp|Odwiedź obóz
+qstr_Companions|Kompani
+qstr_Merchants|Handlarze
+qstr_Skip|Pomiń
+qstr_Available_companions|Dostępni kompani
+qstr_Selected_companions|Wybrani kompani
+qstr_Start_Mission|Rozpocznij misję
+qstr_Choose_a_companion|Wybierz kompana
+qstr_Battle_Results|Wyniki bitwy
+qstr_Count|Podliczenie
+qstr_Money|Pieniądze
+qstr_Enemies_killed:|Zabici wrogowie:
+qstr_{reg1}|{reg1}
+qstr_Personal_kills:|Własnoręczne zabójstwa:
+qstr_Allies_lost:|Straceni sprzymierzeńcy:
+qstr__{reg1}|-{reg1}
+qstr_Companions_lost:|Straceni kompani:
+qstr_Totals:|Łącznie:
+qstr_Retry|Spróbuj ponownie
+qstr_Done|Zakończ
+qstr_Open_ze_Treasure|Otwórz skarb
+qstr_View_Caimpaign_Map|Zobacz mapę kampanii
+qstr_Use|Use
+qstr_Use_Prop|Use Prop
+qstr_Unknown_command_issu|Wydano nieznaną komendę!
+qstr_{s7}_opened_the_gate|{s7} otwiera bramę
+qstr_{s7}_closed_the_gate|{s7} zamyka bramę
+qstr_LEFT|LEFT
+qstr_RIGHT|RIGHT
+qstr_UP|UP
+qstr_DOWN|DOWN
+qstr_V_key|V key
+qstr_B_key|B key
+qstr_Centre_Inf|Cen. piech.
+qstr_Lflank_Inf|L. flank. piech.
+qstr_Rflank_Inf|P. flank. piech.
+qstr_Centre_Cav|Cen. kaw.
+qstr_Lflank_Cav|L. flank. kaw.
+qstr_Rflank_Cav|P. flank. kaw.
+qstr_Holding|Wstrzymuje się
+qstr_Following|Podąża
+qstr_Charging|Atakuje
+qstr_Advancing|Idzie naprzód
+qstr_Falling_Back|Wycofuje się
+qstr_Standing_Closer|Grupuje się
+qstr_Spreading_Out|Rozprasza się
+qstr_Standing|Stoi
+qstr_N/A|N/D
+qstr_Free|Bezczynny
+qstr_Any_Weapon|Dowolna broń
+qstr_Blunt_Weapons|Broń obuchowa
+qstr_[SERVER]:_{s4}|[SERWER]: {s4}
+qstr_vFloraWindStrength|vFloraWindStrength
+qstr_vWaterWindStrength|vWaterWindStrength
+qstr_THISISAPLACEHOLDERST|THISISAPLACEHOLDERSTRING
+qstr_{s32}_hold_this_posi|{s32}, utrzymać pozycję!
+qstr_{s32}_follow_me!|{s32}, za mną!
+qstr_{s32}_charge!|{s32}, atakować!
+qstr_{s32}_advance!|{s32}, naprzód!
+qstr_{s32}_halt!|{s32}, stać!
+qstr_{s32}_fall_back!|{s32}, wycofać się!
+qstr_{s32}_retreat!|{s32}, odwrót!
+qstr_{s32}_slow_pace!|{s32}, powoli marsz!
+qstr_{s32}_quick_pace!|{s32}, szybko marsz!
+qstr_{s32}_form_line!|{s32}, uformować szereg!
+qstr_{s32}_form_column!|{s32}, uformować kolumnę!
+qstr_{s32}_form_square!|{s32}, uformować czworobok!
+qstr_{s32}_skirmish_order|{s32}, do pojedynków!
+qstr_{s32}_wheel_left!|{s32}, w lewo!
+qstr_{s32}_wheel_right!|{s32}, w prawo!
+qstr_{s32}_adjust_formati|{s32}, poprawić formację!
+qstr_Leave?|Opuścić?
+qstr_SERVER|SERWER
+qstr_Clear_the_bridge_of_|Oczyść most ze wszystkich skrzyń prochu w czasie negocjacji marszałków.^Nie daj się wykryć przez straż.
+qstr_The_bridge_has_been_|Most został oczyszczony - dobra robota!^A teraz ukryj się po austryjackiej stronie rzeki i zaczekaj tam na zakończenie negocjacji.
+qstr_You_ve_been_discover|Wykryto cię! Szybko, zabij strażnika zanim podniesie alarm!
+qstr_Lannes:__..._Yes_tha|Lannes: ''... Tak, zgadza się, rozejm został ustanowiony. Wojna zakończyła się.''
+qstr_Austrian_Officer:__U|Austryjacki oficer: ''Uhh... Ah... Hej! Co to ma być? Skrzynie z prochem zniknęły z mostu!''
+qstr_French_Soldier:__Loo|Francuski żołnierz: ''Patrz, walka! Musimy wspomóc naszych braci. Szybko, na drugą stronę mostu!''
+qstr_Artillery_Captain:__|Kapitan artylerii: ''Francuzi próbują sforsować most. Do broni!''
+qstr_Prevent_the_Austrian|Nie dopuść, by austryjacka artyleria ostrzelała francuskie oddziały próbujące przekroczyć most.
+qstr_The_Austrians_are_la|Austryjacy szykują się do kontrataku!
+qstr_Fight_back_the_Austr|Odeprzyj austryjacki kontratak!
+qstr_The_brigde_is_now_un|Most jest w rękach Francuzów. Dobra robota!
+qstr_Capture_the_village_|Odbij wioskę Sokolnitz z rąk Rosjan!
+qstr_You_have_captured_th|Zdobyłeś wioskę. Świetna robota!
+qstr_Capture_the_village_o|Odbij wioskę Sokolnitz z rąk armii rosyjskiej!
+qstr_Hold_the_village_at_|Za wszelką cenę utrzymaj wioskę i odeprzyj rosyjski kontratak.
+qstr_Go_to_meet_the_Emper|Udaj się na spotkanie z Imperatorem.
+qstr_Recapture_the_city_w|Odbij miejskie mury z rąk Rosjan.
+qstr_Help_your_allies_dri|Pomóż sprzymierzeńcom odeprzeć Rosjan.
+qstr_Defend_the_gate_agai|Strzeż bram przed atakiem Rosjan.
+qstr_Sally_out_and_rout_t|Rozgrom resztki oddziałów Rosjan.
+qstr_The_assault_has_been|Atak został odparty. Vive la France!
+qstr_Catch_the_Austrian_c|Złap austryjackiego dowódcę zanim ten dotrze do oddziałów austryjackich!
+qstr_Break_the_Austrian_s|Pokonaj Austryjaków zabijacąc lub rozgramiając ich oddziały.
+qstr_Attack_the_lines_gua|Zaatakuj linie obrony wioski i zniszcz lub rozgrom je.
+qstr_Vive_l_Empereur!_La_|Vive l'Empereur! La Victoire est a Nous!
+qstr_Talk_to_the_messenge|Porozmawiaj z posłańcem o kolejnej misji.

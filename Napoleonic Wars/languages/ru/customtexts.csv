@@ -1,0 +1,44 @@
+ui_character_window|Боевой клич
+ui_start_tutorial|Обучающая миссия
+ui_start_a_new_game|Одиночная игра
+ui_particle_systems|Более детализированный эффект дыма.
+ui_no_more_bolts|У Вас закончились патроны!!
+ui_you_are_not_carrying_any_bolts|У Вас нет с собой патронов!
+ui_cut|Режущее
+ui_pierce|Колющее
+ui_blunt|Ударное
+ui_autoexpore|Использовать более насыщенные цвета
+ui_use_melee_weapons_e_|Использовать холодное оружие!
+ui_use_ranged_weapons_e_|Использовать огнестрельное оружие!
+ui_order_button_use_melee_weapons|Использовать холодное оружие!
+ui_order_button_use_ranged_weapons|Использовать огнестрельное оружие!
+ui_order_button_weapon_usage_orders|Приказы об использовании оружия
+ui_fire_at_my_command_e_|Стрелять по моему приказу!
+ui_fire_now_e_|Открыть огонь!
+ui_order_button_fire_at_my_command|Стрелять по моему приказу!
+ui_order_button_fire_now|Открыть огонь!
+ui_order_form_1_row|В одну шеренгу становись!
+ui_order_form_2_row|В 2 шеренги становись!
+ui_order_form_3_row|В 3 шеренги становись!
+ui_order_form_4_row|В 4 шеренги становись!
+ui_order_form_5_row|В 5 шеренг становись!
+ui_form_1_row_e_|В одну шеренгу становись!
+ui_form_2_row_e_|В 2 шеренги становись!
+ui_form_3_row_e_|В 3 шеренги становись!
+ui_form_4_row_e_|В 4 шеренги становись!
+ui_form_5_row_e_|В 5 шеренг становись!
+ui_order_7|Select Order 7
+ui_order_8|Select Order 8
+ui_all_fire_now_e_|Всем открыть огонь!
+ui_left_fire_now_e_|Левый фланг - пли!
+ui_middle_fire_now_e_|Центр - пли!
+ui_right_fire_now_e_|Правый фланг - пли!
+ui_order_button_all_fire_now|Всем открыть огонь!
+ui_order_button_left_fire_now|Левый фланг - пли!
+ui_order_button_middle_fire_now|Центр - пли!
+ui_order_button_right_fire_now|Правый фланг - пли!
+ui_crouch|Встать на колено
+ui_change_accessories|Бонус
+ui_archers|Подразделение
+ui_group_2|Подразделение
+ui_zoom|Ходить шагом 

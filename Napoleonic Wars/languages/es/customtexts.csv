@@ -1,0 +1,44 @@
+﻿ui_character_window|Grito de Batalla
+ui_start_tutorial|Tutorial
+ui_start_a_new_game|Un jugador
+ui_particle_systems|Sistemas de partículas de alto detalle
+ui_no_more_bolts|No hay más cartuchos...
+ui_you_are_not_carrying_any_bolts|No estás llevando ningún cartucho.
+ui_cut|Cortante
+ui_pierce|Perforante
+ui_blunt|Contundente
+ui_autoexpore|Usar mapa de tonos de alto contraste
+ui_use_melee_weapons_e_|Usa armas cuerpo a cuerpo
+ui_use_ranged_weapons_e_|Usa armas a distancia
+ui_order_button_use_melee_weapons|Usa armas cuerpo a cuerpo
+ui_order_button_use_ranged_weapons|Usa armas a distancia
+ui_order_button_weapon_usage_orders|Órdenes de uso de armas
+ui_fire_at_my_command_e_|¡Fuego a mi señal!
+ui_fire_now_e_|¡Fuego!
+ui_order_button_fire_at_my_command|Fire at my command
+ui_order_button_fire_now|Fire now
+ui_order_form_1_row|Formar 1 fila
+ui_order_form_2_row|Formar 2 filas
+ui_order_form_3_row|Formar 3 filas
+ui_order_form_4_row|Formar 4 filas
+ui_order_form_5_row|Formar 5 filas
+ui_form_1_row_e_|¡Formen 1 fila!
+ui_form_2_row_e_|¡Formen 2 filas!
+ui_form_3_row_e_|¡Formen 3 filas!
+ui_form_4_row_e_|¡Formen 4 filas!
+ui_form_5_row_e_|¡Formen 5 filas!
+ui_order_7|Seleccionar Orden 7
+ui_order_8|Seleccionar Orden 8
+ui_all_fire_now_e_|¡Todos, Fuego!
+ui_left_fire_now_e_|¡Flanco izquierdo, Fuego!
+ui_middle_fire_now_e_|¡Centro, Fuego!
+ui_right_fire_now_e_|¡Flanco derecho, Fuego!
+ui_order_button_all_fire_now|Todos, Fuego
+ui_order_button_left_fire_now|Flanco izquierdo, Fuego
+ui_order_button_middle_fire_now|Centro, Fuego
+ui_order_button_right_fire_now|Flanco derecho, Fuego
+ui_crouch|Agacharse
+ui_change_accessories|Extra
+ui_archers|Regimiento
+ui_group_2|Regimiento
+ui_zoom|Camine clave 

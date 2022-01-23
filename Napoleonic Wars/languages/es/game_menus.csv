@@ -1,0 +1,39 @@
+﻿menu_start_game_0|Bienvenido, Soldado, a Mount and Blade Stories: Age of Napoleon.^Antes de empezar a jugar  debes crear tu personaje y elegir la dificultad de juego que prefieras.
+mno_start_easy|Fácil
+mno_start_normal|Normal
+mno_start_hard|Difícil
+mno_go_back|Ir atrás
+mno_debug|Debug
+menu_start_phase_2|Empezar fase 2
+mno_map|Mapa
+menu_start_game_3|Empezar juego 3
+menu_tutorial|Buenas Tardes, Señor. Buen tiempo, Señor. ¿Le apetecería un té?
+mno_continue|Sí, por favor.
+mno_go_back_dot|No, gracias.
+menu_reports|Informes
+mno_resume_travelling|Resume travelling.
+menu_camp|Acampar
+mno_camp_wait_here|Descansar.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|La batalla ha acabado. {s1} Tu bando ha matado {reg5} enemigos y perdido {reg6} soldados en la batalla. Tu personalmente has matado {reg7} hombres.
+menu_town_trade|You head towards the camp's trading place.
+mno_trade_with_arms_merchant|Trade with the arms merchant.
+mno_trade_with_armor_merchant|Trade with the tailor.
+mno_trade_with_horse_merchant|Trade with the horse merchant.
+mno_back_to_town_menu|Head back.
+menu_debug|Choose a scene
+mno_scene1|Vienna Bridge (sp vienna)
+mno_scene2|Austerlitz part 1 (sp sokolniz)
+mno_scene3|Austerlitz part 2 (sp auster)
+mno_scene4|Austerlitz part 3 (sp sokolniz2)
+mno_scene5|Dresden part 1 (sp dresden1)
+mno_scene6|Dresden part 2 (sp dresden2)
+mno_scene7|New Scene 1 (NON-PLAYABLE)
+mno_scene8|New Scene 2 (NON-PLAYABLE)
+mno_scene9|New Scene 3 (NON-PLAYABLE)
+mno_scene10|New Scene 4 (NON-PLAYABLE)
+menu_run_mission_dummy|debug screen
+menu_run_companion_dummy|debug screen
+menu_visit_camp_dummy|debug screen
+menu_go_briefing_dummy|debug screen
+menu_quit_dummy|debug screen

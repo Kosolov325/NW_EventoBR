@@ -1,0 +1,136 @@
+qstr_Careful...|Careful...
+qstr_{reg3}|{reg3}
+qstr_0|0
+qstr__{s5}__{s6}_|({s5},  {s6})
+qstr___{reg43}__|( {reg43} )
+qstr_Action|Action
+qstr_Mount|Mount
+qstr_Attack_Type|Attack Type
+qstr_Stand_Ground|Stand Ground
+qstr_Charge|Charge
+qstr_Follow_Me|Follow Me
+qstr_Hold_This_Position|Hold This Position
+qstr_Spread_Out|Spread Out
+qstr_Stand_Closer|Stand Closer
+qstr_Fall_Back|Fall Back
+qstr_Advance|Advance
+qstr_Dismount|Dismount
+qstr_Fire_At_Will|Fire At Will
+qstr_Hold_Your_Fire|Hold Your Fire
+qstr_Use_Blunt_Weapons|Use Blunt Weapons
+qstr_Use_Any_Weapon|Use Any Weapon
+qstr_Ready|Ready
+qstr_Wounded|Wounded
+qstr_Dead|Dead
+qstr_F4___Movement_Orders|F4 - Movement Orders^F5 - Formation Orders^F6 - Fire Orders
+qstr_F4___Hold_this_posit|F4 - Hold this position^F5 - Follow me^F6 - Charge^F7 - Advance^F8 - Halt^F9 - Fall back^F10 - Retreat^F11 - Slow march^F12 - Quick march
+qstr_F4___Form_line^F5___|F4 - Form line^F5 - Form column^F6 - Form square^F7 - Skirmish formation^F8 - Wheel left^F9 - Wheel right^F10 - Adjust facing
+qstr_F4___Hold_fire^F5___|F4 - Hold fire^F5 - Fire at will^F6 - Volley fire^F7 - Fire at position^F8 - Pick your targets
+qstr_0000|00,00
+qstr_Vienna|Vienna
+qstr_Austerlitz|Austerlitz
+qstr_Drezden|Drezden
+qstr_Quit|Quit
+qstr_Go_to_the_Camp|Go to the Camp
+qstr_Continue_Campaign|Continue Campaign
+qstr_{reg21}{reg22}|{reg21},{reg22}
+qstr_Back|Back
+qstr_Visit_the_camp|Visit the camp
+qstr_Companions|Companions
+qstr_Merchants|Merchants
+qstr_Skip|Skip
+qstr_Available_companions|Available companions
+qstr_Selected_companions|Selected companions
+qstr_Start_Mission|Start Mission
+qstr_Choose_a_companion|Choose a companion
+qstr_Battle_Results|Battle Results
+qstr_Count|Count
+qstr_Money|Money
+qstr_Enemies_killed:|Enemies killed:
+qstr_{reg1}|{reg1}
+qstr_Personal_kills:|Personal kills:
+qstr_Allies_lost:|Allies lost:
+qstr__{reg1}|-{reg1}
+qstr_Companions_lost:|Companions lost:
+qstr_Totals:|Totals:
+qstr_Retry|Retry
+qstr_Done|Done
+qstr_Open_ze_Treasure|Open ze Treasure
+qstr_View_Caimpaign_Map|View Caimpaign Map
+qstr_Use|Pouít
+qstr_Use_Prop|Pouít prop
+qstr_Unknown_command_issu|Unknown command issued!
+qstr_{s7}_opened_the_gate|{s7} opened the gate
+qstr_{s7}_closed_the_gate|{s7} closed the gate
+qstr_LEFT|VLEVO
+qstr_RIGHT|VPRAVO
+qstr_UP|NAHORU
+qstr_DOWN|DOLÙ
+qstr_V_key|Tlaèítko V
+qstr_B_key|Tlaèítko B
+qstr_Centre_Inf|Centre Inf
+qstr_Lflank_Inf|Lflank Inf
+qstr_Rflank_Inf|Rflank Inf
+qstr_Centre_Cav|Centre Cav
+qstr_Lflank_Cav|Lflank Cav
+qstr_Rflank_Cav|Rflank Cav
+qstr_Holding|Holding
+qstr_Following|Following
+qstr_Charging|Charging
+qstr_Advancing|Advancing
+qstr_Falling_Back|Falling Back
+qstr_Standing_Closer|Standing Closer
+qstr_Spreading_Out|Spreading Out
+qstr_Standing|Standing
+qstr_N/A|N/A
+qstr_Free|bez rozkazu
+qstr_Any_Weapon|Jakákoliv zbraò
+qstr_Blunt_Weapons|Drtivé zbranì
+qstr_[SERVER]:_{s4}|[SERVER]: {s4}
+qstr_vFloraWindStrength|vFloraWindStrength
+qstr_vWaterWindStrength|vWaterWindStrength
+qstr_THISISAPLACEHOLDERST|THISISAPLACEHOLDERSTRING
+qstr_{s32}_hold_this_posi|{s32}, dret tuhle pozici!
+qstr_{s32}_follow_me!|{s32}, za mnou!
+qstr_{s32}_charge!|{s32}, vıpad!
+qstr_{s32}_advance!|{s32}, vpøed!
+qstr_{s32}_halt!|{s32}, stát!
+qstr_{s32}_fall_back!|{s32}, vzad!
+qstr_{s32}_retreat!|{s32}, ústup!
+qstr_{s32}_slow_pace!|{s32}, pomalu!
+qstr_{s32}_quick_pace!|{s32}, rychle!
+qstr_{s32}_form_line!|{s32}, utvoøit linii!
+qstr_{s32}_form_column!|{s32}, utvoøit sloupec!
+qstr_{s32}_form_square!|{s32}, utvoøit ètverec!
+qstr_{s32}_skirmish_order|{s32}, harcovnické poøadí!
+qstr_{s32}_wheel_left!|{s32}, kolo vlevo!
+qstr_{s32}_wheel_right!|{s32}, kolo vpravo!
+qstr_{s32}_adjust_formati|{s32}, upravit formaci!
+qstr_Leave?|Odejít?
+qstr_SERVER|SERVER
+qstr_Clear_the_bridge_of_|Vykliï z mostu všechny bedny z prachem, dokud budou maršálové vyjednávat.^Dávej pozor, aby tì neodhalily stráe.
+qstr_The_bridge_has_been_|Most byl úspìšnì vyklizen, dobrá práce!^Teï se schovej na druhé rakouské stranì øeky a poèkej, dokud vyjednávání neskonèí.
+qstr_You_ve_been_discover|Odhalili tì! Rychle zabij stráe, ne spustí poplach!
+qstr_Lannes:__..._Yes_tha|Lannes: '... Ano, je to tak. Skuteènì byl podepsán mír. Je po válce.'
+qstr_Austrian_Officer:__U|Rakouskı dùstojník: 'Hm.. Dobrá... Hej! Co to má znamenat? Bedny s prachem z mostu zmizely! Oklamali nás! Útok!'
+qstr_French_Soldier:__Loo|Francouzskı voják: 'Hele, boj! Musíme pomoct svım druhùm. Rychle, pøes most!'
+qstr_Artillery_Captain:__|Kapitán dìlostøelectva: 'Francouzi se snaí pøekroèit most. K dìlùm!'
+qstr_Prevent_the_Austrian|Zabraò rakouskému dìlostøelectvu pálit na Francouze, kteøí pøecházejí pøes most.
+qstr_The_Austrians_are_la|Rakušané zahajují protiútok!
+qstr_Fight_back_the_Austr|Odraz rakouskı protiútok!
+qstr_The_brigde_is_now_un|Francouzi mají nyní most pevnì v rukou. Dobrá práce!
+qstr_Capture_the_village_|Osvoboï vesnici Sokolnice od Rusù!
+qstr_You_have_captured_th|Podaøilo se ti zabrat vesnici, vıteèná práce!
+qstr_Capture_the_village_o|Osvoboï vesnici Sokolnice od ruské armády
+qstr_Hold_the_village_at_|Udr vesnici pøed ruskım protiútokem za kadou cenu.
+qstr_Go_to_meet_the_Emper|Jdi na setkání s císaøem
+qstr_Recapture_the_city_w|Osvoboï hradby mìsta od Rusù.
+qstr_Help_your_allies_dri|Pomoz svıch spojencùm odrazit Rusy.
+qstr_Defend_the_gate_agai|Braò bránu pøed ruskım útokem.
+qstr_Sally_out_and_rout_t|Vyraz proti zbıvajícím Rusùm.
+qstr_The_assault_has_been|Útok byl prolomen! Vive la France!
+qstr_Catch_the_Austrian_c|Chy rakouského velitele, ne se dostane k rakouskım ètvercùm!
+qstr_Break_the_Austrian_s|Rozbij rakouské ètverce tak, e je buï zabiješ, nebo rozprášíš.
+qstr_Attack_the_lines_gua|Zaútoè na linie bránící vesnici a zniè je nebo rozpraš.
+qstr_Vive_l_Empereur!_La_|Vive l'Empereur! La Victoire est a Nous!
+qstr_Talk_to_the_messenge|Promluv si s poslem o další misi.

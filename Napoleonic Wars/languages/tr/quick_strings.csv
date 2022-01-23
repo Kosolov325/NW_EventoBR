@@ -1,0 +1,136 @@
+qstr_Careful...|Careful...
+qstr_{reg3}|{reg3}
+qstr_0|0
+qstr__{s5}__{s6}_|({s5},  {s6})
+qstr___{reg43}__|( {reg43} )
+qstr_Action|Action
+qstr_Mount|Ata Bin
+qstr_Attack_Type|Saldırı Tipi
+qstr_Stand_Ground|Yerinizde Kalın
+qstr_Charge|Hücum
+qstr_Follow_Me|Beni Takip Edin
+qstr_Hold_This_Position|Şu Pozisyonu Tutun
+qstr_Spread_Out|Yayılın
+qstr_Stand_Closer|Yakın Durun
+qstr_Fall_Back|Geri Çekilin
+qstr_Advance|İlerleyin
+qstr_Dismount|Attan İn
+qstr_Fire_At_Will|Atış Serbest
+qstr_Hold_Your_Fire|Atışı Kes
+qstr_Use_Blunt_Weapons|Ezici Silah Kullanın
+qstr_Use_Any_Weapon|Herhangi Bir Silah Kullanın
+qstr_Ready|Hazır
+qstr_Wounded|Yaralı
+qstr_Dead|Ölü
+qstr_F4___Movement_Orders|F4 – Hareket Emirleri^F5 – Dizilim Emirleri^F6 – Ateş Emirleri
+qstr_F4___Hold_this_posit|F4 – Şu pozisyonu tut^F5 – Beni takip et^F6 - Hücum^F7 - İlerle^F8 - Dur^F9 – Geri dön^F10 – Geri çekil^F11 – Uygun adım^F12 – Koşar adım
+qstr_F4___Form_line^F5___|F4 – Geniş Kol^F5 – Derin Kol^F6 – Kare dizilimi^F7 – Hücum düzeni^F8 – Sola çark^F9 – Sağa çark^F10 – Hizalan
+qstr_F4___Hold_fire^F5___|F4 – Atışı kes^F5 – Atış serbest^F6 – Yaylım ateşi^F7 – Nişan alın^F8 – Nişan seçin
+qstr_0000|0
+qstr_Vienna|Viyana
+qstr_Austerlitz|Austerlitz
+qstr_Drezden|Dresden
+qstr_Quit|Çık
+qstr_Go_to_the_Camp|Kampa Git
+qstr_Continue_Campaign|Seferberliğe Devam Et
+qstr_{reg21}{reg22}|{reg21},{reg22}
+qstr_Back|Geri
+qstr_Visit_the_camp|Kampı Ziyaret Et
+qstr_Companions|Yoldaşlar
+qstr_Merchants|Tüccarlar
+qstr_Skip|Atla
+qstr_Available_companions|Mevcut Yoldaşlar
+qstr_Selected_companions|Seçilmiş Yoldaşlar
+qstr_Start_Mission|Göreve Başla
+qstr_Choose_a_companion|Yoldaş seç
+qstr_Battle_Results|Savaş Raporu
+qstr_Count|Tane
+qstr_Money|Para
+qstr_Enemies_killed:|Öldürülen düşman:
+qstr_{reg1}|{reg1}
+qstr_Personal_kills:|Personal kills:
+qstr_Allies_lost:|Kaybedilen müttefik
+qstr__{reg1}|-{reg1}
+qstr_Companions_lost:|Kaybedilen yoldaş
+qstr_Totals:|Toplam:
+qstr_Retry|Tekrar Dene
+qstr_Done|Tamam
+qstr_Open_ze_Treasure|Hazineyi Aç
+qstr_View_Caimpaign_Map|Seferberlik Haritasına Bak
+qstr_Use|Kullan
+qstr_Use_Prop|Use Prop
+qstr_Unknown_command_issu|Komut algılanamadı!
+qstr_{s7}_opened_the_gate|{s7} kapıyı açtı
+qstr_{s7}_closed_the_gate|{s7} kapıyı kapattı
+qstr_LEFT|SOL
+qstr_RIGHT|SAĞ
+qstr_UP|YUKARI
+qstr_DOWN|AŞAĞI
+qstr_V_key|V key
+qstr_B_key|B key
+qstr_Centre_Inf|Merkez Piy
+qstr_Lflank_Inf|Lkanat Piy
+qstr_Rflank_Inf|Rkanat Piy
+qstr_Centre_Cav|Merkez Süv
+qstr_Lflank_Cav|Lkanat Süv
+qstr_Rflank_Cav|Rkanat Süv
+qstr_Holding|Pozisyonunu Koruyor
+qstr_Following|Takip Ediyor
+qstr_Charging|Hücum Ediyor
+qstr_Advancing|İlerliyor
+qstr_Falling_Back|Geri Çekiliyor
+qstr_Standing_Closer|Yakın Duruyor
+qstr_Spreading_Out|Yayılıyor
+qstr_Standing|Duruyor
+qstr_N/A|Yok
+qstr_Free|Boş
+qstr_Any_Weapon|Herhangi Silah
+qstr_Blunt_Weapons|Ezici Silahlar
+qstr_[SERVER]:_{s4}|[SUNUCU]: {s4}
+qstr_vFloraWindStrength|vFloraWindStrength
+qstr_vWaterWindStrength|vWaterWindStrength
+qstr_THISISAPLACEHOLDERST|THISISAPLACEHOLDERSTRING
+qstr_{s32}_hold_this_posi|{s32}, pozisyonu tutun!
+qstr_{s32}_follow_me!|{s32}, takip edin!
+qstr_{s32}_charge!|{s32}, hücum!
+qstr_{s32}_advance!|{s32}, ilerle!
+qstr_{s32}_halt!|{s32}, dur!
+qstr_{s32}_fall_back!|{s32}, geri dön!
+qstr_{s32}_retreat!|{s32}, geri çekil!
+qstr_{s32}_slow_pace!|{s32}, uygun adım!
+qstr_{s32}_quick_pace!|{s32}, koşar adım!
+qstr_{s32}_form_line!|{s32}, geniş kol!
+qstr_{s32}_form_column!|{s32}, derin kol!
+qstr_{s32}_form_square!|{s32}, kare düzeni!
+qstr_{s32}_skirmish_order|{s32}, hücum düzeni!
+qstr_{s32}_wheel_left!|{s32}, sola çark!
+qstr_{s32}_wheel_right!|{s32}, sağa çark!
+qstr_{s32}_adjust_formati|{s32}, hizaya gir!
+qstr_Leave?|Ayrıl?
+qstr_SERVER|SUNUCU
+qstr_Clear_the_bridge_of_|Mareşaller görüşüyorken köprüdeki tüm barut fıçılarını yok et.^Muhafızlara yakalanmamaya dikkat et.
+qstr_The_bridge_has_been_|Köprü başarıyla temizlendi, tebrikler!^Şimdi nehrin Avustuya tarafında saklanıp görüşmelerin sonuçlanmasını bekle.
+qstr_You_ve_been_discover|Yakalandın! Muhafız alarm vermeden önce onu öldür!
+qstr_Lannes:__..._Yes_tha|Lannes: '... Evet, doğru, ateşkes imzalandı bile. Savaş sona erdi.'
+qstr_Austrian_Officer:__U|Avusturyalı Subay: 'Ah... Tamam... Hey! Nasıl yani? Köprüdeki barut fıçıları gitmiş! Kandırıldık! Hücum!'
+qstr_French_Soldier:__Loo|Fransız Asker: 'Bakın, savaşıyorlar! Dostlarımıza yardım etmeliyiz. Köprüyü geçin, hemen!'
+qstr_Artillery_Captain:__|Topçu Çavuş: 'Fransızlar köprüyü geçmeye çalışıyor. Herkes silahlara!'
+qstr_Prevent_the_Austrian|Avusturyalı topçuların köprüyü geçen Fransızlara ateş etmesini engelle.
+qstr_The_Austrians_are_la|Avusturyalılar karşı hücuma kalkıyor!
+qstr_Fight_back_the_Austr|Avusturyalıların karşı hücumunu karşıla!
+qstr_The_brigde_is_now_un|Köprü artık Fransız kontrolünde. Tebrikler!
+qstr_Capture_the_village_|Sokolnitz kasabasını Rusların elinden al!
+qstr_You_have_captured_th|Kasabayı ele geçirdin, tebrikler!
+qstr_Capture_the_village_o|Sokolnitz kasabasını Rus Ordusunun elinden al
+qstr_Hold_the_village_at_|Kasabayı Rus karşı-ataklarına karşı ne pahasına olursa olsun savun.
+qstr_Go_to_meet_the_Emper|İmparatorla görüşmeye git
+qstr_Recapture_the_city_w|Şehir duvarlarını Ruslardan geri al.
+qstr_Help_your_allies_dri|Müttefiklerinin Rusları püskürtmesine yardım et.
+qstr_Defend_the_gate_agai|Kapıyı Rus hücumuna karşı koru.
+qstr_Sally_out_and_rout_t|Dışarı çık ve geri kalan Rusları bozguna uğrat.
+qstr_The_assault_has_been|Kuşatma kırıldı! Vive la France!
+qstr_Catch_the_Austrian_c|Avusturyalı komutanı, Avusturya cephesine ulaşmadan önce yakala!
+qstr_Break_the_Austrian_s|Avusturyalı piyadeleri öldürerek ya da kaçırarak bozguna uğrat.
+qstr_Attack_the_lines_gua|Kasabayı koruyan hatlara saldır ve bozguna uğrat.
+qstr_Vive_l_Empereur!_La_|Vive l'Empereur! La Victoire est a Nous!
+qstr_Talk_to_the_messenge|Bir sonraki görevin için ulakla konuş.

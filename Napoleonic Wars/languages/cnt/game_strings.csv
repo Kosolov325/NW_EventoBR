@@ -1,0 +1,1174 @@
+﻿str_no_string|NO STRING!
+str_empty_string|
+str_yes|是 
+str_no|否 
+str_blank_string|
+str_s50_and_s51|{s50}和 {s51}
+str_s52_and_s51|{s52}和 {s51}
+str_msg_battle_won|戰 鬥 勝 利 ！ 按 TAB鍵 離 開 … … 
+str_charge|填 裝 
+str_color|顏 色 
+str_hold_fire|停 止 射 擊 
+str_blunt_hold_fire|鈍 器 /停 止 射 擊 
+str_finished|（ 完 成 ） 
+str_delivered_damage|施 加 了 {reg60}點 傷 害 。 
+str_archery_target_hit|距 離 ： {reg61}米 。 分 數 ： {reg60}
+str_cant_use_inventory_now|不 能 在 這 裡 打 開 物 品 欄 。 
+str_give_up_fight|放 棄 戰 鬥 ？ 
+str_battle_won|你 贏 得 了 這 場 戰 鬥 ！ 
+str_battle_lost|你 輸 掉 了 這 場 戰 鬥 ！ 
+str_kingdom_1_adjective|聯 合 王 國 
+str_kingdom_2_adjective|法 蘭 西 帝 國 
+str_kingdom_3_adjective|普 魯 士 王 國 
+str_kingdom_4_adjective|俄 羅 斯 帝 國 
+str_kingdom_5_adjective|奧 地 利 帝 國 
+str_kingdom_6_adjective|萊 茵 邦 聯 
+str_credits_15|未 使 用 
+str_mp_ambush|伏 擊 （ 白 天 ） 
+str_mp_ambush_fog|伏 擊 （ 霧 ） 
+str_mp_arabian_harbour|阿 拉 伯 港 （ 白 天 ） 
+str_mp_arabian_harbour_night|阿 拉 伯 港 （ 夜 晚 ） 
+str_mp_arabian_village|阿 拉 伯 村 莊 （ 白 天 ） 
+str_mp_arabian_village_morning|阿 拉 伯 村 莊 （ 早 晨 ） 
+str_mp_arabian_village_conq|阿 拉 伯 城 鎮 （ 白 天 ） 
+str_mp_arabian_village_conq_morning|阿 拉 伯 城 鎮 （ 早 晨 ） 
+str_mp_ardennes|阿 登 （ 下 雪 ） 
+str_mp_ardennes_morning|阿 登 （ 早 晨 ） 
+str_mp_avignon|阿 維 尼 翁 （ 白 天 ） 
+str_mp_avignon_morning|阿 維 尼 翁 （ 早 晨 ） 
+str_mp_bavarian_river|巴 伐 利 亞 河 （ 白 天 ） 
+str_mp_bavarian_river_cloudy|巴 伐 利 亞 河 （ 多 雲 ） 
+str_mp_beach|海 灘 （ 白 天 ） 
+str_mp_beach_morning|海 灘 （ 早 晨 ） 
+str_mp_borodino|博 羅 季 諾 （ 白 天 ） 
+str_mp_borodino_morn|博 羅 季 諾 （ 早 晨 ） 
+str_mp_champs_elysees|香 榭 麗 舍 大 街 （ 白 天 ） 
+str_mp_champs_elysees_rain|香 榭 麗 舍 大 街 （ 雨 天 ） 
+str_mp_charge_to_the_rhine|趕 去 萊 茵 （ 白 天 ） 
+str_mp_charge_to_the_rhine_cloudy|趕 去 萊 茵 （ 多 雲 ） 
+str_mp_citadelle_napoleon|拿 破 侖 城 堡 （ 白 天 ） 
+str_mp_citadelle_napoleon_morning|拿 破 侖 城 堡 （ 早 晨 ） 
+str_mp_columbia_hill_farm|哥 倫 比 亞 農 場 （ 白 天 ） 
+str_mp_columbia_farm_morning|哥 倫 比 亞 農 場 （ 早 晨 ） 
+str_mp_countryside|鄉 村 （ 白 天 ） 
+str_mp_countryside_fog|鄉 村 （ 霧 ） 
+str_mp_dust|沙 地 （ 白 天 ） 
+str_mp_dust_morning|沙 地 （ 早 晨 ） 
+str_mp_european_city_summer|歐 洲 城 市 （ 夏 天 ） 
+str_mp_european_city_winter|歐 洲 城 市 （ 冬 天 ） 
+str_mp_floodplain|漫 灘 （ 白 天 ） 
+str_mp_floodplain_storm|漫 灘 （ 暴 風 雨 ） 
+str_mp_forest_pallisade|森 林 木 堡 （ 白 天 ） 
+str_mp_forest_pallisade_fog|森 林 木 堡 （ 霧 ） 
+str_mp_fort_al_hafya|艾 哈 菲 亞 堡 （ 白 天 ） 
+str_mp_fort_al_hafya_night|艾 哈 菲 亞 堡 （ 夜 晚 ） 
+str_mp_fort_bashir|巴 希 爾 堡 （ 白 天 ） 
+str_mp_fort_bashir_morning|巴 希 爾 堡 （ 早 晨 ） 
+str_mp_fort_beaver|近 郊 堡 壘 （ 白 天 ） 
+str_mp_fort_beaver_morning|近 郊 堡 壘 （ 早 晨 ） 
+str_mp_fort_boyd|博 伊 德 堡 （ 白 天 ） 
+str_mp_fort_boyd_raining|博 伊 德 堡 （ 下 雨 ） 
+str_mp_fort_brochet|布 羅 謝 堡 （ 白 天 ） 
+str_mp_fort_brochet_raining|布 羅 謝 堡 （ 下 雨 ） 
+str_mp_fort_de_chartres|沙 特 爾 堡 （ 白 天 ） 
+str_mp_fort_de_chartres_raining|沙 特 爾 堡 （ 下 雨 ） 
+str_mp_fort_fleetwood|弗 利 特 伍 德 堡 （ 早 晨 ） 
+str_mp_fort_fleetwood_storm|弗 利 特 伍 德 堡 （ 暴 風 雨 ） 
+str_mp_fort_george|喬 治 堡 （ 白 天 ） 
+str_mp_fort_george_raining|喬 治 堡 （ 下 雨 ） 
+str_mp_fort_hohenfels|霍 恩 費 爾 斯 堡 （ 白 天 ） 
+str_mp_fort_hohenfels_night|霍 恩 費 爾 斯 堡 （ 夜 晚 ） 
+str_mp_fort_lyon|里 昂 堡 （ 白 天 ） 
+str_mp_fort_lyon_night|里 昂 堡 （ 夜 晚 ） 
+str_mp_fort_mackinaw|馬 肯 諾 堡 （ 白 天 ） 
+str_mp_fort_mackinaw_raining|馬 肯 諾 堡 （ 下 雨 ） 
+str_mp_fort_nylas|賴 拉 斯 堡 （ 白 天 ） 
+str_mp_fort_nylas_raining|賴 拉 斯 堡 （ 下 雨 ） 
+str_mp_fort_refleax|威 爾 斯 橋 堡 （ 白 天 ） 
+str_mp_fort_refleax_night|威 爾 斯 橋 堡 （ 夜 晚 ） 
+str_mp_fort_vincey|惠 廷 頓 堡 （ 白 天 ） 
+str_mp_fort_vincey_storm|惠 廷 頓 堡 （ 暴 風 雨 ） 
+str_mp_french_farm|法 國 農 場 （ 白 天 ） 
+str_mp_french_farm_storm|法 國 農 場 （ 暴 風 雨 ） 
+str_mp_german_village|德 國 村 莊 （ 早 晨 ） 
+str_mp_german_village_rain|德 國 村 莊 （ 暴 風 雨 ） 
+str_mp_hougoumont|烏 古 蒙 （ 白 天 ） 
+str_mp_hougoumont_night|烏 古 蒙 （ 夜 晚 ） 
+str_mp_hungarian_plains|匈 牙 利 平 原 （ 白 天 ） 
+str_mp_hungarian_plains_cloud|匈 牙 利 平 原 （ 多 雲 ） 
+str_mp_theisland|島 嶼 （ 白 天 ） 
+str_mp_la_haye_sainte|拉 海 聖 （ 白 天 ） 
+str_mp_la_haye_sainte_night|拉 海 聖 （ 夜 晚 ） 
+str_mp_landshut|蘭 茨 胡 特 （ 白 天 ） 
+str_mp_landshut_night|蘭 茨 胡 特 （ 夜 晚 ） 
+str_mp_minden|明 登 （ 白 天 ） 
+str_mp_minden_night|明 登 （ 夜 晚 ） 
+str_mp_naval|海 戰 （ 白 天 ） 
+str_mp_oaksfield_day|橡 木 園 （ 白 天 ） 
+str_mp_oaksfield_storm|橡 木 園 （ 暴 風 雨 ） 
+str_mp_outlaws_den|匪 巢 （ 白 天 ） 
+str_mp_outlaws_den_night|匪 巢 （ 夜 晚 ） 
+str_mp_quatre_bras|四 臂 村 （ 白 天 ） 
+str_mp_quatre_bras_night|四 臂 村 （ 夜 晚 ） 
+str_mp_river_crossing|渡 河 （ 白 天 ） 
+str_mp_river_crossing_morning|渡 河 （ 早 晨 ） 
+str_mp_roxburgh|羅 克 斯 堡 （ 白 天 ） 
+str_mp_roxburgh_raining|羅 克 斯 堡 （ 下 雨 ） 
+str_mp_russian_river_day|俄 羅 斯 河 （ 白 天 ） 
+str_mp_russian_river_cloudy|俄 羅 斯 河 （ 下 雨 ） 
+str_mp_russian_village|俄 羅 斯 村 莊 （ 下 雪 ） 
+str_mp_russian_village_fog|俄 羅 斯 村 莊 （ 霧 ） 
+str_mp_russian_village_conq|俄 羅 斯 城 鎮 （ 霧 ） 
+str_mp_russian_village_conq_night|俄 羅 斯 城 鎮 （ 夜 晚 ） 
+str_mp_saints_isle|聖 人 島 （ 白 天 ） 
+str_mp_saints_isle_rain|聖 人 島 （ 下 雨 ） 
+str_mp_schemmerbach|施 默 巴 赫 （ 白 天 ） 
+str_mp_schemmerbach_storm|施 默 巴 赫 （ 暴 風 雨 ） 
+str_mp_siege_of_toulon|土 倫 圍 城 （ 白 天 ） 
+str_mp_siege_of_toulon_night|土 倫 圍 城 （ 夜 晚 ） 
+str_mp_sjotofta|舍 托 夫 塔 （ 白 天 ） 
+str_mp_sjotofta_night|舍 托 夫 塔 （ 夜 晚 ） 
+str_mp_slovenian_village|斯 洛 文 尼 亞 村 （ 白 天 ） 
+str_mp_slovenian_village_raining|斯 洛 文 尼 亞 村 （ 下 雨 ） 
+str_mp_spanish_farm|西 班 牙 農 場 （ 白 天 ） 
+str_mp_spanish_farm_rain|西 班 牙 農 場 （ 下 雨 ） 
+str_mp_spanish_mountain_pass|西 班 牙 山 口 （ 白 天 ） 
+str_mp_spanish_mountain_pass_evening|西 班 牙 山 口 （ 傍 晚 ） 
+str_mp_spanish_village|西 班 牙 村 莊 （ 白 天 ） 
+str_mp_spanish_village_evening|西 班 牙 村 莊 （ 傍 晚 ） 
+str_mp_strangefields|奇 妙 之 地 （ 霧 ） 
+str_mp_strangefields_storm|奇 妙 之 地 （ 暴 風 雨 ） 
+str_mp_swamp|錫 格 堡 沼 澤 （ 霧 ） 
+str_mp_venice|威 尼 斯 （ 白 天 ） 
+str_mp_venice_morning|威 尼 斯 （ 早 晨 ） 
+str_mp_walloon_farm|瓦 隆 農 場 （ 白 天 ） 
+str_mp_walloon_farm_night|瓦 隆 農 場 （ 夜 晚 ） 
+str_mp_testing_map|測 試 地 圖 
+str_random_multi_plain_medium|隨 機 平 原 （ 中 ） 
+str_random_multi_plain_large|隨 機 平 原 （ 大 ） 
+str_random_multi_plain_medium_rain|隨 機 平 原 （ 中 ） 下 雨 
+str_random_multi_plain_large_rain|隨 機 平 原 （ 大 ） 下 雨 
+str_random_multi_steppe_medium|隨 機 草 原 （ 中 ） 
+str_random_multi_steppe_large|隨 機 草 原 （ 大 ） 
+str_random_multi_steppe_forest_medium|隨 機 草 原 森 林 （ 中 ） 
+str_random_multi_steppe_forest_large|隨 機 草 原 森 林 （ 大 ） 
+str_random_multi_snow_medium|隨 機 雪 地 （ 中 ） 
+str_random_multi_snow_medium_snow|隨 機 雪 地 （ 中 ） 下 雪 
+str_random_multi_snow_large|隨 機 雪 地 （ 大 ） 
+str_random_multi_snow_large_snow|隨 機 雪 地 （ 大 ） 下 雪 
+str_random_multi_snow_forest_medium|隨 機 雪 森 林 （ 中 ） 
+str_random_multi_snow_forest_medium_snow|隨 機 雪 地 森 林 （ 中 ） 下 雪 
+str_random_multi_snow_forest_large|隨 機 雪 地 森 林 （ 大 ） 
+str_random_multi_snow_forest_large_snow|隨 機 雪 地 森 林 （ 大 ） 下 雪 
+str_random_multi_desert_medium|隨 機 沙 漠 （ 中 ） 
+str_random_multi_desert_large|隨 機 沙 漠 （ 大 型 ） 
+str_random_multi_desert_forest_medium|隨 機 沙 漠 森 林 （ 中 ） 
+str_random_multi_desert_forest_large|隨 機 沙 漠 森 林 （ 大 ） 
+str_random_multi_forest_medium|隨 機 森 林 （ 中 ） 
+str_random_multi_forest_medium_rain|隨 機 森 林 （ 中 ） 下 雨 
+str_random_multi_forest_large|隨 機 森 林 （ 大 ） 
+str_random_multi_forest_large_rain|隨 機 森 林 （ 大 ） 下 雨 
+str_mp_custom_map_1|自 定 義 地 圖 1
+str_mp_custom_map_2|自 定 義 地 圖 2
+str_mp_custom_map_3|自 定 義 地 圖 3
+str_mp_custom_map_4|自 定 義 地 圖 4
+str_mp_custom_map_5|自 定 義 地 圖 5
+str_mp_custom_map_6|自 定 義 地 圖 6
+str_mp_custom_map_7|自 定 義 地 圖 7
+str_mp_custom_map_8|自 定 義 地 圖 8
+str_mp_custom_map_9|自 定 義 地 圖 9
+str_mp_custom_map_10|自 定 義 地 圖 10
+str_mp_custom_map_11|自 定 義 地 圖 11
+str_mp_custom_map_12|自 定 義 地 圖 12
+str_mp_custom_map_13|自 定 義 地 圖 13
+str_mp_custom_map_14|自 定 義 地 圖 14
+str_mp_custom_map_15|自 定 義 地 圖 15
+str_mp_custom_map_16|自 定 義 地 圖 16
+str_mp_custom_map_17|自 定 義 地 圖 17
+str_mp_custom_map_18|自 定 義 地 圖 18
+str_mp_custom_map_19|自 定 義 地 圖 19
+str_mp_custom_map_20|自 定 義 地 圖 20
+str_mp_custom_map_21|自 定 義 地 圖 21
+str_mp_custom_map_22|自 定 義 地 圖 22
+str_mp_custom_map_23|自 定 義 地 圖 23
+str_mp_custom_map_24|自 定 義 地 圖 24
+str_mp_custom_map_25|自 定 義 地 圖 25
+str_mp_custom_map_26|自 定 義 地 圖 26
+str_mp_custom_map_27|自 定 義 地 圖 27
+str_mp_custom_map_28|自 定 義 地 圖 28
+str_mp_custom_map_29|自 定 義 地 圖 29
+str_mp_custom_map_30|自 定 義 地 圖 30
+str_mp_custom_map_31|自 定 義 地 圖 31
+str_mp_custom_map_32|自 定 義 地 圖 32
+str_mp_custom_map_33|自 定 義 地 圖 33
+str_mp_custom_map_34|自 定 義 地 圖 34
+str_mp_custom_map_35|自 定 義 地 圖 35
+str_mp_custom_map_36|自 定 義 地 圖 36
+str_mp_custom_map_37|自 定 義 地 圖 37
+str_mp_custom_map_38|自 定 義 地 圖 38
+str_mp_custom_map_39|自 定 義 地 圖 39
+str_mp_custom_map_40|自 定 義 地 圖 40
+str_mp_custom_map_41|自 定 義 地 圖 41
+str_mp_custom_map_42|自 定 義 地 圖 42
+str_mp_custom_map_43|自 定 義 地 圖 43
+str_mp_custom_map_44|自 定 義 地 圖 44
+str_mp_custom_map_45|自 定 義 地 圖 45
+str_mp_custom_map_46|自 定 義 地 圖 46
+str_mp_custom_map_47|自 定 義 地 圖 47
+str_mp_custom_map_48|自 定 義 地 圖 48
+str_mp_custom_map_49|自 定 義 地 圖 49
+str_mp_custom_map_50|自 定 義 地 圖 50
+str_mp_custom_map_51|自 定 義 地 圖 51
+str_mp_custom_map_52|自 定 義 地 圖 52
+str_mp_custom_map_53|自 定 義 地 圖 53
+str_mp_custom_map_54|自 定 義 地 圖 54
+str_mp_custom_map_55|自 定 義 地 圖 55
+str_mp_custom_map_56|自 定 義 地 圖 56
+str_mp_custom_map_57|自 定 義 地 圖 57
+str_mp_custom_map_58|自 定 義 地 圖 58
+str_mp_custom_map_59|自 定 義 地 圖 59
+str_mp_custom_map_60|自 定 義 地 圖 60
+str_mp_custom_map_61|自 定 義 地 圖 61
+str_mp_custom_map_62|自 定 義 地 圖 62
+str_mp_custom_map_63|自 定 義 地 圖 63
+str_mp_custom_map_64|自 定 義 地 圖 64
+str_mp_custom_map_65|自 定 義 地 圖 65
+str_mp_custom_map_66|自 定 義 地 圖 66
+str_mp_custom_map_67|自 定 義 地 圖 67
+str_mp_custom_map_68|自 定 義 地 圖 68
+str_mp_custom_map_69|自 定 義 地 圖 69
+str_mp_custom_map_70|自 定 義 地 圖 70
+str_mp_custom_map_71|自 定 義 地 圖 71
+str_mp_custom_map_72|自 定 義 地 圖 72
+str_mp_custom_map_73|自 定 義 地 圖 73
+str_mp_custom_map_74|自 定 義 地 圖 74
+str_mp_custom_map_75|自 定 義 地 圖 75
+str_mp_custom_map_76|自 定 義 地 圖 76
+str_mp_custom_map_77|自 定 義 地 圖 77
+str_mp_custom_map_78|自 定 義 地 圖 78
+str_mp_custom_map_79|自 定 義 地 圖 79
+str_mp_custom_map_80|自 定 義 地 圖 80
+str_mp_custom_map_81|自 定 義 地 圖 81
+str_mp_custom_map_82|自 定 義 地 圖 82
+str_mp_custom_map_83|自 定 義 地 圖 83
+str_mp_custom_map_84|自 定 義 地 圖 84
+str_mp_custom_map_85|自 定 義 地 圖 85
+str_mp_custom_map_86|自 定 義 地 圖 86 
+str_mp_custom_map_87|自 定 義 地 圖 87
+str_mp_custom_map_88|自 定 義 地 圖 88
+str_mp_custom_map_89|自 定 義 地 圖 89
+str_mp_custom_map_90|自 定 義 地 圖 90
+str_mp_custom_map_91|自 定 義 地 圖 91
+str_mp_custom_map_92|自 定 義 地 圖 92
+str_mp_custom_map_93|自 定 義 地 圖 93
+str_mp_custom_map_94|自 定 義 地 圖 94
+str_mp_custom_map_95|自 定 義 地 圖 95
+str_mp_custom_map_96|自 定 義 地 圖 96
+str_mp_custom_map_97|自 定 義 地 圖 97
+str_mp_custom_map_98|自 定 義 地 圖 98
+str_mp_custom_map_99|自 定 義 地 圖 99
+str_mp_custom_map_100|自 定 義 地 圖 100
+str_multi_scene_end|multi scene end
+str_multi_game_type_1|混 戰 
+str_multi_game_type_2|組 隊 混 戰 
+str_multi_game_type_3|戰 場 
+str_multi_game_type_5|搶 旗 
+str_multi_game_type_6|征 服 
+str_multi_game_type_7|攻 城 
+str_multi_game_type_8|決 鬥 
+str_multi_game_type_9|領 軍 戰 場 
+str_multi_game_type_10|佔 山 為 王 
+str_multi_game_type_11|大 逃 殺 
+str_multi_game_type_12|場 景 編 輯 
+str_multi_game_types_end|多 人 遊 戲 類 型 結 束 
+str_poll_kick_player_s1_by_s0|{s0}發 起 投 票 踢 出 玩 家 {s1}。 
+str_poll_ban_player_s1_by_s0|{s0}發 起 投 票 禁 止 玩 家 {s1}進 入 伺 服 器 。 
+str_poll_change_map_to_s1_by_s0|{s0}發 起 投 票 更 換 地 圖 為 {s1}。 
+str_poll_change_map_to_s1_and_factions_to_s2_and_s3_by_s0|{s0}發 起 投 票 更 換 地 圖 為 {s1}更 換 國 家 為 {s2}和 {s3}。 
+str_poll_change_number_of_bots_to_reg0_and_reg1_by_s0|{s0}投 票 修 改 虛 擬 人 數 量 {reg0}和 {reg1}。 
+str_poll_kick_player|有 人 提 議 投 票 踢 出 玩 家 {s0}： ^ 1為 贊 成 ， 2為 反 對 。 
+str_poll_ban_player|有 人 提 議 投 票 禁 止 玩 家 {s0}進 入 伺 服 器 ： ^ 1為 贊 成 ， 2為 反 對 。 
+str_poll_change_map|有 人 提 議 投 票 切 換 地 圖 為 {s0}： ^ 1為 贊 成 ， 2為 反 對 。 
+str_poll_change_map_with_faction|有 人 提 議 投 票 切 換 地 圖 為 {s0}， 雙 方 勢 力 為 {s1}和 {s2}： ^ 1為 贊 成 ， 2為 反 對 。 
+str_poll_change_number_of_bots|有 人 提 議 投 票 設 置 虛 擬 人 數 量 為 ： {s0}{reg0}人 ， {s1}{reg1}人 ： ^ 1為 贊 成 ， 2為 反 對 。 
+str_poll_time_left|（ 投 票 時 間 還 剩 {reg0}秒 ） 
+str_poll_result_yes|多 數 人 通 過 了 投 票 。 
+str_poll_result_no|多 數 人 否 決 了 投 票 。 
+str_server_name|伺 服 器 名 ： 
+str_game_password|進 入 密 碼 ： 
+str_map|地 圖 ： 
+str_game_type|遊 戲 模 式 ： 
+str_max_number_of_players|最 大 玩 家 人 數 ： 
+str_number_of_bots_in_team_reg1|{reg1}隊 中 虛 擬 人 數 ： 
+str_team_reg1_faction|{reg1}隊 國 家 ： 
+str_enable_valve_anti_cheat|允 許 Valve反 作 弊 （ 需 要 有 效 的 Steam賬 號 ） 
+str_allow_friendly_fire|允 許 遠 程 隊 友 傷 害 
+str_allow_melee_friendly_fire|允 許 近 戰 隊 友 傷 害 
+str_friendly_fire_damage_self_ratio|隊 友 傷 害 到 自 己 (%)： 
+str_friendly_fire_damage_friend_ratio|隊 友 傷 害 到 隊 友 (%)： 
+str_spectator_camera|旁 觀 者 視 角 ： 
+str_control_block_direction|格 擋 方 向 控 制 ： 
+str_map_time_limit|地 圖 時 間 限 制 （ 分 鐘 ） ： 
+str_round_time_limit|回 合 時 間 限 制 （ 秒 ） ： 
+str_players_take_control_of_a_bot_after_death|玩 家 死 亡 后 切 換 到 虛 擬 人 
+str_team_points_limit|隊 伍 分 數 限 制 ： 
+str_point_gained_from_flags|奪 旗 獎 勵 隊 伍 分 數 (%)： 
+str_point_gained_from_capturing_flag|搶 旗 獎 勵 分 數 ： 
+str_respawn_period|重 生 間 隔 時 間 （ 秒 ） ： 
+str_add_to_official_game_servers_list|加 入 官 方 伺 服 器 列 表 
+str_combat_speed|戰 鬥 速 度 ： 
+str_combat_speed_0|最 慢 
+str_combat_speed_1|稍 慢 
+str_combat_speed_2|正 常 
+str_combat_speed_3|稍 快 
+str_combat_speed_4|最 快 
+str_off|關 閉 
+str_on|開 啟 
+str_defender_spawn_count_limit|防 守 方 最 大 重 生 次 數 ： 
+str_unlimited|無 限 制 
+str_automatic|自 動 
+str_by_mouse_movement|滑 鼠 控 制 
+str_free|自 由 
+str_stick_to_any_player|鎖 定 任 一 玩 家 
+str_stick_to_team_members|鎖 定 隊 友 
+str_stick_to_team_members_view|鎖 定 為 隊 友 視 角 
+str_make_factions_voteable|允 許 投 票 改 換 國 家 
+str_make_kick_voteable|允 許 投 票 踢 出 玩 家 
+str_make_ban_voteable|允 許 投 票 封 禁 玩 家 
+str_bots_upper_limit_for_votes|可 投 票 的 虛 擬 人 數 量 上 限 ： 
+str_make_maps_voteable|允 許 投 票 改 換 地 圖 
+str_valid_vote_ratio|投 票 最 低 通 過 比 例 (%)： 
+str_auto_team_balance_limit|自 動 隊 伍 平 衡 最 低 值 （ 相 差 ） ： 
+str_welcome_message|歡 迎 信 息 ： 
+str_initial_gold_multiplier|初 始 金 額 (%)： 
+str_battle_earnings_multiplier|戰 鬥 獎 金 (%)： 
+str_round_earnings_multiplier|回 合 獎 金 (%)： 
+str_allow_player_banners|允 許 個 人 旗 幟 
+str_force_default_armor|強 制 起 始 防 具 
+str_respawning_in_reg0_seconds|{reg0}秒 后 重 生 … … 
+str_no_more_respawns_remained_this_round|此 局 已 不 能 重 生 
+str_reg0_respawns_remained|（ 還 剩 {reg0}次 重 生 機 會 ） 
+str_this_is_your_last_respawn|（ 這 是 你 的 最 后 一 次 重 生 機 會 ） 
+str_wait_next_round|（ 等 候 下 一 回 合 ） 
+str_yes_wo_dot|是 
+str_no_wo_dot|否 
+str_s1_returned_flag|{s1}將 丟 失 的 旗 幟 重 新 奪 回 ！ 
+str_s1_auto_returned_flag|{s1}旗 幟 自 動 回 到 了 他 們 的 基 地 ！ 
+str_s1_captured_flag|{s1}俘 獲 敵 軍 旗 幟 ！ ！ 
+str_s1_taken_flag|{s1}搶 到 了 敵 軍 旗 幟 ！ 
+str_s1_neutralized_flag_reg0|{s1}失 去 了 旗 幟 {reg0}。 
+str_s1_captured_flag_reg0|{s1}佔 領 了 旗 幟 {reg0}！ 
+str_s1_pulling_flag_reg0|{s1}開 始 佔 領 旗 幟 {reg0}。 
+str_s1_defended_castle|{s1}守 住 了 城 堡 ！ 
+str_s1_captured_castle|{s1}佔 領 城 堡 ！ ！ 
+str_auto_team_balance_in_20_seconds|20 秒 內 將 自 動 調 整 雙 方 力 量 。 
+str_auto_team_balance_next_round|下 一 回 合 將 自 動 調 整 雙 方 力 量 。 
+str_auto_team_balance_done|自 動 調 整 雙 方 力 量 完 成 。 
+str_s1_won_round|{s1}此 回 合 勝 ！ ！ 
+str_round_draw|時 間 到 ， 平 局 。 
+str_round_draw_no_one_remained|無 人 幸 存 ， 平 局 。 
+str_reset_to_default|默 認 設 置 
+str_done|完 成 
+str_player_name|玩 家 
+str_kills|殺 
+str_deaths|沒 
+str_ping|Ping 
+str_dead|死 亡 
+str_reg0_dead|{reg0}死 亡 
+str_bots_reg0_agents|虛 擬 人 （ {reg0}人 ） 
+str_bot_1_agent|虛 擬 人 （ 1人 ） 
+str_score|分 數 
+str_score_reg0|分 數 ： {reg0}
+str_flags_reg0|（ 旗 幟 ： {reg0}） 
+str_reg0_players|（ {reg0}玩 家 ， {reg40}存 活 ， {reg41}死 亡 ） 
+str_reg0_player|（ {reg0}玩 家 ， {reg40}存 活 ， {reg41}死 亡 ） 
+str_reg0_alive|{reg0}存 活 
+str_reg0_player_only|{reg0}玩 家 
+str_reg0_players_only|{reg0}玩 家 
+str_reg0_spectator|{reg0}旁 觀 者 
+str_reg0_spectators|{reg0}旁 觀 者 
+str_open_gate|開 柵 
+str_close_gate|關 柵 
+str_open_door|開 門 
+str_close_door|關 門 
+str_raise_ladder|架 梯 
+str_drop_ladder|拆 梯 
+str_back|返 回 
+str_start_map|開 始 地 圖 
+str_choose_an_option|選 項 ： 
+str_choose_a_poll_type|選 擇 一 個 投 票 類 型 ： 
+str_choose_faction|選 擇 國 家 
+str_choose_a_faction|選 擇 一 個 國 家 ： 
+str_choose_troop|選 擇 旗 幟 
+str_choose_a_troop|選 擇 一 個 團 ： 
+str_choose_items|選 擇 兵 種 
+str_choose_an_item|選 擇 一 個 等 級 ： 
+str_options|選 項 
+str_redefine_keys|按 鍵 設 置 
+str_submit_a_poll|發 起 投 票 
+str_show_game_rules|顯 示 遊 戲 規 則 
+str_administrator_panel|管 理 員 界 面 
+str_kick_player|踢 出 玩 家 
+str_ban_player|永 久 封 禁 玩 家 
+str_mute_player|沉 默 玩 家 
+str_unmute_player|取 消 沉 默 玩 家 
+str_quit|退 出 
+str_poll_for_changing_the_map|改 換 地 圖 
+str_poll_for_changing_the_map_and_factions|改 換 地 圖 和 國 家 
+str_poll_for_changing_number_of_bots|改 變 虛 擬 人 數 量 
+str_poll_for_kicking_a_player|踢 出 玩 家 
+str_poll_for_banning_a_player|封 禁 玩 家 
+str_choose_a_player|選 擇 一 個 玩 家 ： 
+str_choose_a_map|選 擇 一 個 地 圖 ： 
+str_choose_a_faction_for_team_reg0|給 隊 伍 {reg0}選 擇 一 個 國 家 ： 
+str_choose_number_of_bots_for_team_reg0|給 隊 伍 {reg0}選 擇 虛 擬 人 數 量 ： 
+str_spectator|旁 觀 者 
+str_spectators|旁 觀 者 
+str_score_2|分 數 
+str_command|命 令 ： 
+str_profile_banner_selection_text|給 你 的 角 色 選 定 一 面 旗 幟 
+str_use_default_banner|使 用 國 家 默 認 旗 幟 
+str_player_name_s1|- {s1}
+str_space| 
+str_us_|我 軍 
+str_allies_|友 軍 
+str_enemies_|敵 軍 
+str_routed|逃 亡 
+str_maximum_seconds_for_round_is_reg0|每 輪 的 最 大 秒 數 是 {reg0}。 
+str_respawn_period_is_reg0_seconds|重 生 時 間 是 {reg0}秒 。 
+str_bots_upper_limit_for_votes_is_reg0|投 票 可 以 設 置 的 最 大 虛 擬 人 數 為 {reg0}。 
+str_map_is_voteable|此 地 圖 可 投 票 。 
+str_map_is_not_voteable|此 地 圖 不 能 投 票 
+str_factions_are_voteable|可 投 票 選 擇 國 家 。 
+str_factions_are_not_voteable|不 可 投 票 選 擇 國 家 。 
+str_players_respawn_as_bot|玩 家 作 為 虛 擬 人 重 生 。 
+str_players_do_not_respawn_as_bot|玩 家 不 作 為 虛 擬 人 重 生 。 
+str_kicking_a_player_is_voteable|可 以 投 票 踢 出 玩 家 。 
+str_kicking_a_player_is_not_voteable|不 能 就 是 否 踢 出 一 名 玩 家 進 行 投 票 。 
+str_banning_a_player_is_voteable|可 以 投 票 封 禁 玩 家 。 
+str_banning_a_player_is_not_voteable|不 能 就 是 否 封 禁 一 名 玩 家 進 行 投 票 。 
+str_player_banners_are_allowed|允 許 玩 家 旗 幟 。 
+str_player_banners_are_not_allowed|不 允 許 玩 家 旗 幟 。 
+str_default_armor_is_forced|默 認 防 具 已 被 強 制 使 用 。 
+str_default_armor_is_not_forced|默 認 防 具 沒 有 強 制 使 用 。 
+str_percentage_of_yes_votes_required_for_a_poll_to_get_accepted_is_reg0|達 成 決 議 所 需 的 贊 成 票 比 例 是 {reg0}%。 
+str_auto_team_balance_threshold_is_reg0|自 動 隊 伍 平 衡 的 臨 界 值 是 {reg0}。 
+str_starting_gold_ratio_is_reg0|初 始 金 錢 比 率 是 {reg0}%。 
+str_combat_gold_bonus_ratio_is_reg0|戰 鬥 獎 金 獲 取 率 是 {reg0}%。 
+str_round_gold_bonus_ratio_is_reg0|回 合 獎 金 比 率 是 {reg0}%。 
+str_point_gained_from_flags_is_reg0|奪 旗 獲 得 的 隊 伍 分 數 為 {reg0}%。 
+str_point_gained_from_capturing_flag_is_reg0|獲 得 旗 幟 的 獎 勵 分 數 為 {reg0}%。 
+str_map_time_limit_is_reg0|地 圖 時 間 限 制 為 {reg0}分 鐘 。 
+str_team_points_limit_is_reg0|隊 伍 分 數 限 制 為 {reg0}。 
+str_defender_spawn_count_limit_is_s1|默 認 重 生 次 數 為 {s1}。 
+str_system_error|系 統 錯 誤 ！ 
+str_routed_2|逃 亡 
+str_s42|{s42}
+str_you|你 們 
+str_we|我 們 
+str_quick_battle_french_farm|法 國 農 場 
+str_quick_battle_landshut|蘭 茨 胡 特 
+str_quick_battle_river_crossing|渡 河 
+str_quick_battle_spanish_village|西 班 牙 村 莊 
+str_quick_battle_strangefields|奇 妙 之 地 
+str_quick_battle_scene_1|丘 陵 
+str_quick_battle_scene_2|雪 域 平 原 
+str_quick_battle_scene_3|林 地 
+str_quick_battle_scene_4|草 原 
+str_quick_battle_scene_6|沙 漠 
+str_map_basic|地 圖 
+str_game_type_basic|遊 戲 類 型 
+str_battle|戰 場 
+str_character|角 色 
+str_player|玩 家 
+str_enemy|敵 人 
+str_faction|國 家 
+str_start|開 始 
+str_custom_battle|自 定 義 戰 場 
+str_plus|+
+str_minus|-
+str_server_name_s0|伺 服 器 名 ： {s0}
+str_map_name_s0|地 圖 名 稱 ： {s0}
+str_game_type_s0|遊 戲 類 型 ： {s0}
+str_remaining_time_s0reg0_s1reg1|剩 余 時 間 ： {s0}{reg0}： {s1}{reg1}
+str_a_duel_request_is_sent_to_s0|給 您 發 送 決 鬥 邀 請 {s0}。 
+str_s0_offers_a_duel_with_you|{s0}與 你 決 鬥 。 
+str_your_duel_with_s0_is_cancelled|你 和 {s0}的 決 鬥 被 取 消 。 
+str_a_duel_between_you_and_s0_will_start_in_3_seconds|你 和 {s0}的 決 鬥 將 在 3秒 鐘 后 開 始 。 
+str_you_have_lost_a_duel|你 輸 掉 了 決 鬥 。 
+str_you_have_won_a_duel|你 贏 得 了 決 鬥 ！ 
+str_server_s0|[伺 服 器 ]： {s0}
+str_disallow_ranged_weapons|禁 止 遠 程 武 器 。 
+str_ranged_weapons_are_disallowed|不 允 許 遠 程 武 器 。 
+str_ranged_weapons_are_allowed|允 許 遠 程 武 器 。 
+str_duel_starts_in_reg0_seconds|決 鬥 將 在 {reg0}秒 后 開 始 … … 
+str_true|True
+str_false|False
+str_teamkilled_s1_s2|{s1}誤 殺 {s2}。 
+str_kick_server_kills_first_s1_reg5|{s1}因 為 {reg5}次 誤 殺 后 踢 出 ， 首 次 。 
+str_kick_server_kills_second_s1_reg5|{s1}因 為 {reg5}次 誤 殺 后 踢 出 ， 第 二 次 。 
+str_ban_server_kills_s1_reg5|{s1}因 為 {reg5}次 踢 出 后 被 禁 止 進 入 伺 服 器 。 
+str_warning_message_first_reg5|你 已 經 誤 殺 {reg5}名 玩 家 在 這 張 地 圖 中 ， 注 意 ！ 
+str_warning_message_second_reg5|你 已 經 誤 殺 {reg5}名 玩 家 在 這 張 地 圖 中 ， 注 意 ， 下 一 次 會 被 踢 出 ！ 
+str_kick_to_message_first|你 現 在 因 為 過 度 誤 殺 被 踢 出 ， 注 意 ！ 
+str_kick_to_message_second|你 現 在 因 為 過 度 誤 殺 被 踢 出 ， 注 意 ！ 下 一 次 就 禁 止 進 入 伺 服 器 ！ 
+str_ban_to_message|你 已 經 因 為 過 度 誤 殺 被 禁 止 進 入 伺 服 器 ， 永 別 ！ 
+str_auto_kick_message_s1|{s1}過 度 誤 殺 被 踢 出 。 
+str_auto_ban_message_s1|{s1}過 度 誤 殺 被 封 禁 。 
+str_server_hq_base_retake_s1|{s1}奪 回 他 們 的 基 地 ！ ！ 
+str_server_hq_base_attack_s1|{s1}的 基 地 正 在 遭 受 攻 擊 ！ 
+str_player_left_server_s1_reg13|{s1}離 開 了 遊 戲 ， ID ： {reg13}
+str_push_cannon|推 大 炮 
+str_fire_cannon|發 射 
+str_aim_cannon|瞄 準 
+str_unlimber_cannon|卸 下 大 炮 
+str_limber_cannon|牽 引 大 炮 
+str_load_cartridge|裝 填 炮 彈 
+str_load_bomb|裝 填 臼 炮 炮 彈 
+str_load_rocket|裝 填 火 箭 彈 
+str_reload_cannon|裝 填 大 炮 
+str_pick_up_round|拿 起 實 心 彈 
+str_pick_up_shell|拿 起 榴 彈 
+str_pick_up_canister|拿 起 霰 彈 
+str_pick_up_bomb|拿 起 臼 炮 炮 彈 
+str_pick_up_rocket|拿 起 火 箭 
+str_play_piano|彈 鋼 琴 
+str_play_organ|彈 風 琴 
+str_take_a_shit|使 用 馬 桶 
+str_play_bell|搖 鈴 
+str_take_ship_control|操 控 船 隻 
+str_cannot_use_piano|無 法 在 馬 背 上 彈 鋼 琴 ！ 
+str_cannot_use_organ|無 法 在 馬 背 上 彈 風 琴 ！ 
+str_cannot_use_piano_angle|無 法 從 背 面 彈 鋼 琴 ！ 
+str_cannot_use_organ_angle|無 法 從 背 面 彈 風 琴 ！ 
+str_cannot_use_toilet|無 法 在 馬 背 上 使 用 馬 桶 ！ 
+str_piano_in_use|有 其 他 人 已 經 在 彈 鋼 琴 了 ！ 
+str_organ_in_use|有 其 他 人 已 經 在 彈 風 琴 了 ！ 
+str_toilet_in_use|有 其 他 人 已 經 在 使 用 馬 桶 了 ！ 
+str_cannot_use_cannon|你 不 是 炮 兵 部 隊 ， 無 法 操 作 大 炮 ！ 
+str_cannot_use_rocket|你 不 是 火 箭 炮 部 隊 ， 無 法 操 作 火 箭 炮 ！ 
+str_cannon_not_loaded|大 炮 尚 未 裝 填 ！ 
+str_cannon_already_has_ball|炮 彈 已 經 裝 填 完 畢 了 ！ 
+str_cannon_already_loaded|大 炮 已 經 裝 填 完 畢 了 ！ 
+str_cannot_carry_more_cannon_ammo|你 不 能 攜 帶 更 多 的 炮 彈 了 ！ 
+str_cannon_cannot_load_type|這 門 炮 不 能 用 這 種 炮 彈 ！ 
+str_need_to_have_a_lighter|你 需 要 點 火 器 來 發 射 大 炮 ！ 
+str_need_to_have_a_ramrod|你 需 要 推 彈 杆 來 裝 填 大 炮 ！ 
+str_need_to_have_a_ball|你 需 要 炮 彈 來 裝 填 大 炮 ！ 
+str_need_to_have_a_horse|你 需 要 炮 兵 馬 來 牽 引 大 炮 ！ 
+str_horse_already_has_cannon|這 匹 馬 已 經 牽 引 上 大 炮 了 ！ 
+str_already_to_many_barricades|你 的 隊 伍 這 輪 已 經 建 造 夠 多 的 防 御 工 事 了 。 
+str_already_to_many_ammobox|你 的 隊 伍 這 輪 已 經 刷 出 夠 多 的 彈 藥 盒 了 。 
+str_cannon_is_already_in_use|這 門 大 炮 正 在 被 使 用 中 。 
+str_already_to_many_players_class_s21|已 經 有 太 多 的 玩 家 在 選 擇 {s21}了 ， 請 選 擇 其 他 單 位 。 
+str_already_to_many_players_rank_mus|已 經 有 足 夠 的 玩 家 在 選 擇 樂 手 了 ， 請 選 擇 其 他 單 位 。 
+str_already_to_many_players_rank_srg|已 經 有 太 多 的 玩 家 選 擇 {s21}了 ， 請 選 擇 其 他 單 位 。 
+str_already_to_many_players_rank_off|已 經 有 太 多 的 玩 家 選 擇 {s21}了 ， 請 選 擇 其 他 單 位 。 
+str_chk_class_limits|啟 用 兵 種 限 制 
+str_chk_class_limits_player_count|設 置 啟 用 兵 種 限 制 的 最 少 玩 家 數 目 ： 
+str_limit_grenadier|每 隊 近 衛 步 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_skirmisher|每 隊 輕 步 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_rifle|輕 步 兵 中 來 福 槍 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_cavalry|每 隊 騎 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_lancer|騎 兵 中 槍 騎 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_hussar|騎 兵 中 驃 騎 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_dragoon|騎 兵 中 龍 騎 兵 最 大 數 量 的 百 分 比 (%)： 
+str_limit_cuirassier|騎 兵 中 胸 甲 騎 兵 最 大 數 量 百 分 比 (%)
+str_limit_heavycav|騎 兵 中 無 甲 重 騎 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_artillery|每 隊 炮 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_rocket|每 隊 火 箭 炮 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_sapper|每 隊 工 兵 最 大 數 量 百 分 比 (%)： 
+str_limit_musician|每 個 兵 種 樂 手 最 大 數 量 (nr)： 
+str_limit_sergeant|每 個 兵 種 軍 士 /旗 手 最 大 數 量 (nr)： 
+str_limit_officer|每 個 兵 種 軍 官 最 大 數 量 (nr)： 
+str_limit_general|每 隊 將 軍 最 大 數 量 (nr)： 
+str_build_points_team_1|1隊 的 建 造 點 數 ： 
+str_build_points_team_2|2隊 的 建 造 點 數 ： 
+str_allow_multiple_firearms|允 許 攜 帶 復 數 的 火 器 
+str_enable_bonuses|開 啟 加 強 
+str_bonus_strength|加 強 力 量 (%)： 
+str_bonus_range|加 強 射 程 （ 米 ） ： 
+str_num_bots_per_squad|每 小 隊 虛 擬 人 數 量 ： 
+str_scale_squad_size|調 整 小 隊 人 數 以 平 衡 總 人 數 
+str_max_num_bots|最 大 虛 擬 人 數 量 : 
+str_chance_of_falling_off_horse|中 彈 后 墜 馬 幾 率 (%)： 
+str_damage_from_horse_dying|墜 馬 對 騎 手 的 傷 害 (%)： 
+str_admin_start_map_s0_s1_s2_s5_s6|{s0}將 地 圖 改 為 {s2}模 式 下 的 {s1}， 國 家 為 {s5}和 {s6}。 
+str_admin_set_max_num_players_s0_reg1|{s0}將 最 大 玩 家 數 目 設 置 為 {reg1}。 
+str_admin_set_num_bots_in_team_s0_s1_reg1|{s0}將 {s1}的 虛 擬 人 數 目 設 置 為 {reg1}。 
+str_admin_set_friendly_fire_s0_s9|{s0}將 允 許 遠 程 友 軍 傷 害 設 置 為 {s9}。 
+str_admin_set_melee_friendly_fire_s0_s9|{s0}將 允 許 友 軍 傷 害 設 置 為 {s9}。 
+str_admin_set_friendly_fire_damage_self_ratio_s0_reg1|{s0}將 友 軍 傷 害 對 自 身 的 反 彈 率 設 為 為 {reg1}%。 
+str_admin_set_friendly_fire_damage_friend_ratio_s0_reg1{s0}將 友 軍 傷 害 對 友 軍 的 反 彈 率 設 為 為 {reg1}%。 
+str_admin_set_ghost_mode_s0_s1|{s0}將 幽 靈 模 式 設 置 為 {s1}。 
+str_admin_set_control_block_dir_s0_s1|{s0}將 格 擋 方 向 控 制 設 置 為 {s1}。 
+str_admin_set_combat_speed_s0_s1|{s0}將 戰 鬥 速 度 設 置 為 {s1}。 
+str_admin_set_respawn_count_s0_s1|{s0}將 防 御 方 最 大 重 生 次 數 設 置 為 {s1}。 
+str_admin_set_add_to_servers_list_s0_s9|{s0}將 此 伺 服 器 加 入 伺 服 器 名 單 設 置 為 {s9}。 
+str_admin_set_respawn_period_s0_reg1|{s0}將 重 生 時 間 設 置 為 {s9}。 
+str_admin_set_game_max_minutes_s0_reg1|{s0}將 地 圖 時 間 限 制 設 置 為 {s9}。 
+str_admin_set_round_max_seconds_s0_reg1|{s0}將 每 局 時 間 限 制 設 置 為 {s9}。 
+str_admin_set_player_respawn_as_bot_s0_s9|{s0}將 玩 家 死 亡 后 切 換 到 虛 擬 人 設 置 為 {s9}。 
+str_admin_set_game_max_points_s0_reg1|{s0}將 遊 戲 最 大 分 數 設 置 為 {s9}。 
+str_admin_set_point_gained_from_flags_s0_reg1|{s0}將 旗 幟 獎 勵 分 數 設 置 為 {reg1}。 
+str_admin_set_point_gained_from_capturing_flag_s0_reg1|{s0}將 奪 旗 獎 勵 隊 伍 分 數 設 置 為 {reg1}。 
+str_admin_set_initial_gold_multiplier_s0_reg1|{s0}將 玩 家 初 始 金 幣 設 置 為 {reg1}%。 
+str_admin_set_battle_earnings_multiplier_s0_reg1|{s0}將 戰 鬥 得 到 的 金 幣 比 率 設 置 為 {reg1}%。 
+str_admin_set_round_earnings_multiplier_s0_reg1|{s0}將 每 輪 額 外 金 幣 獎 勵 設 置 為 {reg1}%。 
+str_admin_set_server_name_s1_s0|{s1}將 伺 服 器 名 稱 設 置 為 {s0}
+str_admin_set_game_password_s1_s0|{s1}將 伺 服 器 密 碼 設 置 為 {s0}
+str_admin_set_welcome_message_s1|{s1}改 變 了 伺 服 器 介 紹 
+str_admin_set_welcome_message_s1_s0|{s1}將 伺 服 器 介 紹 設 置 為 {s0}
+str_admin_set_valid_vote_ratio_s0_reg1|{s0}將 投 票 通 過 最 低 百 分 比 設 置 為 {reg1}%。 
+str_admin_set_auto_team_balance_limit_s0_s1|{s0}將 自 動 平 衡 隊 伍 限 制 設 置 為 {s1}。 
+str_admin_set_num_bots_voteable_s0_reg1|{s0}將 允 許 投 票 的 最 大 虛 擬 人 數 量 設 置 為 {reg1}。 
+str_admin_set_factions_voteable_s0_s9|{s0}將 允 許 國 家 投 票 設 置 為 {s9}。 
+str_admin_set_maps_voteable_s0_s9|{s0}將 允 許 地 圖 投 票 設 置 為 {s9}。 
+str_admin_set_kick_voteable_s0_s9|{s0}將 允 許 投 票 踢 出 玩 家 設 置 為 {s9}。 
+str_admin_set_ban_voteable_s0_s9|{s0}將 允 許 投 票 封 禁 玩 家 設 置 為 {s9}。 
+str_admin_set_allow_player_banners_s0_s9|{s0}將 允 許 使 用 個 人 旗 幟 設 置 為 {s9}。 
+str_admin_set_force_default_armor_s0_s9|{s0}將 強 制 初 始 防 具 設 置 為 {s9}。 
+str_admin_set_disallow_ranged_weapons_s0_s9|{s0}將 禁 止 遠 程 武 器 設 置 為 {s9}。 
+str_admin_set_mod_variable_auto_kick_s0_s9|{s0}將 自 動 踢 出 隊 友 殺 手 設 置 為 {s9}。 
+str_admin_set_mod_variable_max_teamkills_before_kick_s0_reg1|{s0}將 誤 殺 次 數 臨 界 值 設 置 為 {reg1}。 
+str_admin_set_mod_variable_auto_horse_s0_s9|{s0}將 自 動 殺 死 無 主 馬 匹 設 置 為 {s9}。 
+str_admin_set_mod_variable_auto_swap_s0_s9|{s0}將 攻 城 和 戰 場 模 式 中 自 動 交 換 隊 伍 設 置 為 {s9}。 
+str_admin_set_use_class_limits_s0_s9|{s0}將 使 用 兵 種 限 制 設 置 為 {s9}。 
+str_admin_set_class_limit_player_count_s0_reg1|{s0}將 兵 種 限 制 所 需 要 的 最 小 玩 家 數 目 設 置 為 {reg1}。 
+str_admin_set_limit_grenadier_s0_reg1|{s0}將 近 衛 步 兵 比 率 設 置 為 隊 伍 的 {reg1}%。 
+str_admin_set_limit_skirmisher_s0_reg1|{s0}將 輕 步 兵 比 率 設 置 為 隊 伍 的 {reg1}%。 
+str_admin_set_limit_rifle_s0_reg1|{s0}將 來 福 槍 兵 比 率 設 置 為 輕 步 兵 的 {reg1}%。 
+str_admin_set_limit_cavalry_s0_reg1|{s0}將 騎 兵 比 率 設 置 為 隊 伍 的 {reg1}%。 
+str_admin_set_limit_lancer_s0_reg1|{s0}將 槍 騎 兵 比 率 設 置 為 騎 兵 的 {reg1}%。 
+str_admin_set_limit_hussar_s0_reg1|{s0}將 輕 騎 兵 比 率 設 置 為 騎 兵 的 {reg1}%。 
+str_admin_set_limit_dragoon_s0_reg1|{s0}將 龍 騎 兵 比 率 設 置 為 騎 兵 的 {reg1}%。 
+str_admin_set_limit_cuirassier_s0_reg1|{s0}將 胸 甲 騎 兵 比 率 設 置 為 騎 兵 的 {reg1}%。 
+str_admin_set_limit_heavycav_s0_reg1|{s0}將 無 甲 重 騎 兵 比 率 設 置 為 騎 兵 的 {reg1}%。 
+str_admin_set_limit_artillery_s0_reg1|{s0}將 炮 兵 比 率 設 置 為 隊 伍 的 {reg1}%。 
+str_admin_set_limit_rocket_s0_reg1|{s0}將 火 箭 炮 兵 比 率 設 置 為 隊 伍 的 {reg1}%。 
+str_admin_set_limit_sapper_s0_reg1|{s0}將 工 兵 比 率 設 置 為 隊 伍 的 {reg1}%。 
+str_admin_set_limit_musician_s0_reg1|{s0}將 每 個 兵 種 軍 樂 手 最 大 數 目 設 置 為 {reg1}。 
+str_admin_set_limit_sergeant_s0_reg1|{s0}將 每 個 兵 種 軍 士 /旗 手 最 大 數 目 設 置 為 {reg1}。 
+str_admin_set_limit_officer_s0_reg1|{s0}將 每 個 兵 種 軍 官 最 大 數 目 設 置 為 {reg1}。 
+str_admin_set_limit_general_s0_reg1|{s0}將 每 隊 將 軍 最 大 數 目 設 置 為 {reg1}。 
+str_admin_set_build_points_team_1_s0_reg1|{s0}將 1隊 的 建 造 點 數 設 置 為 {reg1}。 
+str_admin_set_build_points_team_2_s0_reg1|{s0}將 2隊 的 建 造 點 數 設 置 為 {reg1}。 
+str_admin_set_squad_size_s0_reg1|{s0}將 每 小 隊 虛 擬 人 數 量 設 置 為 {reg1}。 
+str_admin_set_scale_squad_size_s0_s9|{s0}將 自 動 平 衡 小 隊 人 數 設 置 為 {s9}。 
+str_admin_set_max_num_bots_s0_reg1|{s0}將 最 大 虛 擬 人 數 量 設 置 為 {reg1}。 
+str_admin_set_allow_multiple_firearms_s0_s9|{s0}將 允 許 攜 帶 復 數 火 器 設 置 為 {s9}。 
+str_admin_set_enable_bonuses_s0_s9|{s0}將 開 啟 加 強 設 置 為 {s9}。 
+str_admin_set_bonus_strength_s0_reg1|{s0}將 力 量 加 強 設 為 {reg1}%。 
+str_admin_set_bonus_range_s0_reg1|{s0}將 射 程 加 強 設 為 {reg1}米 。 
+str_admin_set_fall_off_horse_s0_reg1|{s0}將 墜 馬 幾 率 設 置 為 {reg1}%。 
+str_admin_set_horse_dying_s0_reg1|{s0}將 墜 馬 傷 害 設 置 為 {reg1}%。 
+str_mute_all|沉 默 所 有 玩 家 
+str_unmute_all|取 消 沉 默 所 有 玩 家 
+str_slay_player|殺 死 玩 家 
+str_slay_player_s2_s3|{s2}殺 死 了 玩 家 {s3}。 
+str_slay_all|殺 死 所 有 人 
+str_slay_all_s2|{s2}殺 死 了 所 有 人 。 
+str_freeze_player|凍 結 玩 家 
+str_freeze_player_s2_s3|{s2}凍 結 了 玩 家 {s3}。 
+str_freeze_all|凍 結 所 有 人 
+str_freeze_all_s2|{s2}凍 結 了 所 有 人 。 
+str_swap_player|交 換 玩 家 
+str_swap_player_s2_s3|{s2}把 玩 家 {s3}換 到 對 面 的 陣 營 。 
+str_swap_all|交 換 所 有 人 
+str_swap_all_s2|{s2}把 所 有 人 換 到 對 面 的 陣 營 。 
+str_forceautobalance_all|自 動 平 衡 
+str_forceautobalance_all_s2|{s2}設 置 了 隊 伍 強 制 自 動 平 衡 。 
+str_spec_player|把 玩 家 移 到 旁 觀 席 
+str_spec_player_s2_s3|{s2}把 玩 家 {s3}移 到 了 旁 觀 席 。 
+str_spec_all|把 所 有 人 移 到 旁 觀 席 
+str_spec_all_s2|{s2}把 所 有 人 移 到 了 旁 觀 席 
+str_kick_player_s2_s3|{s2}踢 出 了 玩 家 {s3}。 
+str_ban_player_s2_s3|{s2}永 久 封 禁 了 玩 家 {s3}。 
+str_ban_player_temp|暫 時 封 禁玩 家 
+str_ban_player_temp_s2_s3|{s2}暫 時 封 禁 了 玩 家 {s3}。 
+str_ban_hammer_s2_s3|{s2}把 禁 錘 砸 到 了 {s3}的 臉 上 ， 永 別 了 ！ 
+str_admin_cheats|作 弊 
+str_choose_a_cheat_type|選 擇 一 種 作 弊 類 型 ： 
+str_cheat_spawn_hammer|制 造 禁 錘 
+str_cheat_spawn_hammer_s2|{s2}制 造 了 一 個 禁 錘 。 
+str_cheat_spawn_hammer_2_s2|然 后 聖 {s2}高 高 舉 起 那 神 聖 禁 錘 ， 說 道 ： “ 主 啊 ， 祝 福 您 這 神 聖 禁 錘 ， 在 您 的 仁 慈 下 ， 有 了 它 您 能 將 您 的 敵 人 砸 成 粉 末 。 ” 接 著 上 帝 嘴 角 露 出 了 微 笑 。 
+str_cheat_spawn_shotgun|制 造 霰 彈 槍 
+str_cheat_spawn_shotgun_s2|{s2}制 造 了 一 把 霰 彈 槍 。 
+str_cheat_spawn_rocketlauncher|制 造 火 箭 發 射 器 
+str_cheat_spawn_rocketlauncher_s2|{s2}制 造 了 一 把 火 箭 發 射 器 。 
+str_cheat_spawn_grenade|制 造 聖 手 榴 彈 
+str_cheat_spawn_grenade_s2|{s2}制 造 了 一 個 聖 手 榴 彈 。 
+str_cheat_spawn_grenade_2_s2|然 后 聖 {s2}高 高 舉 起 那 神 聖 手 雷 ， 說 道 ： “ 主 啊 ， 祝 福 您 這 神 聖 手 雷 ， 在 您 的 仁 慈 下 ， 有 了 它 您 能 將 您 的 敵 人 炸 成 粉 末 。 ” 接 著 上 帝 嘴 角 露 出 了 微 笑 。 
+str_cheat_spawn_horse|制 造 管 理 員 之 馬 
+str_cheat_spawn_horse_s2|{s2}制 造 了 一 匹 管 理 員 之 馬 。 
+str_cheat_beacon_player|標 記 玩 家 
+str_cheat_beacon_player_s2_s3|{s2}標 記 了 玩 家 {s3}。 
+str_cheat_heal_player|醫 治 玩 家 
+str_cheat_heal_player_s2_s3|{s2}醫 治 了 玩 家 {s3}。 
+str_cheat_heal_all|醫 治 所 有 人 
+str_cheat_heal_all_s2|{s2}醫 治 了 所 有 人 。 
+str_cheat_ammo_player|補 充 玩 家 彈 藥 
+str_cheat_ammo_player_s2_s3|{s2}補 充 了 玩 家 {s3}的 彈 藥 
+str_cheat_ammo_all|補 充 所 有 人 彈 藥 
+str_cheat_ammo_all_s2|{s2}補 充 了 所 有 人 的 彈 藥 。 
+str_cheat_tele_to_player|傳 送 到 玩 家 
+str_cheat_tele_to_player_s2_s3|{s2}傳 送 自 己 到 玩 家 {s3}。 
+str_cheat_tele_bring_player|召 唤 玩 家 
+str_cheat_tele_bring_player_s2_s3|{s2}把 玩 家 {s3}傳 送 到 自 己 跟 前 。 
+str_cheat_tele_wall|瞬 移 穿 牆 
+str_cheat_tele_wall_s2|{s2}使 用 了 瞬 移 。 
+str_admin_chat|管 理 員 發 言 
+str_admin_chat_intern|管 理 員 私 聊 
+str_admin_chat_s1_s0|*管 理 員 *[{s1}]： {s0}
+str_inter_admin_chat_s1_s0|[{s1}]： {s0}
+str_chk_auto_kick|啟 用 自 動 踢 出 /封 禁 
+str_num_max_teamkills_before_kick|自 動 踢 出 /封 禁 臨 界 值 ： 
+str_chk_auto_horse|啟 用 自 動 殺 死 無 主 馬 
+str_chk_auto_swap|啟 用 攻 城 和 戰 場 模 式 自 動 交 換 團 隊 
+str_reset_map|重 置 地 圖 
+str_reset_map_s2|{s2}重 置 了 地 圖 。 
+str_console_command|管 理 員 控 制 台 
+str_player_kicked_cheating_s2|{s2}由 於 作 弊 被 踢 出 了 伺 服 器 。 
+str_next_page|下 一 頁 
+str_auto_assign|自 動 選 擇 
+str_begin|開 始 
+str_game_rules|遊 戲 規 則 ： ^
+str_britain_name|聯 合 王 國 
+str_france_name|法 蘭 西 帝 國 
+str_prussia_name|普 魯 士 王 國 
+str_russia_name|俄 羅 斯 帝 國 
+str_austria_name|奧 地 利 帝 國 
+str_rhine_name|萊 茵 邦 聯 
+str_infantry|步 兵 
+str_cavalry|騎 兵 
+str_specialists|專 業 兵 
+str_ranker|士 兵 
+str_equipment|裝 備 
+str_random|隨 機 
+str_howitzer|榴 彈 炮 
+str_cannon|加 農 炮 
+str_all_fire_now|全 體 開 火 ！ 
+str_left_fire_now|左 翼 開 火 ！ 
+str_middle_fire_now|中 間 開 火 ！ 
+str_right_fire_now|右 翼 開 火 ！ 
+str_fire_at_my_command|聽 命 開 火 ！ 
+str_use_melee_weapons|使 用 近 戰 武 器 
+str_use_ranged_weapons|使 用 遠 程 武 器 
+str_melee_weapons|近 戰 武 器 
+str_ranged_weapons|遠 程 武 器 
+str_formation|隊 形 
+str_very_tight|非 常 密 集 
+str_tight|密 集 
+str_loose|鬆 散 
+str_very_loose|非 常 鬆 散 
+str_form_1_row|列 成 1排 
+str_form_reg0_rows|列 成 {reg0}排 
+str_confirm_quit_mission|你 真 的 要 退 出 當 前 的 任 務 （ 任 務 進 度 將 丟 失 ） ？ 
+str_no_troop|空 缺 
+str_morning|早 晨 
+str_noon|中 午 
+str_evening|傍 晚 
+str_night|夜 晚 
+str_timeofday|時 間 ： 
+str_fog_none|無 
+str_fog_light|弱 
+str_fog_medium|中 
+str_fog_thick|厚 
+str_fog_amount|霧 量 ： 
+str_rain_amount|雨 量 ： 
+str_mm_stakes_construct|大 型 拒 馬 
+str_mm_stakes2_construct|木 樁 
+str_sandbags_construct|沙 袋 
+str_chevaux_de_frise_tri_construct|小 型 拒 馬 
+str_gabion_construct|土 筐 
+str_fence_construct|柵 欄 
+str_plank_construct|木 板 
+str_earthwork1_construct|簡 易 土 壘 
+str_explosives_construct|炸 藥 箱 
+str_reg6_build_points|現 有 建 造 點 數 ： {reg6}
+str_reg7_build_points_cost|需 要 ： {reg7}建 造 點 數 
+str_repair_prop|修 復 
+str_destructible_object|可 摧 毀 物 品 
+str_build_prop|建 造 物 品 
+str_dig_prop|挖 （ 按 X填 ） 
+str_undig_prop|填 （ 按 X挖 ） 
+str_construct_deconstruct|建 造 /拆 毀 
+str_ignite|點 燃 ！ 
+str_invalid_flag_selection|選 擇 一 個 你 的 隊 伍 控 制 的 旗 幟 。 
+str_invalid_prop_select|沒 有 足 夠 的 建 造 點 數 ！ 
+str_invalid_prop_place|你 不 能 將 該 物 品 架 置 在 這 裡 ！ 
+str_sail_brit|海 王 星 號 水 手 
+str_sail_fren|無 畏 號 水 手 
+str_select_track|選 擇 曲 目 ： 
+str_music_calls|命 令 ： 
+str_bagpipe_extras|附 加 曲 目 （ 風 笛 獨 有 ） ： 
+str_play_together|允 許 “ 一 起 演 奏 ” 
+str_drum_britain_1|不 列 顛 擲 彈 兵 
+str_drum_britain_2|我 留 在 身 后 的 女 孩 
+str_drum_britain_3|利 利 布 勒 羅 
+str_drum_britain_4|哈 勒 赫 勇 士 
+str_drum_britain_5|統 治 吧 ！ 不 列 顛 尼 亞 ！ 
+str_drum_france_1|在 戰 場 上 
+str_drum_france_2|沖 鋒 
+str_drum_france_3|利 戈 頓 起 牀 鼓 
+str_drum_france_4|擲 彈 兵 
+str_drum_france_5|放 慢 腳 步 
+str_drum_prussia_1|約 克 軍 團 進 行 曲 
+str_drum_prussia_3|霍 亨 弗 里 德 伯 格 進 行 曲 
+str_drum_prussia_4|普 魯 士 洛 克 進 行 曲 
+str_drum_prussia_5|軍 樂 隊 遊 行 進 行 曲 
+str_drum_prussia_6|軍 禮 進 行 曲 
+str_drum_russia_1|擲 彈 兵 進 行 曲 
+str_drum_russia_2|伊 茲 邁 洛 夫 斯 基 近 衛 團 進 行 曲 
+str_drum_russia_3|縱 隊 沖 鋒 進 行 曲 
+str_drum_russia_4|普 列 奧 布 拉 仁 斯 基 近 衛 團 進 行 曲 
+str_drum_russia_5|謝 苗 諾 夫 斯 基 近 衛 團 進 行 曲 
+str_drum_austria_1|奧 地 利 擲 彈 兵 進 行 曲 
+str_drum_austria_2|科 堡 進 行 曲 
+str_drum_austria_3|帕 朋 海 默 進 行 曲 
+str_drum_austria_4|巴 黎 入 城 進 行 曲 
+str_drum_austria_5|歐 根 親 王 
+str_drum_highland_1|所 有 的 藍 帽 都 已 越 過 邊 境 
+str_drum_highland_2|美 麗 的 鄧 迪 
+str_drum_signal_1|宿 營 ， 熄 燈 
+str_drum_signal_2|停 火 
+str_drum_signal_3|鼓 手 鳴 鼓 
+str_fife_britain_1|不 列 顛 擲 彈 兵 
+str_fife_britain_2|我 留 在 身 后 的 女 孩 
+str_fife_britain_3|利 利 布 勒 羅 
+str_fife_britain_4|哈 勒 赫 勇 士 
+str_fife_britain_5|統 治 吧 ！ 不 列 顛 尼 亞 ！ 
+str_fife_france_1|在 戰 場 上 
+str_fife_france_2|沖 鋒 
+str_fife_france_3|利 戈 頓 起 床 鼓 
+str_fife_france_4|擲 彈 兵 
+str_fife_france_5|放 慢 腳 步 
+str_fife_prussia_1|約 克 軍 團 進 行 曲 
+str_fife_prussia_2|霍 亨 弗 里 德 伯 格 進 行 曲 
+str_fife_prussia_3|普 魯 士 洛 克 進 行 曲 
+str_fife_prussia_4|軍 樂 隊 遊 行 進 行 曲 
+str_fife_prussia_5|軍 禮 進 行 曲 
+str_fife_russia_1|擲 彈 兵 進 行 曲 
+str_fife_russia_2|伊 茲 邁 洛 夫 斯 基 近 衛 團 進 行 曲 
+str_fife_russia_3|縱 隊 沖 鋒 進 行 曲 
+str_fife_russia_4|普 列 奧 布 拉 仁 斯 基 近 衛 團 進 行 曲 
+str_fife_russia_5|謝 苗 諾 夫 斯 基 近 衛 團 進 行 曲 
+str_fife_austria_1|奧 地 利 擲 彈 兵 進 行 曲 
+str_fife_austria_2|科 堡 進 行 曲 
+str_fife_austria_3|帕 朋 海 默 進 行 曲 
+str_fife_austria_4|巴 黎 入 城 進 行 曲 
+str_fife_austria_5|歐 根 親 王 
+str_bugle_britain_1|不 列 顛 的 靴 子 
+str_bugle_britain_2|不 列 顛 輕 步 兵 
+str_bugle_france_1|在 驃 騎 兵 之 中 
+str_bugle_france_2|進 軍 
+str_bugle_prussia_1|舊 黑 森 騎 兵 進 行 曲 
+str_bugle_prussia_2|費 爾 貝 林 騎 兵 進 行 曲 
+str_bugle_prussia_3|志 願 獵 兵 進 行 曲 
+str_bugle_russia_1|火 槍 兵 進 行 曲 
+str_bugle_russia_2|炮 兵 工 兵 進 行 曲 
+str_bugle_russia_3|獵 兵 進 行 曲 
+str_bugle_austria_1|灌 木 進 行 曲 
+str_bugle_austria_2|幸 福 生 活 進 行 曲 
+str_bugle_signal_1|大 家 集 合 
+str_bugle_signal_2|拉 長 陣 線 
+str_bugle_signal_3|合 攏 隊 列 
+str_bugle_signal_4|瞄 準 敵 軍 
+str_bugle_signal_5|開 火 
+str_bagpipes_britain_1|所 有 的 藍 帽 都 已 越 過 邊 境 
+str_bagpipes_britain_2|美 麗 的 鄧 迪 
+str_bagpipes_extra_1|黑 熊 
+str_bagpipes_extra_2|奇 異 恩 典 
+str_bagpipes_extra_3|巴 爾 莫 勒 爾 
+str_bagpipes_extra_4|美 麗 的 鄧 迪 
+str_bagpipes_extra_5|北 方 雄 雞 
+str_bagpipes_extra_6|高 地 大 教 堂 
+str_bagpipes_extra_7|我 的 家 
+str_bagpipes_extra_8|蘇 格 蘭 勇 士 
+str_bagpipes_extra_9|斯 凱 島 船 歌 
+str_piano_tune_1|貝 多 芬 -致 愛 麗 絲 
+str_piano_tune_2|貝 多 芬 -埃 克 塞 斯 舞 曲 
+str_piano_tune_3|埃 里 克 · 薩 蒂 -裸 者 之 舞 3
+str_piano_tune_4|貝 多 芬 -蘭 德 勒 
+str_piano_tune_5|升 華 主 題 
+str_piano_tune_6|巴 赫 -前 奏 曲 
+str_piano_tune_7|瓦 格 納 -婚 禮 進 行 曲 
+str_piano_tune_8|舒 伯 特 -聖 母 頌 
+str_organ_tune_1|巴 赫 -托 卡 塔 與 賦 格 
+str_organ_tune_2|巴 赫 -托 卡 塔 與 賦 格 2
+str_organ_tune_3|巴 赫 -前 奏 曲 與 賦 格 
+str_organ_tune_4|布 克 斯 特 胡 德 -前 奏 曲 
+str_organ_tune_5|微 型 賦 格 
+str_organ_tune_6|瓦 格 納 -婚 禮 進 行 曲 
+str_organ_tune_7|巴 赫 -半 音 階 賦 格 
+str_organ_tune_8|巴 赫 -半 音 階 幻 想 曲 
+str_flag_reg3|旗 幟 {reg3}
+str_mp_arabian_harbour_flag_1|小 酒 店 
+str_mp_arabian_harbour_flag_2|后 院 
+str_mp_arabian_harbour_flag_3|港 口 
+str_mp_arabian_harbour_flag_4|燈 塔 
+str_mp_arabian_harbour_flag_5|市 井 
+str_mp_arabian_village_flag_1|葡 萄 酒 莊 
+str_mp_arabian_village_flag_2|農 莊 
+str_mp_arabian_village_flag_3|設 防 城 市 
+str_mp_ardennes_flag_1|弗 努 瓦 農 場 
+str_mp_ardennes_flag_2|迪 米 勒 谷 倉 農 場 
+str_mp_ardennes_flag_3|瞭 望 塔 
+str_mp_ardennes_flag_4|漁 夫 的 小 屋 
+str_mp_ardennes_flag_5|松 香 農 場 
+str_mp_ardennes_flag_6|死 亡 森 林 
+str_mp_ardennes_flag_7|岩 石 堆 
+str_mp_avignon_flag_1|營 地 
+str_mp_avignon_flag_2|城 鎮 
+str_mp_avignon_flag_3|磨 房 
+str_mp_avignon_flag_4|村 莊 
+str_mp_borodino_flag_1|城 鎮 
+str_mp_borodino_flag_2|村 莊 
+str_mp_borodino_flag_3|陣 地 
+str_mp_borodino_flag_4|磨 房 
+str_mp_borodino_flag_5|舍 瓦 爾 迪 諾 
+str_mp_borodino_flag_6|大 型 陣 地 
+str_mp_borodino_flag_7|小 型 陣 地 
+str_mp_columbia_hill_farm_flag_1|森 林 
+str_mp_columbia_hill_farm_flag_2|谷 倉 
+str_mp_columbia_hill_farm_flag_3|農 家 
+str_mp_columbia_hill_farm_flag_4|葡 萄 園 
+str_mp_european_city_flag_1|教 堂 
+str_mp_european_city_flag_2|廣 場 
+str_mp_european_city_flag_3|文 斯 的 拐 角 
+str_mp_european_city_flag_4|街 道 
+str_mp_french_farm_flag_1|森 林 
+str_mp_french_farm_flag_2|陣 地 
+str_mp_french_farm_flag_3|農 場 
+str_mp_hungarian_plains_flag_1|織 布 坊 
+str_mp_hungarian_plains_flag_2|城 鎮 
+str_mp_hungarian_plains_flag_3|風 車 
+str_mp_hungarian_plains_flag_4|廢 棄 的 房 屋 
+str_mp_hungarian_plains_flag_5|小 屋 
+str_mp_hungarian_plains_flag_6|莊 園 
+str_mp_landshut_flag_1|蘭 茨 胡 特 
+str_mp_landshut_flag_2|到 阿 本 斯 貝 格 的 路 
+str_mp_landshut_flag_3|蘭 茨 胡 特 近 郊 
+str_mp_landshut_flag_4|橋 
+str_mp_landshut_flag_5|炮 樓 
+str_mp_landshut_flag_6|農 場 
+str_mp_landshut_flag_7|十 字 路 口 
+str_mp_russian_village_flag_1|樵 夫 村 
+str_mp_russian_village_flag_2|獵 人 村 
+str_mp_russian_village_flag_3|俄 羅 斯 村 
+str_mp_minden_flag_1|營 地 
+str_mp_minden_flag_2|明 登 
+str_mp_minden_flag_3|海 倫 
+str_mp_minden_flag_4|奈 茨 班 德 農 場 
+str_mp_minden_flag_5|施 特 默 
+str_mp_minden_flag_6|托 滕 豪 森 旅 館 
+str_mp_minden_flag_7|馬 爾 勃 艮 小 教 堂 
+str_mp_minden_flag_8|紐 蘭 
+str_mp_minden_flag_9|芬 特 雷 爾 
+str_mp_oaksfield_flag_1|指 揮 部 1 
+str_mp_oaksfield_flag_2|指 揮 部 2 
+str_mp_oaksfield_flag_3|小 麥 農 場 
+str_mp_oaksfield_flag_4|市 井 
+str_mp_oaksfield_flag_5|橡 木 小 鎮 
+str_mp_quatre_bras_flag_1|皮 魯 山 
+str_mp_quatre_bras_flag_2|四 臂 村 
+str_mp_quatre_bras_flag_3|博 蘇 森 林 
+str_mp_quatre_bras_flag_4|小 皮 拉 蒙 
+str_mp_quatre_bras_flag_5|吉 蒙 特 
+str_mp_river_crossing_flag_1|陣 地 1 
+str_mp_river_crossing_flag_2|陣 地 2 
+str_mp_river_crossing_flag_3|馬 提 尼 斯 鎮 
+str_mp_roxburgh_flag_1|漁 市 
+str_mp_roxburgh_flag_2|河 畔 村 
+str_mp_roxburgh_flag_3|湖 濱 別 墅 
+str_mp_roxburgh_flag_4|梅 克 斯 村 
+str_mp_roxburgh_flag_5|米 德 爾 頓 鎮 
+str_mp_roxburgh_flag_6|神 龕 
+str_mp_roxburgh_flag_7|樵 夫 小 屋 
+str_mp_schemmerbach_flag_1|施 默 巴 赫 農 場 
+str_mp_schemmerbach_flag_2|施 默 巴 赫 橋 
+str_mp_schemmerbach_flag_3|渡 口 
+str_mp_schemmerbach_flag_4|大 麻 地 
+str_mp_slovenian_village_flag_1|到 斯 洛 文 尼 亞 村 的 路 
+str_mp_slovenian_village_flag_2|港 口 
+str_mp_slovenian_village_flag_3|斯 洛 文 尼 亞 村 
+str_mp_slovenian_village_flag_4|森 林 
+str_mp_slovenian_village_flag_5|河 
+str_mp_champs_elysees_flag_1|西 大 道 
+str_mp_champs_elysees_flag_2|東 大 道 
+str_mp_champs_elysees_flag_3|西 南 區 
+str_mp_champs_elysees_flag_4|東 南 區 
+str_mp_champs_elysees_flag_5|東 北 區 
+str_mp_champs_elysees_flag_6|北 西 區 
+str_mp_champs_elysees_flag_7|凱 旋 門 
+str_mp_fort_vincey_flag_1|惠 廷 頓 堡 
+str_mp_fort_vincey_flag_2|小 堡 壘 
+str_mp_fort_vincey_flag_3|高 級 堡 壘 
+str_mp_fort_vincey_flag_4|戰 壕 
+str_mp_fort_vincey_flag_5|大 堡 壘 
+str_mp_swamp_flag_1|營 地 
+str_mp_swamp_flag_2|錫 格 堡 
+str_mp_swamp_flag_3|橋 
+str_mp_swamp_flag_4|沼 澤 島 
+str_mp_swamp_flag_5|主 路 
+str_mp_swamp_flag_6|墓 地 
+str_mp_swamp_flag_7|漁 夫 住 房 
+str_mp_walloon_farm_flag_1|東 營 地 
+str_mp_walloon_farm_flag_2|西 營 地 
+str_mp_walloon_farm_flag_3|東 山 地 
+str_mp_walloon_farm_flag_4|農 場 
+str_mp_walloon_farm_flag_5|西 坡 地 
+str_mp_walloon_farm_flag_6|陣 地 
+str_scene_making_welcome_message|歡 迎 來 到 場 景 編 輯 模 式 ^你 可 以 在 這 裡 創 建 新 場 景 或 編 輯 已 有 場 景 ^^Prop 設 置 ： ^^# 天 氣 props ： ^spr mm 天 氣 時 間 # var1 = 時 刻 0-23 ； Default = 15 （ hours ） ^spr mm 天 氣 下 雨 # var1 = 下 雨 類 型 ； 1 = 雨 2 = 雪 ， var2 = 下 雨 數 量 0-25^spr mm 天 氣 雲 層 # var1 = 雲 層 數 量 0-100 ； 默 認 = 30^spr mm 天 氣 霧 # var1 = 霧 在 x 10 米 外 會 完 全 遮 擋 視 線 。 1-127^spr mm 天 氣 閃 電 # var1 = 閃 電 類 型 ： 0 = 無 1 = 隻 有 閃 電 2 = 閃 電 和 打 雷 ， ^ # var2 = 閃 電 頻 率 0-100 ； 值 越 高 閃 電 越 頻 繁 。 ^^# 門 props ： ^所 有 可 打 開 的 門 # var1 = 陣 營 所 有 權 ； 1 = Team1 可 以 打 開 ， 2 = Team2 可 以 打 開 ； 其 余 都 可 以 打 開 。 ^^# 大 炮 設 置 props ： ^spr mm 在 大 炮 處 重 生 # 如 果 加 入 則 地 圖 中 所 有 炮 兵 中 士 都 會 在 大 炮 處 重 生 。 ^
+str_tutorial_info_1|見 鬼 ！ 這 是 該 死 的 咖 啡 ！ 我 要 的 是 茶 ， 茶 ， 茶 ！ ！ ！ 在 那 邊 的 人 ！ 歡 迎 來 到 騎 馬 與 砍 殺 ： 拿 破 侖 戰 爭 教 程 ， 我 的 好 小 子 ！ ^ 現 在 ， 為 了 開 始 你 的 訓 練 ， 請 按 “ WASD” 鍵 進 行 移 動 並 走 到 箭 頭 標 志 的 位 置 。 你 可 以 使 用 滑 鼠 四 處 看 看 ， 這 樣 可 以 更 好 地 找 到 法 國 人 躲 在 哪 ！ 哇 咔 咔 咔 ！ 
+str_tutorial_info_2|看 見 在 你 面 前 這 件 英 國 工 業 的 威 武 作 品 了 嗎 ？ 把 滑 鼠 對 準 火 槍 並 按 “ F” 把 它 撿 起 來 ！ 
+str_tutorial_info_3|做 得 好 ！ 你 現 在 已 經 武 裝 起 來 了 ， 先 生 ！ 現 在 讓 我 們 來 對 你 前 面 的 目 標 造 成 一 些 傷 害 吧 。 ^按 住 滑 鼠 左 鍵 不 放 來 瞄 準 目 標 ， 移 動 滑 鼠 來 改 變 你 瞄 準 的 方 向 。 注 意 了 ， 你 的 火 槍 並 不 是 百 發 百 中 的 ， 甚 至 可 以 說 ， 它 會 偏 離 得 可 怕 。 哇 咔 咔 咔 ！ ^當 你 對 自 己 的 瞄 準 有 足 夠 信 心 時 ， 放 開 滑 鼠 左 鍵 來 發 射 ！ 
+str_tutorial_info_4|運 氣 不 好 ！ 好 像 你 沒 打 中 目 標 嘛 。 是 時 候 給 你 的 武 器 裝 彈 並 再 次 嘗 試 。 ^ 單 擊 滑 鼠 左 鍵 來 進 行 裝 彈 並 等 待 完 成 — — 那 需 要 幾 秒 鐘 ， 請 保 持 耐 性 。 但 記 住 ， 你 不 能 在 裝 彈 時 移 動 。 ^裝 彈 結 束 后 ， 再 對 你 的 目 標 來 一 發 吧 。 別 擔 心 你 又 打 不 中 ， 你 總 是 可 以 裝 彈 並 再 次 嘗 試 的 。 
+str_tutorial_info_5|幹 得 漂 亮 ！ 現 在 ， 如 果 樂 意 你 可 以 繼 續 練 習 ； ^ 當 你 覺 得 自 己 已 經 掌 握 射 擊 的 技 巧 時 ， 你 就 可 以 移 動 到 在 左 邊 箭 頭 所 指 的 下 一 區 域 。 
+str_tutorial_info_6|漂 亮 ！ 如 果 你 樂 意 ， 先 生 ， 你 可 以 裝 彈 並 再 次 射 擊 。 ^ 單 擊 滑 鼠 左 鍵 來 進 行 裝 彈 並 等 待 完 成 — — 那 需 要 幾 秒 鐘 ， 請 保 持 耐 性 。 但 記 住 ， 你 不 能 在 裝 彈 時 移 動 。 ^當 你 覺 得 自 己 已 經 掌 握 射 擊 的 技 巧 時 ， 你 就 可 以 移 動 到 在 左 邊 箭 頭 所 指 的 下 一 區 域 。 
+str_tutorial_info_7|在 戰 場 上 ， 有 時 候 必 須 單 槍 匹 馬 地 跟 法 國 佬 進 行 肉 搏 戰 ， 這 就 是 你 的 火 槍 上 會 配 有 刺 刀 的 緣 故 。 但 是 你 的 火 槍 還 處 於 “ 遠 程 模 式 ” ； 你 需 要 切 換 到 “ 近 戰 模 式 ” 。 切 換 兩 種 模 式 直 接 的 默 認 按 鍵 是 “ X” 。 現 在 請 按 下 去 吧 。 ^
+str_tutorial_info_8|做 得 好 。 你 現 在 已 處 於 近 戰 模 式 並 準 備 用 手 上 的 刺 刀 向 那 些 假 人 發 起 沖 鋒 。 但 是 在 你 這 麼 幹 之 前 ， 你 還 需 要 知 道 另 一 件 很 重 要 的 事 情 ！ 你 不 用 老 實 那 麼 站 著 ， 你 可 以 按 “ Z” 來 進 行 下 蹲 動 作 。 ^
+str_tutorial_info_9|很 棒 ！ 你 現 在 已 經 蹲 下 了 。 由 於 你 仍 處 於 近 戰 模 式 ， 你 可 以 看 見 刺 刀 被 支 起 來 了 ， 這 可 以 有 效 地 對 付 敵 人 騎 兵 的 沖 擊 。 按 “ Z” 或 隻 是 按 移 動 鍵 就 可 以 讓 你 的 角 色 恢 復 站 立 姿 態 ， 現 在 站 起 來 繼 續 吧 。 
+str_tutorial_info_10|接 下 來 的 項 目 是 攻 擊 與 防 御 。 按 住 滑 鼠 左 鍵 不 放 ， 並 移 動 滑 鼠 可 以 改 變 你 的 攻 擊 方 向 。 你 的 刺 刀 隻 有 兩 個 方 向 ： 上 或 下 。 其 他 武 器 可 能 會 有 不 同 的 攻 擊 方 向 。 比 如 劍 ， 會 有 四 個 攻 擊 方 向 ： 上 下 左 右 。 放 開 滑 鼠 左 鍵 來 進 行 攻 擊 。 防 御 也 差 不 多 一 個 意 思 ， 按 住 滑 鼠 右 鍵 ， 並 移 動 滑 鼠 可 以 改 變 格 擋 方 向 。 所 有 武 器 都 可 以 進 行 格 擋 ， 而 且 都 有 四 個 方 向 。 請 確 保 你 於 正 確 的 方 向 擋 住 對 手 的 攻 擊 ， 否 則 你 會 很 快 被 幹 掉 。 現 在 練 習 一 下 ， 用 你 的 刺 刀 把 這 裡 的 所 有 假 人 都 摧 毀 掉 吧 。 
+str_tutorial_info_11|幹 得 好 ！ 
+str_tutorial_info_12|現 在 你 已 經 完 全 掌 握 了 步 兵 戰 鬥 的 基 礎 要 領 ， 接 下 來 是 騎 兵 訓 練 。 你 得 到 了 一 些 相 當 上 乘 的 裝 備 和 一 匹 出 色 的 馬 。 走 近 並 對 準 馬 匹 ， 按 “ F” 上 馬 。 
+str_tutorial_info_13|那 麼 你 已 經 騎 上 去 了 ？ 不 錯 。 在 騎 乘 時 持 續 按 住 WASD來 移 動 ， 但 與 基 本 的 移 動 方 式 略 有 不 同 ： “ W” 是 加 速 ， “ S” 是 減 速 ， “ A” 和 “ D” 是 讓 你 的 馬 匹 轉 向 。 你 可 以 通 過 移 動 滑 鼠 來 四 處 觀 察 ， 但 這 樣 做 並 不 會 讓 馬 匹 轉 向 。 現 在 就 移 動 到 箭 頭 所 指 的 位 置 吧 。 
+str_tutorial_info_14|不 可 思 議 ！ 現 在 讓 你 的 馬 停 下 來 ， 該 是 時 候 試 試 馬 上 射 擊 了 。 看 見 了 遠 處 的 標 靶 了 嗎 ？ 在 馬 背 上 射 擊 與 在 地 上 射 擊 沒 什 麼 不 同 ， 因 此 利 用 你 已 經 學 會 的 技 巧 來 擊 中 其 中 一 個 目 標 吧 。 
+str_tutorial_info_15|太 不 走 運 了 ！ 你 打 偏 了 ！ 別 氣 餒 ， 你 可 以 裝 彈 並 重 試 ， 就 像 之 前 一 樣 。 但 記 住 ， 裝 彈 時 不 可 移 動 的 規 則 同 樣 適 用 於 馬 背 上 ， 裝 彈 完 畢 后 你 可 以 再 次 嘗 試 。 
+str_tutorial_info_16|你 辦 到 了 ！ 你 如 果 樂 意 的 話 可 以 繼 續 練 習 。 當 你 準 備 好 以 后 ， 我 們 將 會 去 嘗 試 馬 背 戰 鬥 的 樂 趣 ！ 你 需 要 向 上 滾 動 你 的 滑 鼠 輪 來 切 換 近 戰 武 器 ， 而 你 的 近 戰 武 器 是 一 把 劍 。 
+str_tutorial_info_17|太 棒 了 ！ 你 樂 意 的 話 可 以 繼 續 射 擊 。 但 記 住 ， 裝 彈 時 不 可 移 動 的 規 則 同 樣 適 用 於 馬 背 上 ^^當 你 準 備 好 以 后 ， 我 們 將 會 去 嘗 試 馬 背 戰 鬥 的 樂 趣 ！ 你 需 要 向 上 滾 動 你 的 滑 鼠 輪 來 切 換 近 戰 武 器 ， 而 你 的 近 戰 武 器 是 一 把 劍 。 
+str_tutorial_info_18|就 像 射 擊 ， 馬 背 格 鬥 也 跟 在 地 上 格 鬥 一 個 道 理 。 那 麼 就 一 路 策 馬 ， 一 路 把 假 人 擊 倒 吧 。 試 著 在 攻 擊 它 們 時 保 持 運 動 ， 因 為 靜 止 會 消 除 你 在 速 度 和 機 動 性 上 的 優 勢 。 如 果 你 算 好 時 機 出 擊 的 話 ， 那 個 可 憐 虫 會 連 自 己 是 怎 麼 死 的 都 不 知 道 。 
+str_tutorial_info_19|精 彩 ！ 你 已 經 掌 握 了 騎 兵 戰 鬥 中 最 重 要 的 部 分 。 
+str_tutorial_info_20|到 最 后 了 ！ 是 時 候 進 行 炮 兵 訓 練 了 。 走 進 加 農 炮 並 從 箱 子 裡 取 出 彈 藥 ， 有 三 種 主 要 的 炮 彈 ： 實 心 彈 由 一 組 鐵 球 組 成 ， 對 建 筑 物 有 奇 效 ； 霰 彈 會 釋 放 出 大 量 鐵 珠 ， 對 加 農 炮 前 的 敵 人 造 成 嚴 重 傷 害 ， 但 對 於 遠 距 離 目 標 相 當 無 力 ； 榴 彈 對 敵 人 部 隊 極 其 有 效 ， 因 為 它 會 向 四 面 八 方 炸 出 大 量 金 屬 碎 片 ， 但 榴 彈 並 不 適 用 於 標 準 的 加 農 炮 。 
+str_tutorial_info_21|請 對 準 加 農 炮 前 方 ， 當 你 看 見 “ 放 入 彈 藥 ” 時 ， 按 住 F把 彈 藥 塞 進 炮 管 直 到 動 作 完 成 。 
+str_tutorial_info_22|現 在 你 需 要 使 用 你 的 推 彈 杆 為 大 炮 上 膛 ， 與 上 一 步 一 樣 ， 按 住 F直 到 動 作 完 成 。 
+str_tutorial_info_23|在 你 發 射 之 前 ， 你 必 須 把 加 農 炮 往 前 推 到 開 炮 位 置 ， 按 住 F直 到 動 作 完 成 。 
+str_tutorial_info_24|最 后 ， 對 準 炮 管 后 方 ， 你 能 看 見 “ 控 制 大 炮 ” ， 按 住 F直 到 動 作 完 成 。 
+str_tutorial_info_25|現 在 你 可 以 隨 時 發 射 了 ！ 利 用 滑 鼠 進 行 瞄 準 ， 按 下 滑 鼠 左 鍵 發 射 大 炮 ， 按 下 滑 鼠 右 鍵 可 以 退 出 控 制 。 但 現 在 請 你 按 下 滑 鼠 左 鍵 ， 來 一 發 吧 ！ 
+str_tutorial_info_26|現 在 已 經 是 教 程 的 尾 聲 了 。 你 已 經 掌 握 了 所 有 在 騎 馬 與 砍 殺 ： 拿 破 侖 戰 爭 中 的 基 本 戰 鬥 技 能 ！ 當 你 準 備 好 以 后 ， 可 以 按 下 TAB鍵 離 開 教 程 了 。 先 生 ， 希 望 你 在 戰 場 上 走 運 吧 ！ 現 在 ， 解 散 ， 去 享 受 下 午 茶 和 鬆 脆 餅 吧 ！ 
+str_vienna_1|板 條 箱 清 除 ： {reg0}/{reg1}
+str_austerlitz_1_1|擊 敗 波 數 ： {reg0}/{reg1}
+str_dresden_1_1|擊 敗 攻 擊 者 次 數 ： {reg0}/{reg1}
+str_dresden_1_2|擊 敗 波 數 ： {reg0}/{reg1}
+str_dresden_2_1|方 陣 被 毀 ： {reg0}/{reg1}
+str_dresden_2_2|線 列 被 毀 ： {reg0}/{reg1}
+str_cutscene_vienna_1|多 瑙 河 ， 歐 洲 的 第 二 長 河 ， 將 奧 地 利 帝 國 分 為 兩 部 分 。 ^烏 爾 姆 會 戰 失 敗 后 ， 奧 地 利 軍 隊 從 流 經 維 也 納 的 多 瑙 河 過 河 撤 退 。 
+str_cutscene_vienna_2|然 而 法 軍 的 先 遣 部 隊 就 在 不 遠 的 后 方 ^其 他 所 有 的 橋 梁 都 被 破 壞 ， 所 以 通 過 維 也 納 對 法 軍 來 說 至 關 重 要 。 
+str_cutscene_vienna_3|倘 若 奧 地 利 軍 隊 發 現 法 軍 試 圖 過 橋 ， 他 們 就 會 炸 毀 此 橋 。 ^如 果 橋 梁 被 毀 ， 法 軍 將 不 能 繼 續 追 趕 撤 退 的 聯 軍 ， 烏 爾 姆 的 勝 利 也 將 變 得 毫 無 意 義 。 
+str_cutscene_vienna_4|因 此 法 國 將 軍 穆 拉 特 和 蘭 尼 斯 決 定 ； ^他 們 需 要 在 奧 地 利 軍 不 發 覺 的 情 況 下 過 橋 。 
+str_cutscene_vienna_5|為 了 計 劃 成 功 ， 他 們 決 定 部 署 一 個 詭 計 ： ^穆 拉 特 和 蘭 尼 斯 將 試 圖 使 奧 地 利 人 相 信 停 火 協 議 已 經 簽 署 。 
+str_cutscene_vienna_6|其 間 ， 你 必 須 悄 悄 的 清 理 橋 梁 以 便 法 軍 過 河 。 
+str_cutscene_austerlitz_1_1|你 到 達 了 索 科 爾 尼 茲 村 附 近 的 戰 場 ^偵 察 兵 報 告 俄 軍 已 經 佔 領 了 村 莊 ， 而 你 將 奪 回 它 。 
+str_cutscene_austerlitz_1_2|瞧 ！ 有 人 靠 近 了 ！ 
+str_cutscene_austerlitz_1_3|信 使 ： 俄 軍 已 經 佔 領 了 村 莊 ， 奪 回 他 對 你 來 說 至 關 重 要 ！ 
+str_cutscene_austerlitz_1_4|看 來 這 場 戰 鬥 比 我 們 想 象 的 更 近 。 ^好 吧 ， 從 俄 軍 手 上 奪 回 村 子 ！ 
+str_cutscene_austerlitz_1_5|村 子 回 到 了 法 軍 的 控 制 ， 幹 得 好 ！ ^但 是 俄 軍 已 經 派 出 士 兵 來 奪 回 它 ， 確 保 他 們 不 會 成 功 。 
+str_cutscene_austerlitz_1_6|援 軍 到 達 了 ！ 
+str_cutscene_austerlitz_1_7|你 在 敵 軍 的 攻 擊 下 成 功 的 保 衛 了 村 莊 。 ^這 對 我 們 通 往 勝 利 的 有 重 大 的 幫 助 ！ 
+str_cutscene_austerlitz_1_8|另 一 個 信 使 ！ 
+str_cutscene_austerlitz_1_9|信 使 ： 將 軍 已 經 聽 說 了 你 佔 領 和 保 衛 村 莊 的 重 大 勝 利 ^你 最 好 去 親 自 告 訴 皇 帝 陛 下 這 些 好 消 息 ！ 
+str_cutscene_dresden_1_1|德 累 斯 頓 城 ， 薩 克 森 的 首 府 。 ^該 城 遭 到 了 聯 軍 的 猛 烈 進 攻 ， 你 需 要 援 助 並 守 衛 它 。 
+str_cutscene_dresden_1_2|俄 軍 已 經 佔 領 了 城 牆 而 且 大 量 的 俄 軍 正 在 準 備 攻 擊 城 門 。 ^你 的 任 務 就 是 ： 當 你 的 友 軍 去 守 城 門 時 ， 肅 清 城 牆 。 
+str_cutscene_dresden_1_3|城 牆 暫 時 安 全 了 ， 但 城 市 的 威 脅 還 沒 有 解 除 。 ^你 城 門 處 的 友 軍 守 不 了 多 久 ， 你 需 要 支 援 他 們 ！ 
+str_cutscene_dresden_1_4|第 一 波 進 攻 已 經 打 退 了 ， 但 敵 人 正 在 派 更 多 的 人 來 攻 擊 。 ^你 不 能 讓 他 們 再 次 通 過 城 門 ！ 
+str_cutscene_dresden_1_5|俄 軍 的 攻 擊 線 越 來 越 薄 弱 了 ， 城 牆 上 的 壓 力 也 減 少 了 。 ^將 軍 分 派 了 一 些 人 來 支 援 你 。 
+str_cutscene_dresden_1_6|攻 擊 停 下 來 了 ， 而 且 敵 人 陷 入 了 混 亂 。 ^利 用 這 個 機 會 出 擊 ， 將 敵 人 趕 出 這 個 城 市 ！ 
+str_cutscene_dresden_2_1|雖 然 城 市 的 防 御 成 功 了 ， 但 郊 外 的 農 場 和 村 莊 仍 然 在 敵 人 的 手 中 ^你 的 命 令 就 是 從 奧 地 利 軍 隊 中 解 放 這 些 村 莊 。 
+str_cutscene_dresden_2_2|但 要 做 到 這 一 點 ， 你 必 須 首 先 肅 清 在 開 闊 地 帶 的 奧 地 利 軍 。 ^探 子 報 告 在 你 的 前 方 有 一 支 四 個 連 隊 組 成 的 敵 軍 。 
+str_cutscene_dresden_2_3|很 不 幸 他 們 已 經 發 現 了 你 的 龍 騎 兵 ， 組 成 了 方 陣 準 備 迎 戰 。 ^但 你 不 得 不 戰 ， 即 使 你 的 步 兵 和 炮 兵 還 在 遠 遠 的 后 方 ， 且 不 能 支 援 你 。 
+str_cutscene_dresden_2_4|但 是 看 起 來 奧 地 利 軍 的 指 揮 官 離 他 的 軍 隊 太 遠 有 點 過 分 的 冒 險 ！ ^如 果 你 能 抓 住 他 ， 他 的 手 下 或 許 就 會 喪 失 鬥 志 ， 那 樣 戰 鬥 就 會 輕 鬆 多 了 … … 
+str_cutscene_dresden_2_5|方 陣 被 擊 敗 了 ， 但 是 敵 人 仍 然 控 制 著 村 莊 。 ^是 時 候 攻 佔 它 了 。 
+str_cutscene_dresden_2_6|真 幸 運 ！ 更 多 的 騎 兵 前 來 支 持 你 。 ^好 好 的 指 揮 他 們 ， 勝 利 將 會 屬 於 我 們 。 前 進 ！ 
+str_mission_briefing_1|1805年 12月 1日 ^暫 時 的 休 整 很 不 錯 ， 但 現 在 我 們 將 會 再 次 出 征 。 贊 美 上 帝 ， 這 將 是 我 們 最 后 努 力 ！ ^據 說 我 們 將 會 直 接 進 入 戰 場 。 ^^我 們 在 維 也 納 市 郊 的 時 光 無 疑 是 最 美 好 的 幾 天 。 這 是 個 富 裕 的 村 莊 ^有 寬 敞 乾 淨 的 房 間 和 美 妙 的 酒 食 --當 然 ， 還 有 都 來 幫 助 我 們 的 漂 亮 姑 娘 們 。 ^這 讓 我 們 恢 復 了 精 力 。 ^在 惡 劣 的 天 氣 下 無 止 盡 的 行 軍 ， 讓 我 們 已 經 動 搖 了 。 追 趕 撤 退 的 聯 軍 ^使 我 們 精 疲 力 盡 。 暫 時 遺 忘 一 切 很 好 。 ^^但 我 們 安 寧 的 休 整 戛 然 而 止 ； 我 們 接 到 命 令 ^盡 可 能 快 的 重 新 加 入 大 軍 ， 所 以 現 在 我 們 再 次 瘋 狂 的 向 戰 場 行 軍 。 通 過 急 行 軍 ， ^我 們 幾 乎 將 大 半 軍 團 拋 在 了 后 方 ， 但 是 弗 里 安 特 將 軍 決 定 要 準 時 到 達 戰 場 ， ^而 且 將 不 會 停 歇 等 待 援 軍 加 入 我 們 。 ^^聯 軍 說 他 們 的 軍 隊 人 數 遠 遠 超 過 我 們 ， 特 別 是 騎 兵 。 看 來 ^戰 爭 將 是 防 御 性 的 ， 但 情 況 仍 不 清 楚 。 一 個 從 皇 帝 陛 下 那 兒 來 的 信 使 ^在 經 過 我 們 縱 隊 時 通 知 我 們 ， 我 們 的 后 衛 部 隊 被 迫 后 退 到 ^維 紹 市 附 近 ， 並 往 奧 斯 特 里 茨 方 向 撤 退 。 ^^我 不 敢 說 會 如 何 ， 但 接 下 來 的 將 要 進 行 的 戰 鬥 讓 我 心 裡 充 滿 了 恐 懼 。 好 吧 ， 我 得 說 上 次 的 馬 倫 戈 戰 役 是 我 參 加 過 的 最 大 的 一 場 戰 役 ， ^這 幾 乎 是 5年 前 的 事 了 。 我 依 然 記 得 ^那 天 我 看 見 的 可 怕 場 景 ； 想 到 它 就 使 我 全 身 打 顫 ^幸 運 的 是 ， 到 目 前 為 止 ， 我 已 經 能 夠 隱 藏 我 的 感 受 ； ^我 們 的 人 鄙 視 懦 弱 ， 並 把 它 當 做 叛 國 。 
+str_mission_briefing_2|1805年 12月 1日 ^暫 時 的 休 整 很 不 錯 ， 但 現 在 我 們 將 會 再 次 出 征 。 贊 美 上 帝 ， 這 將 是 我 們 最 后 努 力 ！ ^據 說 我 們 將 會 直 接 進 入 戰 場 。 ^^我 們 在 維 也 納 市 郊 的 時 光 無 疑 是 最 美 好 的 幾 天 。 這 是 個 富 裕 的 村 莊 ^有 寬 敞 乾 淨 的 房 間 和 美 妙 的 酒 食 --當 然 ， 還 有 都 來 幫 助 我 們 的 漂 亮 姑 娘 們 。 ^這 讓 我 們 恢 復 了 精 力 。 ^在 惡 劣 的 天 氣 下 無 止 盡 的 行 軍 ， 讓 我 們 已 經 動 搖 了 。 追 趕 撤 退 的 聯 軍 ^使 我 們 精 疲 力 盡 。 暫 時 遺 忘 一 切 很 好 。 ^^但 我 們 安 寧 的 休 整 戛 然 而 止 ； 我 們 接 到 命 令 ^盡 可 能 快 的 重 新 加 入 大 軍 ， 所 以 現 在 我 們 再 次 瘋 狂 的 向 戰 場 行 軍 。 通 過 急 行 軍 ， ^我 們 幾 乎 將 大 半 軍 團 拋 在 了 后 方 ， 但 是 弗 里 安 特 將 軍 決 定 要 準 時 到 達 戰 場 ， ^而 且 將 不 會 停 歇 等 待 援 軍 加 入 我 們 。 ^^聯 軍 說 他 們 的 軍 隊 人 數 遠 遠 超 過 我 們 ， 特 別 是 騎 兵 。 看 來 ^戰 爭 將 是 防 御 性 的 ， 但 情 況 仍 不 清 楚 。 一 個 從 皇 帝 陛 下 那 兒 來 的 信 使 ^在 經 過 我 們 縱 隊 時 通 知 我 們 ， 我 們 的 后 衛 部 隊 被 迫 后 退 到 ^維 紹 市 附 近 ， 並 往 奧 斯 特 里 茨 方 向 撤 退 。 ^^我 不 敢 說 會 如 何 ， 但 接 下 來 的 將 要 進 行 的 戰 鬥 讓 我 心 裡 充 滿 了 恐 懼 。 好 吧 ， 我 得 說 上 次 的 馬 倫 戈 戰 役 是 我 參 加 過 的 最 大 的 一 場 戰 役 ， ^這 幾 乎 是 5年 前 的 事 了 。 我 依 然 記 得 ^那 天 我 看 見 的 可 怕 場 景 ； 想 到 它 就 使 我 全 身 打 顫 ^幸 運 的 是 ， 到 目 前 為 止 ， 我 已 經 能 夠 隱 藏 我 的 感 受 ； ^我 們 的 人 鄙 視 懦 弱 ， 並 把 它 當 做 叛 國 。 
+str_mission_briefing_3|1813年 8月 26日 ， ^我 們 準 備 向 德 雷 斯 頓 行 軍 ， 那 裡 的 一 小 支 駐 守 部 隊 ^已 經 被 聯 軍 以 絕 對 優 勢 的 兵 力 包 圍 。 炮 火 是 如 此 的 強 大 以 至 於 10公 裡 外 的 窗 玻 璃 都 在 震 動 。 ^^我 們 最 初 的 計 劃 是 襲 擊 並 破 壞 盟 軍 的 訊 息 交 流 。 ^但 是 在 得 知 撒 克 遜 首 府 受 到 威 脅 后 ， 皇 帝 於 兩 日 前 更 改 了 計 劃 。 ^當 他 發 覺 到 這 次 威 脅 的 程 度 之 后 ， 他 派 我 們 來 守 衛 這 座 城 市 。 ^而 他 和 范 達 梅 將 軍 指 揮 大 部 隊 繼 續 襲 擊 的 原 計 劃 。 ^不 出 意 外 的 話 ， 聯 軍 會 繼 續 他 們 攻 佔 德 雷 斯 頓 的 企 圖 ， ^ 德 雷 斯 頓 的 防 御 很 糟 糕 ， 人 員 也 不 足 。 但 拿 破 侖 打 算 讓 聯 軍 吃 個 苦 頭 ， ^^因 為 聯 軍 沒 有 偵 查 我 們 接 近 的 區 域 。 我 們 擁 有 強 大 的 軍 隊 以 及 許 多 由 穆 拉 特 公 爵 親 自 率 領 的 騎 兵 。 ^遺 憾 的 是 ， 天 氣 看 起 來 會 變 得 越 來 越 糟 ， 很 可 能 會 在 我 們 抵 達 德 雷 斯 頓 的 時 候 下 起 雨 來 。 ^在 這 種 情 況 下 ， 騎 兵 能 提 供 給 我 們 的 幫 助 會 顯 著 降 低 。 ^^但 就 我 而 言 ， 我 期 待 這 場 戰 鬥 。 我 們 終 於 可 以 為 這 6個 月 以 來 所 遭 受 的 向 俄 國 人 復 仇 了 。 ^我 試 著 忘 記 在 莫 斯 科 到 貝 爾 齊 納 河 的 路 上 所 目 睹 的 悲 慘 景 象 ， ^這 些 噩 夢 般 的 景 象 仍 然 在 我 腦 海 中 環 繞 。 ^這 些 噩 夢 或 許 會 纏 著 我 直 到 我 生 命 的 最 后 一 天 。 ^我 們 必 須 贏 得 這 次 戰 鬥 ， 以 及 這 場 戰 爭 ， 我 們 的 同 志 們 不 能 就 這 樣 白 白 死 去 。 
+str_mission_briefing_4|1812年 9月 5日 ， ^^我 逐 漸 厭 倦 了 這 場 戰 爭 。 行 軍 之 苦 尚 可 忍 受 ， 但 過 去 這 幾 天 變 得 非 常 難 熬 ， ^我 直 到 現 在 才 從 疾 病 中 恢 復 過 來 。 突 襲 和 這 氣 候 都 太 可 怕 了 ！ ^炎 熱 的 白 天 ， 寒 冷 的 夜 晚 ， 乾 燥 的 空 氣 。 再 也 看 不 到 任 何 俄 國 農 夫 。 他 們 燒 毀 了 他 們 的 房 屋 田 園 后 逃 走 ， ^隻 留 下 一 點 點 東 西 來 支 撐 著 我 們 向 莫 斯 科 長 途 跋 涉 。 ^^我 們 的 人 都 變 得 厭 倦 起 來 。 很 長 一 段 時 間 后 ， 他 們 追 到 了 潰 逃 的 敵 人 ， ^他 們 為 此 感 到 高 興 ， 因 為 這 種 跋 涉 總 算 要 結 束 了 。 他 們 很 樂 意 迎 接 即 將 到 來 的 戰 鬥 。 ^我 們 稱 俄 羅 斯 人 為 懦 夫 ， 心 裡 想 象 著 一 次 乾 淨 利 落 的 勝 利 ， 這 樣 我 們 就 可 以 回 到 我 們 所 愛 的 人 的 懷 裡 。 ^我 們 的 士 兵 甚 至 請 求 在 戰 鬥 中 穿 上 閱 兵 用 的 禮 服 。 我 們 美 好 的 願 望 和 行 軍 帶 來 的 疲 倦 蒙 蔽 了 我 們 的 雙 眼 ： ^我 們 沒 能 發 現 最 嚴 峻 的 挑 戰 已 經 來 臨 。 ^^與 此 同 時 ， 俄 國 士 兵 們 停 止 了 撤 退 ， 並 為 了 最 后 的 決 戰 挖 起 了 工 事 。 ^^他 們 在 謝 伐 底 諾 建 了 一 座 巨 大 防 御 陣 地 。 它 遠 離 自 己 的 后 方 陣 地 ， ^這 使 得 它 成 為 一 個 很 好 的 目 標 。 馬 歇 爾 · 達 武 已 經 收 到 盡 快 佔 領 那 座 堡 壘 的 命 令 。 ^在 這 次 戰 鬥 中 ， 我 將 加 入 康 龐 將 軍 的 部 隊 以 確 保 一 切 都 按 計 劃 進 行 。 ^^但 我 非 常 謹 慎 因 為 我 以 前 從 未 見 過 這 種 防 御 工 事 ！ 我 現 在 覺 得 這 些 俄 羅 斯 人 並 不 是 懦 夫 ， ^他 們 不 會 再 繼 續 撤 退 ， 而 是 準 備 與 這 扑 向 莫 斯 科 的 死 亡 氣 息 奮 戰 。 
+str_mission_briefings_end|任 務 簡 報 結 束 。 
+str_map_changed|地 圖 開 始 。 
+str_round_changed|回 合 結 束 。 
+str_teamkilled_s1_s2_horse|{s1}誤 殺 {s2}的 馬 。 
+str_teamwounded_s1_s2|{s1}誤 傷 {s2} {reg60}點 傷 害 。 
+str_teamwounded_s1_s2_horse|{s1}誤 傷 {s2}的 馬 {reg60}點 傷 害 。 
+str_revive_player|復 活 玩 家 
+str_revive_all|復 活 所 有 人 
+str_revive_player_s2_s3|{s2}復 活 了 玩 家 {s3}。 
+str_revive_all_s2|{s2}復 活 了 所 有 人 。 
+str_cheat_god_mode|無 敵 模 式 
+str_cheat_god_mode_s3_s2|{s2}給 {s3}開 啟 了 無 敵 模 式 。 
+str_cheat_god_mode_s3_s2_2|{s2}關 閉 了 {s3}的 無 敵 模 式 。 
+str_suicide_player|自 殺 
+str_s2_suicide|{s2}自 殺 了 。 
+str_admin_set_limit_surgeon_s0_reg1|{s0}將 軍 醫 比 率 設 置 為 隊 伍 的 {reg1}%。 
+str_limit_surgeon|每 隊 軍 醫 最 大 數 量 百 分 比 (%)： 
+str_admin_set_limit_arty_train_s0_reg1|{s0}將 炮 兵 輜 重 比 率 設 置 為 隊 伍 的 {reg1}%。 
+str_limit_arty_train|每 隊 炮 兵 輜 重 最 大 數 量 百 分 比 (%)： 
+str_admin_set_groupfight_mode_s0_s9|{s0}將 團 隊 戰 鬥 模 式 設 置 為 {s9}。 
+str_groupfight_mode|團 隊 近 戰 模 式 
+str_admin_set_competitive_score_mode_s0_s9|{s0}將 競 技 積 分 模 式 設 置 為 {s9}。 
+str_competitive_score_mode|競 技 積 分 模 式 
+str_more_admin_tools|更 多 管 理 員 工 具 
+str_choose_an_admin_tool|選 擇 一 個 管 理 員 工 具 
+str_spawn_player|重 生 玩 家 
+str_spawn_all|重 生 所 有 人 
+str_spawn_all_s2|{s2}重 生 了 所 有 人 。 
+str_spawn_player_s2_s3|{s2}重 生 了 玩 家 {s3}。 
+str_welcome_message_toggle|歡 迎 信 息 被 設 置 成 {s9}。 
+str_commit_suicide|你 確 定 要 自 殺 嗎 ？ 
+str_no_line_inf_spread|禁 用 線 列 步 兵 散 開 靠 攏 
+str_admin_set_no_line_inf_spread_s0_s9|{s0}將 禁 用 線 列 步 兵 散 開 靠 攏 設 置 為 {s9}。 
+str_line_inf_spread|當 前 伺 服 器 禁 用 線 列 步 兵 散 開 靠 攏 。 提 示 ！ 改 變 行 數 來 使 士 兵 散 開 靠 攏 。 
+str_num_custom_maps|選 擇 自 定 義 地 圖 的 數 量 : 
+str_admin_set_num_custom_maps_s0_reg1|{s0}將 自 定 義 地 圖 的 數 量 設 置 為 {reg1}。 
+str_no_rambo|禁 止 玩 家 單 兵 作 戰 
+str_no_rambo_warning|你 距 離 你 的 小 隊 太 遠 了 ！ 你 將 無 法 對 敵 軍 造 成 傷 害 。 
+str_admin_set_no_rambo_s0_s9|{s0}將 禁 止 玩 家 單 兵 作 戰 設 置 為 {s9}。 
+str_no_rambo_range|和 小 隊 最 大 距 離 限 制 （ 米 ） （ 非 單 兵 作 戰 ）： 
+str_admin_set_no_rambo_range_s0_reg1|{s0}將 小 隊 最 大 距 離 限 制 設 置 為 {reg1}米 （ 非 單 兵 作 戰 ） 。
+str_set_admin_true_s2|管 理 員 白 名 單 將 {s2}設 置 為 管 理 員 。 
+str_set_admin_false_s2|管 理 員 白 名 單 已 取 消 {s2}的 管 理 員 身 份 。  
+str_return_set_admin_true_s2|{s2}， 管 理 員 白 名 單 將 你 設 置 為 管 理 員 。
+str_return_set_admin_false_s2|{s2}， 管 理 員 白 名 單 已 取 消 你 的 管 理 員 身 份 。 
+str_admin_white_list_is_enabled|管 理 員 白 名 單 已 啟 用 。 
+str_admin_white_list_is_disabled|管 理 員 白 名 單 已 禁 用 。
+str_admin_white_list_added_key_reg0|添 加 ID： {reg0}到 管 理 員 白 名 單 。 
+str_healed_player_s2_reg4_reg5|給 玩 家 {s2}恢 復 了 {reg4}%的 生 命 值 ， 當 前 生 命 值 ： {reg5}%。 
+str_healed_player_full_s2_reg4|給 玩 家 {s2}恢 復 了 {reg4}%的 生 命 值 ， 他 已 痊 愈 。 
+str_healed_player_no_more_s2_reg4|給 玩 家 {s2}恢 復 了 {reg4}%的 生 命 值 ， 無 法 進 一 步 醫 治 了 。 
+str_not_healed_player_full_s2|玩 家 {s2}已 痊 愈 。 
+str_not_healed_player_no_more_s2|玩 家 {s2}無 法 被 進 一 步 醫 治 了 。 
+str_got_healed_player_s2_reg4_reg5|玩 家 {s2}給 你 恢 復 了 {reg4}%的 生 命 值 ， 當 前 生 命 值 ： {reg5}%。 
+str_got_healed_player_full_s2_reg4|玩 家{s2}給 你 恢 復 了 {reg4}%的 生 命 值 ， 你 已 痊 愈 。 
+str_got_healed_player_no_more_s2_reg4|玩 家{s2}給 你 恢 復 了 {reg4}%的 生 命 值 ， 你 無 法 被 進 一 步 醫 治 了 。 
+str_not_got_healed_player_full_s2|玩 家 {s2}無 法 醫 治 你 ，你 已 痊 愈 。 
+str_not_got_healed_player_no_more_s2|玩 家 {s2}無 法 醫 治 你 ， 你 無 法 被 進 一 步 醫 治 了 。 
+str_healed_player_horse_s2_reg4_reg5|給 玩 家 {s2}的 馬 恢 復 了 {reg4}%的 生 命 值 ， 當 前 生 命 值 ： {reg5}%。 
+str_healed_player_horse_full_s2_reg4|給 玩 家 {s2}的 馬 恢 復 了 {reg4}%的 生 命 值 ， 它 已 痊 愈 。 
+str_healed_player_horse_no_more_s2_reg4|給 玩 家 {s2}的 馬 恢 復 了 {reg4}%的 生 命 值 ， 它 無 法 被 進 一 步 醫 治 了 。 
+str_not_healed_player_horse_full_s2|玩 家 {s2}的 馬 已 痊 愈 。
+str_not_healed_player_horse_no_more_s2|玩 家 {s2}的 馬 無 法 被 進 一 步 醫 治 了 。 
+str_got_healed_player_horse_s2_reg4_reg5|玩 家 {s2}給 你 的 馬 恢 復 了 {reg4}%的 生 命 值 ， 當 前 生 命 值 ： {reg5}%。 
+str_got_healed_player_horse_full_s2_reg4|玩 家 {s2}給 你 的 馬 恢 復 了 {reg4}%的 生 命 值 ， 它 已 痊 愈 。 
+str_got_healed_player_horse_no_more_s2_reg4|玩 家 {s2}給 你 的 馬 恢 復 了 {reg4}%的 生 命 值 ， 它 無 法 被 進 一 步 醫 治 了 。 
+str_not_got_healed_player_horse_full_s2|玩 家 {s2}無 法 醫 治 你 的 馬 ， 它 已 痊 愈 。 
+str_not_got_healed_player_horse_no_more_s2|玩 家 {s2}無 法 醫 治 你 的 馬 ， 它 無 法 被 進 一 步 醫 治 了 。
+str_healed_horse_s2_reg4_reg5|給 {s2}馬 恢 復 了 {reg4}%的 生 命 值 ， 當 前 生 命 值 ： {reg5}%。 
+str_healed_horse_full_s2_reg4|給 {s2}馬 恢 復 了 {reg4}%的 生 命 值 ， 它 已 痊 愈 。 
+str_healed_horse_no_more_s2_reg4|給 {s2}馬 恢 復 了 {reg4}%的 生 命 值 ， 它 無 法 被 進 一 步 醫 治 了 。 
+str_not_healed_horse_full_s2|玩 家 {s2}的 馬 已 痊 愈 。 
+str_not_healed_horse_no_more_s2|玩 家 {s2}的 馬 無 法 被 進 一 步 醫 治 了 。 
+str_royale_weapon_musket|裝 備 火 槍 
+str_royale_weapon_pistol|裝 備 手 槍 
+str_royale_weapon_carabine|裝 備 卡 賓 槍 
+str_royale_weapon_smallsword|裝 備 短 劍 
+str_royale_weapon_bigsword|裝 備 劍 
+str_royale_weapon_bottle|裝 備 瓶 子 
+str_royale_weapon_axe|裝 備 斧 頭 
+str_royale_weapon_spear|裝 備 長 杆 武 器 
+str_royale_weapon_club|裝 備 木 棍 
+str_royale_weapon_tool|裝 備 工 具 
+str_royale_weapon_ramrod|裝 備 推 彈 杆 
+str_royale_weapon_lighter|裝 備 大 炮 點 火 器 
+str_royale_weapon_ammo|裝 備 彈 藥 
+str_royale_weapon_ammo_pistol|裝 備 手 槍 彈 藥 
+str_royale_weapon_ammo_musket|裝 備 火 槍 彈 藥 
+str_welcome_message_server|歡 迎 ， {s3}， 你 的 用 戶 ID是 {reg44}。 請 遵 守 規 則 ， 玩 得 愉 快 ！ 

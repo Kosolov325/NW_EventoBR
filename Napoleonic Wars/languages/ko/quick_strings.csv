@@ -1,0 +1,130 @@
+﻿qstr_Careful...|주의...
+qstr_{reg3}|{reg3}
+qstr_0|0
+qstr__{s5}__{s6}_|({s5}, {s6})
+qstr___{reg43}__|( {reg43} )
+qstr_Action|행동
+qstr_Mount|말에 탐
+qstr_Attack_Type|공격 방식
+qstr_Stand_Ground|현 위치 고정
+qstr_Charge|돌격
+qstr_Follow_Me|나를 따르라
+qstr_Hold_This_Position|현 위치 사수
+qstr_Spread_Out|산개
+qstr_Stand_Closer|밀착
+qstr_Fall_Back|후퇴
+qstr_Advance|전진
+qstr_Dismount|말에서 내림
+qstr_Fire_At_Will|자유 사격
+qstr_Hold_Your_Fire|사격 중지
+qstr_Use_Blunt_Weapons|둔기 사용
+qstr_Use_Any_Weapon|임의 무기 사용
+qstr_Ready|준비
+qstr_Wounded|부상
+qstr_Dead|사망
+qstr_F4___Movement_Orders|F4 - 이동 명령^F5 - 대형 명령^F6 - 사격 명령
+qstr_F4___Hold_this_posit|F4 - 현 위치 사수^F5 - 나를 따르라^F6 - 돌격^F7 - 전진^F8 - 정지^F9 - 후퇴^F10 - 퇴각^F11 - 걸어서 이동^F12 - 구보로 이동
+qstr_F4___Form_line^F5___|F4 - 횡대로 정렬^F5 - 종대로 정렬^F6 - 방진 구성^F7 - 산개 대형으로^F8 - 좌로 대열 회전^F9 - 우로 대열 회전^F10 - 방향 전환
+qstr_F4___Hold_fire^F5___|F4 - 사격 중지^F5 - 자유 사격^F6 - 일제 사격^F7 - 특정 목표에 사격^F8 - 임의 목표에 사격
+qstr_0000|00, 00
+qstr_Vienna|빈
+qstr_Austerlitz|아우스터리츠
+qstr_Drezden|드레스덴
+qstr_Quit|종료
+qstr_Go_to_the_Camp|캠프로 이동
+qstr_Continue_Campaign|캠페인 계속하기
+qstr_{reg21}{reg22}|{reg21}, {reg22}
+qstr_Back|뒤로
+qstr_Visit_the_camp|캠프 방문
+qstr_Companions|동료
+qstr_Merchants|상점
+qstr_Skip|생략
+qstr_Available_companions|동행 가능 동료
+qstr_Selected_companions|선택된 동료
+qstr_Start_Mission|미션 시작
+qstr_Choose_a_companion|동료 선택
+qstr_Battle_Results|전투 결과
+qstr_Count|숫자
+qstr_Money|돈
+qstr_Enemies_killed:|사살한 적군 수:
+qstr_{reg1}|{reg1}
+qstr_Personal_kills:|본인이 사살한 횟수:
+qstr_Allies_lost:|동맹군 손실:
+qstr__{reg1}|-{reg1}
+qstr_Companions_lost:|잃은 동료:
+qstr_Totals:|총합:
+qstr_Retry|재시도
+qstr_Done|완료
+qstr_Open_ze_Treasure|보물상자 열기
+qstr_View_Caimpaign_Map|캠페인 지도 보기
+qstr_Use|사용
+qstr_Use_Prop|도구 사용
+qstr_Unknown_command_issu|알 수 없는 명령어가 사용됨!
+qstr_{s7}_opened_the_gate|{s7} 에 의해 게이트가 열림
+qstr_{s7}_closed_the_gate|{s7} 에 의해 게이트가 닫힘
+qstr_Centre_Inf|중앙 보병
+qstr_Lflank_Inf|좌측면 보병
+qstr_Rflank_Inf|우측면 보병
+qstr_Centre_Cav|중앙 기병
+qstr_Lflank_Cav|좌측면 기병
+qstr_Rflank_Cav|우측면 기병
+qstr_Holding|사수 중
+qstr_Following|따라가는 중
+qstr_Charging|돌격 중
+qstr_Advancing|전진 중
+qstr_Falling_Back|후퇴 중
+qstr_Standing_Closer|간격 좁히는 중
+qstr_Spreading_Out|간격 벌리는 중
+qstr_Standing|대기 중
+qstr_N/A|해당 사항 없음
+qstr_Free|하달된 명령 없음
+qstr_Any_Weapon|임의 무기
+qstr_Blunt_Weapons|둔기
+qstr_[SERVER]:_{s4}|[SERVER]: {s4}
+qstr_vFloraWindStrength|vFloraWindStrength
+qstr_vWaterWindStrength|vWaterWindStrength
+qstr_THISISAPLACEHOLDERST|THISISAPLACEHOLDERSTRING
+qstr_{s32}_hold_this_posi|{s32}, 현 위치 사수!
+qstr_{s32}_follow_me!|{s32}, 나를 따르라!
+qstr_{s32}_charge!|{s32}, 돌격!
+qstr_{s32}_advance!|{s32}, 전진!
+qstr_{s32}_halt!|{s32}, 정지!
+qstr_{s32}_fall_back!|{s32}, 뒤로 물러서!
+qstr_{s32}_retreat!|{s32}, 퇴각!
+qstr_{s32}_slow_pace!|{s32}, 걸어서 이동!
+qstr_{s32}_quick_pace!|{s32}, 구보로 이동!
+qstr_{s32}_form_line!|{s32}, 횡대로 정렬!
+qstr_{s32}_form_column!|{s32}, 종대로 정렬!
+qstr_{s32}_form_square!|{s32}, 방진!
+qstr_{s32}_skirmish_order|{s32}, 척후 대형으로!
+qstr_{s32}_wheel_left!|{s32}, 대열 좌로 회전!
+qstr_{s32}_wheel_right!|{s32}, 대열 우로 회전!
+qstr_{s32}_adjust_formati|{s32}, 대열 좌우로 졍렬!
+qstr_Leave?|떠나시겠습니까?
+qstr_SERVER|서버
+qstr_Clear_the_bridge_of_|사령관이 협상하는 동안 다리에 위치한 화약 상자들을 제거하십시오.^경비병에게 발각되지 않도록 주의해야 합니다.
+qstr_The_bridge_has_been_|다리는 이제 안전합니다, 훌륭합니다!^이제 협상이 끝날 때까지 오스트리아군 쪽 강가에서 기다리십시오.
+qstr_You_ve_been_discover|당신은 적군에게 발각되었습니다! 경비병이 경보를 울리기 전에 그를 서둘러 사살하십시오!
+qstr_Lannes:__..._Yes_tha|"란: '... 그렇소"",휴전 협정은 이미 조인된 상태요,""이로서 전쟁은 끝난 것이오.'"
+qstr_Austrian_Officer:__U|오스트리아 장교: '이... 이봐! 저게 뭐야? 다리 위에 있던 화약 상자들이 사라졌잖아! 누군가 우릴 속인거야! 공격 개시!'
+qstr_French_Soldier:__Loo|"프랑스 병사: '이봐"",저기서 전투가 벌어지고 있어! 전우들을 도와줘야 해,""어서 다리를 건너자고!'"
+qstr_Artillery_Captain:__|포병장교: '프랑스군이 다리를 건너려 한다, 대포 위치로!'
+qstr_Prevent_the_Austrian|도하 중인 프랑스군에게 사격하는 오스트리아군을 저지하십시오
+qstr_The_Austrians_are_la|오스트리아군이 반격에 나서고 있습니다!
+qstr_Fight_back_the_Austr|오스트리아군의 반격을 격퇴하십시오!
+qstr_The_brigde_is_now_un|이제 다리는 프랑스군이 차지했습니다. 잘 하셨습니다!
+qstr_Capture_the_village_|러시아군으로부터 소콜니체 마을을 탈환하십시오!
+qstr_You_have_captured_th|마을을 점령했습니다, 훌륭합니다!
+qstr_Capture_the_village_o|러시아군으로부터 소콜니체 마을을 탈환하십시오
+qstr_Hold_the_village_at_|러시아군의 반격으로부터 마을을 무슨 수를 써서라도 사수하십시오.
+qstr_Go_to_meet_the_Emper|황제를 만나러 간다
+qstr_Recapture_the_city_w|러시아군으로부터 도시 성벽을 재탈환하십시오.
+qstr_Help_your_allies_dri|동맹군을 도와 러시아군을 격퇴하십시오.
+qstr_Defend_the_gate_agai|러시아군의 공격으로부터 성문을 사수하십시오.
+qstr_Sally_out_and_rout_t|밖으로 나가서 러시아군 잔존 병력을 소탕하십시오.
+qstr_The_assault_has_been|적의 공격을 격퇴했다! 프랑스 만세!
+qstr_Catch_the_Austrian_c|오스트리아 지휘관이 적 방진에 도달하기 전에 그를 사로잡으십시오!
+qstr_Break_the_Austrian_s|오스트리아 방진을 공격하여 섬멸하거나 패주시키시오.
+qstr_Attack_the_lines_gua|마을을 사수중인 적 대열을 공격하여 섬멸하거나 패주시키시오.
+qstr_Vive_l_Empereur!_La_|황제 폐하 만세! 승리는 우리의 것이다!
+qstr_Talk_to_the_messenge|다음 미션을 진행하려면 전령에게 말을 거십시오.

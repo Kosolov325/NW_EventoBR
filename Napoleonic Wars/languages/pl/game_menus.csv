@@ -1,0 +1,39 @@
+menu_start_game_0|Witaj w Mount and Blade: Czasy Napoleona, żołnierzu.^Zanim rozpoczniesz grę musisz stworzyć postać i wybrać preferowany poziom trudności.
+mno_start_easy|Łatwy
+mno_start_normal|Normalny
+mno_start_hard|Trudny
+mno_go_back|Wróć
+mno_debug|Debug
+menu_start_phase_2|Początek - faza 2
+mno_map|Mapa
+menu_start_game_3|Rozpoczęcie gry 3
+menu_tutorial|Dzień dobry, Sir. Piękną dziś mamy pogodę, Sir. Czy nie zechciałby Pan wypić filiżanki herbaty?
+mno_continue|Tak, proszę.
+mno_go_back_dot|Nie, dziękuję.
+menu_reports|Raporty
+mno_resume_travelling|Kontynuuj podróż.
+menu_camp|Obóz
+mno_camp_wait_here|Odpocznij.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|PODSUMOWANIE ^^{s1} ^^Twoja strona zabiła {reg5} z przeciwników i straciła {reg6} z własnych ludzi podczas bitwy. ^Osobiście zgładziłeś {reg7} z uczestniczących w bitwie. ^^ ^Czy chcesz kontynuować?
+menu_town_trade|Kieruje się w kierunku placu handlowego na terenie obozu.
+mno_trade_with_arms_merchant|Handluj ze zbrojmistrzem.
+mno_trade_with_armor_merchant|Handluj z krawcem.
+mno_trade_with_horse_merchant|Handluj ze sprzedawcą koni.
+mno_back_to_town_menu|Wróć.
+menu_debug|Wybierz scenografię
+mno_scene1|Most wiedeński (sp vienna)
+mno_scene2|Austerlitz - część 1 (sp sokolniz)
+mno_scene3|Austerlitz - część 2 (sp auster)
+mno_scene4|Austerlitz - część 3 (sp sokolniz2)
+mno_scene5|Drezno - część 1 (sp dresden1)
+mno_scene6|Drezno - część 2 (sp dresden2)
+mno_scene7|New Scene 1 (NON-PLAYABLE)
+mno_scene8|New Scene 2 (NON-PLAYABLE)
+mno_scene9|New Scene 3 (NON-PLAYABLE)
+mno_scene10|New Scene 4 (NON-PLAYABLE)
+menu_run_mission_dummy|debug screen
+menu_run_companion_dummy|debug screen
+menu_visit_camp_dummy|debug screen
+menu_go_briefing_dummy|debug screen
+menu_quit_dummy|debug screen

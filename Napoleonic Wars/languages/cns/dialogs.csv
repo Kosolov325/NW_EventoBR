@@ -1,0 +1,26 @@
+dlga_start:companion_talk|很 高 兴 再 一 次 见 到 您 ， {先 生 /女 士 }， 我 能 帮 到 您 吗 ？ 
+dlga_companion_talk:companion_talk_equipment|让 我 看 一 下 您 的 装 备 。 
+dlga_companion_talk_equipment:companion_talk_end|非 常 好 ， 都 在 这 里 了 。 
+dlga_companion_talk_end:companion_talk|还 有 别 的 吗 ？ 
+dlga_companion_talk:companion_talk_opinion|你 对 我 的 指 挥 怎 么 想 ？ 
+dlga_companion_talk_opinion:companion_talk|很 好 ， {先 生 /女 士 } ！ 
+dlga_companion_talk:close_window|没 事 ， 继 续 。 
+dlga_start:town_merchant_talk|日 安 ， 我 能 为 你 做 些 什 么 ？ 
+dlga_town_merchant_talk:trade_requested_weapons|我 想 买 把 新 武 器 ， 你 有 些 什 么 ？ 
+dlga_town_merchant_talk:trade_requested_armor|我 在 找 一 些 新 服 饰 ， 展 示 一 下 你 这 儿 有 些 什 么 吧 ？ 
+dlga_town_merchant_talk:trade_requested_horse|我 正 在 想 买 匹 新 的 马 。 
+dlga_trade_requested_weapons:merchant_trade|嗯 ， 好 的 ， {先 生 /女 士 }， 这 些 是 你 看 过 最 好 的 武 器 了 。 
+dlga_trade_requested_armor:merchant_trade|当 然 了 ， {先 生 /女 士 }， 你 不 会 找 到 比 我 这 儿 质 量 更 好 的 衣 服 了 。 
+dlga_trade_requested_horse:merchant_trade|你 要 找 一 匹 好 马 ， {先 生 /女 士 } ，你 不 会 找 到 比 这 儿 更 好 的 畜 生 了 。 
+dlga_merchant_trade:town_merchant_talk|还 有 别 的 吗 ？ 
+dlga_town_merchant_talk:close_window|再 见 。 
+dlga_start:camp_dweller_talk|{s14}义 务 报 告 ， {先 生 /女 士 } ！ 
+dlga_start:camp_dweller_talk.1|日 安 ， {先 生 /女 士 }。 有 事 要 说 吗 ？ 
+dlga_start:camp_dweller_talk.2|先 生 ， 我 带 来 了 下 一 次 任 务 的 命 令 ， 您 是 否 接 受 ？ 
+dlga_start:camp_dweller_talk.3|很 荣 幸 见 到 你 ， {先 生 /女 士 }， 我 能 为 您 服 务 吗 ？ 
+dlga_camp_dweller_talk:close_window|没 事 ， 继 续 。 
+dlga_camp_dweller_talk:close_window.1|现 在 不 行 先 生 ， 祝 你 今 晚 愉 快 。 
+dlga_camp_dweller_talk:close_window.2|给 我 命 令 ！ 我 会 马 上 离 开 ！ 
+dlga_camp_dweller_talk:close_window.3|我 还 没 准 备 好 。 
+dlga_camp_dweller_talk:close_window.4|不 要 紧 。 
+dlga_start:close_window|对 话 错 误 。 没 有 寻 找 到 对 话 。 

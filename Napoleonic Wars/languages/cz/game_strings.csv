@@ -1,0 +1,1174 @@
+﻿str_no_string|PRÁZDNÝ STRING!
+str_empty_string| 
+str_yes|Ano.
+str_no|Ne.
+str_blank_string| 
+str_s50_and_s51|{s50} a {s51}
+str_s52_and_s51|{s52} a {s51}
+str_msg_battle_won|Vítězství! Pokračuj stiskem klávesy tab...
+str_charge|Výpad
+str_color|Barva
+str_hold_fire|Přidrž střelbu
+str_blunt_hold_fire|Úder / Přidrž střelbu
+str_finished|(Dokončeno)
+str_delivered_damage|Způsobeno {reg60} bodů poškození.
+str_archery_target_hit|Vzdálenost: {reg61} m. Skóre: {reg60}
+str_cant_use_inventory_now|Inventář teď nelze otevřít.
+str_give_up_fight|Chceš se vzdát?
+str_battle_won|Vítězství je tvoje!
+str_battle_lost|Bitva je ztracena!
+str_kingdom_1_adjective|Spojené království
+str_kingdom_2_adjective|Francouzské císařství
+str_kingdom_3_adjective|Koenigreich Preussen
+str_kingdom_4_adjective|Rossijskaja Imperija
+str_kingdom_5_adjective|Rakousko
+str_kingdom_6_adjective|Sarranidský sultanát
+str_credits_15|Nevyužito
+str_mp_ambush|Přepadení (Den)
+str_mp_ambush_fog|Přepadení (Mlha)
+str_mp_arabian_harbour|Arabský přístav (Den)
+str_mp_arabian_harbour_night|Arabský přístav (Noc)
+str_mp_arabian_village|Arabská vesnice (Den)
+str_mp_arabian_village_morning|Arabská vesnice (Ráno)
+str_mp_arabian_village_conq|Arabské město (Den)
+str_mp_arabian_village_conq_morning|Arabské město (Ráno)
+str_mp_ardennes|Ardeny (Vánice)
+str_mp_ardennes_morning|Ardeny (Ráno)
+str_mp_avignon|Avignon (Den)
+str_mp_avignon_morning|Avignon (Oblačno)
+str_mp_bavarian_river|Bavorská řeka (Den)
+str_mp_bavarian_river_cloudy|Bavorská řeka (Oblačno)
+str_mp_beach|Pláž (Den)
+str_mp_beach_morning|Pláž (Ráno)
+str_mp_borodino|Borodino (Den)
+str_mp_borodino_morn|Borodino (Ráno)
+str_mp_champs_elysees|Champs-Élysées (Den)
+str_mp_champs_elysees_rain|Champs-Élysées (Déšť)
+str_mp_charge_to_the_rhine|Útok na Rýn (Den)
+str_mp_charge_to_the_rhine_cloudy|Útok na Rýn (Oblačno)
+str_mp_citadelle_napoleon|Napoleonova pevnost (Den)
+str_mp_citadelle_napoleon_morning|Napoleonova pevnost (Ráno)
+str_mp_columbia_hill_farm|Statek Columbia (Den)
+str_mp_columbia_farm_morning|Statek Columbia (Ráno)
+str_mp_countryside|Venkov (Den)
+str_mp_countryside_fog|Venkov (Mlha)
+str_mp_dust|Planina (Den)
+str_mp_dust_morning|Planina (Ráno)
+str_mp_european_city_summer|Evropské město (Léto)
+str_mp_european_city_winter|Evropské město (Zima)
+str_mp_floodplain|Mokřad (Den)
+str_mp_floodplain_storm|Mokřad (Bouře)
+str_mp_forest_pallisade|Lesní palisáda (Den)
+str_mp_forest_pallisade_fog|Lesní palisáda (Mlha)
+str_mp_fort_al_hafya|Pevnost Al Hafya (Den)
+str_mp_fort_al_hafya_night|Pevnost Al Hafya (Noc)
+str_mp_fort_bashir|Pevnost Bašír (Den)
+str_mp_fort_bashir_morning|Pevnost Bašír (Ráno)
+str_mp_fort_beaver|Pevnost Fausbourg (Den)
+str_mp_fort_beaver_morning|Pevnost Fausbourg (Ráno)
+str_mp_fort_boyd|Pevnost Boyd (Den)
+str_mp_fort_boyd_raining|Pevnost Boyd (Déšť)
+str_mp_fort_brochet|Pevnost Brochet (Den)
+str_mp_fort_brochet_raining|Pevnost Brochet (Déšť)
+str_mp_fort_de_chartres|Pevnost de Chartres (Den)
+str_mp_fort_de_chartres_raining|Pevnost de Chartres (Déšť)
+str_mp_fort_fleetwood|Pevnost Fleetwood (Ráno)
+str_mp_fort_fleetwood_storm|Pevnost Fleetwood (Bouře)
+str_mp_fort_george|Pevnost George (Den)
+str_mp_fort_george_raining|Pevnost George (Déšť)
+str_mp_fort_hohenfels|Pevnost Hohenfels (Den)
+str_mp_fort_hohenfels_night|Pevnost Hohenfels (Noc)
+str_mp_fort_lyon|Pevnost Lyon (Den)
+str_mp_fort_lyon_night|Pevnost Lyon (Noc)
+str_mp_fort_mackinaw|Pevnost Mackinaw (Den)
+str_mp_fort_mackinaw_raining|Pevnost Mackinaw (Déšť)
+str_mp_fort_nylas|Pevnost Nylas (Den)
+str_mp_fort_nylas_raining|Pevnost Nylas (Déšť)
+str_mp_fort_refleax|Pevnost Willsbridge (Den)
+str_mp_fort_refleax_night|Pevnost Willsbridge (Noc)
+str_mp_fort_vincey|Pevnost Whittington (Den)
+str_mp_fort_vincey_storm|Pevnost Whittington (Bouře)
+str_mp_french_farm|Francouzský statek (Den)
+str_mp_french_farm_storm|Francouzský statek (Bouře)
+str_mp_german_village|Německá vesnice (Ráno)
+str_mp_german_village_rain|Německá vesnice (Bouře)
+str_mp_hougoumont|Hougoumont (Den)
+str_mp_hougoumont_night|Hougoumont (Noc)
+str_mp_hungarian_plains|Uherská pláň (Den)
+str_mp_hungarian_plains_cloud|Uherská pláň (Oblačno)
+str_mp_theisland|Ostrov (Den)
+str_mp_la_haye_sainte|La Haye Sainte (Den)
+str_mp_la_haye_sainte_night|La Haye Sainte (Noc)
+str_mp_landshut|Landshut (Den)
+str_mp_landshut_night|Landshut (Noc)
+str_mp_minden|Minden (Den)
+str_mp_minden_night|Minden (Ráno)
+str_mp_naval|Námořní bitva (Den)
+str_mp_oaksfield_day|Oaksfield (Den)
+str_mp_oaksfield_storm|Oaksfield (Bouře)
+str_mp_outlaws_den|Doupě banditů (Den)
+str_mp_outlaws_den_night|Doupě banditů (Noc)
+str_mp_quatre_bras|Quatre Bras (Den)
+str_mp_quatre_bras_night|Quatre Bras (Noc)
+str_mp_river_crossing|Brod (Den)
+str_mp_river_crossing_morning|Brod (Ráno)
+str_mp_roxburgh|Roxburgh (Den)
+str_mp_roxburgh_raining|Roxburgh (Déšť)
+str_mp_russian_river_day|Ruská řeka (Den)
+str_mp_russian_river_cloudy|Ruská řeka (Déšť)
+str_mp_russian_village|Ruská vesnice (Snow)
+str_mp_russian_village_fog|Ruská vesnice (Mlha)
+str_mp_russian_village_conq|Ruské město (Mlha)
+str_mp_russian_village_conq_night|Ruské město (Noc)
+str_mp_saints_isle|Îles des Saintes (Den)
+str_mp_saints_isle_rain|Îles des Saintes (Rain)
+str_mp_schemmerbach|Schemmerbach (Den)
+str_mp_schemmerbach_storm|Schemmerbach (Bouře)
+str_mp_siege_of_toulon|Obléhání Toulon (Den)
+str_mp_siege_of_toulon_night|Obléhání Toulon (Noc)
+str_mp_sjotofta|Sjotofta (Den)
+str_mp_sjotofta_night|Sjotofta (Noc)
+str_mp_slovenian_village|Slovinská vesnice (Den)
+str_mp_slovenian_village_raining|Slovinská vesnice (Déšť)
+str_mp_spanish_farm|Španělská usedlost (Den)
+str_mp_spanish_farm_rain|Španělská usedlost (Déšť)
+str_mp_spanish_mountain_pass|Španělský průsmyk (Den)
+str_mp_spanish_mountain_pass_evening|Španělský průsmyk (Večer)
+str_mp_spanish_village|Španělská vesnice (Den)
+str_mp_spanish_village_evening|Španělská vesnice (Večer)
+str_mp_strangefields|Strangefields (Mlha)
+str_mp_strangefields_storm|Strangefields (Bouře)
+str_mp_swamp|Močál u Siegburgeru (Mlha)
+str_mp_venice|Benátky (Den)
+str_mp_venice_morning|Benátky (Ráno)
+str_mp_walloon_farm|Valonský statek (Den)
+str_mp_walloon_farm_night|Valonský statek (Noc)
+str_mp_testing_map|Testovací mapa
+str_random_multi_plain_medium|Bezejmenné planiny (Střední)
+str_random_multi_plain_large|Bezejmenné planiny (Velká)
+str_random_multi_plain_medium_rain|Bezejmenné planiny (Střední) Déšť
+str_random_multi_plain_large_rain|Bezejmenné planiny (Velká) Déšť
+str_random_multi_steppe_medium|Bezejmenná step (Střední)
+str_random_multi_steppe_large|Bezejmenná step (Velká)
+str_random_multi_steppe_forest_medium|Bezejmenný stepní háj (Střední)
+str_random_multi_steppe_forest_large|Bezejmenný stepní háj (Velká)
+str_random_multi_snow_medium|Sněžná bitva (Střední)
+str_random_multi_snow_medium_snow|Sněžná bitva (Střední) Sněžení
+str_random_multi_snow_large|Sněžná bitva (Velká)
+str_random_multi_snow_large_snow|Sněžná bitva (Velká) Sněžení
+str_random_multi_snow_forest_medium|Sněžná bitva v lese (Střední)
+str_random_multi_snow_forest_medium_snow|Sněžná bitva v lese (Střední) Sněžení
+str_random_multi_snow_forest_large|Sněžná bitva v lese (Velká)
+str_random_multi_snow_forest_large_snow|Sněžná bitva v lese (Velká) Sněžení
+str_random_multi_desert_medium|Pouštní bitva (Střední)
+str_random_multi_desert_large|Pouštní bitva (Velká)
+str_random_multi_desert_forest_medium|Pouštní háj (Střední)
+str_random_multi_desert_forest_large|Pouštní háj (Velká)
+str_random_multi_forest_medium|Bitva v lese (Střední)
+str_random_multi_forest_medium_rain|Bitva v lese (Střední) Déšť
+str_random_multi_forest_large|Bitva v lese (Velká)
+str_random_multi_forest_large_rain|Bitva v lese (Velká) Déšť
+str_mp_custom_map_1|upravená mapa 1
+str_mp_custom_map_2|upravená mapa 2
+str_mp_custom_map_3|upravená mapa 3
+str_mp_custom_map_4|upravená mapa 4
+str_mp_custom_map_5|upravená mapa 5
+str_mp_custom_map_6|upravená mapa 6
+str_mp_custom_map_7|upravená mapa 7
+str_mp_custom_map_8|upravená mapa 8
+str_mp_custom_map_9|upravená mapa 9
+str_mp_custom_map_10|upravená mapa 10
+str_mp_custom_map_11|upravená mapa 11
+str_mp_custom_map_12|upravená mapa 12
+str_mp_custom_map_13|upravená mapa 13
+str_mp_custom_map_14|upravená mapa 14
+str_mp_custom_map_15|upravená mapa 15
+str_mp_custom_map_16|upravená mapa 16
+str_mp_custom_map_17|upravená mapa 17
+str_mp_custom_map_18|upravená mapa 18
+str_mp_custom_map_19|upravená mapa 19
+str_mp_custom_map_20|upravená mapa 20
+str_mp_custom_map_21|upravená mapa 21
+str_mp_custom_map_22|upravená mapa 22
+str_mp_custom_map_23|upravená mapa 23
+str_mp_custom_map_24|upravená mapa 24
+str_mp_custom_map_25|upravená mapa 25
+str_mp_custom_map_26|upravená mapa 26
+str_mp_custom_map_27|upravená mapa 27
+str_mp_custom_map_28|upravená mapa 28
+str_mp_custom_map_29|upravená mapa 29
+str_mp_custom_map_30|upravená mapa 30
+str_mp_custom_map_31|upravená mapa 31
+str_mp_custom_map_32|upravená mapa 32
+str_mp_custom_map_33|upravená mapa 33
+str_mp_custom_map_34|upravená mapa 34
+str_mp_custom_map_35|upravená mapa 35
+str_mp_custom_map_36|upravená mapa 36
+str_mp_custom_map_37|upravená mapa 37
+str_mp_custom_map_38|upravená mapa 38
+str_mp_custom_map_39|upravená mapa 39
+str_mp_custom_map_40|upravená mapa 40
+str_mp_custom_map_41|upravená mapa 41
+str_mp_custom_map_42|upravená mapa 42
+str_mp_custom_map_43|upravená mapa 43
+str_mp_custom_map_44|upravená mapa 44
+str_mp_custom_map_45|upravená mapa 45
+str_mp_custom_map_46|upravená mapa 46
+str_mp_custom_map_47|upravená mapa 47
+str_mp_custom_map_48|upravená mapa 48
+str_mp_custom_map_49|upravená mapa 49
+str_mp_custom_map_50|upravená mapa 50
+str_mp_custom_map_51|upravená mapa 51
+str_mp_custom_map_52|upravená mapa 52
+str_mp_custom_map_53|upravená mapa 53
+str_mp_custom_map_54|upravená mapa 54
+str_mp_custom_map_55|upravená mapa 55
+str_mp_custom_map_56|upravená mapa 56
+str_mp_custom_map_57|upravená mapa 57
+str_mp_custom_map_58|upravená mapa 58
+str_mp_custom_map_59|upravená mapa 59
+str_mp_custom_map_60|upravená mapa 60
+str_mp_custom_map_61|upravená mapa 61
+str_mp_custom_map_62|upravená mapa 62
+str_mp_custom_map_63|upravená mapa 63
+str_mp_custom_map_64|upravená mapa 64
+str_mp_custom_map_65|upravená mapa 65
+str_mp_custom_map_66|upravená mapa 66
+str_mp_custom_map_67|upravená mapa 67
+str_mp_custom_map_68|upravená mapa 68
+str_mp_custom_map_69|upravená mapa 69
+str_mp_custom_map_70|upravená mapa 70
+str_mp_custom_map_71|upravená mapa 71
+str_mp_custom_map_72|upravená mapa 72
+str_mp_custom_map_73|upravená mapa 73
+str_mp_custom_map_74|upravená mapa 74
+str_mp_custom_map_75|upravená mapa 75
+str_mp_custom_map_76|upravená mapa 76
+str_mp_custom_map_77|upravená mapa 77
+str_mp_custom_map_78|upravená mapa 78
+str_mp_custom_map_79|upravená mapa 79
+str_mp_custom_map_80|upravená mapa 80
+str_mp_custom_map_81|upravená mapa 81
+str_mp_custom_map_82|upravená mapa 82
+str_mp_custom_map_83|upravená mapa 83
+str_mp_custom_map_84|upravená mapa 84
+str_mp_custom_map_85|upravená mapa 85
+str_mp_custom_map_86|upravená mapa 86
+str_mp_custom_map_87|upravená mapa 87
+str_mp_custom_map_88|upravená mapa 88
+str_mp_custom_map_89|upravená mapa 89
+str_mp_custom_map_90|upravená mapa 90
+str_mp_custom_map_91|upravená mapa 91
+str_mp_custom_map_92|upravená mapa 92
+str_mp_custom_map_93|upravená mapa 93
+str_mp_custom_map_94|upravená mapa 94
+str_mp_custom_map_95|upravená mapa 95
+str_mp_custom_map_96|upravená mapa 96
+str_mp_custom_map_97|upravená mapa 97
+str_mp_custom_map_98|upravená mapa 98
+str_mp_custom_map_99|upravená mapa 99
+str_mp_custom_map_100|upravená mapa 100
+str_multi_scene_end|konec scénáře více hráčů
+str_multi_game_type_1|Deathmatch
+str_multi_game_type_2|Týmový deathmatch
+str_multi_game_type_3|Bitva
+str_multi_game_type_5|Obsazení vlajky
+str_multi_game_type_6|Dobývání
+str_multi_game_type_7|Obléhání
+str_multi_game_type_8|Duel
+str_multi_game_type_9|Střetnutí maršálů
+str_multi_game_type_10|Vládce kopce
+str_multi_game_type_12|Úprava scény
+str_multi_game_types_end|typy hry více hráčů konec
+str_multi_game_type_11|Úprava scény
+str_poll_kick_player_s1_by_s0|{s0} zahajuje hlasování o vyloučení hráče {s1}.
+str_poll_ban_player_s1_by_s0|{s0} zahajuje hlasování o zákazu vstupu pro hráče {s1}.
+str_poll_change_map_to_s1_by_s0|{s0} zahajuje hlasování o mapě {s1}.
+str_poll_change_map_to_s1_and_factions_to_s2_and_s3_by_s0|{s0} zahajuje hlasování o hře na mapě {s1} za strany {s2} a {s3}.
+str_poll_change_number_of_bots_to_reg0_and_reg1_by_s0|{s0} zahajuje hlasování o změně počtu botů na {reg0} a {reg1}.
+str_poll_kick_player|Hlasování o vyloučení hráče {s0}: 1 = Souhlasím, 2 = Nesouhlasím
+str_poll_ban_player|Hlasování o zákazu pro hráče {s0}: 1 = Souhlasím, 2 = Nesouhlasím
+str_poll_change_map|Hlasování o změně mapy na mapu {s0}: 1 = Souhlasím, 2 = Nesouhlasím
+str_poll_change_map_with_faction|Hlasování o změně mapy na mapu {s0} a národů {s1} versus {s2}: 1 = Souhlasím, 2 = Nesouhlasím
+str_poll_change_number_of_bots|Hlasování o změně počtu botů na {reg0} pro stranu {s0} a {reg1} pro stranu {s1}: 1 = Souhlasím, 2 = Nesouhlasím
+str_poll_time_left|({reg0} s. do konce)
+str_poll_result_yes|Většina souhlasí.
+str_poll_result_no|Většina nesouhlasí.
+str_server_name|Název serveru:
+str_game_password|Heslo pro vstup:
+str_map|Mapa:
+str_game_type|Typ hry:
+str_max_number_of_players|Maximální počet hráčů:
+str_number_of_bots_in_team_reg1|Maximální počet botů v týmu {reg1}:
+str_team_reg1_faction|Tým {reg1} národ:
+str_enable_valve_anti_cheat|Povolit Valve Anti-cheat (Vyžaduje platný účet na službě Steam)
+str_allow_friendly_fire|Povolit střelbu do vlastních řad
+str_allow_melee_friendly_fire|Povolit zranění spolubojovníků 
+str_friendly_fire_damage_self_ratio|Zranění hráče vlastní střelbou (%):
+str_friendly_fire_damage_friend_ratio|Zranění spoluhráčů vlastní střelbou (%):
+str_spectator_camera|Pozorovatel:
+str_control_block_direction|Ovládání směru obrany:
+str_map_time_limit|Časový limit mapy (minuty):
+str_round_time_limit|Časový limit mapy (vteřiny):
+str_players_take_control_of_a_bot_after_death|Po smrti přepnout na bota:
+str_team_points_limit|Bodový limit na tým:
+str_point_gained_from_flags|Bodový zisk týmu za obsazení vlajek (%):
+str_point_gained_from_capturing_flag|Bodů za obsazení vlajek:
+str_respawn_period|Doba oživení (vteřiny):
+str_add_to_official_game_servers_list|Přidat na seznam oficiálních serverů
+str_combat_speed|Rychlost boje:
+str_combat_speed_0|Nejpomalejší
+str_combat_speed_1|Pomalejší
+str_combat_speed_2|Střední
+str_combat_speed_3|Rychlejší
+str_combat_speed_4|Nejrychlejší
+str_off|Vyp.
+str_on|Zap.
+str_defender_spawn_count_limit|Počet životů obránců:
+str_unlimited|Neomezený
+str_automatic|Automatický
+str_by_mouse_movement|Pohybem myši
+str_free|Volný
+str_stick_to_any_player|Uzamknout na hráči
+str_stick_to_team_members|Uzamknout na spoluhráčích
+str_stick_to_team_members_view|Uzamknout na pohledu spoluhráče
+str_make_factions_voteable|Povolit změnu národů hlasováním
+str_make_kick_voteable|Povolit vyloučení hráčů hlasováním
+str_make_ban_voteable|Povolit zákaz vstupu pro hráče hlasováním
+str_bots_upper_limit_for_votes|Limit počtu botů při hlasování:
+str_make_maps_voteable|Povolit změnu mapy hlasováním
+str_valid_vote_ratio|Hranice pro platnost hlasování (%):
+str_auto_team_balance_limit|Hranice pro automatické vyrovnání týmů (růz.):
+str_welcome_message|Uvítací zpráva:
+str_initial_gold_multiplier|Počáteční množství zlatých (%):
+str_battle_earnings_multiplier|Bonus zlatých za bitvu (%):
+str_round_earnings_multiplier|Bonus zlatých za kolo (%):
+str_allow_player_banners|Povolit vlastní prapory
+str_force_default_armor|Vynutit nejslabší brnění
+str_respawning_in_reg0_seconds|Oživení za {reg0} s...
+str_no_more_respawns_remained_this_round|Životy pro toto kolo vyčerpány.
+str_reg0_respawns_remained|({reg0} oživení zbývá)
+str_this_is_your_last_respawn|(Tvůj poslední život)
+str_wait_next_round|(Čekej na další kolo)
+str_yes_wo_dot|Ano
+str_no_wo_dot|Ne
+str_s1_returned_flag|{s1} vrací vlajku do ležení svého týmu!
+str_s1_auto_returned_flag|{s1} vlajka automaticky vrácena do ležení týmu!
+str_s1_captured_flag|{s1} obsazuje nepřátelskou vlajku!
+str_s1_taken_flag|{s1} odnáší nepřátelskou vlajku!
+str_s1_neutralized_flag_reg0|{s1} ztrácí {s0}.
+str_s1_captured_flag_reg0|{s1} obsazuje {s0}!
+str_s1_pulling_flag_reg0|{s1} začíná obsazovat {s0}.
+str_s1_defended_castle|{s1} úspěšně brání svou pevnost!
+str_s1_captured_castle|{s1} obsazuje pevnost!
+str_auto_team_balance_in_20_seconds|Týmy budou automaticky vyrovnány za 30 vteřin.
+str_auto_team_balance_next_round|Týmy budou automaticky vyrovnány v příštím kole.
+str_auto_team_balance_done|Týmy byly automaticky vyrovnány.
+str_s1_won_round|{s1} vítězí v tomto kole!
+str_round_draw|Čas vypršel. Remíza.
+str_round_draw_no_one_remained|Nikdo nepřežil. Remíza.
+str_reset_to_default|Výchozí nastavení
+str_done|Hotovo
+str_player_name|Jméno hráče
+str_kills|Zabito
+str_deaths|Úmrtí
+str_ping|Ping
+str_dead|Mrtvý
+str_reg0_dead|{reg0} Mrtvý
+str_bots_reg0_agents|Boti ({reg0} agentů)
+str_bot_1_agent|Bot (1 agent)
+str_score|Skóre
+str_score_reg0|Skóre: {reg0}
+str_flags_reg0|(Vlajky: {reg0})
+str_reg0_players|({reg0} hráčů,  {reg40} žije,  {reg41} padlo)
+str_reg0_player|({reg0} hráč,  {reg40} žije,  {reg41} padl)
+str_reg0_alive|{reg0} žije
+str_reg0_player_only|{reg0} hráč
+str_reg0_players_only|{reg0} hráči
+str_reg0_spectator|{reg0} pozorovatel
+str_reg0_spectators|{reg0} pozorovatelé
+str_open_gate|Otevřít bránu
+str_close_gate|Zavřít bránu
+str_open_door|Otevřít dveře
+str_close_door|Zavřít dveře
+str_raise_ladder|Vztyčit žebřík
+str_drop_ladder|Položit žebřík
+str_back|Zpět
+str_start_map|Spustit mapu
+str_choose_an_option|Vybrat možnost:
+str_choose_a_poll_type|Vybrat typ hlasování:
+str_choose_faction|Výběr národa
+str_choose_a_faction|Vybrat národ:
+str_choose_troop|Výběr vlajky
+str_choose_a_troop|Výběr regimentu:
+str_choose_items|Výběr vojáka
+str_choose_an_item|Vybrat hodnost:
+str_options|Nastavení
+str_redefine_keys|Přenastavit klávesy
+str_submit_a_poll|Spustit hlasování
+str_show_game_rules|Zobrazit pravidla hry
+str_administrator_panel|Nastavení administrátora
+str_kick_player|Vyloučit hráče
+str_ban_player|Trvale zakázat přístup
+str_mute_player|Ztlumit hráče
+str_unmute_player|Zesílit hráče
+str_quit|Konec
+str_poll_for_changing_the_map|Změnit mapu
+str_poll_for_changing_the_map_and_factions|Změnit mapu a národy
+str_poll_for_changing_number_of_bots|Změnit počet botů v týmech
+str_poll_for_kicking_a_player|Vyloučit hráče
+str_poll_for_banning_a_player|Zakázat hráči vstup
+str_choose_a_player|Vybrat hráče:
+str_choose_a_map|Vybrat mapu:
+str_choose_a_faction_for_team_reg0|Vybrat národ pro tým {reg0}:
+str_choose_number_of_bots_for_team_reg0|Nastavit počet botů pro tým {reg0}:
+str_spectator|Pozorovatel
+str_spectators|Pozorovatelé
+str_score_2|Skóre
+str_command|Příkaz:
+str_profile_banner_selection_text|Vyber si svůj prapor:
+str_use_default_banner|Použít národní prapor
+str_player_name_s1|- {s1}
+str_space| 
+str_us_|My 
+str_allies_|Spojenci 
+str_enemies_|Nepřátelé 
+str_routed|Rozehnáni
+str_maximum_seconds_for_round_is_reg0|Vteřinový limit na kolo je {reg0}.
+str_respawn_period_is_reg0_seconds|Doba oživení je {reg0} s.
+str_bots_upper_limit_for_votes_is_reg0|Maximální počet botů při hlasování je {reg0}.
+str_map_is_voteable|O mapě lze hlasovat.
+str_map_is_not_voteable|O mapě nelze hlasovat.
+str_factions_are_voteable|O národech lze hlasovat.
+str_factions_are_not_voteable|O národech nelze hlasovat.
+str_players_respawn_as_bot|Hráči se oživují jako boti.
+str_players_do_not_respawn_as_bot|Hráči se neoživují jako boti.
+str_kicking_a_player_is_voteable|O vyloučení hráče lze hlasovat.
+str_kicking_a_player_is_not_voteable|O vyloučení hráče nelze hlasovat.
+str_banning_a_player_is_voteable|O zákazu pro hráče lze hlasovat.
+str_banning_a_player_is_not_voteable|O zákazu pro hráče nelze hlasovat.
+str_player_banners_are_allowed|Vlastní prapory jsou povoleny.
+str_player_banners_are_not_allowed|Vlastní prapory nejsou povoleny.
+str_default_armor_is_forced|Vynucení základního brnění.
+str_default_armor_is_not_forced|Základní brnění se nevynucuje.
+str_percentage_of_yes_votes_required_for_a_poll_to_get_accepted_is_reg0|Procento kladných hlasů pro přijetí hlasování je {reg0}%.
+str_auto_team_balance_threshold_is_reg0|Limit pro automatické vyvážení týmů je {reg0}.
+str_starting_gold_ratio_is_reg0|Výchozí poměr zlatých je {reg0}%.
+str_combat_gold_bonus_ratio_is_reg0|Válečný bonus ve zlatých je {reg0}%.
+str_round_gold_bonus_ratio_is_reg0|Bonus za kolo ve zlatých je {reg0}%.
+str_point_gained_from_flags_is_reg0|Počet bodů pro tým za vlajky je {reg0}%.
+str_point_gained_from_capturing_flag_is_reg0|Počet bodů za obsazení vlajek je {reg0}%.
+str_map_time_limit_is_reg0|Časový limit mapy je {reg0} min.
+str_team_points_limit_is_reg0|Bodový limit na tým je {reg0}.
+str_defender_spawn_count_limit_is_s1|Počet oživení obránců je {s1}.
+str_system_error|CHYBA SYSTÉMU!
+str_routed_2|Rozdrcen
+str_s42|{s42}
+str_you|ty
+str_we|my
+str_quick_battle_french_farm|Francouzský statek
+str_quick_battle_landshut|Landshut
+str_quick_battle_river_crossing|Brod
+str_quick_battle_spanish_village|Španělská vesnice
+str_quick_battle_strangefields|Strangefields
+str_quick_battle_scene_1|Kopce
+str_quick_battle_scene_2|Zasněžená pláň
+str_quick_battle_scene_3|Lesy
+str_quick_battle_scene_4|Step
+str_quick_battle_scene_6|Poušť
+str_map_basic|Mapa
+str_game_type_basic|Typ hry
+str_battle|Bitva
+str_character|Postava
+str_player|Hráč
+str_enemy|Nepřítel
+str_faction|Národ
+str_start|Start
+str_custom_battle|Vlastní bitva
+str_plus|+
+str_minus|-
+str_server_name_s0|Název serveru: {s0}
+str_map_name_s0|Název mapy: {s0}
+str_game_type_s0|Typ hry: {s0}
+str_remaining_time_s0reg0_s1reg1|Zbývající čas: {s0}{reg0}:{s1}{reg1}
+str_a_duel_request_is_sent_to_s0|Výzva k duelu zaslána hráči {s0}.
+str_s0_offers_a_duel_with_you|{s0} tě vyzývá k duelu.
+str_your_duel_with_s0_is_cancelled|Tvůj duel s hráčem {s0} byl zrušen.
+str_a_duel_between_you_and_s0_will_start_in_3_seconds|Tvůj duel s hráčem {s0} začne za 3 vteřiny.
+str_you_have_lost_a_duel|Duel prohráváš.
+str_you_have_won_a_duel|V duelu vítězíš!
+str_server_s0|[SERVER]: {s0}
+str_disallow_ranged_weapons|Zakázat palné zbraně.
+str_ranged_weapons_are_disallowed|Palné zbraně jsou zakázány.
+str_ranged_weapons_are_allowed|Palné zbraně jsou povoleny.
+str_duel_starts_in_reg0_seconds|Duel začne za {reg0} s...
+str_true|Pravda
+str_false|Nepravda
+str_teamkilled_s1_s2|{s1} zabíjí spoluhráče {s2}.
+str_kick_server_kills_first_s1_reg5|Hráč {s1} je vyloučen za {reg5} zabití spoluhráčů, poprvé.
+str_kick_server_kills_second_s1_reg5|Hráč {s1} je vyloučen za {reg5} zabití spoluhráčů, podruhé.
+str_ban_server_kills_s1_reg5|{s1} má zakázaný přístup za {reg5} nebo více zabití spoluhráčů.
+str_warning_message_first_reg5|V tomto kole již padlo tvou rukou {reg5} spoluhráčů, dávej pozor!
+str_warning_message_second_reg5|V tomto kole již padlo tvou rukou {reg5} spoluhráčů, dávej pozor. Příště tě čeká vyloučení!
+str_kick_to_message_first|Vylučujeme tě ze hry za časté zabíjení spoluhráčů, dávej si pozor!
+str_kick_to_message_second|Vylučujeme tě ze hry za časté zabíjení spoluhráčů, dávej si pozor! Příště tě čeká zákaz vstupu!
+str_ban_to_message|Zakazujeme ti vstup z důvodu častého zabíjení spoluhráčů. Sbohem!
+str_auto_kick_message_s1|Hráč {s1} je aututomaticky vyloučen za časté zabíjení spoluhráčů.
+str_auto_ban_message_s1|Hráči {s1} je automaticky zakázán přístup za časté zabíjení spoluhráčů.
+str_server_hq_base_retake_s1|{s1} obsazuje zpět své ležení!!
+str_server_hq_base_attack_s1|{s1} brání ležení před útokem!!
+str_player_left_server_s1_reg13|Hráč {s1} opustil hru s ID: {reg13}
+str_push_cannon|Tlačit dělo
+str_fire_cannon|Vypálit z děla
+str_aim_cannon|Obsadit
+str_unlimber_cannon|Odpřáhnout dělo
+str_limber_cannon|Zapřáhnout dělo
+str_load_cartridge|Nabít
+str_load_bomb|Nabít granát
+str_load_rocket|Nabít raketu
+str_reload_cannon|Přebít dělo
+str_pick_up_round|Sebrat kouli
+str_pick_up_shell|Sebrat granát (výbušný)
+str_pick_up_canister|Sebrat kartáčovou střelu
+str_pick_up_bomb|Sebrat granát
+str_pick_up_rocket|Sebrat raketomet
+str_play_piano|Hrát na piano
+str_play_organ|Hrát na varhany
+str_take_a_shit|Použít toaletu
+str_play_bell|Zazvonit na zvon
+str_take_ship_control|Kormidlovat loď
+str_cannot_use_piano|Na koni nemůžeš hrát na piano!
+str_cannot_use_organ|Na koni nemůžeš hrát na varhany!
+str_cannot_use_piano_angle|Stojíš na špatné straně piana.
+str_cannot_use_organ_angle|Stojíš na špatné straně varhan.
+str_cannot_use_toilet|Na koni nemůžeš použít toaletu!
+str_piano_in_use|Na piano již hraje někdo jiný!
+str_organ_in_use|Na varhany již hraje někdo jiný!
+str_toilet_in_use|Toaletu již někdo používá!
+str_cannot_use_cannon|Nepatříš k regimentu dělostřelců, a děla proto nemůžeš používat!
+str_cannot_use_rocket|Nepatříš k regimentu raketometčíků, a rakety proto nemůžeš používat!
+str_cannon_not_loaded|Dělo není naládované!
+str_cannon_already_has_ball|V tomto dělu je již koule naládovaná!
+str_cannon_already_loaded|Toto dělo je již naládované!
+str_cannot_carry_more_cannon_ammo|Více munice neuneseš!
+str_cannon_cannot_load_type|Do tohoto děla nemůžeš naládovat tento typ munice.
+str_need_to_have_a_lighter|Ke střelbě z děla potřebuješ zápalník!
+str_need_to_have_a_ramrod|K nabití děla potřebuješ nabiják!
+str_need_to_have_a_ball|K nabití děla potřebuješ munici!
+str_need_to_have_a_horse|K přesunu děla je potřeba koňský potah!
+str_horse_already_has_cannon|Tento kůň už dělo táhne!
+str_already_to_many_barricades|Tvůj tým již v tomto kole umístil příliš mnoho obranných prvků.
+str_already_to_many_ammobox|Tvůj tým v tomto kole již použil příliš mnoho muničních beden.
+str_cannon_is_already_in_use|Toto dělo již někdo obsluhuje.
+str_already_to_many_players_class_s21|Příliš mnoho hráčů již hraje jako {s21}. Vyber si jinou jednotku.
+str_already_to_many_players_rank_mus|V této jednotce je již příliš mnoho hudebníků. Vyber si někoho jiného.
+str_already_to_many_players_rank_srg|Příliš mnoho hráčů v této jednotce hraje jako {s21}. Vyber si někoho jiného.
+str_already_to_many_players_rank_off|Příliš mnoho hráčů v této jednotce hraje jako {s21}. Vyber si někoho jiného.
+str_chk_class_limits|Povolit omezení tříd
+str_chk_class_limits_player_count|Minimum hráčů pro povolení limitu tříd:
+str_limit_grenadier|Limit pěší gardy na tým (%):
+str_limit_skirmisher|Limit lehké pěchoty na tým (%):
+str_limit_rifle|Max. počet střelců lehké pěchoty (%):
+str_limit_cavalry|Limit jezdectva  na tým (%):
+str_limit_lancer|Max. počet jízdních kopiníků (%):
+str_limit_hussar|Max. počet husarů (%):
+str_limit_dragoon|Max. počet dragounů (%):
+str_limit_cuirassier|Max. počet kyrysníků (%):
+str_limit_heavycav|Max. počet neobrněné těžké jízdy (%):
+str_limit_artillery|Limit dělostřelectva na tým (%):
+str_limit_rocket|Limit raketometčíků na tým (%):
+str_limit_sapper|Limit sapérů na tým (%):
+str_limit_musician|Limit hudebníků na jednotku (poč.):
+str_limit_sergeant|Limit četařů na jednotku (poč.):
+str_limit_officer|Limit kapitánů na jednotku (poč.):
+str_limit_general|Limit generálů na tým (poč.):
+str_build_points_team_1|Stavební body pro první tým:
+str_build_points_team_2|Stavební body pro druhý tým:
+str_allow_multiple_firearms|Povolit držení více palných zbraní
+str_enable_bonuses|Povolit bonusy
+str_bonus_strength|Bonusová síla (%):
+str_bonus_range|Bonusová vzdálenost v metrech:
+str_num_bots_per_squad|Počet botů na četu:
+str_scale_squad_size|Upravit velikost čety podle týmu
+str_max_num_bots|Max. počet botů:
+str_chance_of_falling_off_horse|Riziko pádu z koně po zásahu (%):
+str_damage_from_horse_dying|Zranění způsobené jezdci po zabití koně (%):
+str_admin_start_map_s0_s1_s2_s5_s6|Hráč {s0} mění mapu na {s1} v režimu {s2} a s národy {s5} a {s6}.
+str_admin_set_max_num_players_s0_reg1|Hráč {s0} mění maximální počet hráčů na {reg1}.
+str_admin_set_num_bots_in_team_s0_s1_reg1|Hráč {s0} mění počet botů pro tým {s1} na {reg1}.
+str_admin_set_friendly_fire_s0_s9|Hráč {s0} povoluje střelbu do vlastních řad pro tým {s9}.
+str_admin_set_melee_friendly_fire_s0_s9|Hráč {s0} povoluje zranění spolubojovníků pro tým {s9}.
+str_admin_set_friendly_fire_damage_self_ratio_s0_reg1|Hráč {s0} nastavuje zranění vlastní zbraní na {reg1} %.
+str_admin_set_friendly_fire_damage_friend_ratio_s0_reg1|Hráč {s0} nastavuje poškození spoluhráčů vlastní palbou na {reg1} %.
+str_admin_set_ghost_mode_s0_s1|{s0} nastavuje režim pozorovatele na {s1}.
+str_admin_set_control_block_dir_s0_s1|{s0} nastavuje ovládání krytí na {s1}.
+str_admin_set_combat_speed_s0_s1|{s0} nastavuje rychlost boje na {s1}.
+str_admin_set_respawn_count_s0_s1|{s0} nastavuje počet oživení obránců na {s1}.
+str_admin_set_add_to_servers_list_s0_s9|{s0} přidává server do seznamu serverů {s9}.
+str_admin_set_respawn_period_s0_reg1|{s0} mění dobu oživení na {reg1} s.
+str_admin_set_game_max_minutes_s0_reg1|{s0} mění časový limit mapy na {reg1} min.
+str_admin_set_round_max_seconds_s0_reg1|{s0} mění délku kola na {reg1} s.
+str_admin_set_player_respawn_as_bot_s0_s9|{s0} nastavuje oživení hráčů jako botů na {s9}.
+str_admin_set_game_max_points_s0_reg1|{s0} mění maximální počet bodů na {reg1}.
+str_admin_set_point_gained_from_flags_s0_reg1|{s0} mění počet bodů získaných za vlajky na {reg1}.
+str_admin_set_point_gained_from_capturing_flag_s0_reg1|{s0} mění počet bodů získaných za obsazování vlajky na {reg1}.
+str_admin_set_initial_gold_multiplier_s0_reg1|{s0} nastavuje počáteční násobitel zlatých na {reg1} %.
+str_admin_set_battle_earnings_multiplier_s0_reg1|{s0} nastavuje násobitel zlatých za boj na {reg1} %.
+str_admin_set_round_earnings_multiplier_s0_reg1|{s0} nastavuje násobitel zlatých za kolo na {reg1} %.
+str_admin_set_server_name_s1_s0|{s1} mění název serveru na {s0}
+str_admin_set_game_password_s1_s0|{s1} nastavuje heslo pro přístup na server na {s0}
+str_admin_set_welcome_message_s1|Hráč {s1} změnil uvítací zprávu.
+str_admin_set_welcome_message_s1_s0|Hráč {s1} mění uvítací zprávu na {s0}.
+str_admin_set_valid_vote_ratio_s0_reg1|{s0} nastavuje limit pro platné hlasování na {reg1} %.
+str_admin_set_auto_team_balance_limit_s0_s1|{s0} nastavuje limit pro automatické vyrovnání týmů na {s1}.
+str_admin_set_num_bots_voteable_s0_reg1|{s0} mění maximální počet botů, o kterém lze hlasovat na {reg1}.
+str_admin_set_factions_voteable_s0_s9|{s0} mění hlasování o národech na {s9}.
+str_admin_set_maps_voteable_s0_s9|{s0} mění hlasování o mapách na {s9}.
+str_admin_set_kick_voteable_s0_s9|{s0} mění hlasování o vyloučení na {s9}.
+str_admin_set_ban_voteable_s0_s9|{s0} mění hlasování o zákazu přístupu na server na {s9}.
+str_admin_set_allow_player_banners_s0_s9|{s0} nastavuje používání vlastních praporů na {s9}.
+str_admin_set_force_default_armor_s0_s9|{s0} nastavuje vynucení základního brnění na {s9}.
+str_admin_set_disallow_ranged_weapons_s0_s9|{s0} nastavuje zákaz palných zbraní na {s9}.
+str_admin_set_mod_variable_auto_kick_s0_s9|{s0} nastavuje automatické vyloučení/zákaz za zabití spoluhráčů na {s9}.
+str_admin_set_mod_variable_max_teamkills_before_kick_s0_reg1|{s0} nastavuje počet zabití spoluhráčů před automatickým vyloučením/zákazem na {reg1}.
+str_admin_set_mod_variable_auto_horse_s0_s9|{s0} nastavuje automatické zabití zbloudilých koní na {s9}.
+str_admin_set_mod_variable_auto_swap_s0_s9|{s0} nastavuje automatické prohození týmů při obléhání a bitvě na {s9}.
+str_admin_set_use_class_limits_s0_s9|{s0} nastavuje použití limitů pro třídy na {s9}.
+str_admin_set_class_limit_player_count_s0_reg1|{s0} nastavuje minimální počet hráčů nutný pro povolení limitů tříd na {reg1}.
+str_admin_set_limit_grenadier_s0_reg1|{s0} nastavuje limit granátníků na {reg1} % týmu.
+str_admin_set_limit_skirmisher_s0_reg1|{s0} nastavuje limit lehké pěchoty na {reg1} % týmu.
+str_admin_set_limit_rifle_s0_reg1|{s0} nastavuje limit střelců na {reg1} % lehké pěchoty.
+str_admin_set_limit_cavalry_s0_reg1|{s0} nastavuje limit jezdců na {reg1} % týmu.
+str_admin_set_limit_lancer_s0_reg1|{s0} nastavuje limit kopiníků na {reg1} % jízdy.
+str_admin_set_limit_hussar_s0_reg1|{s0} nastavuje limit husarů na {reg1} % jízdy.
+str_admin_set_limit_dragoon_s0_reg1|{s0} nastavuje limit dragounů na {reg1} % jízdy.
+str_admin_set_limit_cuirassier_s0_reg1|{s0} nasatvuje limit kyrysníků na {reg1} % jízdy.
+str_admin_set_limit_heavycav_s0_reg1|{s0} nastavuje limit neobrněné těžké jízdy na {reg1} % jízdy.
+str_admin_set_limit_artillery_s0_reg1|{s0} nastavuje limit dělostřelectva na {reg1} % týmu.
+str_admin_set_limit_rocket_s0_reg1|{s0} nastavuje limit raketometčíků na {reg1} % týmu.
+str_admin_set_limit_sapper_s0_reg1|{s0} nastavuje limit sapérů na {reg1} % týmu.
+str_admin_set_limit_musician_s0_reg1|{s0} nastavuje limit hudebníků na {reg1} na jednotku.
+str_admin_set_limit_sergeant_s0_reg1|{s0} nastavuje limit četařů na {reg1} na jednotku.
+str_admin_set_limit_officer_s0_reg1|{s0} nastavuje limit důstojníků na {reg1} na jednotku.
+str_admin_set_limit_general_s0_reg1|{s0} nastavuje limit generálů na {reg1} na národ.
+str_admin_set_build_points_team_1_s0_reg1|{s0} nastavuje počet stavebních bodů pro první tým na {reg1}.
+str_admin_set_build_points_team_2_s0_reg1|{s0} nastavuje počet stavebních bodů pro druhý tým na {reg1}.
+str_admin_set_squad_size_s0_reg1|{s0} nastavuje počet botů na četu na {reg1}.
+str_admin_set_scale_squad_size_s0_s9|{s0} nastavuje poměr velikosti čety k týmu na {s9}.
+str_admin_set_max_num_bots_s0_reg1|{s0} nastavuje maximální počet botů na {reg1}.
+str_admin_set_allow_multiple_firearms_s0_s9|{s0} nastavuje povolení více palných zbraní na {s9}.
+str_admin_set_enable_bonuses_s0_s9|{s0} nastavuje používání bonusů na {s9}.
+str_admin_set_bonus_strength_s0_reg1|{s0} nastavuje sílu bonusů na {reg1}%.
+str_admin_set_bonus_range_s0_reg1|{s0} nastavuje dosah bonusů v metrech na {reg1}.
+str_admin_set_fall_off_horse_s0_reg1|{s0} nastavuje riziko pádu z koně po zásahu na {reg1}%.
+str_admin_set_horse_dying_s0_reg1|{s0} nastavuje zranění způsobené jezdci po zabití koně na {reg1}%.
+str_mute_all|Ztišit všechny hráče
+str_unmute_all|Zesílit všechny hráče
+str_slay_player|Zabít hráče
+str_slay_player_s2_s3|{s2} zabíjí hráče {s3}.
+str_slay_all|Zabít všechny
+str_slay_all_s2|{s2} zabíjí všechny.
+str_freeze_player|Zmrazit hráče
+str_freeze_player_s2_s3|{s2} zmrazuje hráče {s3}.
+str_freeze_all|Zmrazit všechny
+str_freeze_all_s2|{s2} zmrazuje všechny.
+str_swap_player|Přemístit hráče
+str_swap_player_s2_s3|Hráč {s2} přemístil hráče {s3} do druhého týmu.
+str_swap_all|Přemístit všechny
+str_swap_all_s2|Hráč {s2} přemístil všechny do druhého týmu.
+str_forceautobalance_all|Vynutit automatické vyrovnání
+str_forceautobalance_all_s2|Hráč {s2} vynutil automatické vyrovnání týmů.
+str_spec_player|Přepnout hráče mezi pozorovatele
+str_spec_player_s2_s3|{s2} přepíná hráče {s3} mezi pozorovatele.
+str_spec_all|Přepnout všechny
+str_spec_all_s2|{s2} přepípá všechny na pozorovatele
+str_kick_player_s2_s3|{s2} vylučuje hráče {s3}.
+str_ban_player_s2_s3|{s2} zakazuje vstup na server hráči {s3}.
+str_ban_player_temp|Zakázat dočasně přístup
+str_ban_player_temp_s2_s3|{s2} dočasně zakazuje přístup hráči {s3}.
+str_ban_hammer_s2_s3|Nejsvětější {s2} trefuje hráče {s3} Kladivem zhouby. Sbohem!
+str_admin_cheats|Cheaty
+str_choose_a_cheat_type|Vyber cheat:
+str_cheat_spawn_hammer|Seslat Kladivo zhouby
+str_cheat_spawn_hammer_s2|{s2} vyvolává Kladivo zhouby.
+"str_cheat_spawn_hammer_2_s2|A pozdvihá nejsvětější {s2} posvátné Kladivo zhouby i praví: ""Ó, Pane náš, požehnej tomuto Kladivu zhouby a dopřej nám rozšmelcovat s ním naše nepřátele na hadry."" A Pán se pousmál."
+str_cheat_spawn_shotgun|Seslat brokovnici
+str_cheat_spawn_shotgun_s2|{s2} vyvolává brokovnici.
+str_cheat_spawn_rocketlauncher|Seslat raketomet
+str_cheat_spawn_rocketlauncher_s2|{s2} vyvolává raketomet.
+str_cheat_spawn_grenade|Seslat ruční granát
+str_cheat_spawn_grenade_s2|{s2} vyvolává ruční granát.
+"str_cheat_spawn_grenade_2_s2|A pozdvihá nejsvětější {s2} posvátný ruční granát i praví: ""Ó, Pane náš, požehnej tomuto granátu a dopřej nám roztrhat s ním naše nepřátele na maličké kousíčky ve tvém jménu."" A Pán se pousmál."
+str_cheat_spawn_horse|Seslat Adminova koně
+str_cheat_spawn_horse_s2|{s2} vyvolává adminova koně.
+str_cheat_beacon_player|Ozářit hráče
+str_cheat_beacon_player_s2_s3|{s2} zapíná majáček nad hráčem {s3}.
+str_cheat_heal_player|Uzdravit hráče
+str_cheat_heal_player_s2_s3|{s2} uzdravuje hráče {s3}.
+str_cheat_heal_all|Uzdravit všechny
+str_cheat_heal_all_s2|{s2} uzdravuje všechny.
+str_cheat_ammo_player|Doplnit munici
+str_cheat_ammo_player_s2_s3|{s2} doplňuje munici hráči {s3}.
+str_cheat_ammo_all|Doplnit všem
+str_cheat_ammo_all_s2|{s2} doplňuje munici všem hráčům.
+str_cheat_tele_to_player|Teleportovat hráče
+str_cheat_tele_to_player_s2_s3|{s2} teleportuje hráče {s3}.
+str_cheat_tele_bring_player|Přinést hráče
+str_cheat_tele_bring_player_s2_s3|{s2} teleportuje hráče {s3} na svou pozici.
+str_cheat_tele_wall|Teleportovat skrz zeď
+str_cheat_tele_wall_s2|Hráč {s2} teleportován.
+str_admin_chat|Chat adminů
+str_admin_chat_intern|Interní chat adminů
+str_admin_chat_s1_s0|*Admin*[{s1}]: {s0}
+str_inter_admin_chat_s1_s0|[{s1}]: {s0}
+str_chk_auto_kick|Povolit automatické vyloučení/zákaz
+str_num_max_teamkills_before_kick|Zabití spoluhráčů před vyloučení/zákazem
+str_chk_auto_horse|Povolit automatické zabití zbloudilých koní
+str_chk_auto_swap|Povolit automatické přeřazení týmů při obléhání a bitvách.
+str_reset_map|Resetovat mapu
+str_reset_map_s2|{s2} resetuje mapu.
+str_console_command|Administrátorský panel
+str_player_kicked_cheating_s2|{s2} se vylučuje pro podvádění.
+str_next_page|Další strana
+str_auto_assign|Automatické přiřazení
+str_begin|Spustit
+str_game_rules|Pravidla hry:^
+str_britain_name|Spojené království
+str_france_name|Francouzské císařství
+str_prussia_name|Pruské království
+str_russia_name|Ruská říše
+str_austria_name|Rakouské císařství
+str_rhine_name|Rýnský spolek
+str_infantry|Pěchota
+str_cavalry|Jízda
+str_specialists|Specialisté
+str_ranker|Vojín
+str_equipment|Vybavení:
+str_random|Libovolné
+str_howitzer|Houfnice
+str_cannon|Dělo
+str_all_fire_now|Všichni pal!
+str_left_fire_now|Pálit vlevo teď!
+str_middle_fire_now|Pálit na střed teď!
+str_right_fire_now|Pálit vpravo teď!
+str_fire_at_my_command|Palte na můj rozkaz
+str_use_melee_weapons|Nasadit kontaktní zbraně
+str_use_ranged_weapons|Použít palné zbraně
+str_melee_weapons|Kontaktní zbraně
+str_ranged_weapons|Palné zbraně
+str_formation|Formace
+str_very_tight|Velmi těsná
+str_tight|Těsná
+str_loose|Volná
+str_very_loose|Velmi volná
+str_form_1_row|Utvořit 1 řadu
+str_form_reg0_rows|Uspořádat do {reg0} řad
+str_confirm_quit_mission|Opravdu si přeješ opustit tuto hru (postup hrou bude ztracen)?
+str_no_troop|Volné
+str_morning|Ráno
+str_noon|Poledne
+str_evening|Večer
+str_night|Noc
+str_timeofday|Denní doba:
+str_fog_none|Není
+str_fog_light|Mírná
+str_fog_medium|Střední
+str_fog_thick|Hustá
+str_fog_amount|Hustota mlhy:
+str_rain_amount|Hustota deště:
+str_mm_stakes_construct|Velký ježek
+str_mm_stakes2_construct|Dřevěné kůly
+str_sandbags_construct|Pytle s pískem
+str_chevaux_de_frise_tri_construct|Malý ježek
+str_gabion_construct|Zídka
+str_fence_construct|Plot
+str_plank_construct|Prkna
+str_earthwork1_construct|Prostý zákop
+str_explosives_construct|Výbušná bedna
+str_reg6_build_points|Stavebních bodů: {reg6}
+str_reg7_build_points_cost|Cena: {reg7} stavebních bodů
+str_repair_prop|Opravit
+str_destructible_object|Zničitelný předmět
+str_build_prop|Postavit
+str_dig_prop|Vykopat
+str_undig_prop|Zahrabat
+str_construct_deconstruct|Postavit/rozebrat
+str_ignite|Zapálit!
+str_invalid_flag_selection|Vyber vlajku v držení tvého týmu.
+str_invalid_prop_select|Nedostatek stavebních bodů!
+str_invalid_prop_place|Tento předmět sem nelze umístit!
+str_sail_brit|Námořník, HMS Neptune
+str_sail_fren|Námořník, Intrepide
+str_select_track|Vybrat skladbu:
+str_music_calls|Rozkazy:
+str_bagpipe_extras|Další melodie (pouze dudy):
+"str_play_together|Povolit možnost ""Hrát společně"
+str_drum_britain_1|Britští granátníci
+str_drum_britain_2|Dívka, co doma jsem ji zanechal
+str_drum_britain_3|Lilliburlero
+str_drum_britain_4|Mužové z Harlechu
+str_drum_britain_5|Vpřed, Britannie
+str_drum_france_1|Aux Champs
+str_drum_france_2|La Charge
+str_drum_france_3|La Diane ou Rigodon
+str_drum_france_4|La Grenadiere
+str_drum_france_5|Le Pas Cadence
+str_drum_prussia_1|York'scher Marsch
+str_drum_prussia_3|Hohenfriedberger Marsch
+str_drum_prussia_4|Preussischer Lockmarsch
+str_drum_prussia_5|Parademarsch der Spielleute
+str_drum_prussia_6|Praesentiermarsch
+str_drum_russia_1|Pohod Grenaderskij
+str_drum_russia_2|Pohod Lejb Gvardii Izmailovskogo Polka
+str_drum_russia_3|Marsh Kolonni Idushej v Ataku
+str_drum_russia_4|Pohod Lejb Gvardii Preobrazhenskogo Polka
+str_drum_russia_5|Pohod Lejb Gvardii Semenovskogo Polka
+str_drum_austria_1|Oestereeichischer Grenadiermarsch
+str_drum_austria_2|Coburger Marsch
+str_drum_austria_3|Pappenheimer Marsch
+str_drum_austria_4|Pariser Einzugsmarsch
+str_drum_austria_5|Prinz von Eugen
+str_drum_highland_1|All the Blue Bonnets Are O'er the Border
+str_drum_highland_2|Bonnie Dundee
+str_drum_signal_1|Večerka
+str_drum_signal_2|Palbu zastavit
+str_drum_signal_3|K bubeníkovi
+str_fife_britain_1|Britští granátníci
+str_fife_britain_2|Dívka, co doma jsem ji zanechal
+str_fife_britain_3|Lilliburlero March
+str_fife_britain_4|Mužové z Harlechu
+str_fife_britain_5|Vpřed, Britannie
+str_fife_france_1|Aux Champs
+str_fife_france_2|La Charge
+str_fife_france_3|La Diane ou Rigodon
+str_fife_france_4|La Grenadiere
+str_fife_france_5|Le Pas Cadence
+str_fife_prussia_1|York'scher Marsch
+str_fife_prussia_2|Hohenfriedberger Marsch
+str_fife_prussia_3|Preussischer Lockmarsch
+str_fife_prussia_4|Parademarsch der Spielleute
+str_fife_prussia_5|Praesentiermarsch
+str_fife_russia_1|Pohod Grenaderskij
+str_fife_russia_2|Pohod Lejb Gvardii Izmailovskogo Polka
+str_fife_russia_3|Marsh Kolonni Idushej v Ataku
+str_fife_russia_4|Pohod Lejb Gvardii Preobrazhenskogo Polka
+str_fife_russia_5|Pohod Lejb Gvardii Semenovskogo Polka
+str_fife_austria_1|Oestereeichischer Grenadiermarsch
+str_fife_austria_2|Coburger Marsch
+str_fife_austria_3|Pappenheimer Marsch
+str_fife_austria_4|Pariser Einzugsmarsch
+str_fife_austria_5|Prinz von Eugen
+str_bugle_britain_1|Britské boty
+str_bugle_britain_2|Britská lehká pěchota
+str_bugle_france_1|Dans le Hussards
+str_bugle_france_2|La Marche
+str_bugle_prussia_1|Althessischer Reitermarsch
+str_bugle_prussia_2|Fehrbelliner Reitermarsch
+str_bugle_prussia_3|Marsch der Freiwilligen Jaeger
+str_bugle_russia_1|Pohod Mushketerskij
+str_bugle_russia_2|Pohod Artillerijskij i dlia Saperov
+str_bugle_russia_3|Pohod Egerskij
+str_bugle_austria_1|Strauch Marsch
+str_bugle_austria_2|Frohes Leben Marsch
+str_bugle_signal_1|Všichni ke mně
+str_bugle_signal_2|Široké řady
+str_bugle_signal_3|Sevřít řady
+str_bugle_signal_4|Na nepřítele
+str_bugle_signal_5|Palbu zahájit
+str_bagpipes_britain_1|All the Blue Bonnets Are O'er the Border
+str_bagpipes_britain_2|Bonnie Dundee
+str_bagpipes_extra_1|Black Bear
+str_bagpipes_extra_2|Amazing Grace
+str_bagpipes_extra_3|Balmoral
+str_bagpipes_extra_4|Bonnie Dundee
+str_bagpipes_extra_5|Cock o' the North
+str_bagpipes_extra_6|Highland Cathedral
+str_bagpipes_extra_7|My Home
+str_bagpipes_extra_8|Scotland the Brave
+str_bagpipes_extra_9|Skye Boat Song
+str_piano_tune_1|Beethoven - Pro Elišku
+str_piano_tune_2|Beethoven - Ecossaise
+str_piano_tune_3|Erik Satie - Gymnopedie 3
+str_piano_tune_4|Beethoven - Laendler
+str_piano_tune_5|Lift Motif
+str_piano_tune_6|Bach - Předehra
+str_piano_tune_7|Wagner - Svatební pochod
+str_piano_tune_8|Schubert - Ave Maria
+str_organ_tune_1|Bach - Toccata a fuga
+str_organ_tune_2|Bach - Toccata a fuga 2
+str_organ_tune_3|Bach - Předehra a fuga
+str_organ_tune_4|Buxtehude - Předehra
+str_organ_tune_5|Tiny Fugue
+str_organ_tune_6|Wagner - Svatební pochod
+str_organ_tune_7|Bach - Chromatická fuga
+str_organ_tune_8|Bach - Chromatická fantasie
+str_flag_reg3|Vlajky {reg3}
+str_mp_arabian_harbour_flag_1|Hospůdka
+str_mp_arabian_harbour_flag_2|Dvorek
+str_mp_arabian_harbour_flag_3|Přístav
+str_mp_arabian_harbour_flag_4|Maják
+str_mp_arabian_harbour_flag_5|Tržiště
+str_mp_arabian_village_flag_1|Vinařství
+str_mp_arabian_village_flag_2|Zemědělská usedlost
+str_mp_arabian_village_flag_3|Opevněné město
+str_mp_ardennes_flag_1|Ferme du Fresnois
+str_mp_ardennes_flag_2|Ferme de la Grange Dimiere
+str_mp_ardennes_flag_3|Strážní věž
+str_mp_ardennes_flag_4|Rybářská chatrč
+str_mp_ardennes_flag_5|Ferme de Bray
+str_mp_ardennes_flag_6|Mrtvý les
+str_mp_ardennes_flag_7|Skaliska
+str_mp_avignon_flag_1|Tábor
+str_mp_avignon_flag_2|Město
+str_mp_avignon_flag_3|Mlýn
+str_mp_avignon_flag_4|Vesnice
+str_mp_borodino_flag_1|Město
+str_mp_borodino_flag_2|Vesnice
+str_mp_borodino_flag_3|Pevnůstka
+str_mp_borodino_flag_4|Mlýn
+str_mp_borodino_flag_5|Borodino
+str_mp_borodino_flag_6|Velká pevnost
+str_mp_borodino_flag_7|Malá pevnost
+str_mp_columbia_hill_farm_flag_1|Les
+str_mp_columbia_hill_farm_flag_2|Stodola
+str_mp_columbia_hill_farm_flag_3|Hospodářství
+str_mp_columbia_hill_farm_flag_4|Vinice
+str_mp_european_city_flag_1|Kostel
+str_mp_european_city_flag_2|Náměstí
+str_mp_european_city_flag_3|U Vince
+str_mp_european_city_flag_4|Ulice
+str_mp_french_farm_flag_1|Les
+str_mp_french_farm_flag_2|Pevnůstka
+str_mp_french_farm_flag_3|Statek
+str_mp_hungarian_plains_flag_1|Tkalcovna
+str_mp_hungarian_plains_flag_2|Město
+str_mp_hungarian_plains_flag_3|Mlýn
+str_mp_hungarian_plains_flag_4|Opuštěný dům
+str_mp_hungarian_plains_flag_5|Chatrč
+str_mp_hungarian_plains_flag_6|Panství
+str_mp_landshut_flag_1|Landshut
+str_mp_landshut_flag_2|Cesta na Abensberg
+str_mp_landshut_flag_3|Předměstí Landshutu
+str_mp_landshut_flag_4|Most
+str_mp_landshut_flag_5|Srub
+str_mp_landshut_flag_6|Statek
+str_mp_landshut_flag_7|Brod
+str_mp_russian_village_flag_1|Dřevorubecká osada
+str_mp_russian_village_flag_2|Lovecná osada
+str_mp_russian_village_flag_3|Ruská vesnice
+str_mp_minden_flag_1|Základní tábor
+str_mp_minden_flag_2|Minden
+str_mp_minden_flag_3|Hahlen
+str_mp_minden_flag_4|Statek Netsband
+str_mp_minden_flag_5|Stemmer
+str_mp_minden_flag_6|Hospoda Todtenhausen
+str_mp_minden_flag_7|Kaple Malbergen
+str_mp_minden_flag_8|Neuland
+str_mp_minden_flag_9|Finter Reie
+str_mp_oaksfield_flag_1|Velitelství  1
+str_mp_oaksfield_flag_2|Velitelství  2
+str_mp_oaksfield_flag_3|Zemědělská usedlost
+str_mp_oaksfield_flag_4|Trh
+str_mp_oaksfield_flag_5|Oakstown
+str_mp_quatre_bras_flag_1|Pireaumont
+str_mp_quatre_bras_flag_2|Quatre Bras
+str_mp_quatre_bras_flag_3|Bossu Woods
+str_mp_quatre_bras_flag_4|Petit Pireaumont
+str_mp_quatre_bras_flag_5|Gemioncourt
+str_mp_river_crossing_flag_1|Pevnost 1
+str_mp_river_crossing_flag_2|Pevnost 2
+str_mp_river_crossing_flag_3|Martinice
+str_mp_roxburgh_flag_1|Rybářský trh
+str_mp_roxburgh_flag_2|Vesnice u řekx
+str_mp_roxburgh_flag_3|Sídlo u jezera
+str_mp_roxburgh_flag_4|Řemeslnická usedlost
+str_mp_roxburgh_flag_5|Middleton
+str_mp_roxburgh_flag_6|Svatně
+str_mp_roxburgh_flag_7|Dřevorubecký srub
+str_mp_schemmerbach_flag_1|Statek u Schmmerbachu
+str_mp_schemmerbach_flag_2|Most u Schemmerbachu
+str_mp_schemmerbach_flag_3|Brod
+str_mp_schemmerbach_flag_4|Konopné pole
+str_mp_slovenian_village_flag_1|Cesta ke slovinské vesnici
+str_mp_slovenian_village_flag_2|Přístav
+str_mp_slovenian_village_flag_3|Slovinská vesnice
+str_mp_slovenian_village_flag_4|Les
+str_mp_slovenian_village_flag_5|Řeka
+str_mp_champs_elysees_flag_1|Západní ulice
+str_mp_champs_elysees_flag_2|Východní ulice
+str_mp_champs_elysees_flag_3|Jihozápadní čtvrť
+str_mp_champs_elysees_flag_4|Jihovýchodní čtvrť
+str_mp_champs_elysees_flag_5|Severovýchodní čtvrť
+str_mp_champs_elysees_flag_6|Severozápadní čtvrť
+str_mp_champs_elysees_flag_7|Arc de Triomphe
+str_mp_fort_vincey_flag_1|Pevnost Whittington
+str_mp_fort_vincey_flag_2|Pevnůstka
+str_mp_fort_vincey_flag_3|Předsunutá pevnůstka
+str_mp_fort_vincey_flag_4|Zákop
+str_mp_fort_vincey_flag_5|Velká pevnost
+str_mp_swamp_flag_1|Tábor
+str_mp_swamp_flag_2|Siegburg
+str_mp_swamp_flag_3|Most
+str_mp_swamp_flag_4|Ostrov v mokřině
+str_mp_swamp_flag_5|Hlavní silnice
+str_mp_swamp_flag_6|Hřbitov
+str_mp_swamp_flag_7|Rybářská chata
+str_mp_walloon_farm_flag_1|Východní ležení
+str_mp_walloon_farm_flag_2|Západní ležení
+str_mp_walloon_farm_flag_3|Východní kopec
+str_mp_walloon_farm_flag_4|Statek
+str_mp_walloon_farm_flag_5|Západní kopec
+str_mp_walloon_farm_flag_6|Pevnůstka
+str_scene_making_welcome_message|Vítej v režimu editace hry.^Můžeš zde vytvářet nové scénáře nebo upravovat ty stávající.^^Nastavení rekvizit:^^# Počasí:^spr mm weather time      # var1 = time of day 0-23; Výchozí = 15 (hodin)^spr mm weather rain      # var1 = rain type; 1 = rain 2 = snow, var2 = rain amount 0-25^spr mm weather clouds    # var1 = cloud amount 0-100; Default = 30^spr mm weather fog       # var1 = fog distance in meters x 10 where fog completely blocks visibility. 1-127^spr mm weather thunder   # var1 = thunder type: 0 = none 1 = thunder only 2 = thunder & lighting,^                         # var2 = thunder frequency 0-100 ; the higher value the more thunder.^^# Door props:^All openable doors       # var1 = Team ownership; 1 = Team1 can open, 2 = Team2 can open; else all can open.^^# Cannon setting props:^spr mm spawn with cannon # If added to the map artillery sargeants spawn with the cannon.^
+str_tutorial_info_1|U čerta! Tohle je zatracený kafe! Já chtěl ČAAAAJ!!!... Povídám! Ty tam! Vítej v úvodu hry hře Mount&Blade: Napoleonic Wars, drahý příteli!^ Výcvik začni tím, že pomocí kláves ""WASD"" dojdeš na pozici označenou šipkou. Myší se může rozhlížet kolem: Jistě ti tak neunikne žádný Francouz, že ne? Bleee!"
+str_tutorial_info_2|Vidíš před sebou ten úžasný britský vynález? Podívej se na mušketu a stiskem klávesy ""F"" ji seber!"
+str_tutorial_info_3|Skvělé! Konečne jste ozbrojen, pane! Pojďme společně poškádlit terče, které stojí před námi.^Přidržením levého tlačítka myši mušketu zacílíš. Pohybem myši svou mušku upravíš. Nezapomínej, že muškety jsou poněkud nepředvídatelné. Abychom byli přesnější, jsou příšerně nepřesné. Bleeee!^Jakmile dostaneš cíl na mušku, pusť levé tlačítko myši a zbraň vystřelí!
+str_tutorial_info_4|Smůla! Tvoje rána minula cíl. Nabij a zkus to znovu.^ Stiskni levé tlačítko myši a počkej, až bude zbraň nabitá - trvá to několik vteřin, měj proto trpělivost. Pamatuj, že během dobíjení se nemůžeš pohybovat.^Až budeš mít nabito, zkus se trefit znovu. Pokud cíl nezasáhneš, nic si z toho nedělej. Opět nabij a vystřel.
+str_tutorial_info_5|Výborně! Jestli chceš, můžeš v nácviku pokračovat.^ Pokud máš dojem, že už ti střelba jde, pokračuj do prostoru vyznačeného šipkou vlevo.
+str_tutorial_info_6|Nádhera! Přeješ-li si, můžeš nabít a střílet znovu.^ Stiskni levé tlačítko myši a počkej, až bude zbraň nabitá - trvá to několik vteřin, měj proto trpělivost. Pamatuj, že během dobíjení se nemůžeš pohybovat.^Pokud máš dojem, že už ti střelba jde, pokračuj do prostoru vyznačeného šipkou vlevo.
+str_tutorial_info_7|Během bitvy může nastat chvíle, kdy je lepší utkat se s Frantíky pěkně tělo na tělo. A proto je tvá mušketa vybavena bajonetem.^Tvá zbraň je ale nyní v ""palebném režimu"". Bajonet nasadíš tak, že přepneš do režimu ""kontaktního boje"". Změnu provedeš pomocí tlačítka ""X"". Stiskni ho."
+str_tutorial_info_8|Perfektní. Nyní se můžeš s vycpanými panáky utkat na ostří nože.^ALE! Ještě než se proti nim rozeběhneš, musím ti prozradit důležitou věc.^Nemusíš celou dobu stát, můžeš si také kleknout. Zaklekni stiskem klávesy ""Z""."
+str_tutorial_info_9|Dobře! Tvoje postava zaklekla. A protože zbraň je připravena v režimu ""kontaktního boje"", svírá voják bajonet. Toto postavení je výhodné, pokud čelíš útoku jezdectva.^Vstaň a pokračuj. Postavit se můžeš stiskem klávesy ""Z"" nebo pohybem v libovolném směru."
+str_tutorial_info_10|A nyní si procvičíme útok a obranu. Stiskni levé tlačítko a pohni myší ve směru, kterým si přeješ útočit. Mušketou s nasazeným bajonetem můžeš udeřit buď nahoru nebo dolů. Jiné zbraně lze používat jinak. Například mečem se můžeš rozhánět ve čtyřech směrech: nahoru, dolů, doleva a doprava. Útok provedeš tak, že levé tlačítko myši pustíš.^Obrana funguje podobně. Přidrž pravé tlačítko a myší pohni do směru, ze kterého přichází útok. Každá ze zbraní může blokovat údery ze všech čtyř stran. Vždy musíš zaujmout správné obranné postavení, jinak si tě žabožrouti podají.^^Nyní si procvič boj s bajonetem na připravených panácích.
+str_tutorial_info_11|Dobrá práce!
+str_tutorial_info_12|Když teď ovládáš základy pěchotního boje, procvičíme si také jízdu na koni.^Máš krásně vyleštěnou zbroj a nádherného koně. Nasedneš tak, že se ke zvířeti přiblížíš a stiskneš tlačítko ""F""."
+str_tutorial_info_13|Sedí se ti pohodlně? To je dobře. K pohybu slouží klávesy ""WASD"", zásady jízdního přesunu se ale drobně liší: klávesou ""W"" zvýšíš rychlost a klávesou ""S"" ji snížíš";" klávesy ""A"" a ""D"" slouží ke změně směru. Pohybem myši se můžeš rozhlížet po okolí, automaticky tím ale změníš i směr jízdy. Zkus nyní dojet na místo označené šipkou."
+str_tutorial_info_14|Úžasné! A teď koně zastav. Konečně nastal čas naučit se střílet ze sedla. Vidíš ty cíle támhle v dálce? Střelba z koňského hřbetu se podobá střelbě ze země, využij tedy toho, co už umíš, a zasáhni připravený terč.
+str_tutorial_info_15|U čerta smradlavýho! Vedle! Nic se neděje. Nabij a zkus to znovu. Pamatuj, že i na koni se při střelbě nesmíš hýbat. Nabij a zkus to znovu.
+str_tutorial_info_16|Teď se ti to povedlo! Jestli chceš, můžeš ještě procvičovat.^^Až uznáš za vhodné, představíme si slasti jízdního kontaktního boje. Budeš potřebovat meč. Meč vytasíš tak, že posuneš kolečko myši dopředu.
+str_tutorial_info_17|Bravo! Pokračuj, pokud chceš. Pamatuj, že i na koni se při střelbě nesmíš hýbat.^^Až uznáš za vhodné, představíme si slasti jízdního kontaktního boje. Budeš potřebovat meč. Meč vytasíš tak, že posuneš kolečko myši dopředu.
+str_tutorial_info_18|I zde platí, že kontaktní boj ze sedla se podobá boji na zemi. Projeď podél panáků a znič je.^Snaž se je zasáhnout v trysku. Pokud zastavíš, ztratíš rychlost a pohyblivost. Pokud si úder dobře načasuješ, nestihne si nepřítel ani všimnout, že je mrtvý.
+str_tutorial_info_19|Krása! Teď už ovládáš ty nejdůležitější aspekty jízdního boje.
+str_tutorial_info_20|A teď! Je čas na dělostřelecký výcvik.^Dojdi k dělu a vezmi si munici z bedny.^^Známe tři druhy střeliva:^Koule má mnoho použití, ale nejvíce se hodí proti budovám;^Kartáč tvoří množství kuliček, které zabijí každého, kdo stojí před hlavní, vůbec se ale nehodí ke střelbě na velkou vzdálenost;^Výbušné granáty jsou skvělé v boji proti pěchotě. Po výbuchu se po okolí rozletí velké množství ocelových střepin. Výbušné granáty ale nelze nabít do běžných děl.
+str_tutorial_info_21|Střelu založ do děla zpředu. Postav se tak, aby se zobrazil text ""Nabít"", přidrž klávesu ""F"" a počkej, dokud se dělo nenabije."
+str_tutorial_info_22|Nyní musíš dělo napěchovat nabíječem. Opět se postav k hlavni a drž klávesu ""F"", dokud nebude hotovo."
+str_tutorial_info_23|Před výstřelem musíš dělo posunout vpřed. Podívej se na něj a přidrž klávesu ""F""."
+str_tutorial_info_24|Nyní se podívej na kořen hlavně tak, aby se zobrazil text ""Ovládat"". Poté stiskni klávesu ""F""."
+str_tutorial_info_25|Dělo máš teď ve své moci! Myší zaměř. Stiskem levého tlačítka myši vystřelíš, stiskem pravého od děla ustoupíš. Pro teď stiskni levé tlačítko a vystřel.
+str_tutorial_info_26|A to je konec výcviku. Nyní ovládáš základy boje ve hře Mount&Blade: Napoleonic Wars. Stiskem klávesy ""Tab"" výcvik ukončíš.^^Hodně štěstí na bojišti! Rozchod na čaj a sušenky!"
+str_vienna_1|Vybraných beden: {reg0}/{reg1}
+str_austerlitz_1_1|Vln odřaženo: {reg0}/{reg1}
+str_dresden_1_1|Útočníků poraženo: {reg0}/{reg1}
+str_dresden_1_2|Vln odraženo: {reg0}/{reg1}
+str_dresden_2_1|Čtverců zničeno: {reg0}/{reg1}
+str_dresden_2_2|Řad zničeno: {reg0}/{reg1}
+str_cutscene_vienna_1|Dunaj, druhá nejdelší řeka Evropy, dělí Rakouské císařství na dvě části. ^Po svém neúspěšném tažení na Ulm se rakouská armáda vrací přes řeku k Vídni.
+str_cutscene_vienna_2|Francouzská hrotová garda je ale nedaleko. ^Všechny mosty byly zničeny, a přechod u Vídně je proto pro Francouze klíčový.
+str_cutscene_vienna_3|Pokud Rakušané francouzský záměr prohlédnou, most vyhodí do povětří. ^Podaří-li se jim to, Francouzi budou muset pronásledování vzdát a jejich vítězství u Ulmu přijde vniveč.
+str_cutscene_vienna_4|Francouzští maršálci Murat a Lannes nemají snadnou pozici.^Musejí se dostat přes most, aniž by si jich Rakušané všimli.
+str_cutscene_vienna_5|Vymysleli proto léčku: ^Murat a Lannes se pokusí Rakušany přesvědčit, že již došlo k podpisu příměří.
+str_cutscene_vienna_6|Tvým úkolem je mezitím v tichosti most zajistit, aby po něm mohlo vojsko přejít...
+str_cutscene_austerlitz_1_1|Přijíždíš na bojiště do blízkosti vesnice Sokolnice. ^Podle zvědů vesnici obsadili Rusové. Tvým úkolem je Sokolnici získat zpět.
+str_cutscene_austerlitz_1_2|Podívej! Někdo sem jede.
+str_cutscene_austerlitz_1_3|Posel: ""Rusové obsadili vesnici! Musíš ji získat zpět!"
+str_cutscene_austerlitz_1_4|Zdá se, že k bitvě dojde dříve, než jsme čekali. ^Inu dobrá, vyžeň Rusy z vesnice!
+str_cutscene_austerlitz_1_5|Vesnice je znovu ve francouzských rukách, výborně! ^Rusové ale zahajují protiútok. Nesmějí uspět.
+str_cutscene_austerlitz_1_6|Posily dorazily!
+str_cutscene_austerlitz_1_7|Podařilo se ti ubránit vesnici před nepřítelem. ^Velmi nám to pomůže ke konečnému vítězství!
+str_cutscene_austerlitz_1_8|Další posel!
+str_cutscene_austerlitz_1_9|Posel: ""Generál se doslechl o tvém zdaru při obsazení a obraně vesnice. ^Běž ty dobré zprávy povědět císaři sám!"
+str_cutscene_dresden_1_1|Drážďany, hlavní město Saska. ^Město se brání těžkému útoku sil Koalice a ty musíš pomoci s jeho záchranou.
+str_cutscene_dresden_1_2|Rusové obsadili hradby a další se připravují na zteč vstupních bran. ^Tvým úkolem je hradby zajistit, zatímco tvoji spojenci se nepříteli postaví u bran.
+str_cutscene_dresden_1_3|Hradby jsou naše, ale nebezpečí ještě nepominulo. ^Tvoji spolubojovníci u bran se už déle neudrží, musíš jim pomoct!
+str_cutscene_dresden_1_4|První výpad byl odražen, nepřítel se ale šikuje k dalšímu. ^Bránou nesmějí projít!
+str_cutscene_dresden_1_5|Ruské řady řídnou a tlak na hradby slábne. ^Generál uvolnil další muže, kteří tě podpoří.
+str_cutscene_dresden_1_6|Útok ztroskotal a v řadách nepřátel vládne zmatek. ^Využij příležitosti, vyraž do protiútoku a zažeň je na útěk!
+str_cutscene_dresden_2_1|Město jsme ubránili, okolní statky a vesnice jsou stále v moci nepřátel. ^Osvoboď tuto vesnici z rukou Rakušanů.
+str_cutscene_dresden_2_2|Nejprve ale musíš porazit nepřátele, kteří stále operují ve volné krajině. ^Zvědové hlásí, že před námi jsou čtyři kumpanie.
+str_cutscene_dresden_2_3|Nepřítel naneštěstí zpozoroval tvé dragouny a sešikoval se do čtverců, aby hrozbě čelil. ^Čeká tě lítý boj, protože pěchota a dělostřelectvo jsou stále na cestě, a nemůžou tě proto podpořit.
+str_cutscene_dresden_2_4|Zdá se ale, že rakouský důstojník se od svých mužů dost vzdálil! ^Podaří-li se ti ho zajmout, jeho muži snad ztratí kuráž a naše šance v bitvě se zvýší...
+str_cutscene_dresden_2_5|Formace nepřátel byly rozdrceny, zbývá obsadit vesnici. ^Vyraž do útoku a splň rozkaz.
+str_cutscene_dresden_2_6|Naštěstí dorazila další jízda. ^Nasaď ji s rozvahou a vítězství nás nemine. En avant!
+str_mission_briefing_1|1. prosince 1805^Příjemně jsme si odpočinuli, opět se ale vydáváme na cestu. Kéž je to naše poslední! ^Říká se, že pochodujeme přímo na bojiště.^^Čas strávený na víděňských předměstích byl tím nejlepším z celé války. Bohaté vesnice ^plné velkých, čistých domů, lahodné jídlo i víno. A ty dívky, co nám tak usilovně pomáhaly ^doplnit ztracené síly.^Nekonečný pochod psím počasím otřásl naší morálkou. Pronásledování prchajících ^Spojenců nás vyčerpalo. Jak rádi jsme na okamžik zapomněli.^^Poklidný odpočinek ale náhle skončil; přišel rozkaz připojit se k hlavním silám, a tak ^mašírujeme do úmoru, vstříc bitvě. Kvapným pochodem nechali jsme půl ^regimentu za sebou, neboť generál Friant jest rozhodnut dorazit včas. ^Na posily nečekáme.^^Spojenci nás početně převyšují, zejména v jezdectvu. Vypadá to, že ^tentokrát se budeme spíše bránit, na soudy je ale příliš brzy. Císařský posel jedoucí z ^hlavního stanu nás cestou zpravil, že náš týl nepřítel zahnal ^nedaleko Vishau, a my ustupujeme ke Slavkovu.^^Těžko se mi o tom mluví, ale myšlenky na nadcházející střetnutí naplňují mě děsem. Marengo byla poslední, ^tedy, přiznávám jediná velká bitva, které jsem se účastnil. A je tomu už 5 let. Stále si ^pamatuji hrůzy toho dne; třesu se jen při tom pomyšlení. ^Jaké štěstí, že jsem své pocity až dosud skrýval. ^Moji druzi opovrhují zbabělci a trestají je stejně jako zrádce.
+str_mission_briefing_2|1. prosince 1805^Příjemně jsme si odpočinuli, opět se ale vydáváme na cestu. Kéž je to naše poslední! ^Říká se, že pochodujeme přímo na bojiště.^^Čas strávený na víděňských předměstích byl tím nejlepším z celé války. Bohaté vesnice ^plné velkých, čistých domů, lahodné jídlo i víno. A ty dívky, co nám tak usilovně pomáhaly ^doplnit ztracené síly.^Nekonečný pochod psím počasím otřásl naší morálkou. Pronásledování prchajících ^Spojenců nás vyčerpalo. Jak rádi jsme na okamžik zapomněli.^^Poklidný odpočinek ale náhle skončil; přišel rozkaz připojit se k hlavním silám, a tak ^mašírujeme do úmoru, vstříc bitvě. Kvapným pochodem nechali jsme půl ^regimentu za sebou, neboť generál Friant jest rozhodnut dorazit včas. ^Na posily nečekáme.^^Spojenci nás početně převyšují, zejména v jezdectvu. Vypadá to, že ^tentokrát se budeme spíše bránit, na soudy je ale příliš brzy. Císařský posel jedoucí z ^hlavního stanu nás cestou zpravil, že náš týl nepřítel zahnal ^nedaleko Vishau, a my ustupujeme ke Slavkovu.^^Těžko se mi o tom mluví, ale myšlenky na nadcházející střetnutí naplňují mě děsem. Marengo byla poslední, ^tedy, přiznávám jediná velká bitva, které jsem se účastnil. A je tomu už 5 let. Stále si ^pamatuji hrůzy toho dne; třesu se jen při tom pomyšlení. ^Jaké štěstí, že jsem své pocity až dosud skrýval. ^Moji druzi opovrhují zbabělci a trestají je stejně jako zrádce.
+str_mission_briefing_3|26. srpna 1813^Hotovíme se k pochodu na Drážďany, kde naši nepočetnou posádku kdysi oblehli ^početnější síly Spojenců. Dělostřelecká palba je prý tak urputná, že se okenní tabulky ^otřásají i 10 kilometrů od města.^^Původní plán zněl napadnout a narušit komunikační linie Spojenců, ^ale císař svůj záměr před dvěma dny změnil, když se dozvěděl o nebezpečí, které saskému městu hrozí. ^Informován o rozsahu hrozby, vyslal nás, abychom městu pomohli, zatímco zbytku svých sil ^pod velením generála Vandammeho rozkázal pokračovat v půdních záměrech.^Není se co divit, že chtějí Spojenci Drážďany obsadit. Obrana města je mizerná ^a posádka nepočetná. Napoleon ale zamýšlí Spojence nepříjemně překvapit, ^neboť ze směru našeho pochodu nedrží nepřítel žádné hlídky.^^Je nás mnoho a máme početné jezdecvo vedené samotným princem Muratem. Bohužel, ^počasí se každým dnem zhoršuje a až dorazíme k Drážďanům, ^bude nejspíš pršet. Takové podmínky připraví nás jistě ^o naši jízdní převahu.^^Osobně se na bitvu těším. Konečně se Rusům pomstíme ^za strádání posledních šesti měsíců. Snažím se zapomenout na hrůzy, kterých jsme byli svědky cestou z ^Moskvy do Berezina, vypudit ty výjevy z mysli ale nelze. Noční můry neopustí mě ^do konce mých dní. ^Musíme tuhle bitvu vyhrát, tuhle válku, aby naši druhové neumřeli zbytečně.
+str_mission_briefing_4|6. září 1812^^Válka mě již unavuje. Pochod dal se snést, ale posledních pár dní je tak náročných. ^Teprve nyní cítím se být zdráv. K čertu, to počasí je strašné! Přes den vedro k zalknutí, ^chladné noci, suchý vzduch. Ruských rolníků už není vidět. Spálili své domy a utekli, ^jen málo nám nechali k přežití na naší dlouhé cestě k Moskvě.^^Naši muži jsou unavení. Příliš dlouho nepříteli jen dýcháme na záda. ^Těší se ale z toho, že pochod se chýlí ke konci a s radostí vítají nadcházející bitvu. ^Rusové jsou v našich očích zbabělci. Očekáváme rychlé vítězství, těšíme se na návrat do náručí našich milovaných. ^Vojáci přejí si dokonce nastoupit k bitvě ve slavnostních uniformách. Naše touhy a únava nás ^oslepily: muži netuší, že to nejtěžší nás ještě čeká.^^Rusové se mezitím zastavili a zakopávají se na pozicích před posledním střetnutím.^^Jejich přípravy probíhají na dohled od reduty Ševardino, daleko od týlu vojska, ^což z nich činí lákavý cíl. Maršál Davout dostal rozkaz redutu obsadit ^stůj co stůj. Připojím se k jednotkám generála Companse a dohlédnu, že se vše podaří podle plánu.^^Musím být ale ostražitý. Ještě nikdy jsem neviděl takové opevnění! Již nepochybuji o tom, že tihle Rusové ^žádnými zbabělci nejsou. ^Dále už neustoupí ani krok. Moskvu budou bránit do posledního dechu.
+str_mission_briefings_end|konec popisu mise
+str_map_changed|Změna mapy
+str_round_changed|Začátek nového kola
+str_teamkilled_s1_s2_horse|{s1} zabíjí koně spoluhráče {s2}.
+str_teamwounded_s1_s2|{s1} zraňuje spoluhráče {s2} za {reg60} zranění.
+str_teamwounded_s1_s2_horse|{s1} zraňuje koně spoluhráče {s2} za {reg60} zranění.
+str_revive_player|Obnovit hráče
+str_revive_all|Obnovit všechny
+str_revive_player_s2_s3|{s2} obnovuje hráče {s3}.
+str_revive_all_s2|{s2} obnovuje každého.
+str_cheat_god_mode|Božský mód
+str_cheat_god_mode_s3_s2|{s2} zapíná Božský mód pro hráče {s3}.
+str_cheat_god_mode_s3_s2_2|{s2} vypíná Božský mód pro hráče {s3}.
+str_suicide_player|Sebevražda
+str_s2_suicide|{s2} páchá sebevraždu.
+str_admin_set_limit_surgeon_s0_reg1|{s0} nastavuje limit pro třídu Chirurgů na {reg1} % týmu.
+str_limit_surgeon|Limit Chirurgů v každém týmu (%):
+str_admin_set_limit_arty_train_s0_reg1|{s0} nastavuje limit pro třídu Dělostřelectvo na {reg1} % týmu
+str_limit_arty_train|Limit Dělostřelectva v každém týmu (%):
+str_admin_set_groupfight_mode_s0_s9|{s0} nastavuje použití módu skupinového boje na{s9}.
+str_groupfight_mode|Zakázat palné zbraně (skupinový boj)
+str_admin_set_competitive_score_mode_s0_s9|{s0} nastavuje mód Soutěživé Skóre na {s9}.
+str_competitive_score_mode|mód Soutěživé Skóre
+str_more_admin_tools|Další nástroje admina
+str_choose_an_admin_tool|Zvolte nástroj admina:
+str_spawn_player|Oživit hráče
+str_spawn_all|Oživit všechny
+str_spawn_all_s2|{s2} oživuje každého
+str_spawn_player_s2_s3|{s2} oživuje hráče {s3}.
+str_welcome_message_toggle|Uvítací zpráva je nastavena na {s9}.
+str_commit_suicide|Jsi si jistý, že chceš umřít?
+str_no_line_inf_spread|Zabránit hráči ve schopnosti rozšířit pluky pěších jednotek.
+str_admin_set_no_line_inf_spread_s0_s9|{s0} nastavuje Zabránit hráči ve schopnosti rozšířit pluky pěších jednotek na {s9}.
+str_line_inf_spread|Aktuální nastavení serveru nepovoluje plukům pěších jednotek se rozšířit přes jejich počáteční rozestoupení.
+str_num_custom_maps|Zvolte # dostupných upravených map.
+str_admin_set_num_custom_maps_s0_reg1|{s0} nastavuje počet dostupných upravených map ze kterých lze volit na {reg1}.
+str_no_rambo|Zabránit hráči ve schopnosti působit zranění mimo četu.
+str_no_rambo_warning|Jsi příliš daleko od své čety! Nezpůsobuješ zranění.
+str_admin_set_no_rambo_s0_s9|{s0} nastavuje Zabránit hráči ve schopnosti působit zranění mimo četu na {s9}.
+str_no_rambo_range|Maximální vzdálenost od čety v metrech (rambo):
+str_admin_set_no_rambo_range_s0_reg1|{s0} Nastavuje maximální vzdálenost od čety na {reg1} metrů (V podstatě žádné rambo).
+str_set_admin_true_s2|{s2} je whitelistem zvolen adminem.
+str_set_admin_false_s2|Odejmut admin hráče {s2}, nenachází se na whitelistu.
+str_return_set_admin_true_s2|{s2}, Jsi zvolen za admina whitelistem adminů.
+str_return_set_admin_false_s2|{s2}, Tvůj admin byl odejmut whitelistem adminů.
+str_admin_white_list_is_enabled|Whitelist adminů je povolen.
+str_admin_white_list_is_disabled|Whitelist adminů je zakázán.
+str_admin_white_list_added_key_reg0|Přidává klíč: {reg0} k whitelistu adminů.
+str_healed_player_s2_reg4_reg5|Uzdravuje hráče {s2} za {reg4}%, aktuální zdraví: {reg5}%.
+str_healed_player_full_s2_reg4|Uzdravuje hráče {s2} za {reg4}%, a je nyní plně uzdraven.
+str_healed_player_no_more_s2_reg4|Uzdravuje hráče {s2} za {reg4}%, a již nemůže být dále uzdraven.
+str_not_healed_player_full_s2|Hráč {s2} je již plně uzdraven.
+str_not_healed_player_no_more_s2|Hráč {s2} již nemůže být dále uzdraven.
+str_got_healed_player_s2_reg4_reg5|Hráč {s2} tě uzdravuje za {reg4}%, aktuální zdraví: {reg5}%.
+str_got_healed_player_full_s2_reg4|Hráč {s2} tě uzdravuje za {reg4}%, nyní jsi plně uzdraven.
+str_got_healed_player_no_more_s2_reg4|Hráč {s2} tě uzdravuje za {reg4}%, již nemůžeš být dále uzdraven.
+str_not_got_healed_player_full_s2|hráč {s2} tě nemůže uzdravit, Jsi již plně uzdraven.
+str_not_got_healed_player_no_more_s2|Hráč {s2} tě nemůže uzdravit, již nemůžeš být dále uzdraven.
+str_healed_player_horse_s2_reg4_reg5|Uzdravuje koně hráče {s2} za {reg4}%, aktuální zdraví: {reg5}%.
+str_healed_player_horse_full_s2_reg4|Uzdravuje koně hráče {s2} za {reg4}%, a již je plně uzdraven.
+str_healed_player_horse_no_more_s2_reg4|Uzdravuje koně hráče {s2} za {reg4}%, a již nemůže být dále uzdraven.
+str_not_healed_player_horse_full_s2|Kůň hráče {s2} již je plně uzdraven.
+str_not_healed_player_horse_no_more_s2|Kůň hráče {s2} již nemůže být dále uzdraven.
+str_got_healed_player_horse_s2_reg4_reg5|Hráč {s2} uzdravuje tvého koně za {reg4}%, aktuální zdraví: {reg5}%.
+str_got_healed_player_horse_full_s2_reg4|Hráč {s2} uzdravuje tvého koně za {reg4}%, a je plně uzdraven.
+str_got_healed_player_horse_no_more_s2_reg4|Hráč {s2} uzdravuje tvého koně za {reg4}%, a již nemůže být dále uzdraven.
+str_not_got_healed_player_horse_full_s2|Hráč {s2} nemůže uzdravit tvého koně, již je plně uzdraven.
+str_not_got_healed_player_horse_no_more_s2|Hráč {s2} nemůže uzdravit tvého koně, již nemůže být dále uzdraven.
+str_healed_horse_s2_reg4_reg5|Uzdravuje {s2} koně za {reg4}%, aktuální zdraví: {reg5}%.
+str_healed_horse_full_s2_reg4|Uzdravuje {s2} koně za {reg4}%, a nyní je plně uzdraven.
+str_healed_horse_no_more_s2_reg4|Uzdravuje {s2} koně za {reg4}%, a již nemůže být dále uzdraven.
+str_not_healed_horse_full_s2|Uzdravuje {s2} kůň je již plně uzdraven.
+str_not_healed_horse_no_more_s2|Hráč {s2} kůň již nemůže být dále uzdraven.
+str_royale_weapon_musket|Vzít mušketu
+str_royale_weapon_pistol|Vzít pistoli
+str_royale_weapon_carabine|Vzít karabinu
+str_royale_weapon_smallsword|Vzít malý meč
+str_royale_weapon_bigsword|Vzít meč
+str_royale_weapon_bottle|Vzít láhev
+str_royale_weapon_axe|Vzít sekeru
+str_royale_weapon_spear|Vzít kopí
+str_royale_weapon_club|Vzít palici
+str_royale_weapon_tool|Vzít nástroj
+str_royale_weapon_ramrod|Vzít nabiják
+str_royale_weapon_lighter|Vzít zapalovač
+str_royale_weapon_ammo|Vzít munici
+str_royale_weapon_ammo_pistol|Vzít munici do pistole
+str_royale_weapon_ammo_musket|Vzít munici do muškety
+str_welcome_message_server|Vítej, {s3}, tvé uživatelské ID je {reg44}. Prosím neporušuj pravidla a užíj si svůj pobyt!

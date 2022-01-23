@@ -1,0 +1,26 @@
+dlga_start:companion_talk|Erfreut Sie erneut zu sehen {Sir/Madam},Wie kann ich ihnen Behilflich sein?.
+dlga_companion_talk:companion_talk_equipment|Zeig mir deine Ausr�stung.
+dlga_companion_talk_equipment:companion_talk_end|Sehr Gut! Hier.
+dlga_companion_talk_end:companion_talk|Noch etwas?
+dlga_companion_talk:companion_talk_opinion|Was halten sie von meiner F�hrung?
+dlga_companion_talk_opinion:companion_talk|Sehr Gut {Sir/Madam}!
+dlga_companion_talk:close_window|Nichts, weiter machen.
+dlga_start:town_merchant_talk|Guten Tag, was kann ich f�r sie tuen?
+dlga_town_merchant_talk:trade_requested_weapons|Ich m�chte eine neue Waffe kaufen. Was haben sie anzubieten?
+dlga_town_merchant_talk:trade_requested_armor|Ich suche nach einer neuen Uniform. Zeig mir was sie zu bieten haben.
+dlga_town_merchant_talk:trade_requested_horse|I denke, ich werde ein pferd kaufen.
+dlga_trade_requested_weapons:merchant_trade|Ah, ja {sir/madam}. Diese Gewehre sind die besten weit und breit.
+dlga_trade_requested_armor:merchant_trade|Nat�rlich, {sir/madam}. Sie werden keine bessere Qualit�t f�r Uniforms finden.
+dlga_trade_requested_horse:merchant_trade|Sie haben ein gutes Auge f�r Pferde, {sir/madam}. Sie werden kein besseres Rosse irgendwo anders finden.
+dlga_merchant_trade:town_merchant_talk|Noch etwas?
+dlga_town_merchant_talk:close_window|Aufwiedersehn.
+dlga_start:camp_dweller_talk|{s14} bereit f�r seine Pflicht {Sir/Madam}!
+dlga_start:camp_dweller_talk.1|Good day, {Sir/Madam}. Haben sie etwas wor�ber wir reden sollten?
+dlga_start:camp_dweller_talk.2|Sir, Ich habe Aufgaben f�r sie, sind sie bereit?
+dlga_start:camp_dweller_talk.3|Es ist mir eine Ehre sie zu treffen, {Sir/Madam}. Wie kann ich ihnen dienen?
+dlga_camp_dweller_talk:close_window|Nichts, weiter machen.
+dlga_camp_dweller_talk:close_window.1|Nichts immoment, sch�nen Abend.
+dlga_camp_dweller_talk:close_window.2|Geben sie mir die Aufgabe! Ich werde sofort aufbrechen!
+dlga_camp_dweller_talk:close_window.3|Ich bin noch nicht bereit.
+dlga_camp_dweller_talk:close_window.4|Egal.
+dlga_start:close_window|Dialog Error. Kein Dialog gefunden!

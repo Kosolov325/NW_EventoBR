@@ -1,0 +1,1174 @@
+str_no_string|Kein String
+str_empty_string| 
+str_yes|Ja.
+str_no|Nein.
+str_blank_string| 
+str_s50_and_s51|{s50} und {s51}
+str_s52_and_s51|{s52} und {s51}
+str_msg_battle_won|Schlacht gewonnen! Drücke Tab zum verlassen...
+str_charge|Nahkampfangriff!
+str_color|Farbe
+str_hold_fire|Feuer Einstellen!
+str_blunt_hold_fire|Feuer Einstellen!
+str_finished|(Fertig)
+str_delivered_damage|Fügte {reg60} Schaden zu.
+str_archery_target_hit|Distanz: {reg61} Meter. Punkte: {reg60}
+str_cant_use_inventory_now|Sie können das Inventar jetzt nich öffnen.
+str_give_up_fight|Möchten sie die Schlacht jetzt aufgeben?
+str_battle_won|Du hast die Schlacht gewonnen!
+str_battle_lost|Du hast die Schlacht verloren!
+str_kingdom_1_adjective|United Kingdom
+str_kingdom_2_adjective|Empire Francais
+str_kingdom_3_adjective|Königreich Preussen
+str_kingdom_4_adjective|Rossiyskaya Imperiya
+str_kingdom_5_adjective|Österreich
+str_kingdom_6_adjective|Osmanische Reich
+str_credits_15|Unused
+str_mp_ambush|Hinterhalt (Tag)
+str_mp_ambush_fog|Hinterhalt (Nebel)
+str_mp_arabian_harbour|Arabischer Hafen (Tag)
+str_mp_arabian_harbour_night|Arabischer Hafen (Nacht)
+str_mp_arabian_village|Arabisches Dorf (Tag)
+str_mp_arabian_village_morning|Arabisches Dorf (Morgen)
+str_mp_arabian_village_conq|Arabisches Dorf (Tag)
+str_mp_arabian_village_conq_morning|Arabisches Dorf (Morgen)
+str_mp_ardennes|Ardennes (Schnee)
+str_mp_ardennes_morning|Ardennes (Morgen)
+str_mp_avignon|Avignon (Tag)
+str_mp_avignon_morning|Avignon (Bewölkt)
+str_mp_bavarian_river|Bayrischer Fluss (Tag)
+str_mp_bavarian_river_cloudy|Bayrischer Fluss (Bewölkt)
+str_mp_beach|Strand (Tag)
+str_mp_beach_morning|Strand (Morgen)
+str_mp_borodino|Borodino (Tag)
+str_mp_borodino_morn|Borodino (Morgen)
+str_mp_champs_elysees|Champs-Elysees
+str_mp_champs_elysees_rain|Champs-Elysees (Regen)
+str_mp_charge_to_the_rhine|Charge to the Rhine (Tag)
+str_mp_charge_to_the_rhine_cloudy|Charge to the Rhine (Bewölkt)
+str_mp_citadelle_napoleon|Citadelle Napoleon (tag)
+str_mp_citadelle_napoleon_morning|Citadelle Napoleon (Morgen)
+str_mp_columbia_hill_farm|Kolumbianische Farm (Tag)
+str_mp_columbia_farm_morning|Kolumbianische Farm (Morgen)
+str_mp_countryside|Landschaft (Tag)
+str_mp_countryside_fog|Landschaft (Nebel)
+str_mp_dust|Dust (Tag)
+str_mp_dust_morning|Dust (Morgen)
+str_mp_european_city_summer|Europäische Stadt (Sommer)
+str_mp_european_city_winter|Europäische Stadt (Winter)
+str_mp_floodplain|Flooplain (Tag)
+str_mp_floodplain_storm|Floodplain (Sturm)
+str_mp_forest_pallisade|Forest Pallisade (Tag)
+str_mp_forest_pallisade_fog|Forest Pallisade (Nebel)
+str_mp_fort_al_hafya|Fort Al Hafya (Tag)
+str_mp_fort_al_hafya_night|Fort Al Hafya (Nacht)
+str_mp_fort_bashir|Fort Bashir (Tag)
+str_mp_fort_bashir_morning|Fort Bashir (Morgen)
+str_mp_fort_beaver|Fort Fausbourg (Tag)
+str_mp_fort_beaver_morning|Fort Fausbourg (Morgen)
+str_mp_fort_boyd|Fort Boyd (Tag)
+str_mp_fort_boyd_raining|Fort Boyd (Regen)
+str_mp_fort_brochet|Fort Brochet (Tag)
+str_mp_fort_brochet_raining|Fort Brochet (Regen)
+str_mp_fort_de_chartres|Fort de Chartres (Tag)
+str_mp_fort_de_chartres_raining|Fort de Chartres (Regen)
+str_mp_fort_fleetwood|Fort Fleetwood (Morgen)
+str_mp_fort_fleetwood_storm|Fort Fleetwood (Sturm)
+str_mp_fort_george|Fort George (Tag)
+str_mp_fort_george_raining|Fort George (Regen)
+str_mp_fort_hohenfels|Fort Hohenfels (Tag)
+str_mp_fort_hohenfels_night|Fort Hohenfels (Nacht)
+str_mp_fort_lyon|Fort Lyon (Tag)
+str_mp_fort_lyon_night|Fort Lyon (Nacht)
+str_mp_fort_mackinaw|Fort Mackinaw (Tag)
+str_mp_fort_mackinaw_raining|Fort Mackinaw (Regen)
+str_mp_fort_nylas|Fort Nylas (Tag)
+str_mp_fort_nylas_raining|Fort Nylas (Regen)
+str_mp_fort_refleax|Fort Willsbridge (Tag)
+str_mp_fort_refleax_night|Fort Willsbridge (Nacht)
+str_mp_fort_vincey|Fort Whittington (Tag)
+str_mp_fort_vincey_storm|Fort Whittington (Sturm)
+str_mp_french_farm|Französiches Farm (Tag)
+str_mp_french_farm_storm|Französiche Farm (Sturm)
+str_mp_german_village|Deutsches Dorf (Morgen)
+str_mp_german_village_rain|Deutsches Dorf (Regen)
+str_mp_hougoumont|Hougoumont (Tag)
+str_mp_hougoumont_night|Hougoumont (Nacht)
+str_mp_hungarian_plains|Ungarische Ebene (Tag)
+str_mp_hungarian_plains_cloud|Ungarische Ebene (Bewölkt)
+str_mp_theisland|Die Insel (Tag)
+str_mp_la_haye_sainte|La Haye Sainte (Tag)
+str_mp_la_haye_sainte_night|La Haye Sainte (Nacht)
+str_mp_landshut|Landshut
+str_mp_landshut_night|Landshut (Nacht)
+str_mp_minden|Minden (Tag)
+str_mp_minden_night|Minden (Morgen)
+str_mp_naval|Seeschlacht (Tag)
+str_mp_oaksfield_day|Oaksfield (Tag)
+str_mp_oaksfield_storm|Oaksfield (Sturm)
+str_mp_outlaws_den|Outlaw's Den (Tag)
+str_mp_outlaws_den_night|Outlaw's Den (Nacht)
+str_mp_quatre_bras|Quatre Bras (Tag)
+str_mp_quatre_bras_night|Quatre Bras (Nacht)
+str_mp_river_crossing|Flussübergang (Tag)
+str_mp_river_crossing_morning|Flussübergang (Morgen)
+str_mp_roxburgh|Roxburgh (Tag)
+str_mp_roxburgh_raining|Roxburgh (Regen)
+str_mp_russian_river_day|Russian River (Tag)
+str_mp_russian_river_cloudy|Russischer Fluss (Bewölkt)
+str_mp_russian_village|Russisches Dorf (Schnee)
+str_mp_russian_village_fog|Russisches Dorf (Nebel)
+str_mp_russian_village_conq|Russisches Dorf (Schnee)
+str_mp_russian_village_conq_night|Russisches Dorf (Nacht)
+str_mp_saints_isle|Saint's Isle (Tag)
+str_mp_saints_isle_rain|Saint's Isle (Regen)
+str_mp_schemmerbach|Schemmerbach (Tag)
+str_mp_schemmerbach_storm|Schemmerbach (Sturm)
+str_mp_siege_of_toulon|Siege of Toulon (Tag)
+str_mp_siege_of_toulon_night|Siege of Toulon (Nacht)
+str_mp_sjotofta|Sjotofta (Tag)
+str_mp_sjotofta_night|Sjotofta (Nacht)
+str_mp_slovenian_village|Slowenisches Dorf (Tag)
+str_mp_slovenian_village_raining|Slowenisches Dorf (Regen)
+str_mp_spanish_farm|Spanische Farm (Tag)
+str_mp_spanish_farm_rain|Spanische Farm (Regen)
+str_mp_spanish_mountain_pass|Spanischer Bergpass (Tag)
+str_mp_spanish_mountain_pass_evening|Spanischer Bergpass (Abend)
+str_mp_spanish_village|Spanisches Dorf (Tag)
+str_mp_spanish_village_evening|Spanisches Dorf (Morgen)
+str_mp_strangefields|Strangefields (Nebel)
+str_mp_strangefields_storm|Strangefields (Sturm)
+str_mp_swamp|Siegburger Sumpf (Nebel)
+str_mp_venice|Venedig (Tag)
+str_mp_venice_morning|Venedig (Morgen)
+str_mp_walloon_farm|Wallonische Farm (Tag)
+str_mp_walloon_farm_night|Wallonische Farm (Nacht)
+str_mp_testing_map|Testkarte
+str_random_multi_plain_medium|Zufallskarte (Mittel)
+str_random_multi_plain_large|Zufallskarte (Groß)
+str_random_multi_plain_medium_rain|Zufallskarte (Mittel) Regen
+str_random_multi_plain_large_rain|Zufallskarte (Groß) Regen
+str_random_multi_steppe_medium|Zufallskarte-Steppe (Mittel)
+str_random_multi_steppe_large|Zufallskarte-Steppe (Groß)
+str_random_multi_steppe_forest_medium|Zufallskarte-Steppe Wald (Mittel)
+str_random_multi_steppe_forest_large|Zufallskarte-Steppe Wald (Groß)
+str_random_multi_snow_medium|Zufallskarte-Schnee (Mittel)
+str_random_multi_snow_medium_snow|Zufallskarte-Schnee (Mittel) Schnee
+str_random_multi_snow_large|Zufallskarte-Schnee (Groß)
+str_random_multi_snow_large_snow|Zufallskarte-Schnee (Groß) Schnee
+str_random_multi_snow_forest_medium|Zufallskarte-Schnee Wald (Mittel)
+str_random_multi_snow_forest_medium_snow|Zufallskarte-Schnee Wald (Mittel) Schnee
+str_random_multi_snow_forest_large|Zufallskarte-Schnee Wald (Groß)
+str_random_multi_snow_forest_large_snow|Zufallskarte-Schnee Wald (Groß) Schnee
+str_random_multi_desert_medium|Zufallskarte-Wüste (Mittel)
+str_random_multi_desert_large|Zufallskarte-Wüste (Groß)
+str_random_multi_desert_forest_medium|Zufallskarte-Wüste Wald (Mittel)
+str_random_multi_desert_forest_large|Zufallskarte-Wüste Wald (Groß)
+str_random_multi_forest_medium|Zufallskarte-Wald (Mittel)
+str_random_multi_forest_medium_rain|Zufallskarte-Wald (Mittel) Regen
+str_random_multi_forest_large|Zufallskarte-Wald (Groß)
+str_random_multi_forest_large_rain|Zufallskarte-Wald (Groß) Regen
+str_mp_custom_map_1|custom map 1
+str_mp_custom_map_2|custom map 2
+str_mp_custom_map_3|custom map 3
+str_mp_custom_map_4|custom map 4
+str_mp_custom_map_5|custom map 5
+str_mp_custom_map_6|custom map 6
+str_mp_custom_map_7|custom map 7
+str_mp_custom_map_8|custom map 8
+str_mp_custom_map_9|custom map 9
+str_mp_custom_map_10|custom map 10
+str_mp_custom_map_11|custom map 11
+str_mp_custom_map_12|custom map 12
+str_mp_custom_map_13|custom map 13
+str_mp_custom_map_14|custom map 14
+str_mp_custom_map_15|custom map 15
+str_mp_custom_map_16|custom map 16
+str_mp_custom_map_17|custom map 17
+str_mp_custom_map_18|custom map 18
+str_mp_custom_map_19|custom map 19
+str_mp_custom_map_20|custom map 20
+str_mp_custom_map_21|custom map 21
+str_mp_custom_map_22|custom map 22
+str_mp_custom_map_23|custom map 23
+str_mp_custom_map_24|custom map 24
+str_mp_custom_map_25|custom map 25
+str_mp_custom_map_26|custom map 26
+str_mp_custom_map_27|custom map 27
+str_mp_custom_map_28|custom map 28
+str_mp_custom_map_29|custom map 29
+str_mp_custom_map_30|custom map 30
+str_mp_custom_map_31|custom map 31
+str_mp_custom_map_32|custom map 32
+str_mp_custom_map_33|custom map 33
+str_mp_custom_map_34|custom map 34
+str_mp_custom_map_35|custom map 35
+str_mp_custom_map_36|custom map 36
+str_mp_custom_map_37|custom map 37
+str_mp_custom_map_38|custom map 38
+str_mp_custom_map_39|custom map 39
+str_mp_custom_map_40|custom map 40
+str_mp_custom_map_41|custom map 41
+str_mp_custom_map_42|custom map 42
+str_mp_custom_map_43|custom map 43
+str_mp_custom_map_44|custom map 44
+str_mp_custom_map_45|custom map 45
+str_mp_custom_map_46|custom map 46
+str_mp_custom_map_47|custom map 47
+str_mp_custom_map_48|custom map 48
+str_mp_custom_map_49|custom map 49
+str_mp_custom_map_50|custom map 50
+str_mp_custom_map_51|custom map 51
+str_mp_custom_map_52|custom map 52
+str_mp_custom_map_53|custom map 53
+str_mp_custom_map_54|custom map 54
+str_mp_custom_map_55|custom map 55
+str_mp_custom_map_56|custom map 56
+str_mp_custom_map_57|custom map 57
+str_mp_custom_map_58|custom map 58
+str_mp_custom_map_59|custom map 59
+str_mp_custom_map_60|custom map 60
+str_mp_custom_map_61|custom map 61
+str_mp_custom_map_62|custom map 62
+str_mp_custom_map_63|custom map 63
+str_mp_custom_map_64|custom map 64
+str_mp_custom_map_65|custom map 65
+str_mp_custom_map_66|custom map 66
+str_mp_custom_map_67|custom map 67
+str_mp_custom_map_68|custom map 68
+str_mp_custom_map_69|custom map 69
+str_mp_custom_map_70|custom map 70
+str_mp_custom_map_71|custom map 71
+str_mp_custom_map_72|custom map 72
+str_mp_custom_map_73|custom map 73
+str_mp_custom_map_74|custom map 74
+str_mp_custom_map_75|custom map 75
+str_mp_custom_map_76|custom map 76
+str_mp_custom_map_77|custom map 77
+str_mp_custom_map_78|custom map 78
+str_mp_custom_map_79|custom map 79
+str_mp_custom_map_80|custom map 80
+str_mp_custom_map_81|custom map 81
+str_mp_custom_map_82|custom map 82
+str_mp_custom_map_83|custom map 83
+str_mp_custom_map_84|custom map 84
+str_mp_custom_map_85|custom map 85
+str_mp_custom_map_86|custom map 86
+str_mp_custom_map_87|custom map 87
+str_mp_custom_map_88|custom map 88
+str_mp_custom_map_89|custom map 89
+str_mp_custom_map_90|custom map 90
+str_mp_custom_map_91|custom map 91
+str_mp_custom_map_92|custom map 92
+str_mp_custom_map_93|custom map 93
+str_mp_custom_map_94|custom map 94
+str_mp_custom_map_95|custom map 95
+str_mp_custom_map_96|custom map 96
+str_mp_custom_map_97|custom map 97
+str_mp_custom_map_98|custom map 98
+str_mp_custom_map_99|custom map 99
+str_mp_custom_map_100|custom map 100
+str_multi_scene_end|multi scene end
+str_multi_game_type_1|Deathmatch
+str_multi_game_type_2|Team Deathmatch
+str_multi_game_type_3|Battle
+str_multi_game_type_5|Capture the Flag
+str_multi_game_type_6|Conquest
+str_multi_game_type_7|Siege
+str_multi_game_type_8|Duel
+str_multi_game_type_9|Commander Battle
+str_multi_game_type_10|King of the Hill
+str_multi_game_type_12|Szenen Editier Modus
+str_multi_game_types_end|multi game types end
+str_multi_game_type_11|Scene Editing
+str_poll_kick_player_s1_by_s0|{s0} will Spieler {s1} vom Server werfen.
+str_poll_ban_player_s1_by_s0|{s0} will Spiler {s1} vom Server werfen.
+str_poll_change_map_to_s1_by_s0|{s0} will die Karte {s1} spielen.
+str_poll_change_map_to_s1_and_factions_to_s2_and_s3_by_s0|{s0} will die Karte {s1} mit den Nationen {s2} und {s3} spielen.
+str_poll_change_number_of_bots_to_reg0_and_reg1_by_s0|{s0} will die Bot Anzahl auf {reg0} und {reg1} ändern.
+str_poll_kick_player|Poll to kick player {s0}: 1 = Annehmen, 2 = Ablehnen
+str_poll_ban_player|Poll to ban player {s0}: 1 = Annehmen, 2 = Ablehnen
+str_poll_change_map|Poll to change map to {s0}: 1 = Annehmen, 2 = Ablehnen
+str_poll_change_map_with_faction|Ändere Karte nach {s0} und Nationen nach {s1} gegen {s2}: 1 = Annehmen, 2 = Ablehnen
+str_poll_change_number_of_bots|Änder Bots nach {reg0} für {s0} und {reg1} für {s1} ab: 1 = Annehmen, 2 = Ablehnen
+str_poll_time_left|({reg0} Sekunden verbleibend)
+str_poll_result_yes|Die Umfrage wurde angenommen.
+str_poll_result_no|Die Umfrage wurde abgelehnt.
+str_server_name|Server Name:
+str_game_password|Server Passwort:
+str_map|Karte:
+str_game_type|Spielmodus:
+str_max_number_of_players|Maximale Spieleranzahl:
+str_number_of_bots_in_team_reg1|Anzahl der Bots in Team {reg1}:
+str_team_reg1_faction|Team {reg1} Nation:
+str_enable_valve_anti_cheat|Erlaube Valve Anti-cheat
+str_allow_friendly_fire|Erlaube Teamschaden (Fernkampf)
+str_allow_melee_friendly_fire|Erlaube Teamschaden (Nahkampf)
+str_friendly_fire_damage_self_ratio|Teamschaden an sich selbst (%):
+str_friendly_fire_damage_friend_ratio|Teamschaden an Freunden (%):
+str_spectator_camera|Zuschauer Kamera:
+str_control_block_direction|Waffen-Block:
+str_map_time_limit|Kartenzeit (Minuten):
+str_round_time_limit|Rundenzeit (Sekunden):
+str_players_take_control_of_a_bot_after_death|Wechsel zu Bot nach Tod:
+str_team_points_limit|Punkte Limit:
+str_point_gained_from_flags|Team punkte für Flaggen (%):
+str_point_gained_from_capturing_flag|Punkte beim Erobern von Flaggen
+str_respawn_period|Wiedereinstiegszeit (Sekunden):
+str_add_to_official_game_servers_list|Füge zur Server Liste hinzu
+str_combat_speed|Geschwindigkeit:
+str_combat_speed_0|Sehr Langsam
+str_combat_speed_1|Langsam
+str_combat_speed_2|Normal
+str_combat_speed_3|Schnell
+str_combat_speed_4|Sehr Schnell
+str_off|Aus
+str_on|An
+str_defender_spawn_count_limit|Verteidiger Wiedereinstiegsanzahl:
+str_unlimited|Unbegrenzt
+str_automatic|Automatisch
+str_by_mouse_movement|Bei Mausbewegung
+str_free|Frei
+str_stick_to_any_player|An Spieler gebunden
+str_stick_to_team_members|An Teammitglieder gebunden
+str_stick_to_team_members_view|Aus sicht der Teammitglieder gebunden
+str_make_factions_voteable|Erlaube Nationenumfragen
+str_make_kick_voteable|Erlaube Rausschmissumfragen
+str_make_ban_voteable|Erlaube Verbannungsumfragen
+str_bots_upper_limit_for_votes|Bot limit für Umfragen:
+str_make_maps_voteable|Erlaube Kartenumfragen
+str_valid_vote_ratio|Erfolderliche Prozentzahl für Umfragen(%):
+str_auto_team_balance_limit|Anzahl der für die automatische Teambalance benötigten Spieler(diff.):
+str_welcome_message|Willkommens Meldung:
+str_initial_gold_multiplier|Gold (%):
+str_battle_earnings_multiplier|Gold Bonus(%):
+str_round_earnings_multiplier|Runden Bonus (%):
+str_allow_player_banners|Erlaube Individuelle Banner
+str_force_default_armor|Erzwinge minimale Ausrüstung
+str_respawning_in_reg0_seconds|Wiedereinstieg in {reg0} Sekunden...
+str_no_more_respawns_remained_this_round|Keine Leben mehr übrig
+str_reg0_respawns_remained|({reg0} Leben verbleibend)
+str_this_is_your_last_respawn|(Dies ist dein letztes Leben)
+str_wait_next_round|(Warte auf die nächste Runde)
+str_yes_wo_dot|Ja
+str_no_wo_dot|Nein
+str_s1_returned_flag|{s1} hat die Flagge zurückgebracht!
+str_s1_auto_returned_flag|{s1} Flagge wurde automatisch zurückgebracht!
+str_s1_captured_flag|{s1} hat die feindliche Flagge zurück erobert!
+str_s1_taken_flag|{s1} hat die feindliche Flagge erobert!
+str_s1_neutralized_flag_reg0|{s1} hat {s0} verloren.
+str_s1_captured_flag_reg0|{s1} hat {s0} eingenommen!
+str_s1_pulling_flag_reg0|{s1} hat angefangen {s0} einzunehmen.
+str_s1_defended_castle|{s1} hat das Fort verteidigt!
+str_s1_captured_castle|{s1} hat das Fort eingenommen!
+str_auto_team_balance_in_20_seconds|Automatische Teambalance wird in 20 Sekunden ausgeführt.
+str_auto_team_balance_next_round|Autotomatische Teambalance wird nächste Runde ausgeführt.
+str_auto_team_balance_done|Teams wurden Automatisch ausbalanciert.
+str_s1_won_round|{s1} hat die Runde gewonnen!
+str_round_draw|Zeit ist abgelaufen. Unentschieden!
+str_round_draw_no_one_remained|Keiner mehr übrig. Unentschieden!
+str_reset_to_default|Auf Standart zurücksetzten.
+str_done|Fertig
+str_player_name|Spielername
+str_kills|Abschuss
+str_deaths|Tode
+str_ping|Ping
+str_dead|Tot
+str_reg0_dead|{reg0} Tot
+str_bots_reg0_agents|Bots: ({reg0})
+str_bot_1_agent|Bot: (1)
+str_score|Punte
+str_score_reg0|Punkte: {reg0}
+str_flags_reg0|(Flaggen: {reg0})
+str_reg0_players|({reg0} Spieler,  {reg40} am Leben,  {reg41} Tot)
+str_reg0_player|({reg0} Spieler,  {reg40} am Leben,  {reg41} Tot)
+str_reg0_alive|{reg0} am Leben
+str_reg0_player_only|{reg0} Spieler
+str_reg0_players_only|{reg0} Spieler
+str_reg0_spectator|{reg0} Zuschauer
+str_reg0_spectators|{reg0} Zuschauer
+str_open_gate|Öffne Tor
+str_close_gate|Schließe Tor
+str_open_door|Öffne Tür
+str_close_door|Schließe Tür
+str_raise_ladder|Lege Leiter an
+str_drop_ladder|Lasse Leiter fallen
+str_back|Zurück
+str_start_map|Starte Karte
+str_choose_an_option|Wähle eine Option:
+str_choose_a_poll_type|Wähle einen Umfragetyp:
+str_choose_faction|Nationen:
+str_choose_a_faction|Wähle eine Nation:
+str_choose_troop|Flaggenauswahl
+str_choose_a_troop|Wähle ein Regiment:
+str_choose_items|Truppen Selektion
+str_choose_an_item|Wähle einen Rang:
+str_options|Optionen
+str_redefine_keys|Tastatureinstellungen
+str_submit_a_poll|Umfrage erstellen
+str_show_game_rules|Zeige Spielregeln
+str_administrator_panel|Administrator Panel
+str_kick_player|Werfe Spieler vom Server
+str_ban_player|Verbanne Spieler
+str_mute_player|Stelle Spieler Stumm
+str_unmute_player|Erlaube Spieler zu Sprechen
+str_quit|Verlassen
+str_poll_for_changing_the_map|Ändere die Karte
+str_poll_for_changing_the_map_and_factions|Ändere die Karte und Nationen
+str_poll_for_changing_number_of_bots|Ändere die Botanzahl
+str_poll_for_kicking_a_player|Werfe Spieler raus
+str_poll_for_banning_a_player|Verbanne einen Spieler
+str_choose_a_player|Wähle einen Spieler:
+str_choose_a_map|Wähle eine Karte:
+str_choose_a_faction_for_team_reg0|Wähle eine Nation für Team{reg0}:
+str_choose_number_of_bots_for_team_reg0|Wähle Botanzahl für Team {reg0}:
+str_spectator|Zuschauer
+str_spectators|Zuschauer
+str_score_2|Punkte
+str_command|Befehl:
+str_profile_banner_selection_text|Wähle ein Banner:
+str_use_default_banner|Nutze das Banner der jeweiligen Nation
+str_player_name_s1|- {s1}
+str_space| 
+str_us_|Uns
+str_allies_|Verbündete 
+str_enemies_|Feinde
+str_routed|Geflohen
+str_maximum_seconds_for_round_is_reg0|Maximale Rundenzeit ist {reg0} Sekunden.
+str_respawn_period_is_reg0_seconds|Wiedereinstiegszeit liegt bei {reg0} Sekunden.
+str_bots_upper_limit_for_votes_is_reg0|Bots Limit für Umfragen liegt bei {reg0}.
+str_map_is_voteable|Karte ist wählbar.
+str_map_is_not_voteable|Karte ist nicht wählbar
+str_factions_are_voteable|Nationen sind wählbar.
+str_factions_are_not_voteable|Nationen sind nicht wählbar.
+str_players_respawn_as_bot|Spieler spawnen als Bot wieder.
+str_players_do_not_respawn_as_bot|Spieler spawnen nicht als Bot wieder.
+str_kicking_a_player_is_voteable|Spieler können herausgeworfen werden.
+str_kicking_a_player_is_not_voteable|Spieler können nicht herausgeworfen werden.
+str_banning_a_player_is_voteable|Verbannen von Spielern ist möglich.
+str_banning_a_player_is_not_voteable|Verbannen von Spielern ist nicht möglich.
+str_player_banners_are_allowed|Eigene Banner sind erlaubt.
+str_player_banners_are_not_allowed|Eigene Bannner sind nicht erlaubt.
+str_default_armor_is_forced|Minimale Ausrüstung ist erzwungen.
+str_default_armor_is_not_forced|Minimale Ausrüstung ist nicht erzwungen.
+str_percentage_of_yes_votes_required_for_a_poll_to_get_accepted_is_reg0|Umfrageergebnis benötig um angenommen zu werden liegt bei: {reg0}%.
+str_auto_team_balance_threshold_is_reg0|Automatische Team balance liegt bei{reg0}.
+str_starting_gold_ratio_is_reg0|Gold ist bei{reg0}%.
+str_combat_gold_bonus_ratio_is_reg0|Goldbonus ist bei {reg0}%.
+str_round_gold_bonus_ratio_is_reg0|Godlbonus ist bei{reg0}%.
+str_point_gained_from_flags_is_reg0|Teampunke für Flaggen liegen bei {reg0}%.
+str_point_gained_from_capturing_flag_is_reg0|Punkte fürs erobern von Flaggen: {reg0}%.
+str_map_time_limit_is_reg0|Kartenzeit liegt bei {reg0} Minuten.
+str_team_points_limit_is_reg0|Teampunkte limit liegt bei: {reg0}.
+str_defender_spawn_count_limit_is_s1|Wiedereinstiesgsanzahl für Verteidiger liegt bei: {s1}.
+str_system_error|SYSTEM ERROR!
+str_routed_2|ziehten sich zurück
+str_s42|{s42}
+str_you|Du
+str_we|Wir
+str_quick_battle_french_farm|French Farm
+str_quick_battle_landshut|Landshut
+str_quick_battle_river_crossing|River Crossing
+str_quick_battle_spanish_village|Spanish Village
+str_quick_battle_strangefields|Strangefields
+str_quick_battle_scene_1|Berge
+str_quick_battle_scene_2|Schneelandschaft
+str_quick_battle_scene_3|Wald
+str_quick_battle_scene_4|Steppe
+str_quick_battle_scene_6|Wüste
+str_map_basic|Karte
+str_game_type_basic|Spieltyp
+str_battle|Schlacht
+str_character|Character
+str_player|Spieler
+str_enemy|Feind
+str_faction|Nation
+str_start|Start
+str_custom_battle|Benutzerdefinierte Schlacht
+str_plus|+
+str_minus|-
+str_server_name_s0|Servername: {s0}
+str_map_name_s0|Kartenname: {s0}
+str_game_type_s0|Spieltyp: {s0}
+str_remaining_time_s0reg0_s1reg1|Verbleibende Zeit: {s0}{reg0}:{s1}{reg1}
+str_a_duel_request_is_sent_to_s0|Eine Duellanfrage wurde an {s0} gesendet.
+str_s0_offers_a_duel_with_you|{s0} will ein Duell mit dir.
+str_your_duel_with_s0_is_cancelled|Dein Duell mit {s0} wurde abgebrochen.
+str_a_duel_between_you_and_s0_will_start_in_3_seconds|Ein Duell zwischen dir und {s0} wird in 3 Sekunden starten.
+str_you_have_lost_a_duel|Du hast ein Duell verloren!
+str_you_have_won_a_duel|Du hast ein Duell gewonnen!
+str_server_s0|[SERVER]: {s0}
+str_disallow_ranged_weapons|Erlaube keine Feuerwaffen
+str_ranged_weapons_are_disallowed|Erlaube keine Feuerwaffen
+str_ranged_weapons_are_allowed|Feuerwaffen sind erlaubt
+str_duel_starts_in_reg0_seconds|Duell startet in {reg0} Sekunden...
+str_true|Wahr
+str_false|Falsch
+str_teamkilled_s1_s2|{s1} Tötete Teammitglied {s2}.
+str_kick_server_kills_first_s1_reg5|{s1} wurde aufgrund von {reg5} Teamkills zum ersten mal vom Server geworfen.
+str_kick_server_kills_second_s1_reg5|{s1} wurde aufgrund von {reg5} Teamkills zum zweiten mal vom Server geworfen.
+str_ban_server_kills_s1_reg5|{s1} wurde aufgrund von {reg5} oder mehr Teamkills vom Server verbannt.
+str_warning_message_first_reg5|Du hast bereits {reg5} Teammitglieder umgebracht, pass auf!
+str_warning_message_second_reg5|Du hast bereits {reg5} Teammitglieder umgerbracht, der nächste Teamkill wird bestraft!
+str_kick_to_message_first|Du wurdest aufgrund zu vieler Teamkills vom Server geworfen!
+str_kick_to_message_second|Du wurdest aufgrund zu vieler Teamkills vom Server geworfen! Nächstes mal wirst du gebannt!
+str_ban_to_message|Du wurdest aufgrund zu vieler Teamkills vom Server geworfen! Viel Spaß in der Hölle!
+str_auto_kick_message_s1|{s1} wurde aufgrund Teamkillings vom Server geworfen.
+str_auto_ban_message_s1|{s1} wurde aufgrund Teamkillings vom Server verbannt.
+str_server_hq_base_retake_s1|{s1} Nimmt die Basis ein!!
+str_server_hq_base_attack_s1|Die Basis von {s1} wird Angegriffen!!
+str_player_left_server_s1_reg13|{s1} hat das Spiel mit der ID verlassen: {reg13}
+str_push_cannon|Schiebe die Kanone
+str_fire_cannon|Feuer die Kanone
+str_aim_cannon|Nutze die Kanone
+str_unlimber_cannon|Lade die Kanone ab
+str_limber_cannon|Lade die Kanone auf
+str_load_cartridge|Platzere die Munition
+str_load_bomb|Platziere eine Mörserkugel
+str_load_rocket|Platziere eine Rakete
+str_reload_cannon|Lade die Kanone nach
+str_pick_up_round|Nimm eine Kugel
+str_pick_up_shell|Nimm eine Granate (Explosive)
+str_pick_up_canister|Nimm eine Karatätsche
+str_pick_up_bomb|Nimm eine Mörserkugel
+str_pick_up_rocket|Hebe den Raketenwerfer auf
+str_play_piano|Spiele das Klavier
+str_play_organ|Spiele die Orgel
+str_take_a_shit|Nutze die Toilette
+str_play_bell|Benutze die Glocke
+str_take_ship_control|Steuere das Boot
+str_cannot_use_piano|Du kannst nicht vom Pferderücken spielen!
+str_cannot_use_organ|Du kannst nicht vom Pferderücken spielen!
+str_cannot_use_piano_angle|Du kannst ein Klavier nicht von hinten spielen.
+str_cannot_use_organ_angle|Du kannst eine Orgel nicht von hinten spielen.
+str_cannot_use_toilet|Du kannst nicht vom Pferderücken kacken!
+str_piano_in_use|Da spielt schon einer!
+str_organ_in_use|Da spielt schon einer!
+str_toilet_in_use|Da kackt schon einer!
+str_cannot_use_cannon|Du kannst keine Kanonen nutzen!
+str_cannot_use_rocket|Du kannst keine Raketen nutzen!
+str_cannon_not_loaded|Die Kanone ist nicht nachgeladen!
+str_cannon_already_has_ball|Die Kanone ist bereits geladen!
+str_cannon_already_loaded|Die Kanone ist bereits geladen!
+str_cannot_carry_more_cannon_ammo|Du kannst nicht noch mehr Munition tragen!
+str_cannon_cannot_load_type|Die Kanone kann nicht mit dieser Art von Munition geladen werden!
+str_need_to_have_a_lighter|Du brauchst eine Lunte um zu Feuern!
+str_need_to_have_a_ramrod|Du brauchst einen Ladestock um nachzuladen!
+str_need_to_have_a_ball|Du brauchst Munittion um nachzuladen!
+str_need_to_have_a_horse|Du brauchst eine Protze um die Kanone zum aufprotzen!
+str_horse_already_has_cannon|Dieses Pferd ist bereits beladen!
+str_already_to_many_barricades|Dein Team hat bereits zuviele Barrikaden gebaut!
+str_already_to_many_ammobox|AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+str_cannon_is_already_in_use|Die Kanone wird bereits genutzt!
+str_already_to_many_players_class_s21|Es gibt bereits zu viele Spieler als {s21}. Wähle eine andere Einheit.
+str_already_to_many_players_rank_mus|Es gibt bereits zu viele Spieler als Musikanten. Wähle eine andere Einheit.
+str_already_to_many_players_rank_srg|Es gibt bereits zu viele Spieler als {s21}. Wähle einen anderen Rang.
+str_already_to_many_players_rank_off|Es gibt bereits zu viele Spieler als {s21}. Wähle einen anderen Rang
+str_chk_class_limits|Erlaube Einheitsbeschränkungen
+str_chk_class_limits_player_count|Min. Spieleranzahl um Einheitenbeschränkungen einschalten zu lassen:
+str_limit_grenadier|Limit für Garde zu Fuss (%):
+str_limit_skirmisher|Limit für Leichte Infantrie (%):
+str_limit_rifle|Limit für Gewehre von Leichter Infantrie (%):
+str_limit_cavalry|Limit für Kavallerie (%):
+str_limit_lancer|Limit für Lanzenreiter (%):
+str_limit_hussar|Limit für Hussaren (%):
+str_limit_dragoon|Limit für Dragoner (%):
+str_limit_cuirassier|Limit für Kürassiere (%):
+str_limit_heavycav|Limit für Schwere Kavallerie (%):
+str_limit_artillery|Limit für Artillerie (%):
+str_limit_rocket|Limit für Racketenwerfer (%):
+str_limit_sapper|Limit für Pioniere (%):
+str_limit_musician|Limit für Musikanten in der Einheit (nr):
+str_limit_sergeant|Limit für Serangs in der Einheit (nr):
+str_limit_officer|Limit für Käptains in der Einheit (nr):
+str_limit_general|Limit für Generäle (nr):
+str_build_points_team_1|Baupunkte erstes Team:
+str_build_points_team_2|Baupunkte zweites Team:
+str_allow_multiple_firearms|Erlaube das Tragen von mehreren Schusswaffen
+str_enable_bonuses|Erlaube Bonuspunkte
+str_bonus_strength|Bonus Stärke (%):
+str_bonus_range|Bonusreiwchweite in Meter:
+str_num_bots_per_squad|Bots pro Squad:
+str_scale_squad_size|Größe des Squads:
+str_max_num_bots|Maximale Botanzahl:
+str_chance_of_falling_off_horse|Chance auf Runterfallen, wenn Pferd getroffen (%):
+str_damage_from_horse_dying|Schaden wenn Reiter fällt (%):
+str_admin_start_map_s0_s1_s2_s5_s6|{s0} Changed the map to {s1} with gamemode {s2} and with the nations {s5} and {s6}.
+str_admin_set_max_num_players_s0_reg1|{s0} Changed the maximum number of players to {reg1}.
+str_admin_set_num_bots_in_team_s0_s1_reg1|{s0} Changed the number of bots for the {s1} to {reg1}.
+str_admin_set_friendly_fire_s0_s9|{s0} Set allow ranged friendly fire to {s9}.
+str_admin_set_melee_friendly_fire_s0_s9|{s0} Set allow melee friendly fire to {s9}.
+str_admin_set_friendly_fire_damage_self_ratio_s0_reg1|{s0} Set the friendly fire damage to self ratio to {reg1} %.
+str_admin_set_friendly_fire_damage_friend_ratio_s0_reg1|{s0} Set the friendly fire damage to friend ratio to {reg1} %.
+str_admin_set_ghost_mode_s0_s1|{s0} Set ghost mode to {s1}.
+str_admin_set_control_block_dir_s0_s1|{s0} Set control block direction to {s1}.
+str_admin_set_combat_speed_s0_s1|{s0} Set the combat speed to {s1}.
+str_admin_set_respawn_count_s0_s1|{s0} Set the defender spawn count to {s1}.
+str_admin_set_add_to_servers_list_s0_s9|{s0} Set add server to servers list to {s9}.
+str_admin_set_respawn_period_s0_reg1|{s0} Changed the respawn period to {reg1} seconds.
+str_admin_set_game_max_minutes_s0_reg1|{s0} Changed the map timelimit to {reg1} minutes.
+str_admin_set_round_max_seconds_s0_reg1|{s0} Changed the round timelimit to {reg1} seconds.
+str_admin_set_player_respawn_as_bot_s0_s9|{s0} Set players respawn as bots to {s9}.
+str_admin_set_game_max_points_s0_reg1|{s0} Changed the game max points to {reg1}.
+str_admin_set_point_gained_from_flags_s0_reg1|{s0} Changed points gained from flags to {reg1}.
+str_admin_set_point_gained_from_capturing_flag_s0_reg1|{s0} Changed points gained from capturing a flag to {reg1}.
+str_admin_set_initial_gold_multiplier_s0_reg1|{s0} Set the initial gold multiplier to {reg1} %.
+str_admin_set_battle_earnings_multiplier_s0_reg1|{s0} Set the combat gold multiplier to {reg1} %.
+str_admin_set_round_earnings_multiplier_s0_reg1|{s0} Set the round gold bonus multiplier to {reg1} %.
+str_admin_set_server_name_s1_s0|{s1} Set the server name to {s0}
+str_admin_set_game_password_s1_s0|{s1} Set the server password to {s0}
+str_admin_set_welcome_message_s1|{s1} Changed the server welcome message.
+str_admin_set_welcome_message_s1_s0|{s1} Set the server welcome message to {s0}.
+str_admin_set_valid_vote_ratio_s0_reg1|{s0} Set the valid vote ratio to {reg1} %.
+str_admin_set_auto_team_balance_limit_s0_s1|{s0} Set the auto team balance limit to {s1}.
+str_admin_set_num_bots_voteable_s0_reg1|{s0} Changed maximum number of votable bots to {reg1}.
+str_admin_set_factions_voteable_s0_s9|{s0} Set nations voteable to {s9}.
+str_admin_set_maps_voteable_s0_s9|{s0} Set maps voteable to {s9}.
+str_admin_set_kick_voteable_s0_s9|{s0} Set kick voteable to {s9}.
+str_admin_set_ban_voteable_s0_s9|{s0} Set ban voteable to {s9}.
+str_admin_set_allow_player_banners_s0_s9|{s0} Set allow individual banners to {s9}.
+str_admin_set_force_default_armor_s0_s9|{s0} Set force minimum armor to {s9}.
+str_admin_set_disallow_ranged_weapons_s0_s9|{s0} Set disallow ranged weapons to {s9}.
+str_admin_set_mod_variable_auto_kick_s0_s9|{s0} Set auto-kick/ban for teamkills to {s9}.
+str_admin_set_mod_variable_max_teamkills_before_kick_s0_reg1|{s0} Set the ammount of teamkills before auto-kick/ban to {reg1}.
+str_admin_set_mod_variable_auto_horse_s0_s9|{s0} Set automatic killing of stray horses to {s9}.
+str_admin_set_mod_variable_auto_swap_s0_s9|{s0} Set auto-swap teams at siege and battle to {s9}.
+str_admin_set_use_class_limits_s0_s9|{s0} Set use class limits to {s9}.
+str_admin_set_class_limit_player_count_s0_reg1|{s0} Set minimum players to enable class limits to {reg1} players.
+str_admin_set_limit_grenadier_s0_reg1|{s0} Set the class limit for Grenadiers to {reg1} % of the team.
+str_admin_set_limit_skirmisher_s0_reg1|{s0} Set the class limit for Light Infantry to {reg1} % of the team.
+str_admin_set_limit_rifle_s0_reg1|{s0} Set the class limit for Riflemen to {reg1} % of the Light Infantry.
+str_admin_set_limit_cavalry_s0_reg1|{s0} Set the class limit for Horsemen to {reg1} % of the team.
+str_admin_set_limit_lancer_s0_reg1|{s0} Set the class limit for Lancers to {reg1} % of the Horsemen.
+str_admin_set_limit_hussar_s0_reg1|{s0} Set the class limit for Hussars to {reg1} % of the Horsemen.
+str_admin_set_limit_dragoon_s0_reg1|{s0} Set the class limit for Dragoons to {reg1} % of the Horsemen.
+str_admin_set_limit_cuirassier_s0_reg1|{s0} Set the class limit for Cuirassiers to {reg1} % of the Horsemen.
+str_admin_set_limit_heavycav_s0_reg1|{s0} Set the class limit for Non-Armoured Heavy Cavalry to {reg1} % of the Horsemen.
+str_admin_set_limit_artillery_s0_reg1|{s0} Set the class limit for Artillery to {reg1} % of the team.
+str_admin_set_limit_rocket_s0_reg1|{s0} Set the class limit for Rocketeers to {reg1} % of the team.
+str_admin_set_limit_sapper_s0_reg1|{s0} Set the class limit for Sappers to {reg1} % of the team.
+str_admin_set_limit_musician_s0_reg1|{s0} Set the limit for the Musician rank to {reg1} persons per Unit.
+str_admin_set_limit_sergeant_s0_reg1|{s0} Set the limit for the Sergeant rank to {reg1} persons per Unit.
+str_admin_set_limit_officer_s0_reg1|{s0} Set the limit for the Officer rank to {reg1} persons per Unit.
+str_admin_set_limit_general_s0_reg1|{s0} Set the limit for Generals to {reg1} persons per nation.
+str_admin_set_build_points_team_1_s0_reg1|{s0} Set the buildpoints for the first team to {reg1} points.
+str_admin_set_build_points_team_2_s0_reg1|{s0} Set the buildpoints for the second team to {reg1} points.
+str_admin_set_squad_size_s0_reg1|{s0} Set the squad size to {reg1} bots per squad.
+str_admin_set_scale_squad_size_s0_s9|{s0} Set scale squad size to team ratio to {s9}.
+str_admin_set_max_num_bots_s0_reg1|{s0} Setzte die maximale Botanzahl auf {reg1}.
+str_admin_set_allow_multiple_firearms_s0_s9|{s0} Set allow carrying of multiple firearms to {s9}.
+str_admin_set_enable_bonuses_s0_s9|{s0} Set use bonuses to {s9}.
+str_admin_set_bonus_strength_s0_reg1|{s0} Set the strength of bonuses to {reg1}%.
+str_admin_set_bonus_range_s0_reg1|{s0} Set the range of bonuses to {reg1} meters.
+str_admin_set_fall_off_horse_s0_reg1|{s0} Set the chance to fall off the horse when hit to {reg1}%.
+str_admin_set_horse_dying_s0_reg1|{s0} Set the damaged dealt to rider when horse dies to {reg1}%.
+str_mute_all|Stelle alle Spieler stumm
+str_unmute_all|Lasse alle Spieler sprechen
+str_slay_player|Töte Spieler
+str_slay_player_s2_s3|{s2} Tötete Spieler {s3}.
+str_slay_all|Töte alle
+str_slay_all_s2|{s2} Tötete alle.
+str_freeze_player|Erstarre Spieler
+str_freeze_player_s2_s3|{s2} frierte Spieler {s3} ein.
+str_freeze_all|Lasse alle Spieler erstarren
+str_freeze_all_s2|{s2} lässt alle Spieler erstarren
+str_swap_player|Spieler bewegen
+str_swap_player_s2_s3|{s2} bewegte Spieler {s3} in das andere Team.
+str_swap_all|Bewege alle
+str_swap_all_s2|{s2} bewegte alle in das andere Team.
+str_forceautobalance_all|Erzwinge Ausbalancierung
+str_forceautobalance_all_s2|{s2} Erzwang Ausbalancierung
+str_spec_player|Bewege Spieler in die Zuschauerliste
+str_spec_player_s2_s3|{s2} Bewegte Spieler {s3} in die Zuschauerliste.
+str_spec_all|Bewege alle
+str_spec_all_s2|{s2} Bewegte alle in die Zuschauerliste
+str_kick_player_s2_s3|{s2} warf Spieler {s3} vom Server.
+str_ban_player_s2_s3|{s2} verbannte Spieler {s3} vom Server.
+str_ban_player_temp|Verbanne Spieler für 30 Minuten
+str_ban_player_temp_s2_s3|{s2} verbannte Spieler {s3}.
+str_ban_hammer_s2_s3|St. {s2} knallte den Bannhammer genau in {s3}'s Gesicht, gute Reise!
+str_admin_cheats|Cheats
+str_choose_a_cheat_type|Wähle einen Cheat:
+str_cheat_spawn_hammer|Erschaffe Bannhammer
+str_cheat_spawn_hammer_s2|{s2} erschuf einen Bannhammer
+str_cheat_spawn_hammer_2_s2|Und St. {s2} hob den Bannhammer hoch und sagte: 'O Herr, Segne diesen Heiligen Bannhammer, dass mit seiner hilfe meine Feinde in kleine Stücke brechen mögen.' Und der Herr grinste.
+str_cheat_spawn_shotgun|Erschaffe Schrotflinte
+str_cheat_spawn_shotgun_s2|{s2} erschuf Schrotflinte
+str_cheat_spawn_rocketlauncher|Erschaffe Raktenwerfer
+str_cheat_spawn_rocketlauncher_s2|{s2} erschuf Raketenwerfer
+str_cheat_spawn_grenade|Erschaffe Heilige Handgranate
+str_cheat_spawn_grenade_s2|{s2} erschuf Heilige Handgranate
+str_cheat_spawn_grenade_2_s2|Und St. {s2} hob die Granate hoch und sagte: 'O Herr, Segne diese Heilige Granate, dass ich mit ihrer hilfe meine Feinde in kleine Stücke zu sprengen vermag.' Und der Herr grinste.
+str_cheat_spawn_horse|Erschaffe Adminpferd
+str_cheat_spawn_horse_s2|{s2} erschuf Adminpferd
+str_cheat_beacon_player|Zeiger Spieler
+str_cheat_beacon_player_s2_s3|{s2} Setze Zeiger nach Spieler {s3}.
+str_cheat_heal_player|Heile Spieler
+str_cheat_heal_player_s2_s3|{s2} heilte Spieler {s3}.
+str_cheat_heal_all|Heile alle
+str_cheat_heal_all_s2|{s2} heilte alle.
+str_cheat_ammo_player|Lade Munition nach
+str_cheat_ammo_player_s2_s3|{s2} lud {s3}'s Munition nach.
+str_cheat_ammo_all|Lade aller Munition nach
+str_cheat_ammo_all_s2|{s2} Lud alle Munition.
+str_cheat_tele_to_player|Teleportiere zu Spieler
+str_cheat_tele_to_player_s2_s3|{s2} Teleportierte zu Spieler {s3}.
+str_cheat_tele_bring_player|Bringe Spieler
+str_cheat_tele_bring_player_s2_s3|{s2} Teleportierte Spieler {s3} zu sich selbst.
+str_cheat_tele_wall|Teleportiere durch Objekte
+str_cheat_tele_wall_s2|{s2} Teleportierte.
+str_admin_chat|Admin Chat
+str_admin_chat_intern|Internen Admin Chat
+str_admin_chat_s1_s0|*Admin*[{s1}]: {s0}
+str_inter_admin_chat_s1_s0|[{s1}]: {s0}
+str_chk_auto_kick|Erlaube auto-kick/ban
+str_num_max_teamkills_before_kick|Erlaubte Teamkills bevor Rauswurf
+str_chk_auto_horse|Elraube das töten von wilden Pferden
+str_chk_auto_swap|Erlaube automatischen Teamwechesel im Spielmodus Siege und Battle
+str_reset_map|Resette Karte
+str_reset_map_s2|{s2} Resettete die Karte.
+str_console_command|Admin Console
+str_player_kicked_cheating_s2|{s2} Wurde aufgrund von "Cheating" automatisch vom Server geworfen.
+str_next_page|Naechste Seite
+str_auto_assign|Auto-Auswahl
+str_begin|Beginn
+str_game_rules|Spiel Regeln:^
+str_britain_name|England
+str_france_name|Frankreich
+str_prussia_name|Preußen
+str_russia_name|Russland
+str_austria_name|Österreich
+str_rhine_name|Rheinbund
+str_infantry|Infanterie
+str_cavalry|Kavallerie
+str_specialists|Spezialisten
+str_ranker|Einfacher Soldat
+str_equipment|Ausrüstung:
+str_random|Zufällig
+str_howitzer|Haubitze
+str_cannon|Kanone
+str_all_fire_now|Alle, Feuer!
+str_left_fire_now|Linke Flanke, Feuer!
+str_middle_fire_now|Mitte, Feuer!
+str_right_fire_now|Rechte Flanke, Feuer!
+str_fire_at_my_command|Feuer auf meinen Befehl!
+str_use_melee_weapons|Nutze Nahkampfwaffen!
+str_use_ranged_weapons|Nutze Fernkampfwaffen!
+str_melee_weapons|Nahkampfwaffen
+str_ranged_weapons|Feuerwaffen
+str_formation|Formation
+str_very_tight|Sehr eng
+str_tight|Eng
+str_loose|Locker
+str_very_loose|Sehr Locker
+str_form_1_row|Forme eine Reihe
+str_form_reg0_rows|Forme {reg0} Reihen
+str_confirm_quit_mission|Do you really want to quit the current mission (mission progress will be lost)?
+str_no_troop|Frei
+str_morning|Morgen
+str_noon|Nachmittag
+str_evening|Abend
+str_night|Nacht
+str_timeofday|Uhrzeit:
+str_fog_none|Nichts
+str_fog_light|Leicht
+str_fog_medium|Mittel
+str_fog_thick|Dicht
+str_fog_amount|Nebel:
+str_rain_amount|Regen:
+str_mm_stakes_construct|Große Chevaux de Frise
+str_mm_stakes2_construct|Holzpfähle
+str_sandbags_construct|Sandsäcke
+str_chevaux_de_frise_tri_construct|Kleine Chevaux de Frise
+str_gabion_construct|Gabion
+str_fence_construct|Zaun
+str_plank_construct|Planke
+str_earthwork1_construct|Einfacher Erdwall
+str_explosives_construct|Explosive Kiste
+str_reg6_build_points|Derzeitige Baupunkte: {reg6}
+str_reg7_build_points_cost|Kosten: {reg7} Baupunkte
+str_repair_prop|Reparieren
+str_destructible_object|Zerstörbares Objekt
+str_build_prop|Baue Objekt
+str_dig_prop|Ausheben
+str_undig_prop|Schützengraben
+str_construct_deconstruct|Bauen/Zerstören
+str_ignite|Anzünden!
+str_invalid_flag_selection|Wähle eine von deinen Team kontrollierte Flagge!
+str_invalid_prop_select|Nicht genug Baupunkte
+str_invalid_prop_place|Du kannst dies nicht hier Platzieren!
+str_sail_brit|Seemann, HMS Neptune
+str_sail_fren|Seemann, Intrepide
+str_select_track|Selektiere das Stück:
+str_music_calls|Befehle:
+str_bagpipe_extras|Zusätzliche Stücke (Nur Dudelsack):
+str_play_together|Erlaube 'Gemeinsames Spiel'
+str_drum_britain_1|Britishe Grenadiere
+str_drum_britain_2|The Girl I Left Behind Me
+str_drum_britain_3|Lilliburlero
+str_drum_britain_4|Men of Harlech
+str_drum_britain_5|Rule Britannia
+str_drum_france_1|Aux Champs
+str_drum_france_2|La Charge
+str_drum_france_3|La Diane ou Rigodon
+str_drum_france_4|La Grenadiere
+str_drum_france_5|Le Pas Cadence
+str_drum_prussia_1|York'scher Marsch
+str_drum_prussia_3|Hohenfriedberger Marsch
+str_drum_prussia_4|Preussischer Lockmarsch
+str_drum_prussia_5|Parademarsch der Spielleute
+str_drum_prussia_6|Praesentiermarsch
+str_drum_russia_1|Pohod Grenaderskij
+str_drum_russia_2|Pohod Leib Gvardii Izmailovskogo Polka
+str_drum_russia_3|Marsh Kolonni Idushej v Ataku
+str_drum_russia_4|Pohod Leib Gvardii Preobrazhenskogo Polka
+str_drum_russia_5|Pohod Leib Gvardii Semenovskogo Polka
+str_drum_austria_1|Oestereeichischer Grenadiermarsch
+str_drum_austria_2|Coburger Marsch
+str_drum_austria_3|Pappenheimer Marsch
+str_drum_austria_4|Pariser Einzugsmarsch
+str_drum_austria_5|Prinz von Eugen
+str_drum_highland_1|All the Blue Bonnets Are O'er the Border
+str_drum_highland_2|Bonnie Dundee
+str_drum_signal_1|Camp, Taps
+str_drum_signal_2|Cease fire
+str_drum_signal_3|Drummer Call
+str_fife_britain_1|British Grenadiers
+str_fife_britain_2|The Girl I Left Behind Me
+str_fife_britain_3|Lilliburlero March
+str_fife_britain_4|Men of Harlech
+str_fife_britain_5|Rule Britannia
+str_fife_france_1|Aux Champs
+str_fife_france_2|La Charge
+str_fife_france_3|La Diane ou Rigodon
+str_fife_france_4|La Grenadiere
+str_fife_france_5|Le Pas Cadence
+str_fife_prussia_1|York'scher Marsch
+str_fife_prussia_2|Hohenfriedberger Marsch
+str_fife_prussia_3|Preussischer Lockmarsch
+str_fife_prussia_4|Parademarsch der Spielleute
+str_fife_prussia_5|Praesentiermarsch
+str_fife_russia_1|Pohod Grenaderskij
+str_fife_russia_2|Pohod Leib Gvardii Izmailovskogo Polka
+str_fife_russia_3|Marsh Kolonni Idushej v Ataku
+str_fife_russia_4|Pohod Leib Gvardii Preobrazhenskogo Polka
+str_fife_russia_5|Pohod Leib Gvardii Semenovskogo Polka
+str_fife_austria_1|Oestereeichischer Grenadiermarsch
+str_fife_austria_2|Coburger Marsch
+str_fife_austria_3|Pappenheimer Marsch
+str_fife_austria_4|Pariser Einzugsmarsch
+str_fife_austria_5|Prinz von Eugen
+str_bugle_britain_1|British Boots
+str_bugle_britain_2|British Light Infantry
+str_bugle_france_1|Dans le Hussards
+str_bugle_france_2|La Marche
+str_bugle_prussia_1|Althessischer Reitermarsch
+str_bugle_prussia_2|Fehrbelliner Reitermarsch
+str_bugle_prussia_3|Marsch der Freiwilligen Jaeger
+str_bugle_russia_1|Pohod Mushketerskij
+str_bugle_russia_2|Pohod Artillerijskij i dlia Saperov
+str_bugle_russia_3|Pohod Egerskij
+str_bugle_austria_1|Strauch Marsch
+str_bugle_austria_2|Frohes Leben Marsch
+str_bugle_signal_1|Assemble the Men
+str_bugle_signal_2|Extend Lines
+str_bugle_signal_3|Close Ranks
+str_bugle_signal_4|On Enemy
+str_bugle_signal_5|Open Fire
+str_bagpipes_britain_1|All the Blue Bonnets Are O'er the Border
+str_bagpipes_britain_2|Bonnie Dundee
+str_bagpipes_extra_1|Black Bear
+str_bagpipes_extra_2|Amazing Grace
+str_bagpipes_extra_3|Balmoral
+str_bagpipes_extra_4|Bonnie Dundee
+str_bagpipes_extra_5|Cock o' the North
+str_bagpipes_extra_6|Highland Cathedral
+str_bagpipes_extra_7|My Home
+str_bagpipes_extra_8|Scotland the Brave
+str_bagpipes_extra_9|Skye Boat Song
+str_piano_tune_1|Beethoven - Fur Elise
+str_piano_tune_2|Beethoven - Ecossaise
+str_piano_tune_3|Erik Satie - Gymnopedie 3
+str_piano_tune_4|Beethoven - Laendler
+str_piano_tune_5|Lift Motif
+str_piano_tune_6|Bach - Prelude
+str_piano_tune_7|Wagner - Bridal Chorus
+str_piano_tune_8|Schubert - Ave Maria
+str_organ_tune_1|Bach - Toccata and Fugue
+str_organ_tune_2|Bach - Toccata and Fugue 2
+str_organ_tune_3|Bach - Prelude and Fugue
+str_organ_tune_4|Buxtehude - Prelude
+str_organ_tune_5|Tiny Fugue
+str_organ_tune_6|Wagner - Bridal Chorus
+str_organ_tune_7|Bach - Chromatic Fuge
+str_organ_tune_8|Bach - Chromatic Fantasia
+str_flag_reg3|Flag {reg3}
+str_mp_arabian_harbour_flag_1|Small Inn
+str_mp_arabian_harbour_flag_2|Backyard
+str_mp_arabian_harbour_flag_3|Port
+str_mp_arabian_harbour_flag_4|Lighthouse
+str_mp_arabian_harbour_flag_5|Marketplace
+str_mp_arabian_village_flag_1|Wine Maker's Village
+str_mp_arabian_village_flag_2|Farmer's Village
+str_mp_arabian_village_flag_3|Fortified Town
+str_mp_ardennes_flag_1|Ferme du Fresnois
+str_mp_ardennes_flag_2|Ferme de la Grange Dimiere
+str_mp_ardennes_flag_3|Watchtower
+str_mp_ardennes_flag_4|Fisherman's Hut
+str_mp_ardennes_flag_5|Ferme de Bray
+str_mp_ardennes_flag_6|Dead Forest
+str_mp_ardennes_flag_7|Rocks
+str_mp_avignon_flag_1|Camp
+str_mp_avignon_flag_2|Town
+str_mp_avignon_flag_3|Mill
+str_mp_avignon_flag_4|Village
+str_mp_borodino_flag_1|Town
+str_mp_borodino_flag_2|Village
+str_mp_borodino_flag_3|Redoubt
+str_mp_borodino_flag_4|Mill
+str_mp_borodino_flag_5|Shevradino
+str_mp_borodino_flag_6|Great Redoubt
+str_mp_borodino_flag_7|Small Redoubt
+str_mp_columbia_hill_farm_flag_1|Forest
+str_mp_columbia_hill_farm_flag_2|Barn
+str_mp_columbia_hill_farm_flag_3|Farmhouse
+str_mp_columbia_hill_farm_flag_4|Vineyard
+str_mp_european_city_flag_1|Church
+str_mp_european_city_flag_2|Square
+str_mp_european_city_flag_3|Vince's Corner
+str_mp_european_city_flag_4|Street
+str_mp_french_farm_flag_1|Forest
+str_mp_french_farm_flag_2|Redoubt
+str_mp_french_farm_flag_3|Farm
+str_mp_hungarian_plains_flag_1|The Weavery
+str_mp_hungarian_plains_flag_2|The Town
+str_mp_hungarian_plains_flag_3|The Windmill
+str_mp_hungarian_plains_flag_4|The Abandoned House
+str_mp_hungarian_plains_flag_5|The Shack
+str_mp_hungarian_plains_flag_6|The Estate
+str_mp_landshut_flag_1|Landshut
+str_mp_landshut_flag_2|The Road to Abensberg
+str_mp_landshut_flag_3|Landshut Outskirts
+str_mp_landshut_flag_4|The Bridge
+str_mp_landshut_flag_5|The Blockhouse
+str_mp_landshut_flag_6|The Farm
+str_mp_landshut_flag_7|The Crossing
+str_mp_russian_village_flag_1|Logger's Village
+str_mp_russian_village_flag_2|Hunter's Village
+str_mp_russian_village_flag_3|russian village
+str_mp_minden_flag_1|Basecamp
+str_mp_minden_flag_2|Minden
+str_mp_minden_flag_3|Hahlen
+str_mp_minden_flag_4|Netsband Farm
+str_mp_minden_flag_5|Stemmer
+str_mp_minden_flag_6|Todtenhausen Inn
+str_mp_minden_flag_7|Malbergen Chapel
+str_mp_minden_flag_8|Neuland
+str_mp_minden_flag_9|Finter Reie
+str_mp_oaksfield_flag_1|Headquaters  1
+str_mp_oaksfield_flag_2|Headquaters  2
+str_mp_oaksfield_flag_3|Wheat Farm
+str_mp_oaksfield_flag_4|Market
+str_mp_oaksfield_flag_5|Oakstown
+str_mp_quatre_bras_flag_1|Pireaumont
+str_mp_quatre_bras_flag_2|Quatre Bras
+str_mp_quatre_bras_flag_3|Bossu Woods
+str_mp_quatre_bras_flag_4|Petit Pireaumont
+str_mp_quatre_bras_flag_5|Gemioncourt
+str_mp_river_crossing_flag_1|Redoubt 1
+str_mp_river_crossing_flag_2|Redoubt 2
+str_mp_river_crossing_flag_3|Town of Martinitz
+str_mp_roxburgh_flag_1|Fisherman's Market
+str_mp_roxburgh_flag_2|Riverside Village
+str_mp_roxburgh_flag_3|Lakeside Villa
+str_mp_roxburgh_flag_4|Makers Village
+str_mp_roxburgh_flag_5|Middleton’s Town
+str_mp_roxburgh_flag_6|Shrine
+str_mp_roxburgh_flag_7|Lumberjack's Lodge
+str_mp_schemmerbach_flag_1|Schmmerbach Farm
+str_mp_schemmerbach_flag_2|Schemmerbach Bridge
+str_mp_schemmerbach_flag_3|River Crossing
+str_mp_schemmerbach_flag_4|Hemp Field
+str_mp_slovenian_village_flag_1|Road to slovenian village
+str_mp_slovenian_village_flag_2|Harbour
+str_mp_slovenian_village_flag_3|slovenian village
+str_mp_slovenian_village_flag_4|Forest
+str_mp_slovenian_village_flag_5|River
+str_mp_champs_elysees_flag_1|West Avenue
+str_mp_champs_elysees_flag_2|East Avenue
+str_mp_champs_elysees_flag_3|South-West Quarter
+str_mp_champs_elysees_flag_4|South-East Quarter
+str_mp_champs_elysees_flag_5|North-East Quarter
+str_mp_champs_elysees_flag_6|North-West Quarter
+str_mp_champs_elysees_flag_7|Arc de Triomphe
+str_mp_fort_vincey_flag_1|Fort Whittington
+str_mp_fort_vincey_flag_2|The Small Redoubt
+str_mp_fort_vincey_flag_3|The Advanced Redoubt
+str_mp_fort_vincey_flag_4|The Trench
+str_mp_fort_vincey_flag_5|The Great Redoubt
+str_mp_swamp_flag_1|The Camp
+str_mp_swamp_flag_2|Siegburg
+str_mp_swamp_flag_3|The Bridge
+str_mp_swamp_flag_4|Swamp Island
+str_mp_swamp_flag_5|Main Road
+str_mp_swamp_flag_6|Graveyard
+str_mp_swamp_flag_7|Fisherman's House
+str_mp_walloon_farm_flag_1|East Camp
+str_mp_walloon_farm_flag_2|West Camp
+str_mp_walloon_farm_flag_3|East Hill
+str_mp_walloon_farm_flag_4|Farm
+str_mp_walloon_farm_flag_5|West Hill
+str_mp_walloon_farm_flag_6|Redoubt
+str_scene_making_welcome_message|Welcome to the scene editing gamemode.^Here you can create new scenes or edit existing ones.^^Prop settings:^^# Weather props:^spr mm weather time      # var1 = time of day 0-23; Default = 15 (hours)^spr mm weather rain      # var1 = rain type; 1 = rain 2 = snow, var2 = rain amount 0-25^spr mm weather clouds    # var1 = cloud amount 0-100; Default = 30^spr mm weather fog       # var1 = fog distance in meters x 10 where fog completely blocks visibility. 1-127^spr mm weather thunder   # var1 = thunder type: 0 = none 1 = thunder only 2 = thunder & lighting,^                         # var2 = thunder frequency 0-100 ; the higher value the more thunder.^^# Door props:^All openable doors       # var1 = Team ownership; 1 = Team1 can open, 2 = Team2 can open; else all can open.^^# Cannon setting props:^spr mm spawn with cannon # If added to the map artillery sargeants spawn with the cannon.^
+str_tutorial_info_1|Gottverdammt! Das ist Kaffe! Ich sagte TEEEEEEEE!!!... Ich sage! Du da! Willkomen im Tutorial von Mount&Blade: Napoleonic Wars, mein guter Mann!^ Nun, um das Training zu beginnen, nutze die 'WASD' Tasten auf die Position durch den Pfeil angedeutet Zeiger gehen. Sie können mit der Maus umsehen, umso besser, um die Stelle mit Französisch! Eh? Bleeehaha!
+str_tutorial_info_2|Sehen Sie das herrliche Stück britischer Ingenieur vor Ihnen? Schauen Sie sich die Muskete, und drücken Sie 'F', um ihn abzuholen!
+str_tutorial_info_3|Wonderful! Sie sind bewaffnet, Sir! Nun wollen wir tun, einige Schäden an diesen Zielen vor Ihnen. ^ Halten Sie die linke Maustaste, um Ihre Muskete zielen und mit der Maus die Richtung Ihrer Zielsetzung zu ändern. Beachten Sie, dass Musketen etwas unberechenbar, oder mehr auf den Punkt, schrecklich ungenau sind. Bleahaha! ^ Sobald Sie zufrieden mit Ihrem Ziel sind, können Sie fortfahren, sich von der linken Maustaste, um zu feuern!
+str_tutorial_info_4|Bad luck! Es scheint, Sie haben das Ziel verfehlt. Zeit, um Ihre Waffe zu laden und es erneut versuchen ^ zu laden, klicken Sie die linke Maustaste gedrückt und warten Sie für Ihren Charakter zu beenden Nachladen -. Es dauert ein paar Sekunden ist so geduldig. Denken Sie jedoch daran, Sie können sich nicht bewegen beim Nachladen. ^ Sobald du neu geladen haben, eine weitere Aufnahme locht den Zielen. Keine Sorge, wenn Sie vergessen haben, können Sie sich immer neu zu laden und erneut versuchen.
+str_tutorial_info_5|Well done sir! Now, if you wish, you may keep practicing;^ otherwise, if you feel you have gotten the hang of firing, you may move on to the next area on the left, where the arrow is pointing.
+str_tutorial_info_6|Well done sir! If you wish, sir, you may reload your weapon and fire again.^ To reload, click the left mouse button and wait for your character to finish reloading - it will take a couple of seconds so be patient. Remember though, you cannot move while reloading.^Once you feel that you have gotten the hang of it, you may move on to the next area on the left, where the arrow is pointing.
+str_tutorial_info_7|There are times in battle when it is preferable to get up close and personal with old Frenchie, and that is why your musket is equipped with a bayonet.^However, your musket is currently in 'firing mode'; to use the bayonet you need to change to 'melee mode'. The button to toggle between the modes is 'X'. Press it now.
+str_tutorial_info_8|Excellent. You are now in melee mode and ready to charge those dummies with your bayonet.^BUT! Before you do that, there is another important matter you should know about.^You do not have to stand up all the time, you can also crouch. Press 'Z' to do so.
+str_tutorial_info_9|Good! As you can see you are now crouching. Since you are also in 'melee mode' you can see that your character is bracing his bayonet. This is very effective against frontal cavalry attacks.^Rise up to continue. To do so, either press 'Z' again or simply use any of the movement keys.
+str_tutorial_info_10|Now on to attacking and defending. To attack, press the left mouse button while moving the mouse in the direction you wish to attack. Your bayoneted musket only has two directions: up and down. Other weapons may have other directions. Swords, for example, have four attack directions: up, down, left and right. To release your attack, let go of the left mouse button.^Defense works in a similar fashion. Hold the right mouse button while moving the mouse in the direction you wish to block. All weapons can block in all four directions. Make sure you are blocking your enemy's attack from the right direction, or the frogs will make quick work of you.^^Now practice with your bayonet by destroying all the dummies in the area.
+str_tutorial_info_11|Well done!
+str_tutorial_info_12|Now that you have mastered the basics of infantry combat, we will move on to cavalry.^You have been given some rather splendidly polished equipment and a magnificent horse. To mount said horse, walk up to it and press 'F'.
+str_tutorial_info_13|So you have mounted up? Excellent. To move while mounted you will maintain the use of the 'WASD' keys, but the basics of movement is slightly different: 'W' will increase your speed and 'S' will decrease it; while 'A' and 'D' will turn your horse. By moving the mouse you may look around - but doing so will not automatically turn the horse. Try this now by moving to were the arrow points.
+str_tutorial_info_14|Marvelous! Now bring the horse to a stop. It is time to do some horseback shooting. See those targets in the distance? Shooting on horseback is very similar to shooting on foot, so use what you have learned before to hit any one of the targets.
+str_tutorial_info_15|Oh hell and buckshot! You have missed! Do not worry though, you can reload and try again, just as before. But remember, the rule that you have to be still while firing counts on horseback as well. You can try again, once you have reloaded your firearm.
+str_tutorial_info_16|Now you have got it! You can keep practicing some more, if you wish.^^Once you are ready to proceed, we will cover the basic joys of horseback melee. You will require a sword for this. To switch to the sword, scroll your mouse wheel upwards.
+str_tutorial_info_17|Bravo! You can keep firing if you wish. Just remember, the rule that you have to be stationary while firing counts on horseback as well.^^Once you are ready to proceed, we will cover the basic joys of horseback melee. You will require a sword for this. To switch to the sword, scroll your mouse wheel upwards.
+str_tutorial_info_18|Just like shooting, melee fighting on horseback is similar to fighting on foot. So ride alongside those dummies and destroy them.^Try to hit them while maintaining movement, as standing still takes away your advantage in speed and maneuverability. If you time your strikes right, you can hit the enemy and be well away before the blighter even knows he is dead.
+str_tutorial_info_19|Splendid! You now know the most important aspects of cavalry fighting.
+str_tutorial_info_20|Finally! It is time for some artillery training.^Walk up to the cannon and take some ammunition from the box.^^There are three main types of ammunition:^Round shot is a multi-purpose shot that is especially useful against buildings;^Canister shots release a hail of grapeshot that kills anyone right in front of the cannon, but it is notoriously ineffective at hitting long rang targets;^Explosive shells are extremely effective against enemy troops, as they explode sending metal fragments flying in all directions. Explosive shells however, are not available for standard cannons.
+str_tutorial_info_21|Put the ammunition into the barrel from the front of the cannon. To do so, look at the front, once you see the text 'Place Ammunition', hold down 'F' until the progress bar reaches the end.
+str_tutorial_info_22|Now you need to use your ramrod to reload the cannon. Again, look at the front of the barrel and hold 'F' until done.
+str_tutorial_info_23|Before you can fire, you will want to push the cannon forward. To do so, look at it and hold down 'F'.
+str_tutorial_info_24|Finally, look at the back of the barrel until you see the message 'Take Control'. Then press 'F' to take control of the cannon.
+str_tutorial_info_25|Now you control the cannon sir! Again, use the mouse to aim. Pressing the Left Mouse Button will fire the cannon and pressing the Right Mouse Button will cancel control, but for now, press the LMB to fire.
+str_tutorial_info_26|This is the end of the tutorial. You now know all the basics of fighting in Mount&Blade: Napoleonic Wars. Press 'Tab' to leave this tutorial when you are ready.^^Good luck on the battlefield, sir! Dismissed for tea and crumpets!
+str_vienna_1|Crates cleared: {reg0}/{reg1}
+str_austerlitz_1_1|Waves defeated: {reg0}/{reg1}
+str_dresden_1_1|Attackers defeated: {reg0}/{reg1}
+str_dresden_1_2|Waves defeated: {reg0}/{reg1}
+str_dresden_2_1|Squares destroyed: {reg0}/{reg1}
+str_dresden_2_2|Lines destroyed: {reg0}/{reg1}
+str_cutscene_vienna_1|The Danube River, the second longest in Europe, divides the Austrian Empire in two. ^Following their failure in the Ulm campaign, the Austrian Army is retreating across the river at Vienna.
+str_cutscene_vienna_2|The French advance guard, however, is not far behind. ^All other bridges being destroyed, the crossing at Vienna is vital for the French.
+str_cutscene_vienna_3|Should the Austrians notice a French attempt at crossing they will blow up the bridge. ^If they succeed, the French will be unable to pursue the retreating allied army and the victory at Ulm will be for nothing.
+str_cutscene_vienna_4|As such the French marshals, Murat and Lannes, are in a though spot; ^They need to get across the bridge without the Austrians noticing.
+str_cutscene_vienna_5|To do so, they have decided to deploy a ruse: ^Murat and Lannes will attempt to convince the Austrians that a truce has already been signed.
+str_cutscene_vienna_6|Meanwhile, you will have to silently clear the bridge so the army can cross...
+str_cutscene_austerlitz_1_1|You arrive at the battlefield near the village of Sokolnitz. ^Scouts report the Russians have captured the village and you are to retake it.
+str_cutscene_austerlitz_1_2|Look! Someone is approching.
+str_cutscene_austerlitz_1_3|Messenger: 'The Russians have capture the village! It is vital that you retake it!'
+str_cutscene_austerlitz_1_4|It would seem the battle is closer than we thought. ^Very well then, retake the village from the Russians!
+str_cutscene_austerlitz_1_5|The village is back under French control, well done! ^But the Russians are already sending soldiers to recapture it, make sure they won't succeed.
+str_cutscene_austerlitz_1_6|Reinforcements have arrived!
+str_cutscene_austerlitz_1_7|You have successfully defended the village form the enemy. ^This will greatly help us on our path to victory!
+str_cutscene_austerlitz_1_8|Another messenger!
+str_cutscene_austerlitz_1_9|Messenger: 'The general has heard of your great success in capturing and holding the village ^You'd better go and tell the Emperor himself of these good news!
+str_cutscene_dresden_1_1|The City of Dresden, Capitol of Saxony. ^The city is under heavy attack by Coalition forces and you have to help saving it.
+str_cutscene_dresden_1_2|The Russians have already taken the walls and more of them are preparing an assault on the gates. ^Your orders are to clear the walls while your allies move and hold the gates.
+str_cutscene_dresden_1_3|The walls are safe for now, but the threat to the city is not yet averted. ^Your allies by the gate can't hold out much longer, you need to help them!
+str_cutscene_dresden_1_4|The first assault has been broken down, but the enemy is already sending more men to attack. ^You must not let them get past the gate again!
+str_cutscene_dresden_1_5|The Russian attack lines are growing thinner and the pressure on the walls are easying. ^The general have been able to spare some men to support you.
+str_cutscene_dresden_1_6|The assault has come to a stop and the enemy are in disarray. ^Use this oportunity to sally out and drive the enemy away from the city!
+str_cutscene_dresden_2_1|While the defense of the city was a success, the outlying farms and villages are still in enemy hands. ^Your orders are to liberate this village from Austrian control.
+str_cutscene_dresden_2_2|But to do so, you must first clear the area of any Austrians still out in the open. ^Scout report that there is a group of four companies ahead of your position.
+str_cutscene_dresden_2_3|Unfortunatly they have already noticed your dragoons and have formed squares to face the threat. ^This will be a though fight, as your infantry and artillery are still way behind and cannot support you.
+str_cutscene_dresden_2_4|But it seems that the Austrian commander have ventured a bit too far from his troops! ^If you can capture him, his men might lose heart and the figthing ahead will be easier...
+str_cutscene_dresden_2_5|The squares have been defeated, but the enemy still holds the village. ^It is time to attack and capture it.
+str_cutscene_dresden_2_6|Luckily more cavalry is arriving to support you. ^Use it well and victory will be ours. En avant!
+str_mission_briefing_1|December 1, 1805^It was a fine respite, but now we march once again. Praise God this will be our final effort! ^It is said that we shall march directly into the battle.^^Our time on the outskirts of Vienna was surely the finest days of the campaign. Rich villages ^with large, clean houses, wonderful food and wine -- and of course the pretty girls all helped us ^replenish our energies.^We had been shaken by the endless marches through terrible weather. Exhausted by our pursuit ^of the retreating Allied forces. It was good to forget, for a little while.^^But our peaceful rest ended abruptly; we received the order to rejoin the main army as quickly as ^possible, and now we march madly to battle once more. In a forced march we have left nearly half ^of the regiment behind, but general Friant is determined to arrive to the battlefield on time, ^and will not pause for our supporting forces to rejoin us.^^The Allies are said to greatly outnumber our own troops, especially in cavalry. It seems that the ^battle will be defensive this time, but the situation remains unclear. A messenger from the Emperors ^headquarters informed us, as he rode past our column, that our rear guard had been driven back ^near a place called Vishau, and were retreating towards Austerlitz^^I dare not speak of it, but thoughts of the upcoming battle fill me with terror. Marengo was the last ^Well, I should say the only large battle I took part in, and this was almost 5 years ago. I still ^remember the horrible things I saw that day; it makes my body shake to think of it. ^Luckily, I have been able to conceal my feelings thus far; ^our men despise cowardice, and treat it as treason.
+str_mission_briefing_2|December 1, 1805^It was a fine respite, but now we march once again. Praise God this will be our final effort! ^It is said that we shall march directly into the battle.^^Our time on the outskirts of Vienna was surely the finest days of the campaign. Rich villages ^with large, clean houses, wonderful food and wine -- and of course the pretty girls all helped us ^replenish our energies.^We had been shaken by the endless marches through terrible weather. Exhausted by our pursuit ^of the retreating Allied forces. It was good to forget, for a little while.^^But our peaceful rest ended abruptly; we received the order to rejoin the main army as quickly as ^possible, and now we march madly to battle once more. In a forced march we have left nearly half ^of the regiment behind, but general Friant is determined to arrive to the battlefield on time, ^and will not pause for our supporting forces to rejoin us.^^The Allies are said to greatly outnumber our own troops, especially in cavalry. It seems that the ^battle will be defensive this time, but the situation remains unclear. A messenger from the Emperors ^headquarters informed us, as he rode past our column, that our rear guard had been driven back ^near a place called Vishau, and were retreating towards Austerlitz^^I dare not speak of it, but thoughts of the upcoming battle fill me with terror. Marengo was the last ^Well, I should say the only large battle I took part in, and this was almost 5 years ago. I still ^remember the horrible things I saw that day; it makes my body shake to think of it. ^Luckily, I have been able to conceal my feelings thus far; ^our men despise cowardice, and treat it as treason.
+str_mission_briefing_3|August 26, 1813^We are preparing to march on Drezden, where our small garrison was formerly besieged by the far ^superior forces of the Allies. Artillery fire is reported to be so powerful that window glass ^shakes even 10 kilometers from the city.^^The original plan was to raid and disrupt Allied communications, ^but the Emperor revised his plan two days ago when he learned of a threat on the Saxon capital. ^When he discovered the scale of the threat, he sent us to save the city, while the bulk of his ^forces proceeded with General Vandamme to continue with the raid as originally planned.^It is no surprise that the Allied forces will attempt to seize Dresden. Its defenses are miserable, ^and the garrison is quite insufficient. But Napoleon intends to give the Allies an unpleasant ^surprise of their own, for the Allies are not scouting anywhere near the area that we are approaching from.^^We have a strong force, and numerous cavalry guided by Prince Murat himself. Unfortunately, ^the weather seems to be getting worse and worse, and it probably will be raining by the time ^we reach Dresden. Under such circumstances, the benefits we might reap from our superior cavalry ^will significantly decrease.^^Myself, I welcome the battle. Finally we may take our revenge upon the Russians, for what we have ^suffered these past six months. I have tried to forget what horrors we witnessed on the way from ^Moscow to Berezina, but the images still come unbidden to my mind. These nightmares shall likely ^pursue me to the end of my days. ^We must win this battle, and this war, that our comrades shall not have died in vain.
+str_mission_briefing_4|September 5, 1812^^I grow tired of this war. The march has been tolerable, but the past few days were difficult, ^and I am only now recovering from an illness. Blast, the climate is terrible! Scorching hot days, ^cold nights, dry air. There are no more Russian peasants to be seen. Theyâ€™ve burned their houses and fled, ^leaving little to sustain us on the long march towards Moscow.^^Our men grow tired as well. For too long, they have been biting at the heels of a fleeing enemy. ^But they are cheerful that the march is nearing its end, and gladly greet the coming battle. ^We call the Russians cowards, and imagine a swift victory, that we may return to the arms of our loved ones. ^Our soldiers even ask permission to wear parade uniforms into the battle. Our hopes and weariness have ^blinded us: the men do not see that the most difficult challenge is yet to come.^^Meanwhile, the Russian soldiers have halted their retreat, and instead are digging in for the final stand.^^Their preparations are covered by a great redoubt at Shevardino. It is well away from their rear positions, ^which makes it a fine target. Marshall Davout has received orders to capture the redoubt as quickly as ^possible. I am to join the troops of General Compans in this attack, to ensure that everything goes as planned.^^But I am wary. Never before have I seen such fortifications! I have grown certain that these Russians ^are no cowards. ^They will retreat no further, but will defend their Moscow to the dying breath.
+str_mission_briefings_end|mission briefings end
+str_map_changed|Map ändern
+str_round_changed|neue Runde hat begonnen
+str_teamkilled_s1_s2_horse|{s1} hat {s2} sein Pferd umgebracht
+str_teamwounded_s1_s2|{s1} hat {s2} {reg60} schaden zugefügt.
+str_teamwounded_s1_s2_horse|{s1} hat {s2}'s pferd {reg60} schaden zugefügt.
+str_revive_player|Wiederbelebe Spieler
+str_revive_all|Wiederbelebe Alle
+str_revive_player_s2_s3|{s2} Wiederbelebe spieler {s3}.
+str_revive_all_s2|{s2} Wiederbelebe alle
+str_cheat_god_mode|Gott modus
+str_cheat_god_mode_s3_s2|{s2} hat den Gott modus für {s3} angemacht
+str_cheat_god_mode_s3_s2_2|{s2} hat den Gott modus fpr {s3} ausgemacht
+str_suicide_player|Selbstmord
+str_s2_suicide|{s2} Hat selbstmord beganngen
+str_admin_set_limit_surgeon_s0_reg1|{s0} hat das limit für medizinmänner auf {reg1} % des teams gesetzt.
+str_limit_surgeon|Limit für medizinmänner im team (%):
+str_admin_set_limit_arty_train_s0_reg1|{s0} Setze das limit für artillery klassen zu {reg1} % des teams
+str_limit_arty_train|Limit der artillery(%):
+str_admin_set_groupfight_mode_s0_s9|{s0} Setze gruppenkämpfer modus auf {s9}.
+str_groupfight_mode|verbiete waffen mit einer höhere reichweite als ein waffe die nicht schießen kann (groupfighting)
+str_admin_set_competitive_score_mode_s0_s9|{s0} mach den super modus an {s9}.
+str_competitive_score_mode|super modus
+str_more_admin_tools|Mehr Admin werkzeuge
+str_choose_an_admin_tool|wähle ein admin werkzeug
+str_spawn_player|Bringe ein spieler ins spiel
+str_spawn_all|bringe alle spieler ins spiel
+str_spawn_all_s2|{s2} hat alle spieler ins spiel gebracht
+str_spawn_player_s2_s3|{s2} hat spieler {s3} in spiel gebracht
+str_welcome_message_toggle|Willkommen nachricht ist: {s9}.
+str_commit_suicide|Bist du dir sicher, das du sterben willst?
+str_no_line_inf_spread|Verhindere das spieler eine lose formation mit linineninfanterie einnehmen können
+str_admin_set_no_line_inf_spread_s0_s9|{s0} hat das lose formations features dingens auf {s9} gesetzt.
+str_line_inf_spread|Die derzeitigen servereinstelllungen erlauben es nicht, die linieninfanterie lose aufzustellen
+str_num_custom_maps|Wähle die nummer der verfügbaren personaliserten karten 
+str_admin_set_num_custom_maps_s0_reg1|{s0} setze die Zahl der verifizierten personalisierten Karten auf: {reg1}. 
+str_no_rambo|verhindere, das spieler schaden zufügen kann, wenn sie sich von der eigenen einheit entfernen
+str_no_rambo_warning|Du bist zu weit von deiner Einheit entfernt, du kannst dir keinen Schaden zufügen
+str_admin_set_no_rambo_s0_s9|{s0} sätze die Verhinderungen schaden zufügen können: {s9}. 
+str_no_rambo_range|maximalle reichweite eines spielers der nicht ganz so schön ist: 
+str_admin_set_no_rambo_range_s0_reg1|{s0} sätze die maximale Anzahl an Daten, die nicht auf dem Bildschirm angezeigt werden. 
+str_set_admin_true_s2|{s2} wird von der Whitelist admin gesetzt. 
+str_set_admin_false_s2|{s2} 's Admin wurde entfernt, nicht auf Whitelist. 
+str_return_set_admin_true_s2|{s2}, Sie werden von der Administrator-Whitelist admin gesetzt. 
+str_return_set_admin_false_s2|{s2}, Ihr Administrator wurde von der Administrator-Whitelist entfernt. 
+str_admin_white_list_is_enabled|Admin-Whitelist ist aktiviert. 
+str_admin_white_list_is_disabled|Admin-Whitelist ist deaktiviert. 
+str_admin_white_list_added_key_reg0|Hinzugefügt: {reg0} zur Admin-Whitelist. 
+str_healed_player_s2_reg4_reg5|Geheilter Spieler {s2} für {reg4}%, aktueller Status: {reg5}%. 
+str_healed_player_full_s2_reg4|Geheilter Spieler {s2} für {reg4}% und jetzt vollständig geheilt 
+str_healed_player_no_more_s2_reg4|Geheilter Spieler {s2} für {reg4}% und kann nicht weiter geheilt werden. 
+str_not_healed_player_full_s2|Spieler {s2} ist bereits vollständig geheilt 
+str_not_healed_player_no_more_s2|Spieler {s2} kann nicht weiter geheilt werden. 
+str_got_healed_player_s2_reg4_reg5|Spieler {s2} hat dich für {reg4}% geheilt, aktueller Status: {reg5}%. 
+str_got_healed_player_full_s2_reg4|Spieler {s2} hat dich um {reg4}% geheilt, du bist jetzt vollständig geheilt 
+str_got_healed_player_no_more_s2_reg4|Spieler {s2} hat dich um {reg4}% geheilt, du kannst nicht weiter geheilt werden. 
+str_not_got_healed_player_full_s2|Spieler {s2} kann dich nicht heilen, du bist bereits vollständig geheilt. 
+str_not_got_healed_player_no_more_s2|Spieler {s2} kann dich nicht heilen, du kannst nicht weiter geheilt werden. 
+str_healed_player_horse_s2_reg4_reg5|Geheiltes Pferd des Spielers {s2} für {reg4}%, aktueller Status: {reg5}%. 
+str_healed_player_horse_full_s2_reg4|Geheiltes Pferd des Spielers {s2} um {reg4}%, und er ist nun vollständig geheilt 
+str_healed_player_horse_no_more_s2_reg4|Geheiltes Pferd des Spielers {s2} um {reg4}%, und er kann nicht weiter geheilt werden. 
+str_not_healed_player_horse_full_s2|Das Pferd von Spieler {s2} ist bereits vollständig geheilt. 
+str_not_healed_player_horse_no_more_s2|Das Pferd von Spieler {s2} kann nicht weiter geheilt werden. 
+str_got_healed_player_horse_s2_reg4_reg5|Spieler {s2} hat dein Pferd um {reg4}%, den aktuellen Gesundheitszustand geheilt: {reg5}%. 
+str_got_healed_player_horse_full_s2_reg4|Spieler {s2} hat dein Pferd um {reg4}% geheilt und er ist vollständig geheilt 
+str_got_healed_player_horse_no_more_s2_reg4|Spieler {s2} hat dein Pferd um {reg4}% geheilt und kann nicht weiter geheilt werden. 
+str_not_got_healed_player_horse_full_s2|Spieler {s2} kann dein Pferd nicht heilen, er ist bereits vollständig geheilt 
+str_not_got_healed_player_horse_no_more_s2|Spieler {s2} kann dein Pferd nicht heilen, er kann nicht weiter geheilt werden. 
+str_healed_horse_s2_reg4_reg5|Geheiltes {s2} Pferd für {reg4}%, aktueller Status: {reg5}%. 
+str_healed_horse_full_s2_reg4|Geheiltes {s2} Pferd für {reg4}%, und er ist nun vollständig geheilt 
+str_healed_horse_no_more_s2_reg4|Geheiltes {s2} Pferd für {reg4}%, und er kann nicht weiter geheilt werden. 
+str_not_healed_horse_full_s2|Spieler {s2} Pferd ist bereits vollständig geheilt 
+str_not_healed_horse_no_more_s2|Spieler {s2} Pferd kann nicht weiter geheilt werden. 
+str_royale_weapon_musket|Eine Muskete aufnehmen 
+str_royale_weapon_pistol|Hebe eine Pistole auf 
+str_royale_weapon_carabine|Hol dir einen Karabiner 
+str_royale_weapon_smallsword|Hebe ein kleines Schwert auf 
+str_royale_weapon_bigsword|Hebe ein Schwert auf 
+str_royale_weapon_bottle|Sammle eine Flasche ein 
+str_royale_weapon_axe|Nimm eine Axt auf 
+str_royale_weapon_spear|Hebe eine Stangenwaffe auf 
+str_royale_weapon_club|Hol dir einen Club 
+str_royale_weapon_tool|Werkzeug aufnehmen 
+str_royale_weapon_ramrod|Hol dir einen Ladestock 
+str_royale_weapon_lighter|Hebe ein Feuerzeug auf 
+str_royale_weapon_ammo|Schnapp dir etwas Munition 
+str_royale_weapon_ammo_pistol|Schnapp dir eine Pistolenmunition 
+str_royale_weapon_ammo_musket|Schnapp dir Musketenmunition 
+str_welcome_message_server|Willkommen, {s3}, Ihre Benutzer-ID lautet {reg44}. Bitte folgen Sie den Serverregeln und genießen Sie Ihren Aufenthalt! 

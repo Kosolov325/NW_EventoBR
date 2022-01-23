@@ -1,0 +1,1834 @@
+﻿itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM 
+itm_french_cav_pistol|手 槍 
+itm_french_cav_pistol_pl|手 槍 
+itm_french_officer_pistol|手 槍 
+itm_french_officer_pistol_pl|手 槍 
+itm_french_pistol_1766|手 槍 
+itm_french_pistol_1766_pl|手 槍 
+itm_french_pistol_1777|手 槍 
+itm_french_pistol_1777_pl|手 槍 
+itm_russian_pistol|手 槍 
+itm_russian_pistol_pl|手 槍 
+itm_british_pistol|手 槍 
+itm_british_pistol_pl|手 槍 
+itm_french_mousquiton|騎 兵 卡 賓 槍 
+itm_french_mousquiton_pl|騎 兵 卡 賓 槍 
+itm_french_mousquiton_melee|騎 兵 卡 賓 槍 
+itm_french_mousquiton_melee_pl|騎 兵 卡 賓 槍 
+itm_french_mousquiton_ai|騎 兵 卡 賓 槍 
+itm_french_mousquiton_ai_pl|騎 兵 卡 賓 槍 
+itm_french_mousquiton_light|輕 騎 兵 卡 賓 槍 
+itm_french_mousquiton_light_pl|輕 騎 兵 卡 賓 槍 
+itm_french_mousquiton_light_melee|輕 騎 兵 卡 賓 槍 
+itm_french_mousquiton_light_melee_pl|輕 騎 兵 卡 賓 槍 
+itm_french_mousquiton_light_ai|輕 騎 兵 卡 賓 槍 
+itm_french_mousquiton_light_ai_pl|輕 騎 兵 卡 賓 槍 
+itm_french_dragoon_musket|騎 兵 火 槍 
+itm_french_dragoon_musket_pl|騎 兵 火 槍 
+itm_french_dragoon_musket_melee|騎 兵 火 槍 
+itm_french_dragoon_musket_melee_pl|騎 兵 火 槍 
+itm_french_dragoon_musket_ai|騎 兵 火 槍 
+itm_french_dragoon_musket_ai_pl|騎 兵 火 槍 
+itm_russian_dragoon_musket|騎 兵 火 槍 
+itm_russian_dragoon_musket_pl|騎 兵 火 槍 
+itm_russian_dragoon_musket_melee|騎 兵 火 槍 
+itm_russian_dragoon_musket_melee_pl|騎 兵 火 槍 
+itm_russian_dragoon_musket_ai|騎 兵 火 槍 
+itm_russian_dragoon_musket_ai_pl|騎 兵 火 槍 
+itm_russian_cavalry_stutzer_1803|短 卡 賓 槍 
+itm_russian_cavalry_stutzer_1803_pl|短 卡 賓 槍 
+itm_russian_gusarskiy_karabin|短 火 槍 
+itm_russian_gusarskiy_karabin_pl|短 火 槍 
+itm_russian_gusarskiy_karabin_melee|短 火 槍 
+itm_russian_gusarskiy_karabin_melee_pl|短 火 槍 
+itm_russian_gusarskiy_karabin_ai|短 火 槍 
+itm_russian_gusarskiy_karabin_ai_pl|短 火 槍 
+itm_british_carbine|騎 兵 卡 賓 槍 
+itm_british_carbine_pl|騎 兵 卡 賓 槍 
+itm_british_carbine_melee|騎 兵 卡 賓 槍 
+itm_british_carbine_melee_pl|騎 兵 卡 賓 槍 
+itm_british_carbine_ai|騎 兵 卡 賓 槍 
+itm_british_carbine_ai_pl|騎 兵 卡 賓 槍 
+itm_russian_rifle_1805|來 福 槍 
+itm_russian_rifle_1805_pl|來 福 槍 
+itm_russian_rifle_1805_melee|來 福 槍 
+itm_russian_rifle_1805_melee_pl|來 福 槍 
+itm_british_baker_rifle|來 福 槍 
+itm_british_baker_rifle_pl|來 福 槍 
+itm_british_baker_rifle_melee|來 福 槍 
+itm_british_baker_rifle_melee_pl|來 福 槍 
+itm_sniper_rifle|狙 擊 步 槍 
+itm_sniper_rifle_pl|狙 擊 步 槍 
+itm_blunderbluss|霰 彈 槍 
+itm_blunderbluss_pl|霰 彈 槍 
+itm_french_charleville|步 兵 火 槍 
+itm_french_charleville_pl|步 兵 火 槍 
+itm_french_charleville_melee|步 兵 火 槍 
+itm_french_charleville_melee_pl|步 兵 火 槍 
+itm_french_versailles|步 兵 火 槍 
+itm_french_versailles_pl|步 兵 火 槍 
+itm_french_versailles_melee|步 兵 火 槍 
+itm_french_versailles_melee_pl|步 兵 火 槍 
+itm_british_brown_bess|步 兵 火 槍 
+itm_british_brown_bess_pl|步 兵 火 槍 
+itm_british_brown_bess_melee|步 兵 火 槍 
+itm_british_brown_bess_melee_pl|步 兵 火 槍 
+itm_russian_musket_1808|步 兵 火 槍 
+itm_russian_musket_1808_pl|步 兵 火 槍 
+itm_russian_musket_1808_melee|步 兵 火 槍 
+itm_russian_musket_1808_melee_pl|步 兵 火 槍 
+itm_austrian_musket|步 兵 火 槍 
+itm_austrian_musket_pl|步 兵 火 槍 
+itm_austrian_musket_melee|步 兵 火 槍 
+itm_austrian_musket_melee_pl|步 兵 火 槍 
+itm_prussian_potsdam|步 兵 火 槍 
+itm_prussian_potsdam_pl|步 兵 火 槍 
+itm_prussian_potsdam_melee|步 兵 火 槍 
+itm_prussian_potsdam_melee_pl|步 兵 火 槍 
+itm_prussian_musket_1806|步 兵 火 槍 
+itm_prussian_musket_1806_pl|步 兵 火 槍 
+itm_prussian_musket_1806_melee|步 兵 火 槍 
+itm_prussian_musket_1806_melee_pl|步 兵 火 槍 
+itm_french_art_off_sword|炮 兵 軍 官 劍 
+itm_french_art_off_sword_pl|炮 兵 軍 官 劍 
+itm_french_carabineer_sword|重 騎 兵 劍 
+itm_french_carabineer_sword_pl|重 騎 兵 劍 
+itm_french_briquet_garde|近 衛 短 軍 刀 
+itm_french_briquet_garde_pl|近 衛 短 軍 刀 
+itm_french_light_cav_sabre_garde|輕 騎 兵 軍 刀 
+itm_french_light_cav_sabre_garde_pl|輕 騎 兵 軍 刀 
+itm_french_heavy_cav_sabre_garde|重 騎 兵 軍 刀 
+itm_french_heavy_cav_sabre_garde_pl|重 騎 兵 軍 刀 
+itm_french_inf_off_sabre_garde|帝 國 近 衛 軍 官 軍 刀 
+itm_french_inf_off_sabre_garde_pl|帝 國 近 衛 軍 官 軍 刀 
+itm_french_heavy_cav_off_sabre|重 騎 兵 軍 刀 
+itm_french_heavy_cav_off_sabre_pl|重 騎 兵 軍 刀 
+itm_french_inf_off_sabre|步 兵 軍 刀 
+itm_french_inf_off_sabre_pl|步 兵 軍 刀 
+itm_french_light_cav_off_sabre|輕 騎 兵 軍 刀 
+itm_french_light_cav_off_sabre_pl|輕 騎 兵 軍 刀 
+itm_french_light_inf_off_sabre|輕 步 兵 軍 刀 
+itm_french_light_inf_off_sabre_pl|輕 步 兵 軍 刀 
+itm_french_line_cav_sabre|騎 兵 隊 軍 刀 
+itm_french_line_cav_sabre_pl|騎 兵 隊 軍 刀 
+itm_french_briquet|短 軍 刀 
+itm_french_briquet_pl|短 軍 刀 
+itm_french_light_cav_sabre|輕 騎 兵 軍 刀 
+itm_french_light_cav_sabre_pl|輕 騎 兵 軍 刀 
+itm_french_sappeur_sword|工 兵 劍 
+itm_french_sappeur_sword_pl|工 兵 劍 
+itm_russian_sabre_1798|輕 騎 兵 軍 刀 
+itm_russian_sabre_1798_pl|輕 騎 兵 軍 刀 
+itm_russian_sabre_1809|輕 騎 兵 軍 刀 
+itm_russian_sabre_1809_pl|輕 騎 兵 軍 刀 
+itm_russian_sword_1810|龍 騎 兵 劍 
+itm_russian_sword_1810_pl|龍 騎 兵 劍 
+itm_russian_guard_sword_1799|重 騎 兵 劍 
+itm_russian_guard_sword_1799_pl|重 騎 兵 劍 
+itm_russian_briquet_1807|短 軍 刀 
+itm_russian_briquet_1807_pl|短 軍 刀 
+itm_russian_jaeger_bayonet|刺 刀 
+itm_russian_jaeger_bayonet_pl|刺 刀 
+itm_russian_jaeger_bayonet_jaeger|刺 刀 
+itm_russian_jaeger_bayonet_jaeger_pl|刺 刀 
+itm_russian_officer_sword|軍 官 劍 
+itm_russian_officer_sword_pl|軍 官 劍 
+itm_russian_officer_sword_jaeger|軍 官 劍 
+itm_russian_officer_sword_jaeger_pl|軍 官 劍 
+itm_russian_peasant_axe|手 斧 
+itm_russian_peasant_axe_pl|手 斧 
+itm_brokenbottle|打 破 的 伏 特 加 瓶 子 
+itm_brokenbottle_pl|打 破 的 伏 特 加 瓶 子 
+itm_brokenbottle_melee|打 破 的 伏 特 加 瓶 子 
+itm_brokenbottle_melee_pl|打 破 的 伏 特 加 瓶 子 
+itm_russian_kindjal|哥 薩 克 刀 
+itm_russian_kindjal_pl|哥 薩 克 刀 
+itm_russian_guard_off_sword|軍 官 劍 
+itm_russian_guard_off_sword_pl|軍 官 劍 
+itm_russian_sappeur_dagger|短 劍 
+itm_russian_sappeur_dagger_pl|短 劍 
+itm_russian_sappeur_dagger_invis|短 劍 
+itm_russian_sappeur_dagger_invis_pl|短 劍 
+itm_russian_peasant_knife|刀 
+itm_russian_peasant_knife_pl|刀 
+itm_russian_peasant_serp|鐮 刀 
+itm_russian_peasant_serp_pl|鐮 刀 
+itm_british_highlander_officer_sword|高 地 軍 官 劍 
+itm_british_highlander_officer_sword_pl|高 地 軍 官 劍 
+itm_british_heavy_cav_sword|重 騎 兵 劍 
+itm_british_heavy_cav_sword_pl|重 騎 兵 劍 
+itm_british_light_cav_sabre|輕 騎 兵 軍 刀 
+itm_british_light_cav_sabre_pl|輕 騎 兵 軍 刀 
+itm_british_baker_bayonet|劍 
+itm_british_baker_bayonet_pl|劍 
+itm_british_musician_sword|劍 
+itm_british_musician_sword_pl|劍 
+itm_british_musician_sword_invis|劍 
+itm_british_musician_sword_invis_pl|劍 
+itm_british_officer_sword|軍 官 劍 
+itm_british_officer_sword_pl|軍 官 劍 
+itm_austrian_infantry_briquet|刺 刀 
+itm_austrian_infantry_briquet_pl|刺 刀 
+itm_austrian_infantry_briquet_black|刺 刀 
+itm_austrian_infantry_briquet_black_pl|刺 刀 
+itm_austrian_jaeger_bayonet|刺 刀 
+itm_austrian_jaeger_bayonet_pl|刺 刀 
+itm_austrian_jaeger_bayonet_invis|刺 刀 
+itm_austrian_jaeger_bayonet_invis_pl|刺 刀 
+itm_russian_briquet_1807_black|短 軍 刀 
+itm_russian_briquet_1807_black_pl|短 軍 刀 
+itm_russian_briquet_1807_black_blackbelt|短 軍 刀 
+itm_russian_briquet_1807_black_blackbelt_pl|短 軍 刀 
+itm_russian_briquet_1807_landwehr|短 軍 刀 
+itm_russian_briquet_1807_landwehr_pl|短 軍 刀 
+itm_russian_peasant_axe_landwehr|手 斧 
+itm_russian_peasant_axe_landwehr_pl|手 斧 
+itm_french_briquet_garde_fake|短 軍 刀 
+itm_french_briquet_garde_fake_pl|短 軍 刀 
+itm_french_briquet_fake|短 軍 刀 
+itm_french_briquet_fake_pl|短 軍 刀 
+itm_russian_briquet_1807_fake|短 軍 刀 
+itm_russian_briquet_1807_fake_pl|短 軍 刀 
+itm_russian_briquet_1807_black_fake|短 軍 刀 
+itm_russian_briquet_1807_black_fake_pl|短 軍 刀 
+itm_russian_briquet_1807_black_blackbelt_fake|短 軍 刀 
+itm_russian_briquet_1807_black_blackbelt_fake_pl|短 軍 刀 
+itm_russian_briquet_1807_landwehr_fake|短 軍 刀 
+itm_russian_briquet_1807_landwehr_fake_pl|短 軍 刀 
+itm_russian_peasant_axe_landwehr_fake|手 斧 
+itm_russian_peasant_axe_landwehr_fake_pl|手 斧 
+itm_austrian_infantry_briquet_fake|刺 刀 
+itm_austrian_infantry_briquet_fake_pl|刺 刀 
+itm_banhammer|禁 錘 
+itm_banhammer_pl|禁 錘 
+itm_drumstick_right|鼓 
+itm_drumstick_right_pl|鼓 
+itm_flute|笛 
+itm_flute_pl|笛 
+itm_horn|圓 號 
+itm_horn_pl|圓 號 
+itm_trumpet|小 號 
+itm_trumpet_pl|小 號 
+itm_bugle|圓 號 
+itm_bugle_pl|圓 號 
+itm_bagpipe|風 笛 
+itm_bagpipe_pl|風 笛 
+itm_bullets|彈 藥 
+itm_bullets_pl|彈 藥 
+itm_pistol_ammo|彈 藥 
+itm_pistol_ammo_pl|彈 藥 
+itm_canister_ammo|彈 藥 
+itm_canister_ammo_pl|彈 藥 
+itm_shell_fragment|彈 片 
+itm_shell_fragment_pl|彈 片 
+itm_explosive_bullets|彈 藥 
+itm_explosive_bullets_pl|彈 藥 
+itm_cannon_cartridge_round|實 心 彈 
+itm_cannon_cartridge_round_pl|實 心 彈 
+itm_cannon_cartridge_shell|榴 彈 （ 易 爆 品 ） 
+itm_cannon_cartridge_shell_pl|榴 彈 （ 易 爆 品 ） 
+itm_cannon_cartridge_canister|霰 彈 
+itm_cannon_cartridge_canister_pl|霰 彈 
+itm_cannon_cartridge_bomb|臼 炮 炮 彈 
+itm_cannon_cartridge_bomb_pl|臼 炮 炮 彈 
+itm_rockets|火 箭 彈 
+itm_rockets_pl|火 箭 彈 
+itm_french_lance|騎 槍 
+itm_french_lance_pl|騎 槍 
+itm_prussian_lance|騎 槍 
+itm_prussian_lance_pl|騎 槍 
+itm_austrian_lance|騎 槍 
+itm_austrian_lance_pl|騎 槍 
+itm_saxon_lance|騎 槍 
+itm_saxon_lance_pl|騎 槍 
+itm_russian_cossack_pike|騎 槍 
+itm_russian_cossack_pike_pl|騎 槍 
+itm_russian_lancer_pike|騎 槍 
+itm_russian_lancer_pike_pl|騎 槍 
+itm_russian_opolcheniye_pike|長 槍 
+itm_russian_opolcheniye_pike_pl|長 槍 
+itm_russian_peasant_kosa|大 鐮 刀 
+itm_russian_peasant_kosa_pl|大 鐮 刀 
+itm_russian_peasant_fork|杈 
+itm_russian_peasant_fork_pl|杈 
+itm_russian_peasant_pitchfork|草 叉 
+itm_russian_peasant_pitchfork_pl|草 叉 
+itm_russian_peasant_sap|耙 
+itm_russian_peasant_sap_pl|耙 
+itm_birch_trunk|樺 木 杆 
+itm_birch_trunk_pl|樺 木 杆 
+itm_russian_peasant_kosa2|大 鐮 刀 
+itm_russian_peasant_kosa2_pl|大 鐮 刀 
+itm_russian_peasant_club|木 棍 
+itm_russian_peasant_club_pl|木 棍 
+itm_russian_peasant_birch_club|樺 木 棍 
+itm_russian_peasant_birch_club_pl|樺 木 棍 
+itm_russian_peasant_pike|長 槍 
+itm_russian_peasant_pike_pl|長 槍 
+itm_russian_peasant_kuvalda|大 錘 
+itm_russian_peasant_kuvalda_pl|大 錘 
+itm_russian_peasant_2handed_axe|伐 木 斧 
+itm_russian_peasant_2handed_axe_pl|伐 木 斧 
+itm_russian_peasant_rogatina|獵 矛 
+itm_russian_peasant_rogatina_pl|獵 矛 
+itm_sapper_axe_ship|工 兵 斧 
+itm_sapper_axe_ship_pl|工 兵 斧 
+itm_sapper_axe_rus_ship|工 兵 斧 
+itm_sapper_axe_rus_ship_pl|工 兵 斧 
+itm_french_mousquiton_melee_gf|騎 兵 卡 賓 槍 
+itm_french_mousquiton_melee_gf_pl|騎 兵 卡 賓 槍 
+itm_french_mousquiton_light_melee_gf|輕 騎 兵 卡 賓 槍 
+itm_french_mousquiton_light_melee_gf_pl|輕 騎 兵 卡 賓 槍 
+itm_french_dragoon_musket_melee_gf|騎 兵 火 槍 
+itm_french_dragoon_musket_melee_gf_pl|騎 兵 火 槍 
+itm_russian_dragoon_musket_melee_gf|騎 兵 火 槍 
+itm_russian_dragoon_musket_melee_gf_pl|騎 兵 火 槍 
+itm_russian_gusarskiy_karabin_melee_gf|短 火 槍 
+itm_russian_gusarskiy_karabin_melee_gf_pl|短 火 槍 
+itm_british_carbine_melee_gf|騎 兵 卡 賓 槍 
+itm_british_carbine_melee_gf_pl|騎 兵 卡 賓 槍 
+itm_russian_rifle_1805_melee_gf|來 福 槍 
+itm_russian_rifle_1805_melee_gf_pl|來 福 槍 
+itm_british_baker_rifle_melee_gf|來 福 槍 
+itm_british_baker_rifle_melee_gf_pl|來 福 槍 
+itm_french_charleville_melee_gf|步 兵 火 槍 
+itm_french_charleville_melee_gf_pl|步 兵 火 槍 
+itm_french_versailles_melee_gf|步 兵 火 槍 
+itm_french_versailles_melee_gf_pl|步 兵 火 槍 
+itm_british_brown_bess_melee_gf|步 兵 火 槍 
+itm_british_brown_bess_melee_gf_pl|步 兵 火 槍 
+itm_russian_musket_1808_melee_gf|步 兵 火 槍 
+itm_russian_musket_1808_melee_gf_pl|步 兵 火 槍 
+itm_austrian_musket_melee_gf|步 兵 火 槍 
+itm_austrian_musket_melee_gf_pl|步 兵 火 槍 
+itm_prussian_potsdam_melee_gf|步 兵 火 槍 
+itm_prussian_potsdam_melee_gf_pl|步 兵 火 槍 
+itm_prussian_musket_1806_melee_gf|步 兵 火 槍 
+itm_prussian_musket_1806_melee_gf_pl|步 兵 火 槍 
+itm_flag_france_45e|法 國 第 45線 列 步 兵 團 旗 
+itm_flag_france_45e_pl|法 國 線 列 步 兵 團 旗 
+itm_flag_france_84e|法 國 第 84線 列 步 兵 團 旗 
+itm_flag_france_84e_pl|法 國 線 列 步 兵 團 旗 
+itm_flag_france_vistula|維 斯 杜 拉 軍 團 旗 
+itm_flag_france_vistula_pl|維 斯 杜 拉 軍 團 旗 
+itm_flag_france_grenadiers|法 國 近 衛 步 兵 團 旗 
+itm_flag_france_grenadiers_pl|法 國 近 衛 步 兵 團 旗 
+itm_flag_france_15|法 國 輕 步 兵 團 旗 
+itm_flag_france_15_pl|法 國 輕 步 兵 團 旗 
+itm_flag_france_hussard|法 國 驃 騎 兵 團 旗 
+itm_flag_france_hussard_pl|法 國 驃 騎 兵 團 旗 
+itm_flag_france_carab|法 國 卡 賓 槍 騎 兵 團 旗 
+itm_flag_france_carab_pl|法 國 卡 賓 槍 騎 兵 團 旗 
+itm_flag_france_cuirassier|法 國 胸 甲 騎 兵 團 旗 
+itm_flag_france_cuirassier_pl|法 國 胸 甲 騎 兵 團 旗 
+itm_flag_france_cheval|法 國 擲 彈 騎 兵 團 旗 
+itm_flag_france_cheval_pl|法 國 擲 彈 騎 兵 團 旗 
+itm_flag_france_dragon|法 國 龍 騎 兵 團 旗 
+itm_flag_france_dragon_pl|法 國 龍 騎 兵 團 旗 
+itm_flag_france_lancier|法 國 槍 騎 兵 團 旗 
+itm_flag_france_lancier_pl|法 國 槍 騎 兵 團 旗 
+itm_flag_russia_opolcheniye|俄 羅 斯 聖 彼 德 堡 民 兵 團 旗 
+itm_flag_russia_opolcheniye_pl|俄 羅 斯 聖 彼 德 堡 民 兵 團 旗 
+itm_flag_russia_pavlovsk_color|俄 羅 斯 巴 甫 洛 夫 斯 克 擲 彈 兵 團 旗 
+itm_flag_russia_pavlovsk_color_pl|俄 羅 斯 巴 甫 洛 夫 斯 克 擲 彈 兵 團 旗 
+itm_flag_russia_pavlovsk_white|俄 羅 斯 巴 甫 洛 夫 斯 克 擲 彈 兵 團 白 旗 
+itm_flag_russia_pavlovsk_white_pl|俄 羅 斯 巴 甫 洛 夫 斯 克 擲 彈 兵 團 白 旗 
+itm_flag_russia_preobragenskiy_color|俄 羅 斯 普 列 奧 布 拉 仁 斯 基 近 衛 團 旗 
+itm_flag_russia_preobragenskiy_color_pl|俄 羅 斯 普 列 奧 布 拉 仁 斯 基 近 衛 團 旗 
+itm_flag_russia_preobragenskiy_white|俄 羅 斯 普 列 奧 布 拉 仁 斯 基 近 衛 團 白 旗 
+itm_flag_russia_preobragenskiy_white_pl|俄 羅 斯 普 列 奧 布 拉 仁 斯 基 近 衛 團 白 旗 
+itm_flag_russia_simbirsk_color|俄 羅 斯 辛 比 爾 斯 克 步 兵 團 旗 
+itm_flag_russia_simbirsk_color_pl|俄 羅 斯 辛 比 爾 斯 克 步 兵 團 旗 
+itm_flag_russia_simbirsk_white|俄 羅 斯 辛 比 爾 斯 克 步 兵 團 白 旗 
+itm_flag_russia_simbirsk_white_pl|俄 羅 斯 辛 比 爾 斯 克 步 兵 團 白 旗 
+itm_flag_russia_kyiv_dragoon|俄 羅 斯 基 輔 龍 騎 兵 團 旗 
+itm_flag_russia_kyiv_dragoon_pl|俄 羅 斯 基 輔 龍 騎 兵 團 旗 
+itm_britain_colour_33rd_regt|英 國 第 33步 兵 團 旗 
+itm_britain_colour_33rd_regt_pl|英 國 第 33步 兵 團 旗 
+itm_britain_colour_33rd_king|英 國 第 33步 兵 團 王 旗 
+itm_britain_colour_33rd_king_pl|英 國 第 33步 兵 團 王 旗 
+itm_britain_colour_42nd_regt|英 國 第 42步 兵 團 旗 
+itm_britain_colour_42nd_regt_pl|英 國 第 42步 兵 團 旗 
+itm_britain_colour_42nd_king|英 國 第 42步 兵 團 王 旗 
+itm_britain_colour_42nd_king_pl|英 國 第 42步 兵 團 王 旗 
+itm_britain_colour_2nd_regt|英 國 第 2近 衛 步 兵 團 旗 
+itm_britain_colour_2nd_regt_pl|英 國 第 2近 衛 步 兵 團 旗 
+itm_britain_colour_2nd_king|英 國 第 2近 衛 步 兵 團 王 旗 
+itm_britain_colour_2nd_king_pl|英 國 第 2近 衛 步 兵 團 王 旗 
+itm_britain_colour_51st_regt|英 國 第 51步 兵 團 旗 
+itm_britain_colour_51st_regt_pl|英 國 第 51步 兵 團 旗 
+itm_britain_colour_51st_king|英 國 第 51步 兵 團 王 旗 
+itm_britain_colour_51st_king_pl|英 國 第 51步 兵 團 王 旗 
+itm_britain_colour_kgl_regt|英 王 德 意 志 軍 團 旗 
+itm_britain_colour_kgl_regt_pl|英 王 德 意 志 軍 團 旗 
+itm_britain_colour_kgl_king|英 王 德 意 志 軍 團 王 旗 
+itm_britain_colour_kgl_king_pl|英 王 德 意 志 軍 團 王 旗 
+itm_britain_colour_blues|英 國 近 衛 騎 兵 團 旗 
+itm_britain_colour_blues_pl|英 國 近 衛 騎 兵 團 旗 
+itm_prussia_colour_infantry|普 魯 士 第 8步 兵 團 旗 
+itm_prussia_colour_infantry_pl|普 魯 士 第 8步 兵 團 旗 
+itm_prussia_colour_infantry2|普 魯 士 第 23步 兵 團 旗 
+itm_prussia_colour_infantry2_pl|普 魯 士 第 23步 兵 團 旗 
+itm_prussia_colour_guard|普 魯 士 近 衛 步 兵 團 旗 
+itm_prussia_colour_guard_pl|普 魯 士 近 衛 步 兵 團 旗 
+itm_prussia_colour_landwehr|普 魯 士 后 備 兵 團 旗 
+itm_prussia_colour_landwehr_pl|普 魯 士 后 備 兵 團 旗 
+itm_prussia_colour_hussard|普 魯 士 驃 騎 兵 團 旗 
+itm_prussia_colour_hussard_pl|普 魯 士 驃 騎 兵 團 旗 
+itm_austria_colour_leibfahne|奧 地 利 步 兵 團 旗 
+itm_austria_colour_leibfahne_pl|奧 地 利 步 兵 團 旗 
+itm_austria_colour_ordinarfahne|奧 地 利 步 兵 團 旗 
+itm_austria_colour_ordinarfahne_pl|奧 地 利 步 兵 團 旗 
+itm_austria_colour_ordinarfahne_cav|奧 地 利 騎 兵 團 旗 
+itm_austria_colour_ordinarfahne_cav_pl|奧 地 利 騎 兵 團 旗 
+itm_bavarian_flag_national|巴 伐 利 亞 王 國 旗 
+itm_bavarian_flag_national_pl|巴 伐 利 亞 王 國 旗 
+itm_bavarian_flag_regimental|巴 伐 利 亞 步 兵 團 旗 
+itm_bavarian_flag_regimental_pl|巴 伐 利 亞 步 兵 團 旗 
+itm_saxon_flag_infantry|薩 克 森 步 兵 團 旗 
+itm_saxon_flag_infantry_pl|薩 克 森 步 兵 團 旗 
+itm_saxon_flag_uhlan|薩 克 森 槍 騎 兵 團 旗 
+itm_saxon_flag_uhlan_pl|薩 克 森 槍 騎 兵 團 旗 
+itm_hessian_flag_infantry|黑 森 步 兵 團 旗 
+itm_hessian_flag_infantry_pl|黑 森 步 兵 團 旗 
+itm_westphalian_flag_infantry|威 斯 特 法 倫 步 兵 團 旗  
+itm_westphalian_flag_infantry_pl|威 斯 特 法 倫 步 兵 團 旗  
+itm_baden_flag_dragoon|巴 登 龍 騎 兵 團 旗 
+itm_baden_flag_dragoon_pl|巴 登 龍 騎 兵 團 旗 
+itm_westphalian_flag_cuirassier|威 斯 特 法 倫 胸 甲 騎 兵 團 旗 
+itm_westphalian_flag_cuirassier_pl|威 斯 特 法 倫 胸 甲 騎 兵 團 旗 
+itm_saxon_flag_garde|薩 克 森 近 衛 騎 兵 團 旗 
+itm_saxon_flag_garde_pl|薩 克 森 近 衛 騎 兵 團 旗 
+itm_wurttemberg_flag_infantry|符 騰 堡 步 兵 團 旗 
+itm_wurttemberg_flag_infantry_pl|符 騰 堡 步 兵 團 旗 
+itm_wurttemberg_flag_infantry2|符 騰 堡 步 兵 團 旗 
+itm_wurttemberg_flag_infantry2_pl|符 騰 堡 步 兵 團 旗 
+itm_cannon_lighter|大 炮 點 火 器 
+itm_cannon_lighter_pl|大 炮 點 火 器 
+itm_ramrod|推 彈 杆 
+itm_ramrod_pl|推 彈 杆 
+itm_rocket_placement|火 箭 發 射 器 
+itm_rocket_placement_pl|火 箭 發 射 器 
+itm_spyglass|望 遠 鏡 
+itm_spyglass_pl|望 遠 鏡 
+itm_bandages|繃 帶 
+itm_bandages_pl|繃 帶 
+itm_grenade|聖 手 榴 彈 
+itm_grenade_pl|聖 手 榴 彈 
+itm_sapper_axe|工 兵 斧 
+itm_sapper_axe_pl|工 兵 斧 
+itm_sapper_axe_rus|工 兵 斧 
+itm_sapper_axe_rus_pl|工 兵 斧 
+itm_construction_hammer|建 造 錘 
+itm_construction_hammer_pl|建 造 錘 
+itm_shovel|鐵 鍬 
+itm_shovel_pl|鐵 鍬 
+itm_shovel_undig|鐵 鍬 
+itm_shovel_undig_pl|鐵 鍬 
+itm_french_bomb|炸 藥 
+itm_french_bomb_pl|炸 藥 
+itm_french_voltigeur_body_officer|法 國 尖 兵 軍 服 
+itm_french_voltigeur_body_officer_pl|法 國 尖 兵 軍 服 
+itm_french_voltigeur_body_ranker|法 國 尖 兵 軍 服 
+itm_french_voltigeur_body_ranker_pl|法 國 尖 兵 軍 服 
+itm_french_voltigeur_body_sarge|法 國 尖 兵 軍 服 
+itm_french_voltigeur_body_sarge_pl|法 國 尖 兵 軍 服 
+itm_french_45e_body_officer|法 國 步 兵 軍 服 
+itm_french_45e_body_officer_pl|法 國 步 兵 軍 服 
+itm_french_45e_body_colours|法 國 步 兵 軍 服 
+itm_french_45e_body_colours_pl|法 國 步 兵 軍 服 
+itm_french_45e_body_ranker|法 國 步 兵 軍 服 
+itm_french_45e_body_ranker_pl|法 國 步 兵 軍 服 
+itm_french_84e_body_officer|法 國 步 兵 軍 服 
+itm_french_84e_body_officer_pl|法 國 步 兵 軍 服 
+itm_french_84e_body_ranker|法 國 步 兵 軍 服 
+itm_french_84e_body_ranker_pl|法 國 步 兵 軍 服 
+itm_french_84e_body_sarge|法 國 步 兵 軍 服 
+itm_french_84e_body_sarge_pl|法 國 步 兵 軍 服 
+itm_french_dragoon_body_ranker|法 國 龍 騎 兵 軍 服 
+itm_french_dragoon_body_ranker_pl|法 國 龍 騎 兵 軍 服 
+itm_french_dragoon_body_officer|法 國 龍 騎 兵 軍 服 
+itm_french_dragoon_body_officer_pl|法 國 龍 騎 兵 軍 服 
+itm_french_general_body_boney|拿 破 侖 軍 服 
+itm_french_general_body_boney_pl|拿 破 侖 軍 服 
+itm_french_grenadiers_a_cheval_body_colours|法 國 擲 彈 騎 兵 軍 服 
+itm_french_grenadiers_a_cheval_body_colours_pl|法 國 擲 彈 騎 兵 軍 服 
+itm_french_grenadiers_a_cheval_body_ranker|法 國 擲 彈 騎 兵 軍 服 
+itm_french_grenadiers_a_cheval_body_ranker_pl|法 國 擲 彈 騎 兵 軍 服 
+itm_french_grenadiers_a_cheval_body_officer|法 國 擲 彈 騎 兵 軍 服 
+itm_french_grenadiers_a_cheval_body_officer_pl|法 國 擲 彈 騎 兵 軍 服 
+itm_french_gap_body_colours|法 國 擲 彈 兵 軍 服 
+itm_french_gap_body_colours_pl|法 國 擲 彈 兵 軍 服 
+itm_french_gap_body_ranker|法 國 擲 彈 兵 軍 服 
+itm_french_gap_body_ranker_pl|法 國 擲 彈 兵 軍 服 
+itm_french_gap_body_officer|法 國 擲 彈 兵 軍 服 
+itm_french_gap_body_officer_pl|法 國 擲 彈 兵 軍 服 
+itm_french_art_ranker_body|法 國 炮 兵 軍 服 
+itm_french_art_ranker_body_pl|法 國 炮 兵 軍 服 
+itm_french_art_ranker_body_alt|法 國 炮 兵 軍 服 
+itm_french_art_ranker_body_alt_pl|法 國 炮 兵 軍 服 
+itm_french_art_officer_body|法 國 炮 兵 軍 服 
+itm_french_art_officer_body_pl|法 國 炮 兵 軍 服 
+itm_french_vistula_body_ranker|維 斯 特 拉 軍 團 服 
+itm_french_vistula_body_ranker_pl|維 斯 特 拉 軍 團 服 
+itm_french_vistula_body_colours|維 斯 特 拉 軍 團 服 
+itm_french_vistula_body_colours_pl|維 斯 特 拉 軍 團 服 
+itm_french_vistula_body_officer|維 斯 特 拉 軍 團 服 
+itm_french_vistula_body_officer_pl|維 斯 特 拉 軍 團 服 
+itm_french_lancer_body_ranker|法 國 近 衛 槍 騎 兵 軍 服 
+itm_french_lancer_body_ranker_pl|法 國 近 衛 槍 騎 兵 軍 服 
+itm_french_lancer_body_colours|法 國 近 衛 槍 騎 兵 軍 服 
+itm_french_lancer_body_colours_pl|法 國 近 衛 槍 騎 兵 軍 服 
+itm_french_lancer_body_officer|法 國 近 衛 槍 騎 兵 軍 服 
+itm_french_lancer_body_officer_pl|法 國 近 衛 槍 騎 兵 軍 服 
+itm_french_cuirassier_ranker|法 國 胸 甲 騎 兵 軍 服 
+itm_french_cuirassier_ranker_pl|法 國 胸 甲 騎 兵 軍 服 
+itm_french_cuirassier_colours|法 國 胸 甲 騎 兵 軍 服 
+itm_french_cuirassier_colours_pl|法 國 胸 甲 騎 兵 軍 服 
+itm_french_cuirassier_officer|法 國 胸 甲 騎 兵 軍 服 
+itm_french_cuirassier_officer_pl|法 國 胸 甲 騎 兵 軍 服 
+itm_french_carabineer_ranker|法 國 火 槍 騎 兵 軍 服 
+itm_french_carabineer_ranker_pl|法 國 火 槍 騎 兵 軍 服 
+itm_french_carabineer_colours|法 國 火 槍 騎 兵 軍 服 
+itm_french_carabineer_colours_pl|法 國 火 槍 騎 兵 軍 服 
+itm_french_carabineer_officer|法 國 火 槍 騎 兵 軍 服 
+itm_french_carabineer_officer_pl|法 國 火 槍 騎 兵 軍 服 
+itm_french_hussards_ranker|法 國 輕 騎 兵 軍 服 
+itm_french_hussards_ranker_pl|法 國 輕 騎 兵 軍 服 
+itm_french_hussards_nco|法 國 輕 騎 兵 軍 服 
+itm_french_hussards_nco_pl|法 國 輕 騎 兵 軍 服 
+itm_french_hussards_officer|法 國 輕 騎 兵 軍 服 
+itm_french_hussards_officer_pl|法 國 輕 騎 兵 軍 服 
+itm_french_hussards_trumpeter|法 國 輕 騎 兵 軍 服 
+itm_french_hussards_trumpeter_pl|法 國 輕 騎 兵 軍 服 
+itm_french_sapper|法 國 工 兵 軍 服 
+itm_french_sapper_pl|法 國 工 兵 軍 服 
+itm_french_grap_body_drummer|法 國 鼓 手 軍 服 
+itm_french_grap_body_drummer_pl|法 國 鼓 手 軍 服 
+itm_french_grap_body_flautist|法 國 笛 手 軍 服 
+itm_french_grap_body_flautist_pl|法 國 笛 手 軍 服 
+itm_french_voltigeur_body_hornist|法 國 尖 兵 軍 服 
+itm_french_voltigeur_body_hornist_pl|法 國 尖 兵 軍 服 
+itm_french_45e_body_drummer|法 國 鼓 手 軍 服 
+itm_french_45e_body_drummer_pl|法 國 鼓 手 軍 服 
+itm_french_45e_body_flautist|法 國 笛 手 軍 服 
+itm_french_45e_body_flautist_pl|法 國 笛 手 軍 服 
+itm_french_84e_body_drummer|法 國 鼓 手 軍 服 
+itm_french_84e_body_drummer_pl|法 國 鼓 手 軍 服 
+itm_french_84e_body_flautist|法 國 笛 手 軍 服 
+itm_french_84e_body_flautist_pl|法 國 笛 手 軍 服 
+itm_fr_carabineer_trumpeter|法 國 號 手 軍 服 
+itm_fr_carabineer_trumpeter_pl|法 國 號 手 軍 服 
+itm_fr_cuirassier_body_trumpeter|法 國 號 手 軍 服 
+itm_fr_cuirassier_body_trumpeter_pl|法 國 號 手 軍 服 
+itm_french_dragoon_body_trumpeter|法 國 號 手 軍 服 
+itm_french_dragoon_body_trumpeter_pl|法 國 號 手 軍 服 
+itm_french_lancer_trumpeter_body|法 國 號 手 軍 服 
+itm_french_lancer_trumpeter_body_pl|法 國 號 手 軍 服 
+itm_french_vistula_body_drummer|維 斯 特 拉 軍 團 服 
+itm_french_vistula_body_drummer_pl|維 斯 特 拉 軍 團 服 
+itm_french_vistula_body_flautist|維 斯 特 拉 軍 團 服 
+itm_french_vistula_body_flautist_pl|維 斯 特 拉 軍 團 服 
+itm_french_dragoon_body_sargent|法 國 龍 騎 兵 軍 服 
+itm_french_dragoon_body_sargent_pl|法 國 龍 騎 兵 軍 服 
+itm_french_arty_train|法 國 輜 重 炮 兵 軍 服 
+itm_french_arty_train_pl|法 國 輜 重 炮 兵 軍 服 
+itm_french_grenadier_a_cheval_body_trumpeter|法 國 號 手 軍 服 
+itm_french_grenadier_a_cheval_body_trumpeter_pl|法 國 號 手 軍 服 
+itm_french_captain|法 國 隊 長 
+itm_french_captain_pl|法 國 隊 長 
+itm_french_equipage_batallion|法 國 裝 備 營 
+itm_french_equipage_batallion_pl|法 國 裝 備 營 
+itm_french_surgeon|軍 醫 服 裝 
+itm_french_surgeon_pl|軍 醫 服 裝 
+itm_british_infantry_ranker|英 國 步 兵 軍 服 
+itm_british_infantry_ranker_pl|英 國 步 兵 軍 服 
+itm_british_infantry_sarge|英 國 步 兵 軍 服 
+itm_british_infantry_sarge_pl|英 國 步 兵 軍 服 
+itm_british_infantry_officer|英 國 步 兵 軍 服 
+itm_british_infantry_officer_pl|英 國 步 兵 軍 服 
+itm_british_infantry_drum|英 國 步 兵 軍 服 
+itm_british_infantry_drum_pl|英 國 步 兵 軍 服 
+itm_british_infantry_flute|英 國 步 兵 軍 服 
+itm_british_infantry_flute_pl|英 國 步 兵 軍 服 
+itm_british_kgl_ranker|基 加 利 步 兵 軍 服 
+itm_british_kgl_ranker_pl|基 加 利 步 兵 軍 服 
+itm_british_kgl_sarge|基 加 利 步 兵 軍 服 
+itm_british_kgl_sarge_pl|基 加 利 步 兵 軍 服 
+itm_british_kgl_officer|基 加 利 步 兵 軍 服 
+itm_british_kgl_officer_pl|基 加 利 步 兵 軍 服 
+itm_british_kgl_drum|基 加 利 步 兵 軍 服 
+itm_british_kgl_drum_pl|基 加 利 步 兵 軍 服 
+itm_british_kgl_flute|基 加 利 步 兵 軍 服 
+itm_british_kgl_flute_pl|基 加 利 步 兵 軍 服 
+itm_british_highland_ranker|英 國 高 地 步 兵 軍 服 
+itm_british_highland_ranker_pl|英 國 高 地 步 兵 軍 服 
+itm_british_highland_sarge|英 國 高 地 步 兵 軍 服 
+itm_british_highland_sarge_pl|英 國 高 地 步 兵 軍 服 
+itm_british_highland_officer|英 國 高 地 步 兵 軍 服 
+itm_british_highland_officer_pl|英 國 高 地 步 兵 軍 服 
+itm_british_highland_drummer|英 國 高 地 步 兵 軍 服 
+itm_british_highland_drummer_pl|英 國 高 地 步 兵 軍 服 
+itm_british_highland_piper|英 國 高 地 步 兵 軍 服 
+itm_british_highland_piper_pl|英 國 高 地 步 兵 軍 服 
+itm_british_highland_piper_2|英 國 高 地 步 兵 軍 服 
+itm_british_highland_piper_2_pl|英 國 高 地 步 兵 軍 服 
+itm_british_guard_ranker|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_ranker_pl|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_sarge|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_sarge_pl|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_officer|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_officer_pl|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_drum|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_drum_pl|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_flute|英 國 近 衛 步 兵 軍 服 
+itm_british_guard_flute_pl|英 國 近 衛 步 兵 軍 服 
+itm_british_light_ranker|英 國 輕 步 兵 軍 服 
+itm_british_light_ranker_pl|英 國 輕 步 兵 軍 服 
+itm_british_light_sarge|英 國 輕 步 兵 軍 服 
+itm_british_light_sarge_pl|英 國 輕 步 兵 軍 服 
+itm_british_light_officer|英 國 輕 步 兵 軍 服 
+itm_british_light_officer_pl|英 國 輕 步 兵 軍 服 
+itm_british_light_bugler|英 國 輕 步 兵 軍 服 
+itm_british_light_bugler_pl|英 國 輕 步 兵 軍 服 
+itm_british_rifle_ranker|英 國 步 槍 兵 軍 服 
+itm_british_rifle_ranker_pl|英 國 步 槍 兵 軍 服 
+itm_british_rifle_sarge|英 國 步 槍 兵 軍 服 
+itm_british_rifle_sarge_pl|英 國 步 槍 兵 軍 服 
+itm_british_rifle_captain|英 國 步 槍 兵 軍 服 
+itm_british_rifle_captain_pl|英 國 步 槍 兵 軍 服 
+itm_british_rifle_bugler|英 國 步 槍 兵 軍 服 
+itm_british_rifle_bugler_pl|英 國 步 槍 兵 軍 服 
+itm_british_artillery_ranker|英 國 炮 兵 軍 服 
+itm_british_artillery_ranker_pl|英 國 炮 兵 軍 服 
+itm_british_artillery_officer|英 國 炮 兵 軍 服 
+itm_british_artillery_officer_pl|英 國 炮 兵 軍 服 
+itm_british_artillery_train|英 國 炮 兵 軍 服 
+itm_british_artillery_train_pl|英 國 炮 兵 軍 服 
+itm_british_light_dragoon|英 國 輕 騎 兵 軍 服 
+itm_british_light_dragoon_pl|英 國 輕 騎 兵 軍 服 
+itm_british_light_dragoon_officer|英 國 輕 騎 兵 軍 服 
+itm_british_light_dragoon_officer_pl|英 國 輕 騎 兵 軍 服 
+itm_british_inniskilling_ranker|英 國 龍 騎 兵 軍 服 
+itm_british_inniskilling_ranker_pl|英 國 龍 騎 兵 軍 服 
+itm_british_inniskilling_officer|英 國 龍 騎 兵 軍 服 
+itm_british_inniskilling_officer_pl|英 國 龍 騎 兵 軍 服 
+itm_british_blue_ranker|英 國 騎 馬 衛 隊 軍 服 
+itm_british_blue_ranker_pl|英 國 騎 馬 衛 隊 軍 服 
+itm_british_blue_officer|英 國 騎 馬 衛 隊 軍 服 
+itm_british_blue_officer_pl|英 國 騎 馬 衛 隊 軍 服 
+itm_british_kgl_hussar_ranker|英 國 騎 馬 衛 隊 軍 服 
+itm_british_kgl_hussar_ranker_pl|英 國 騎 馬 衛 隊 軍 服 
+itm_british_kgl_hussar_officer|英 國 騎 馬 衛 隊 軍 服 
+itm_british_kgl_hussar_officer_pl|英 國 騎 馬 衛 隊 軍 服 
+itm_british_kgl_hussar_trumpeter|英 國 騎 馬 衛 隊 軍 服 
+itm_british_kgl_hussar_trumpeter_pl|英 國 騎 馬 衛 隊 軍 服 
+itm_british_wellington|英 國 威 靈 頓 軍 服 
+itm_british_wellington_pl|英 國 威 靈 頓 軍 服 
+itm_british_rocketeer|英 國 火 箭 炮 兵 軍 服 
+itm_british_rocketeer_pl|英 國 火 箭 炮 兵 軍 服 
+itm_british_sapper|英 國 工 兵 軍 服 
+itm_british_sapper_pl|英 國 工 兵 軍 服 
+itm_british_captain|英 國 隊 長 軍 服 
+itm_british_captain_pl|英 國 隊 長 軍 服 
+itm_british_royal_marine|英 國 皇 家 海 軍 軍 服 
+itm_british_royal_marine_pl|英 國 皇 家 海 軍 軍 服 
+itm_naked_female_body|裸 女 
+itm_naked_female_body_pl|裸 女 
+itm_naked_male_body|裸 男 
+itm_naked_male_body_pl|裸 男 
+itm_british_surgeon|軍 醫 服 裝 
+itm_british_surgeon_pl|軍 醫 服 裝 
+itm_prussian_infantry_ranker|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_ranker_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_nco|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_nco_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_officer|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_officer_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_drum|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_drum_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_flute|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry_flute_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_dragoon_ranker|普 魯 士 龍 騎 兵 軍 服 
+itm_prussian_dragoon_ranker_pl|普 魯 士 龍 騎 兵 軍 服 
+itm_prussian_dragoon_nco|普 魯 士 龍 騎 兵 軍 服 
+itm_prussian_dragoon_nco_pl|普 魯 士 龍 騎 兵 軍 服 
+itm_prussian_dragoon_officer|普 魯 士 龍 騎 兵 軍 服 
+itm_prussian_dragoon_officer_pl|普 魯 士 龍 騎 兵 軍 服 
+itm_prussian_dragoon_trumpet|普 魯 士 龍 騎 兵 軍 服 
+itm_prussian_dragoon_trumpet_pl|普 魯 士 龍 騎 兵 軍 服 
+itm_prussian_jaeger_ranker|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_ranker_pl|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_ranker_alt|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_ranker_alt_pl|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_nco|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_nco_pl|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_officer|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_officer_pl|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_hornist|普 魯 士 純 毛 軍 服 
+itm_prussian_jaeger_hornist_pl|普 魯 士 純 毛 軍 服 
+itm_prussian_guard_ranker|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_ranker_pl|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_nco|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_nco_pl|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_officer|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_officer_pl|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_drummer|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_drummer_pl|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_flute|普 魯 士 近 衛 軍 服 
+itm_prussian_guard_flute_pl|普 魯 士 近 衛 軍 服 
+itm_prussian_arty_ranker|普 魯 士 炮 兵 軍 服 
+itm_prussian_arty_ranker_pl|普 魯 士 炮 兵 軍 服 
+itm_prussian_arty_train|普 魯 士 炮 兵 軍 服 
+itm_prussian_arty_train_pl|普 魯 士 炮 兵 軍 服 
+itm_prussian_arty_officer|普 魯 士 炮 兵 軍 服 
+itm_prussian_arty_officer_pl|普 魯 士 炮 兵 軍 服 
+itm_prussian_hussar_ranker|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_ranker_pl|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_nco|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_nco_pl|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_officer|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_officer_pl|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_officer_variant|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_officer_variant_pl|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_trumpet|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_hussar_trumpet_pl|普 魯 士 輕 騎 兵 軍 服 
+itm_prussian_infantry2_ranker|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_ranker_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_nco|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_nco_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_officer|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_officer_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_drum|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_drum_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_flute|普 魯 士 步 兵 軍 服 
+itm_prussian_infantry2_flute_pl|普 魯 士 步 兵 軍 服 
+itm_prussian_landwehr_ranker|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_ranker_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_ranker_alt|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_ranker_alt_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_nco|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_nco_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_officer|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_officer_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_drum|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_drum_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_flute|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_flute_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_cav_ranker|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_cav_ranker_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_cav_nco|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_cav_nco_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_cav_officer|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_cav_officer_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_cav_trumpet|普 魯 士 后 備 兵 軍 服 
+itm_prussian_landwehr_cav_trumpet_pl|普 魯 士 后 備 兵 軍 服 
+itm_prussian_blucher|布 呂 歇 爾 軍 服 
+itm_prussian_blucher_pl|布 呂 歇 爾 軍 服 
+itm_prussian_cuirassier_ranker|普 魯 士 胸 甲 騎 兵 軍 服 
+itm_prussian_cuirassier_ranker_pl|普 魯 士 胸 甲 騎 兵 軍 服 
+itm_prussian_cuirassier_nco|普 魯 士 胸 甲 騎 兵 軍 服 
+itm_prussian_cuirassier_nco_pl|普 魯 士 胸 甲 騎 兵 軍 服 
+itm_prussian_cuirassier_officer|普 魯 士 胸 甲 騎 兵 軍 服 
+itm_prussian_cuirassier_officer_pl|普 魯 士 胸 甲 騎 兵 軍 服 
+itm_prussian_cuirassier_trumpet|普 魯 士 胸 甲 騎 兵 軍 服 
+itm_prussian_cuirassier_trumpet_pl|普 魯 士 胸 甲 騎 兵 軍 服 
+itm_prussian_freikorps_ranker|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_ranker_pl|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_nco|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_nco_pl|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_officer|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_officer_pl|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_drum|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_drum_pl|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_flute|普 魯 士 志 願 兵 軍 服 
+itm_prussian_freikorps_flute_pl|普 魯 士 志 願 兵 軍 服 
+itm_prussian_pioneer|普 魯 士 先 鋒 軍 服 
+itm_prussian_pioneer_pl|普 魯 士 先 鋒 軍 服 
+itm_prussian_surgeon|軍 醫 服 裝 
+itm_prussian_surgeon_pl|軍 醫 服 裝 
+itm_russian_infantry1|俄 羅 斯 步 兵 軍 服 
+itm_russian_infantry1_pl|俄 羅 斯 步 兵 軍 服 
+itm_russian_infantry_nco|俄 羅 斯 步 兵 軍 服 
+itm_russian_infantry_nco_pl|俄 羅 斯 步 兵 軍 服 
+itm_russian_infantry_officer|俄 羅 斯 步 兵 軍 服 
+itm_russian_infantry_officer_pl|俄 羅 斯 步 兵 軍 服 
+itm_russian_drummer|俄 羅 斯 步 兵 軍 服 
+itm_russian_drummer_pl|俄 羅 斯 步 兵 軍 服 
+itm_russian_flautist|俄 羅 斯 步 兵 軍 服 
+itm_russian_flautist_pl|俄 羅 斯 步 兵 軍 服 
+itm_russian_hussar_officer|俄 羅 斯 輕 騎 兵 軍 服 
+itm_russian_hussar_officer_pl|俄 羅 斯 輕 騎 兵 軍 服 
+itm_russian_hussar_nco|俄 羅 斯 輕 騎 兵 軍 服 
+itm_russian_hussar_nco_pl|俄 羅 斯 輕 騎 兵 軍 服 
+itm_russian_hussar_ranker|俄 羅 斯 輕 騎 兵 軍 服 
+itm_russian_hussar_ranker_pl|俄 羅 斯 輕 騎 兵 軍 服 
+itm_russian_hussar_trumpeter|俄 羅 斯 輕 騎 兵 軍 服 
+itm_russian_hussar_trumpeter_pl|俄 羅 斯 輕 騎 兵 軍 服 
+itm_russian_horse_guard|俄 羅 斯 胸 甲 騎 兵 軍 服 
+itm_russian_horse_guard_pl|俄 羅 斯 胸 甲 騎 兵 軍 服 
+itm_russian_horse_guard_nco|俄 羅 斯 胸 甲 騎 兵 軍 服 
+itm_russian_horse_guard_nco_pl|俄 羅 斯 胸 甲 騎 兵 軍 服 
+itm_russian_horse_guard_officer|俄 羅 斯 胸 甲 騎 兵 軍 服 
+itm_russian_horse_guard_officer_pl|俄 羅 斯 胸 甲 騎 兵 軍 服 
+itm_russian_horse_guard_trumpeter|俄 羅 斯 胸 甲 騎 兵 軍 服 
+itm_russian_horse_guard_trumpeter_pl|俄 羅 斯 胸 甲 騎 兵 軍 服 
+itm_russian_cossack_officer|俄 羅 斯 哥 薩 克 軍 服 
+itm_russian_cossack_officer_pl|俄 羅 斯 哥 薩 克 軍 服 
+itm_russian_cossack|俄 羅 斯 哥 薩 克 軍 服 
+itm_russian_cossack_pl|俄 羅 斯 哥 薩 克 軍 服 
+itm_kutuzov|庫 圖 佐 夫 軍 服 
+itm_kutuzov_pl|庫 圖 佐 夫 軍 服 
+itm_russian_militia_officer|俄 羅 斯 民 兵 軍 官 服 
+itm_russian_militia_officer_pl|俄 羅 斯 民 兵 軍 官 服 
+itm_russian_militia_ranker|俄 羅 斯 民 兵 軍 服 
+itm_russian_militia_ranker_pl|俄 羅 斯 民 兵 軍 服 
+itm_russian_guard_officer|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_officer_pl|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_nco|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_nco_pl|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_ranker|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_ranker_pl|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_drummer|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_drummer_pl|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_flautist|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_guard_flautist_pl|俄 羅 斯 近 衛 步 兵 軍 服 
+itm_russian_jaeger_officer|俄 羅 斯 純 毛 軍 服 
+itm_russian_jaeger_officer_pl|俄 羅 斯 純 毛 軍 服 
+itm_russian_jaeger_nco|俄 羅 斯 純 毛 軍 服 
+itm_russian_jaeger_nco_pl|俄 羅 斯 純 毛 軍 服 
+itm_russian_jaeger_ranker|俄 羅 斯 純 毛 軍 服 
+itm_russian_jaeger_ranker_pl|俄 羅 斯 純 毛 軍 服 
+itm_russian_jaeger_musician|俄 羅 斯 純 毛 軍 服 
+itm_russian_jaeger_musician_pl|俄 羅 斯 純 毛 軍 服 
+itm_russian_gren_officer|俄 羅 斯 步 兵 軍 服 
+itm_russian_gren_officer_pl|俄 羅 斯 步 兵 軍 服 
+itm_russian_gren_nco|俄 羅 斯 步 兵 軍 服 
+itm_russian_gren_nco_pl|俄 羅 斯 步 兵 軍 服 
+itm_russian_gren_ranker|俄 羅 斯 步 兵 軍 服 
+itm_russian_gren_ranker_pl|俄 羅 斯 步 兵 軍 服 
+itm_russian_arty_officer|俄 羅 斯 炮 兵 軍 服 
+itm_russian_arty_officer_pl|俄 羅 斯 炮 兵 軍 服 
+itm_russian_arty_nco|俄 羅 斯 炮 兵 軍 服 
+itm_russian_arty_nco_pl|俄 羅 斯 炮 兵 軍 服 
+itm_russian_arty_ranker|俄 羅 斯 炮 兵 軍 服 
+itm_russian_arty_ranker_pl|俄 羅 斯 炮 兵 軍 服 
+itm_russian_dragoon_officer|俄 羅 斯 龍 騎 兵 軍 服 
+itm_russian_dragoon_officer_pl|俄 羅 斯 龍 騎 兵 軍 服 
+itm_russian_dragoon_nco|俄 羅 斯 龍 騎 兵 軍 服 
+itm_russian_dragoon_nco_pl|俄 羅 斯 龍 騎 兵 軍 服 
+itm_russian_dragoon_ranker|俄 羅 斯 龍 騎 兵 軍 服 
+itm_russian_dragoon_ranker_pl|俄 羅 斯 龍 騎 兵 軍 服 
+itm_russian_dragoon_trumpeter|俄 羅 斯 龍 騎 兵 軍 服 
+itm_russian_dragoon_trumpeter_pl|俄 羅 斯 龍 騎 兵 軍 服 
+itm_rus_partizan1|俄 羅 斯 上 品 外 套 
+itm_rus_partizan1_pl|俄 羅 斯 上 品 外 套 
+itm_rus_partizan2|俄 羅 斯 上 品 外 套 
+itm_rus_partizan2_pl|俄 羅 斯 上 品 外 套 
+itm_russian_uhlan_officer|俄 羅 斯 槍 騎 兵 軍 服 
+itm_russian_uhlan_officer_pl|俄 羅 斯 槍 騎 兵 軍 服 
+itm_russian_uhlan_nco|俄 羅 斯 槍 騎 兵 軍 服 
+itm_russian_uhlan_nco_pl|俄 羅 斯 槍 騎 兵 軍 服 
+itm_russian_uhlan_ranker|俄 羅 斯 槍 騎 兵 軍 服 
+itm_russian_uhlan_ranker_pl|俄 羅 斯 槍 騎 兵 軍 服 
+itm_russian_uhlan_trumpeter|俄 羅 斯 槍 騎 兵 軍 服 
+itm_russian_uhlan_trumpeter_pl|俄 羅 斯 槍 騎 兵 軍 服 
+itm_rus_pioneer|俄 羅 斯 先 鋒 軍 服 
+itm_rus_pioneer_pl|俄 羅 斯 先 鋒 軍 服 
+itm_russian_surgeon|軍 醫 服 裝 
+itm_russian_surgeon_pl|軍 醫 服 裝 
+itm_austrian_infantry|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_pl|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_nco|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_nco_pl|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_officer|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_officer_pl|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_drummer|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_drummer_pl|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_fifer|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry_fifer_pl|奧 地 利 步 兵 軍 服 
+itm_austrian_infantry2|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_nco|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_nco_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_officer|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_officer_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_drummer|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_drummer_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_fifer|匈 牙 利 步 兵 軍 服 
+itm_austrian_infantry2_fifer_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_alt|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_alt_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_nco|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_nco_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_officer|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_officer_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_drummer|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_drummer_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_fifer|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenadier_fifer_pl|匈 牙 利 步 兵 軍 服 
+itm_austrian_grenzer|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_pl|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_nco|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_nco_pl|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_officer|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_officer_pl|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_drummer|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_drummer_pl|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_fifer|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_grenzer_fifer_pl|奧 地 利 輕 步 兵 軍 服 
+itm_austrian_jaeger|奧 地 利 純 毛 軍 服 
+itm_austrian_jaeger_pl|奧 地 利 純 毛 軍 服 
+itm_austrian_jaeger_nco|奧 地 利 純 毛 軍 服 
+itm_austrian_jaeger_nco_pl|奧 地 利 純 毛 軍 服 
+itm_austrian_jaeger_officer|奧 地 利 純 毛 軍 服 
+itm_austrian_jaeger_officer_pl|奧 地 利 純 毛 軍 服 
+itm_austrian_jaeger_hornist|奧 地 利 純 毛 軍 服 
+itm_austrian_jaeger_hornist_pl|奧 地 利 純 毛 軍 服 
+itm_austrian_lightcav|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_lightcav_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_lightcav_nco|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_lightcav_nco_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_lightcav_trumpet|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_lightcav_trumpet_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_lightcav_officer|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_lightcav_officer_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_dragoon|奧 地 利 龍 騎 兵 軍 服 
+itm_austrian_dragoon_pl|奧 地 利 龍 騎 兵 軍 服 
+itm_austrian_dragoon_nco|奧 地 利 龍 騎 兵 軍 服 
+itm_austrian_dragoon_nco_pl|奧 地 利 龍 騎 兵 軍 服 
+itm_austrian_dragoon_trumpet|奧 地 利 龍 騎 兵 軍 服 
+itm_austrian_dragoon_trumpet_pl|奧 地 利 龍 騎 兵 軍 服 
+itm_austrian_dragoon_officer|奧 地 利 龍 騎 兵 軍 服 
+itm_austrian_dragoon_officer_pl|奧 地 利 龍 騎 兵 軍 服 
+itm_austrian_uhlan|奧 地 利 槍 騎 兵 軍 服 
+itm_austrian_uhlan_pl|奧 地 利 槍 騎 兵 軍 服 
+itm_austrian_uhlan_nco|奧 地 利 槍 騎 兵 軍 服 
+itm_austrian_uhlan_nco_pl|奧 地 利 槍 騎 兵 軍 服 
+itm_austrian_uhlan_trumpet|奧 地 利 槍 騎 兵 軍 服 
+itm_austrian_uhlan_trumpet_pl|奧 地 利 槍 騎 兵 軍 服 
+itm_austrian_uhlan_officer|奧 地 利 槍 騎 兵 軍 服 
+itm_austrian_uhlan_officer_pl|奧 地 利 槍 騎 兵 軍 服 
+itm_austrian_arty|奧 地 利 炮 兵 軍 服 
+itm_austrian_arty_pl|奧 地 利 炮 兵 軍 服 
+itm_austrian_arty_train|奧 地 利 炮 兵 軍 服 
+itm_austrian_arty_train_pl|奧 地 利 炮 兵 軍 服 
+itm_austrian_arty_officer|奧 地 利 炮 兵 軍 服 
+itm_austrian_arty_officer_pl|奧 地 利 炮 兵 軍 服 
+itm_austrian_pioneer|奧 地 利 先 鋒 軍 服 
+itm_austrian_pioneer_pl|奧 地 利 先 鋒 軍 服 
+itm_austrian_hussar|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_hussar_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_hussar_nco|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_hussar_nco_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_hussar_trumpet|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_hussar_trumpet_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_hussar_officer|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_hussar_officer_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_austrian_cuiraisser|奧 地 利 胸 甲 騎 兵 軍 服 
+itm_austrian_cuiraisser_pl|奧 地 利 胸 甲 騎 兵 軍 服 
+itm_austrian_cuiraisser_nco|奧 地 利 胸 甲 騎 兵 軍 服 
+itm_austrian_cuiraisser_nco_pl|奧 地 利 胸 甲 騎 兵 軍 服 
+itm_austrian_cuiraisser_trumpet|奧 地 利 胸 甲 騎 兵 軍 服 
+itm_austrian_cuiraisser_trumpet_pl|奧 地 利 胸 甲 騎 兵 軍 服 
+itm_austrian_cuiraisser_officer|奧 地 利 胸 甲 騎 兵 軍 服 
+itm_austrian_cuiraisser_officer_pl|奧 地 利 胸 甲 騎 兵 軍 服 
+itm_austrian_schwarzenberg|施 瓦 岑 貝 格 軍 服 
+itm_austrian_schwarzenberg_pl|施 瓦 岑 貝 格 軍 服 
+itm_austrian_surgeon|軍 醫 服 裝 
+itm_austrian_surgeon_pl|軍 醫 服 裝 
+itm_bavarian_inf_ranker|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_ranker_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_flagcarrier|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_flagcarrier_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_officer|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_officer_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_drummer|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_drummer_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_flutist|巴 伐 利 亞 軍 服 
+itm_bavarian_inf_flutist_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_jaeger_ranker|巴 伐 利 亞 軍 服 
+itm_bavarian_jaeger_ranker_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_jaeger_nco|巴 伐 利 亞 軍 服 
+itm_bavarian_jaeger_nco_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_jaeger_officer|巴 伐 利 亞 軍 服 
+itm_bavarian_jaeger_officer_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_jaeger_hornist|巴 伐 利 亞 軍 服 
+itm_bavarian_jaeger_hornist_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_artillery_ranker|巴 伐 利 亞 軍 服 
+itm_bavarian_artillery_ranker_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_artillery_train|巴 伐 利 亞 軍 服 
+itm_bavarian_artillery_train_pl|巴 伐 利 亞 軍 服 
+itm_bavarian_artillery_officer|巴 伐 利 亞 軍 服 
+itm_bavarian_artillery_officer_pl|巴 伐 利 亞 軍 服 
+itm_saxon_inf_ranker|薩 克 森 軍 服 
+itm_saxon_inf_ranker_pl|薩 克 森 軍 服 
+itm_saxon_inf_nco|薩 克 森 軍 服 
+itm_saxon_inf_nco_pl|薩 克 森 軍 服 
+itm_saxon_inf_officer|薩 克 森 軍 服 
+itm_saxon_inf_officer_pl|薩 克 森 軍 服 
+itm_saxon_inf_drummer|薩 克 森 軍 服 
+itm_saxon_inf_drummer_pl|薩 克 森 軍 服 
+itm_saxon_inf_fifer|薩 克 森 軍 服 
+itm_saxon_inf_fifer_pl|薩 克 森 軍 服 
+itm_saxon_uhlan_ranker|薩 克 森 軍 服 
+itm_saxon_uhlan_ranker_pl|薩 克 森 軍 服 
+itm_saxon_uhlan_ranker_alt|薩 克 森 軍 服 
+itm_saxon_uhlan_ranker_alt_pl|薩 克 森 軍 服 
+itm_saxon_uhlan_nco|薩 克 森 軍 服 
+itm_saxon_uhlan_nco_pl|薩 克 森 軍 服 
+itm_saxon_uhlan_officer|薩 克 森 軍 服 
+itm_saxon_uhlan_officer_pl|薩 克 森 軍 服 
+itm_saxon_uhlan_trumpet|薩 克 森 軍 服 
+itm_saxon_uhlan_trumpet_pl|薩 克 森 軍 服 
+itm_hessian_inf_ranker|黑 森 軍 服 
+itm_hessian_inf_ranker_pl|黑 森 軍 服 
+itm_hessian_inf_nco|黑 森 軍 服 
+itm_hessian_inf_nco_pl|黑 森 軍 服 
+itm_hessian_inf_officer|黑 森 軍 服 
+itm_hessian_inf_officer_pl|黑 森 軍 服 
+itm_rhine_surgeon|軍 醫 服 裝 
+itm_rhine_surgeon_pl|軍 醫 服 裝 
+itm_westphalian_guard_ranker|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_ranker_pl|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_nco|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_nco_pl|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_officer|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_officer_pl|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_drummer|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_drummer_pl|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_fifer|威 斯 特 法 倫 軍 服 
+itm_westphalian_guard_fifer_pl|威 斯 特 法 倫 軍 服 
+itm_saxon_king|王 室 服 裝 
+itm_saxon_king_pl|王 室 服 裝 
+itm_nassau_jaeger_ranker|拿 騷 軍 服 
+itm_nassau_jaeger_ranker_pl|拿 騷 軍 服 
+itm_nassau_jaeger_nco|拿 騷 軍 服 
+itm_nassau_jaeger_nco_pl|拿 騷 軍 服 
+itm_nassau_jaeger_officer|拿 騷 軍 服 
+itm_nassau_jaeger_officer_pl|拿 騷 軍 服 
+itm_nassau_jaeger_trumpet|拿 騷 軍 服 
+itm_nassau_jaeger_trumpet_pl|拿 騷 軍 服 
+itm_wurttemberg_inf_ranker|符 騰 堡 軍 服 
+itm_wurttemberg_inf_ranker_pl|符 騰 堡 軍 服 
+itm_wurttemberg_inf_flagcarrier|符 騰 堡 軍 服 
+itm_wurttemberg_inf_flagcarrier_pl|符 騰 堡 軍 服 
+itm_wurttemberg_inf_officer|符 騰 堡 軍 服 
+itm_wurttemberg_inf_officer_pl|符 騰 堡 軍 服 
+itm_wurttemberg_inf_drummer|符 騰 堡 軍 服 
+itm_wurttemberg_inf_drummer_pl|符 騰 堡 軍 服 
+itm_wurttemberg_inf_flutist|符 騰 堡 軍 服 
+itm_wurttemberg_inf_flutist_pl|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_ranker|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_ranker_pl|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_flagcarrier|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_flagcarrier_pl|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_officer|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_officer_pl|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_drummer|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_drummer_pl|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_flutist|符 騰 堡 軍 服 
+itm_wurttemberg2_inf_flutist_pl|符 騰 堡 軍 服 
+itm_berg_pioneer|貝 格 工 兵 軍 服 
+itm_berg_pioneer_pl|貝 格 工 兵 軍 服 
+itm_saxon_garde_ranker|薩 克 森 胸 甲 騎 兵 軍 服 
+itm_saxon_garde_ranker_pl|薩 克 森 胸 甲 騎 兵 軍 服 
+itm_saxon_garde_colours|薩 克 森 胸 甲 騎 兵 軍 服 
+itm_saxon_garde_colours_pl|薩 克 森 胸 甲 騎 兵 軍 服 
+itm_saxon_garde_officer|薩 克 森 胸 甲 騎 兵 軍 服 
+itm_saxon_garde_officer_pl|薩 克 森 胸 甲 騎 兵 軍 服 
+itm_saxon_garde_body_trumpeter|薩 克 森 號 手 軍 服 
+itm_saxon_garde_body_trumpeter_pl|薩 克 森 號 手 軍 服 
+itm_westphalian_cuirassier_ranker|威 斯 特 法 倫 胸 甲 騎 兵 軍 服 
+itm_westphalian_cuirassier_ranker_pl|威 斯 特 法 倫 胸 甲 騎 兵 軍 服 
+itm_westphalian_cuirassier_colours|威 斯 特 法 倫 胸 甲 騎 兵 軍 服 
+itm_westphalian_cuirassier_colours_pl|威 斯 特 法 倫 胸 甲 騎 兵 軍 服 
+itm_westphalian_cuirassier_officer|威 斯 特 法 倫 胸 甲 騎 兵 軍 服 
+itm_westphalian_cuirassier_officer_pl|威 斯 特 法 倫 胸 甲 騎 兵 軍 服 
+itm_westphalian_cuirassier_body_trumpeter|威 斯 特 法 倫 號 手 軍 服 
+itm_westphalian_cuirassier_body_trumpeter_pl|威 斯 特 法 倫 號 手 軍 服 
+itm_baden_dragoon_ranker|奧 地 利 輕 騎 兵 軍 服 
+itm_baden_dragoon_ranker_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_baden_dragoon_nco|奧 地 利 輕 騎 兵 軍 服 
+itm_baden_dragoon_nco_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_baden_dragoon_trumpet|奧 地 利 輕 騎 兵 軍 服 
+itm_baden_dragoon_trumpet_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_baden_dragoon_officer|奧 地 利 輕 騎 兵 軍 服 
+itm_baden_dragoon_officer_pl|奧 地 利 輕 騎 兵 軍 服 
+itm_rus_pavlovsk_ranker|巴 甫 洛 夫 斯 基 軍 帽 
+itm_rus_pavlovsk_ranker_pl|巴 甫 洛 夫 斯 基 軍 帽 
+itm_rus_kyiv_dragoons_all|俄 羅 斯 龍 騎 兵 頭 盔 
+itm_rus_kyiv_dragoons_all_pl|俄 羅 斯 龍 騎 兵 頭 盔 
+itm_rus_kyiv_dragoons_trumpeter|俄 羅 斯 龍 騎 兵 號 手 頭 盔 
+itm_rus_kyiv_dragoons_trumpeter_pl|俄 羅 斯 龍 騎 兵 號 手 頭 盔 
+itm_rus_drummer_shako|俄 羅 斯 步 兵 軍 帽 
+itm_rus_drummer_shako_pl|俄 羅 斯 步 兵 軍 帽 
+itm_rus_chevalier_hat|俄 羅 斯 胸 甲 騎 兵 頭 盔 
+itm_rus_chevalier_hat_pl|俄 羅 斯 胸 甲 騎 兵 頭 盔 
+itm_rus_chevalier_hat_officer|俄 羅 斯 胸 甲 騎 兵 頭 盔 
+itm_rus_chevalier_hat_officer_pl|俄 羅 斯 胸 甲 騎 兵 頭 盔 
+itm_rus_chevalier_hat_trumpeter|俄 羅 斯 胸 甲 騎 兵 頭 盔 
+itm_rus_chevalier_hat_trumpeter_pl|俄 羅 斯 胸 甲 騎 兵 頭 盔 
+itm_rus_arty_shako_officer|俄 羅 斯 炮 兵 軍 帽 
+itm_rus_arty_shako_officer_pl|俄 羅 斯 炮 兵 軍 帽 
+itm_rus_arty_shako_nco|俄 羅 斯 炮 兵 軍 帽 
+itm_rus_arty_shako_nco_pl|俄 羅 斯 炮 兵 軍 帽 
+itm_rus_arty_shako_ranker|俄 羅 斯 炮 兵 軍 帽 
+itm_rus_arty_shako_ranker_pl|俄 羅 斯 炮 兵 軍 帽 
+itm_rus_cossack_hat_officer|哥 薩 克 帽 
+itm_rus_cossack_hat_officer_pl|哥 薩 克 帽 
+itm_rus_cossack_hat_nco|哥 薩 克 帽 
+itm_rus_cossack_hat_nco_pl|哥 薩 克 帽 
+itm_rus_cossack_hat_ranker|哥 薩 克 帽 
+itm_rus_cossack_hat_ranker_pl|哥 薩 克 帽 
+itm_rus_hussar_shako_officer|俄 羅 斯 輕 騎 兵 軍 帽 
+itm_rus_hussar_shako_officer_pl|俄 羅 斯 輕 騎 兵 軍 帽 
+itm_rus_hussar_shako_nco|俄 羅 斯 輕 騎 兵 軍 帽 
+itm_rus_hussar_shako_nco_pl|俄 羅 斯 輕 騎 兵 軍 帽 
+itm_rus_hussar_shako_ranker|俄 羅 斯 輕 騎 兵 軍 帽 
+itm_rus_hussar_shako_ranker_pl|俄 羅 斯 輕 騎 兵 軍 帽 
+itm_rus_hussar_shako_trumpeter|俄 羅 斯 輕 騎 兵 軍 帽 
+itm_rus_hussar_shako_trumpeter_pl|俄 羅 斯 輕 騎 兵 軍 帽 
+itm_rus_jaeger_shako_nco|俄 羅 斯 純 毛 軍 帽 
+itm_rus_jaeger_shako_nco_pl|俄 羅 斯 純 毛 軍 帽 
+itm_rus_jaeger_shako_ranker|俄 羅 斯 純 毛 軍 帽 
+itm_rus_jaeger_shako_ranker_pl|俄 羅 斯 純 毛 軍 帽 
+itm_kutuzov_hat|庫 圖 佐 夫 帽 
+itm_kutuzov_hat_pl|庫 圖 佐 夫 帽 
+itm_rus_guard_shako_officer|俄 羅 斯 近 衛 步 兵 軍 帽 
+itm_rus_guard_shako_officer_pl|俄 羅 斯 近 衛 步 兵 軍 帽 
+itm_rus_guard_shako_nco|俄 羅 斯 近 衛 步 兵 軍 帽 
+itm_rus_guard_shako_nco_pl|俄 羅 斯 近 衛 步 兵 軍 帽 
+itm_rus_guard_shako_ranker|俄 羅 斯 近 衛 步 兵 軍 帽 
+itm_rus_guard_shako_ranker_pl|俄 羅 斯 近 衛 步 兵 軍 帽 
+itm_rus_guard_shako_musician|俄 羅 斯 近 衛 步 兵 軍 帽 
+itm_rus_guard_shako_musician_pl|俄 羅 斯 近 衛 步 兵 軍 帽 
+itm_rus_infantry_officer_shako|俄 羅 斯 步 兵 軍 帽 
+itm_rus_infantry_officer_shako_pl|俄 羅 斯 步 兵 軍 帽 
+itm_rus_infantry_shako_nco|俄 羅 斯 步 兵 軍 帽 
+itm_rus_infantry_shako_nco_pl|俄 羅 斯 步 兵 軍 帽 
+itm_rus_pioneer_shako|俄 羅 斯 先 鋒 軍 帽 
+itm_rus_pioneer_shako_pl|俄 羅 斯 先 鋒 軍 帽 
+itm_rus_partisan_hat1|農 夫 帽 
+itm_rus_partisan_hat1_pl|農 夫 帽 
+itm_rus_partisan_hat2|農 夫 帽 
+itm_rus_partisan_hat2_pl|農 夫 帽 
+itm_rus_partisan_hat3|農 夫 帽 
+itm_rus_partisan_hat3_pl|農 夫 帽 
+itm_rus_partisan_hat4|農 夫 帽 
+itm_rus_partisan_hat4_pl|農 夫 帽 
+itm_rus_partisan_hat5|農 夫 帽 
+itm_rus_partisan_hat5_pl|農 夫 帽 
+itm_rus_uhlan_czapka_officer|俄 羅 斯 槍 騎 兵 軍 帽 
+itm_rus_uhlan_czapka_officer_pl|俄 羅 斯 槍 騎 兵 軍 帽 
+itm_rus_uhlan_czapka_nco|俄 羅 斯 槍 騎 兵 軍 帽 
+itm_rus_uhlan_czapka_nco_pl|俄 羅 斯 槍 騎 兵 軍 帽 
+itm_rus_uhlan_czapka_ranker|俄 羅 斯 槍 騎 兵 軍 帽 
+itm_rus_uhlan_czapka_ranker_pl|俄 羅 斯 槍 騎 兵 軍 帽 
+itm_rus_uhlan_czapka_trumpeter|俄 羅 斯 槍 騎 兵 軍 帽 
+itm_rus_uhlan_czapka_trumpeter_pl|俄 羅 斯 槍 騎 兵 軍 帽 
+itm_french_dragoon_helmet|龍 騎 兵 頭 盔 
+itm_french_dragoon_helmet_pl|龍 騎 兵 頭 盔 
+itm_french_dragoon_helmet_officer|龍 騎 兵 頭 盔 
+itm_french_dragoon_helmet_officer_pl|龍 騎 兵 頭 盔 
+itm_french_dragoon_helmet_trumpeter|龍 騎 兵 頭 盔 
+itm_french_dragoon_helmet_trumpeter_pl|龍 騎 兵 頭 盔 
+itm_french_cuirassier_helmet|胸 甲 騎 兵 頭 盔 
+itm_french_cuirassier_helmet_pl|胸 甲 騎 兵 頭 盔 
+itm_french_cuirassier_helmet_officer|胸 甲 騎 兵 頭 盔 
+itm_french_cuirassier_helmet_officer_pl|胸 甲 騎 兵 頭 盔 
+itm_french_cuirassier_helmet_trumpeter|胸 甲 騎 兵 頭 盔 
+itm_french_cuirassier_helmet_trumpeter_pl|胸 甲 騎 兵 頭 盔 
+itm_french_carabineer_helmet|胸 甲 騎 兵 頭 盔 
+itm_french_carabineer_helmet_pl|胸 甲 騎 兵 頭 盔 
+itm_french_carabineer_helmet_officer|胸 甲 騎 兵 頭 盔 
+itm_french_carabineer_helmet_officer_pl|胸 甲 騎 兵 頭 盔 
+itm_french_carabineer_helmet_trumpeter|胸 甲 騎 兵 頭 盔 
+itm_french_carabineer_helmet_trumpeter_pl|胸 甲 騎 兵 頭 盔 
+itm_french_hussar_shako_colours|輕 騎 兵 軍 帽 
+itm_french_hussar_shako_colours_pl|輕 騎 兵 軍 帽 
+itm_french_hussar_shako_ranker|輕 騎 兵 軍 帽 
+itm_french_hussar_shako_ranker_pl|輕 騎 兵 軍 帽 
+itm_french_hussar_shako_trumpeter|輕 騎 兵 軍 帽 
+itm_french_hussar_shako_trumpeter_pl|輕 騎 兵 軍 帽 
+itm_french_inf_shako_45_ranker|步 兵 軍 帽 
+itm_french_inf_shako_45_ranker_pl|步 兵 軍 帽 
+itm_french_vistula_shako_colours|步 兵 軍 帽 
+itm_french_vistula_shako_colours_pl|步 兵 軍 帽 
+itm_french_vistula_shako_ranker|步 兵 軍 帽 
+itm_french_vistula_shako_ranker_pl|步 兵 軍 帽 
+itm_french_vistula_shako_officer|步 兵 軍 帽 
+itm_french_vistula_shako_officer_pl|步 兵 軍 帽 
+itm_french_inf_shako_84_colours|步 兵 軍 帽 
+itm_french_inf_shako_84_colours_pl|步 兵 軍 帽 
+itm_french_inf_shako_84_ranker|步 兵 軍 帽 
+itm_french_inf_shako_84_ranker_pl|步 兵 軍 帽 
+itm_french_inf_shako_84_officer|步 兵 軍 帽 
+itm_french_inf_shako_84_officer_pl|步 兵 軍 帽 
+itm_french_voltigeur_shako_officer|輕 步 兵 軍 帽 
+itm_french_voltigeur_shako_officer_pl|輕 步 兵 軍 帽 
+itm_french_voltigeur_shako_ranker|輕 步 兵 軍 帽 
+itm_french_voltigeur_shako_ranker_pl|輕 步 兵 軍 帽 
+itm_french_ldlg_czapka_officer|近 衛 槍 騎 兵 軍 帽 
+itm_french_ldlg_czapka_officer_pl|近 衛 槍 騎 兵 軍 帽 
+itm_french_ldlg_czapka_ranker|近 衛 槍 騎 兵 軍 帽 
+itm_french_ldlg_czapka_ranker_pl|近 衛 槍 騎 兵 軍 帽 
+itm_french_ldlg_czapka_trumpeter|近 衛 槍 騎 兵 軍 帽 
+itm_french_ldlg_czapka_trumpeter_pl|近 衛 槍 騎 兵 軍 帽 
+itm_french_artillery_bearskin_officer|炮 兵 熊 皮 帽 
+itm_french_artillery_bearskin_officer_pl|炮 兵 熊 皮 帽 
+itm_french_artillery_bearskin_ranker|炮 兵 熊 皮 帽 
+itm_french_artillery_bearskin_ranker_pl|炮 兵 熊 皮 帽 
+itm_french_gap_bearskin_officer|擲 彈 兵 熊 皮 帽 
+itm_french_gap_bearskin_officer_pl|擲 彈 兵 熊 皮 帽 
+itm_french_gap_bearskin_colours|擲 彈 兵 熊 皮 帽 
+itm_french_gap_bearskin_colours_pl|擲 彈 兵 熊 皮 帽 
+itm_french_gap_bearskin_ranker|擲 彈 兵 熊 皮 帽 
+itm_french_gap_bearskin_ranker_pl|擲 彈 兵 熊 皮 帽 
+itm_french_sapper_bearskin|工 兵 熊 皮 帽 
+itm_french_sapper_bearskin_pl|工 兵 熊 皮 帽 
+itm_french_inf_bicorne_45_officer|步 兵 雙 角 帽 
+itm_french_inf_bicorne_45_officer_pl|步 兵 雙 角 帽 
+itm_french_hussar_bearskin_officer|輕 騎 兵 熊 皮 帽 
+itm_french_hussar_bearskin_officer_pl|輕 騎 兵 熊 皮 帽 
+itm_french_artillery_train_shako|輜 重 炮 兵 軍 帽 
+itm_french_artillery_train_shako_pl|輜 重 炮 兵 軍 帽 
+itm_french_nappy_hat|拿 破 侖 雙 角 帽 
+itm_french_nappy_hat_pl|拿 破 侖 雙 角 帽 
+itm_grach_bearskin_ranker|擲 彈 騎 兵 熊 皮 帽 
+itm_grach_bearskin_ranker_pl|擲 彈 騎 兵 熊 皮 帽 
+itm_grach_bearskin_officer|擲 彈 騎 兵 熊 皮 帽 
+itm_grach_bearskin_officer_pl|擲 彈 騎 兵 熊 皮 帽 
+itm_grach_bearskin_trumpeter|擲 彈 騎 兵 熊 皮 帽 
+itm_grach_bearskin_trumpeter_pl|擲 彈 騎 兵 熊 皮 帽 
+itm_french_captain_hat|法 國 隊 長 軍 帽 
+itm_french_captain_hat_pl|法 國 隊 長 軍 帽 
+itm_french_marine_hat|法 國 海 軍 帽 
+itm_french_marine_hat_pl|法 國 海 軍 帽 
+itm_french_seaman_hat|法 國 水 手 帽 
+itm_french_seaman_hat_pl|法 國 水 手 帽 
+itm_french_seaman_hat_2|法 國 水 手 帽 
+itm_french_seaman_hat_2_pl|法 國 水 手 帽 
+itm_aus_arty_bicorn|炮 兵 雙 角 帽 
+itm_aus_arty_bicorn_pl|炮 兵 雙 角 帽 
+itm_aus_arty_cap_bicorn|炮 兵 雙 角 帽 
+itm_aus_arty_cap_bicorn_pl|炮 兵 雙 角 帽 
+itm_aus_arty_train_hat|輜 重 炮 兵 帽 
+itm_aus_arty_train_hat_pl|輜 重 炮 兵 帽 
+itm_aus_cavalry_helmet_officer|騎 兵 頭 盔 
+itm_aus_cavalry_helmet_officer_pl|騎 兵 頭 盔 
+itm_aus_cavalry_helmet_ranker|騎 兵 頭 盔 
+itm_aus_cavalry_helmet_ranker_pl|騎 兵 頭 盔 
+itm_aus_cavalry_helmet_trumpeter|騎 兵 頭 盔 
+itm_aus_cavalry_helmet_trumpeter_pl|騎 兵 頭 盔 
+itm_aus_uhlan_czapka|槍 騎 兵 帽 
+itm_aus_uhlan_czapka_pl|槍 騎 兵 帽 
+itm_aus_uhlan_czapka_officer|槍 騎 兵 帽 
+itm_aus_uhlan_czapka_officer_pl|槍 騎 兵 帽 
+itm_aus_uhlan_czapka_trumpeter|槍 騎 兵 帽 
+itm_aus_uhlan_czapka_trumpeter_pl|槍 騎 兵 帽 
+itm_aus_shwarzenberg_bicorn|施 瓦 岑 貝 格 雙 角 帽 
+itm_aus_shwarzenberg_bicorn_pl|施 瓦 岑 貝 格 雙 角 帽 
+itm_aus_grenadier_bearskin|擲 彈 兵 熊 皮 帽 
+itm_aus_grenadier_bearskin_pl|擲 彈 兵 熊 皮 帽 
+itm_aus_tyrol_hat|提 洛 爾 帽 
+itm_aus_tyrol_hat_pl|提 洛 爾 帽 
+itm_aus_tyrol_hat_officer|提 洛 爾 帽 
+itm_aus_tyrol_hat_officer_pl|提 洛 爾 帽 
+itm_aus_pioneer_hat|先 鋒 帽 
+itm_aus_pioneer_hat_pl|先 鋒 帽 
+itm_aus_grenadier_bearskin_officer|擲 彈 兵 熊 皮 帽 
+itm_aus_grenadier_bearskin_officer_pl|擲 彈 兵 熊 皮 帽 
+itm_aus_grenzer_officer|輕 步 兵 軍 帽 
+itm_aus_grenzer_officer_pl|輕 步 兵 軍 帽 
+itm_aus_grenzer_ranker|輕 步 兵 軍 帽 
+itm_aus_grenzer_ranker_pl|輕 步 兵 軍 帽 
+itm_aus_infantry_nco|步 兵 軍 帽 
+itm_aus_infantry_nco_pl|步 兵 軍 帽 
+itm_aus_infantry_officer|步 兵 軍 帽 
+itm_aus_infantry_officer_pl|步 兵 軍 帽 
+itm_aus_infantry_ranker|步 兵 軍 帽 
+itm_aus_infantry_ranker_pl|步 兵 軍 帽 
+itm_aus_hussard_shako_nco|輕 騎 兵 軍 帽 
+itm_aus_hussard_shako_nco_pl|輕 騎 兵 軍 帽 
+itm_aus_hussard_shako_officer|輕 騎 兵 軍 帽 
+itm_aus_hussard_shako_officer_pl|輕 騎 兵 軍 帽 
+itm_aus_hussard_shako_ranker|輕 騎 兵 軍 帽 
+itm_aus_hussard_shako_ranker_pl|輕 騎 兵 軍 帽 
+itm_aus_hussard_shako_trumpeter|輕 騎 兵 軍 帽 
+itm_aus_hussard_shako_trumpeter_pl|輕 騎 兵 軍 帽 
+itm_aus_surgeon_hat|軍 醫 帽 
+itm_aus_surgeon_hat_pl|軍 醫 帽 
+itm_british_artillery_shako_officer|炮 兵 軍 帽 
+itm_british_artillery_shako_officer_pl|炮 兵 軍 帽 
+itm_british_artillery_shako_ranker|炮 兵 軍 帽 
+itm_british_artillery_shako_ranker_pl|炮 兵 軍 帽 
+itm_british_rocket_tarleton|炮 兵 塔 爾 頓 
+itm_british_rocket_tarleton_pl|炮 兵 塔 爾 頓 
+itm_british_kgl_shako_officer|基 加 利 軍 帽 
+itm_british_kgl_shako_officer_pl|基 加 利 軍 帽 
+itm_british_kgl_shako_ranker|基 加 利 軍 帽 
+itm_british_kgl_shako_ranker_pl|基 加 利 軍 帽 
+itm_british_light_shako_ranker|輕 步 兵 軍 帽 
+itm_british_light_shako_ranker_pl|輕 步 兵 軍 帽 
+itm_british_light_shako_officer|輕 步 兵 軍 帽 
+itm_british_light_shako_officer_pl|輕 步 兵 軍 帽 
+itm_british_rifle_shako_officer|步 槍 兵 軍 帽 
+itm_british_rifle_shako_officer_pl|步 槍 兵 軍 帽 
+itm_british_rifle_shako_ranker|步 槍 兵 軍 帽 
+itm_british_rifle_shako_ranker_pl|步 槍 兵 軍 帽 
+itm_british_rifle_beret|步 槍 兵 貝 雷 帽 
+itm_british_rifle_beret_pl|步 槍 兵 貝 雷 帽 
+itm_british_rifle_beret_2|步 槍 兵 貝 雷 帽 
+itm_british_rifle_beret_2_pl|步 槍 兵 貝 雷 帽 
+itm_british_highland_bonnet_ranker|漢 蘭 達 蘇 格 蘭 帽 
+itm_british_highland_bonnet_ranker_pl|漢 蘭 達 蘇 格 蘭 帽 
+itm_british_highland_bonnet_ensign|漢 蘭 達 蘇 格 蘭 帽 
+itm_british_highland_bonnet_ensign_pl|漢 蘭 達 蘇 格 蘭 帽 
+itm_british_highland_bonnet_officer|漢 蘭 達 蘇 格 蘭 帽 
+itm_british_highland_bonnet_officer_pl|漢 蘭 達 蘇 格 蘭 帽 
+itm_british_highland_bonnet_drummer|漢 蘭 達 蘇 格 蘭 帽 
+itm_british_highland_bonnet_drummer_pl|漢 蘭 達 蘇 格 蘭 帽 
+itm_british_guard_shako_officer|衛 隊 步 兵 軍 帽 
+itm_british_guard_shako_officer_pl|衛 隊 步 兵 軍 帽 
+itm_british_guard_shako_ranker|衛 隊 步 兵 軍 帽 
+itm_british_guard_shako_ranker_pl|衛 隊 步 兵 軍 帽 
+itm_33_stovepipe|步 兵 軍 帽 
+itm_33_stovepipe_pl|步 兵 軍 帽 
+itm_british_lightdragoon_shako_ranker|輕 騎 兵 軍 帽 
+itm_british_lightdragoon_shako_ranker_pl|輕 騎 兵 軍 帽 
+itm_british_lightdragoon_shako_officer|輕 騎 兵 軍 帽 
+itm_british_lightdragoon_shako_officer_pl|輕 騎 兵 軍 帽 
+itm_british_lightdragoon_shako_trumpeter|輕 騎 兵 軍 帽 
+itm_british_lightdragoon_shako_trumpeter_pl|輕 騎 兵 軍 帽 
+itm_british_iniskilling_helmet_ranker|龍 騎 兵 頭 盔 
+itm_british_iniskilling_helmet_ranker_pl|龍 騎 兵 頭 盔 
+itm_british_iniskilling_helmet_officer|龍 騎 兵 頭 盔 
+itm_british_iniskilling_helmet_officer_pl|龍 騎 兵 頭 盔 
+itm_british_iniskilling_helmet_trumpeter|龍 騎 兵 頭 盔 
+itm_british_iniskilling_helmet_trumpeter_pl|龍 騎 兵 頭 盔 
+itm_british_lifeguard_helmet_ranker|騎 馬 衛 隊 頭 盔 
+itm_british_lifeguard_helmet_ranker_pl|騎 馬 衛 隊 頭 盔 
+itm_british_lifeguard_helmet_officer|騎 馬 衛 隊 頭 盔 
+itm_british_lifeguard_helmet_officer_pl|騎 馬 衛 隊 頭 盔 
+itm_british_lifeguard_helmet_trumpeter|騎 馬 衛 隊 頭 盔 
+itm_british_lifeguard_helmet_trumpeter_pl|騎 馬 衛 隊 頭 盔 
+itm_british_kgl_hussar_bearskin|基 加 利 輕 騎 兵 頭 盔 
+itm_british_kgl_hussar_bearskin_pl|基 加 利 輕 騎 兵 頭 盔 
+itm_british_kgl_hussar_officer_bearskin|基 加 利 輕 騎 兵 頭 盔 
+itm_british_kgl_hussar_officer_bearskin_pl|基 加 利 輕 騎 兵 頭 盔 
+itm_british_kgl_hussar_bearskin_trumpeter|基 加 利 輕 騎 兵 頭 盔 
+itm_british_kgl_hussar_bearskin_trumpeter_pl|基 加 利 輕 騎 兵 頭 盔 
+itm_british_wellington_bicorne|惠 靈 頓 雙 角 帽 
+itm_british_wellington_bicorne_pl|惠 靈 頓 雙 角 帽 
+itm_british_captain_hat|英 國 隊 長 軍 帽 
+itm_british_captain_hat_pl|英 國 隊 長 軍 帽 
+itm_british_seaman_hat|英 國 海 軍 帽 
+itm_british_seaman_hat_pl|英 國 海 軍 帽 
+itm_british_seaman_hat_2|英 國 水 手 帽 
+itm_british_seaman_hat_2_pl|英 國 水 手 帽 
+itm_royal_marine_beret|皇 家 海 軍 貝 雷 帽 
+itm_royal_marine_beret_pl|皇 家 海 軍 貝 雷 帽 
+itm_royal_marine_hat|皇 家 海 軍 軍 帽 
+itm_royal_marine_hat_pl|皇 家 海 軍 軍 帽 
+itm_british_surgeon_bicorne|軍 醫 雙 角 帽 
+itm_british_surgeon_bicorne_pl|軍 醫 雙 角 帽 
+itm_prussian_landwehr_hat|后 備 兵 帽 
+itm_prussian_landwehr_hat_pl|后 備 兵 帽 
+itm_prussian_landwehr_hat_2|后 備 兵 帽 
+itm_prussian_landwehr_hat_2_pl|后 備 兵 帽 
+itm_prussian_landwehr_hat_3|后 備 兵 帽 
+itm_prussian_landwehr_hat_3_pl|后 備 兵 帽 
+itm_prussian_shako|軍 帽 
+itm_prussian_shako_pl|軍 帽 
+itm_prussian_shako_2|軍 帽 
+itm_prussian_shako_2_pl|軍 帽 
+itm_prussian_infantry_hat_officer|軍 官 帽 
+itm_prussian_infantry_hat_officer_pl|軍 官 帽 
+itm_prussian_hussar_shako|輕 騎 兵 軍 帽 
+itm_prussian_hussar_shako_pl|輕 騎 兵 軍 帽 
+itm_prussian_hussar_officer_shako|輕 騎 兵 軍 帽 
+itm_prussian_hussar_officer_shako_pl|輕 騎 兵 軍 帽 
+itm_prussian_blucher_hat|布 盧 徹 帽 
+itm_prussian_blucher_hat_pl|布 盧 徹 帽 
+itm_prussian_arty_shako_officer|炮 兵 軍 帽 
+itm_prussian_arty_shako_officer_pl|炮 兵 軍 帽 
+itm_prussian_arty_shako_ranker|炮 兵 軍 帽 
+itm_prussian_arty_shako_ranker_pl|炮 兵 軍 帽 
+itm_prussian_dragoon_shako_officer|龍 騎 兵 軍 帽 
+itm_prussian_dragoon_shako_officer_pl|龍 騎 兵 軍 帽 
+itm_prussian_dragoon_shako_ranker|龍 騎 兵 軍 帽 
+itm_prussian_dragoon_shako_ranker_pl|龍 騎 兵 軍 帽 
+itm_prussian_guard_musician_shako|衛 隊 步 兵 軍 帽 
+itm_prussian_guard_musician_shako_pl|衛 隊 步 兵 軍 帽 
+itm_prussian_guard_colours_shako|衛 隊 步 兵 軍 帽 
+itm_prussian_guard_colours_shako_pl|衛 隊 步 兵 軍 帽 
+itm_prussian_guard_officer_shako|衛 隊 步 兵 軍 帽 
+itm_prussian_guard_officer_shako_pl|衛 隊 步 兵 軍 帽 
+itm_prussian_guard_ranker_shako|衛 隊 步 兵 軍 帽 
+itm_prussian_guard_ranker_shako_pl|衛 隊 步 兵 軍 帽 
+itm_prussian_inf_off_shako|步 兵 軍 帽 
+itm_prussian_inf_off_shako_pl|步 兵 軍 帽 
+itm_prussian_jaeger_officer_shako|純 毛 軍 帽 
+itm_prussian_jaeger_officer_shako_pl|純 毛 軍 帽 
+itm_prussian_landwehr_cav_shako|后 備 兵 軍 帽 
+itm_prussian_landwehr_cav_shako_pl|后 備 兵 軍 帽 
+itm_prussian_landwehr_cav_shako_officer|后 備 兵 軍 帽 
+itm_prussian_landwehr_cav_shako_officer_pl|后 備 兵 軍 帽 
+itm_prussian_pioneer_shako|先 鋒 軍 帽 
+itm_prussian_pioneer_shako_pl|先 鋒 軍 帽 
+itm_prussian_shako_colours|步 兵 軍 帽 
+itm_prussian_shako_colours_pl|步 兵 軍 帽 
+itm_prussian_shako_colours_2|步 兵 軍 帽 
+itm_prussian_shako_colours_2_pl|步 兵 軍 帽 
+itm_prussian_cuirassier_helmet|胸 甲 騎 兵 頭 盔 
+itm_prussian_cuirassier_helmet_pl|胸 甲 騎 兵 頭 盔 
+itm_prussian_cuirassier_helmet_trumpet|胸 甲 騎 兵 頭 盔 
+itm_prussian_cuirassier_helmet_trumpet_pl|胸 甲 騎 兵 頭 盔 
+itm_prussian_freikorps_officer_hat|自 由 軍 團 帽 
+itm_prussian_freikorps_officer_hat_pl|自 由 軍 團 帽 
+itm_prussian_infantry2_hat|步 兵 帽 
+itm_prussian_infantry2_hat_pl|步 兵 帽 
+itm_rus_opol_hat_ranker|奧 普 羅 徹 尼 耶 帽 
+itm_rus_opol_hat_ranker_pl|奧 普 羅 徹 尼 耶 帽 
+itm_rus_opol_hat_officer|奧 普 羅 徹 尼 耶 帽 
+itm_rus_opol_hat_officer_pl|奧 普 羅 徹 尼 耶 帽 
+itm_bavarian_helmet_other_ranks|巴 伐 利 亞 其 他 等 級 頭 盔 
+itm_bavarian_helmet_other_ranks_pl|巴 伐 利 亞 其 他 等 級 頭 盔 
+itm_bavarian_helmet_flagcarrier|巴 伐 利 亞 旗 手 頭 盔 
+itm_bavarian_helmet_flagcarrier_pl|巴 伐 利 亞 旗 手 頭 盔 
+itm_bavarian_helmet_officer|巴 伐 利 亞 軍 官 頭 盔 
+itm_bavarian_helmet_officer_pl|巴 伐 利 亞 軍 官 頭 盔 
+itm_bavarian_jaeger_helmet_other_ranks|獵 兵 頭 盔 
+itm_bavarian_jaeger_helmet_other_ranks_pl|獵 兵 頭 盔 
+itm_bavarian_jaeger_helmet_officer|獵 兵 頭 盔 
+itm_bavarian_jaeger_helmet_officer_pl|獵 兵 頭 盔 
+itm_bavarian_helmet_artillery|炮 兵 頭 盔 
+itm_bavarian_helmet_artillery_pl|炮 兵 頭 盔 
+itm_bavarian_helmet_train|炮 兵 頭 盔 
+itm_bavarian_helmet_train_pl|炮 兵 頭 盔 
+itm_bavarian_helmet_artillery_officer|炮 兵 頭 盔 
+itm_bavarian_helmet_artillery_officer_pl|炮 兵 頭 盔 
+itm_saxon_inf_shako_ranker|步 兵 軍 帽 
+itm_saxon_inf_shako_ranker_pl|步 兵 軍 帽 
+itm_saxon_inf_shako_nco|步 兵 軍 帽 
+itm_saxon_inf_shako_nco_pl|步 兵 軍 帽 
+itm_saxon_inf_shako_officer|步 兵 軍 帽 
+itm_saxon_inf_shako_officer_pl|步 兵 軍 帽 
+itm_saxon_uhlan_shako_ranker|步 兵 軍 帽 
+itm_saxon_uhlan_shako_ranker_pl|步 兵 軍 帽 
+itm_saxon_uhlan_shako_ranker_alt|步 兵 軍 帽 
+itm_saxon_uhlan_shako_ranker_alt_pl|步 兵 軍 帽 
+itm_saxon_uhlan_shako_nco|步 兵 軍 帽 
+itm_saxon_uhlan_shako_nco_pl|步 兵 軍 帽 
+itm_saxon_uhlan_shako_officer|步 兵 軍 帽 
+itm_saxon_uhlan_shako_officer_pl|步 兵 軍 帽 
+itm_saxon_uhlan_shako_trumpeter|騎 兵 軍 帽 
+itm_saxon_uhlan_shako_trumpeter_pl|騎 兵 軍 帽 
+itm_hessian_inf_shako_ranker|步 兵 軍 帽 
+itm_hessian_inf_shako_ranker_pl|步 兵 軍 帽 
+itm_hessian_inf_shako_nco|步 兵 軍 帽 
+itm_hessian_inf_shako_nco_pl|步 兵 軍 帽 
+itm_hessian_inf_bicorne_officer|步 兵 雙 角 帽 
+itm_hessian_inf_bicorne_officer_pl|步 兵 雙 角 帽 
+itm_rhine_surgeon_hat|軍 醫 帽 
+itm_rhine_surgeon_hat_pl|軍 醫 帽 
+itm_westphalian_hat_ranker|熊 皮 帽 
+itm_westphalian_hat_ranker_pl|熊 皮 帽 
+itm_westphalian_hat_officer|熊 皮 帽 
+itm_westphalian_hat_officer_pl|熊 皮 帽 
+itm_saxonyking_hat|腓 特 烈 · 奧 古 斯 特 帽 
+itm_saxonyking_hat_pl|腓 特 烈 · 奧 古 斯 特 帽 
+itm_nassau_jaeger_hat_ranker|熊 皮 帽 
+itm_nassau_jaeger_hat_ranker_pl|熊 皮 帽 
+itm_nassau_jaeger_hat_officer|熊 皮 帽 
+itm_nassau_jaeger_hat_officer_pl|熊 皮 帽 
+itm_wurttemberg_helmet_other_ranks|符 騰 堡 其 他 等 級 頭 盔 
+itm_wurttemberg_helmet_other_ranks_pl|符 騰 堡 其 他 等 級 頭 盔 
+itm_wurttemberg_helmet_flagcarrier|符 騰 堡 旗 手 頭 盔 
+itm_wurttemberg_helmet_flagcarrier_pl|符 騰 堡 旗 手 頭 盔 
+itm_wurttemberg_helmet_officer|符 騰 堡 軍 官 頭 盔 
+itm_wurttemberg_helmet_officer_pl|符 騰 堡 軍 官 頭 盔 
+itm_wurttemberg2_helmet_other_ranks|符 騰 堡 其 他 等 級 頭 盔 
+itm_wurttemberg2_helmet_other_ranks_pl|符 騰 堡 其 他 等 級 頭 盔 
+itm_wurttemberg2_helmet_flagcarrier|符 騰 堡 旗 手 頭 盔 
+itm_wurttemberg2_helmet_flagcarrier_pl|符 騰 堡 旗 手 頭 盔 
+itm_wurttemberg2_helmet_officer|符 騰 堡 軍 官 頭 盔 
+itm_wurttemberg2_helmet_officer_pl|符 騰 堡 軍 官 頭 盔 
+itm_berg_pioneer_bearskin|熊 皮 帽 
+itm_berg_pioneer_bearskin_pl|熊 皮 帽 
+itm_saxon_helmet_other_ranks|薩 克 森 其 他 等 級 頭 盔 
+itm_saxon_helmet_other_ranks_pl|薩 克 森 其 他 等 級 頭 盔 
+itm_saxon_helmet_flagcarrier|薩 克 森 旗 手 頭 盔 
+itm_saxon_helmet_flagcarrier_pl|薩 克 森 旗 手 頭 盔 
+itm_saxon_helmet_officer|薩 克 森 軍 官 頭 盔 
+itm_saxon_helmet_officer_pl|薩 克 森 軍 官 頭 盔 
+itm_saxon_helmet_trumpeter|薩 克 森 軍 官 頭 盔 
+itm_saxon_helmet_trumpeter_pl|薩 克 森 軍 官 頭 盔 
+itm_westphalian_helmet_other_ranks|威 斯 特 法 倫 其 他 等 級 頭 盔 
+itm_westphalian_helmet_other_ranks_pl|威 斯 特 法 倫 其 他 等 級 頭 盔 
+itm_westphalian_helmet_flagcarrier|威 斯 特 法 倫 旗 手 頭 盔 
+itm_westphalian_helmet_flagcarrier_pl|威 斯 特 法 倫 旗 手 頭 盔 
+itm_westphalian_helmet_officer|威 斯 特 法 倫 軍 官 頭 盔 
+itm_westphalian_helmet_officer_pl|威 斯 特 法 倫 軍 官 頭 盔 
+itm_westphalian_helmet_trumpeter|威 斯 特 法 倫 軍 官 頭 盔 
+itm_westphalian_helmet_trumpeter_pl|威 斯 特 法 倫 軍 官 頭 盔 
+itm_badner_helmet_flagcarrier|巴 登 旗 手 頭 盔 
+itm_badner_helmet_flagcarrier_pl|巴 登 旗 手 頭 盔 
+itm_badner_helmet_officer|巴 登 軍 官 頭 盔 
+itm_badner_helmet_officer_pl|巴 登 軍 官 頭 盔 
+itm_badner_helmet_ranker|巴 登 軍 官 頭 盔 
+itm_badner_helmet_ranker_pl|巴 登 軍 官 頭 盔 
+itm_badner_helmet_trumpeter|巴 登 軍 官 頭 盔 
+itm_badner_helmet_trumpeter_pl|巴 登 軍 官 頭 盔 
+itm_pirate_hat|海 盜 帽 
+itm_pirate_hat_pl|海 盜 帽 
+itm_french_voltigeur_pants|伏 特 哲 爾 褲 
+itm_french_voltigeur_pants_pl|伏 特 哲 爾 褲 
+itm_french_voltigeur_officer_pants|步 兵 褲 
+itm_french_voltigeur_officer_pants_pl|步 兵 褲 
+itm_french_dragoon_pants|騎 兵 靴 
+itm_french_dragoon_pants_pl|騎 兵 靴 
+itm_french_general_boots|將 軍 靴 
+itm_french_general_boots_pl|將 軍 靴 
+itm_french_grenadiers_a_cheval_pants|騎 兵 靴 
+itm_french_grenadiers_a_cheval_pants_pl|騎 兵 靴 
+itm_french_vistula_pants|黑 森 靴 
+itm_french_vistula_pants_pl|黑 森 靴 
+itm_french_lancer_pants|騎 兵 褲 
+itm_french_lancer_pants_pl|騎 兵 褲 
+itm_french_lancer_officer_pants|騎 兵 褲 
+itm_french_lancer_officer_pants_pl|騎 兵 褲 
+itm_french_hussards_ranker_pants|騎 兵 褲 
+itm_french_hussards_ranker_pants_pl|騎 兵 褲 
+itm_french_hussards_officer_pants|騎 兵 褲 
+itm_french_hussards_officer_pants_pl|騎 兵 褲 
+itm_french_hussards_trumpeter_pants|騎 兵 褲 
+itm_french_hussards_trumpeter_pants_pl|騎 兵 褲 
+itm_french_sappeur_pants|黑 森 靴 
+itm_french_sappeur_pants_pl|黑 森 靴 
+itm_french_art_ranker_pants|炮 兵 綁 腿 
+itm_french_art_ranker_pants_pl|炮 兵 綁 腿 
+itm_french_grap_pants|Grenadier 綁 腿 
+itm_french_grap_pants_pl|Grenadier 綁 腿 
+itm_fr_arty_captain_bottefortes|炮 兵 靴 
+itm_fr_arty_captain_bottefortes_pl|炮 兵 靴 
+itm_fr_arty_train_bottefortes|炮 兵 靴 
+itm_fr_arty_train_bottefortes_pl|炮 兵 靴 
+itm_fr_officer_bottefortes|軍 官 靴 
+itm_fr_officer_bottefortes_pl|軍 官 靴 
+itm_french_captain_pants|軍 官 靴 
+itm_french_captain_pants_pl|軍 官 靴 
+itm_french_basic_infantry_pants|步 兵 靴 
+itm_french_basic_infantry_pants_pl|步 兵 靴 
+itm_french_captain_pants_blue|軍 官 靴 
+itm_french_captain_pants_blue_pl|軍 官 靴 
+itm_french_equipage_batallion_pants|步 兵 靴 
+itm_french_equipage_batallion_pants_pl|步 兵 靴 
+itm_french_sailor_pants|步 兵 靴 
+itm_french_sailor_pants_pl|步 兵 靴 
+itm_french_sailor_pants_female|步 兵 靴 
+itm_french_sailor_pants_female_pl|步 兵 靴 
+itm_french_surgeon_pants|軍 醫 褲 
+itm_french_surgeon_pants_pl|軍 醫 褲 
+itm_rus_infantry_pants1|步 兵 綁 腿 
+itm_rus_infantry_pants1_pl|步 兵 綁 腿 
+itm_rus_infantry_pants2|步 兵 靴 
+itm_rus_infantry_pants2_pl|步 兵 靴 
+itm_rus_hussar_pants1|騎 兵 綁 腿 
+itm_rus_hussar_pants1_pl|騎 兵 綁 腿 
+itm_rus_hussar_pants2|騎 兵 綁 腿 
+itm_rus_hussar_pants2_pl|騎 兵 綁 腿 
+itm_rus_hussar_pants_nco|黑 森 輕 騎 兵 褲 
+itm_rus_hussar_pants_nco_pl|黑 森 輕 騎 兵 褲 
+itm_rus_hussar_pants_officer|黑 森 輕 騎 兵 褲 
+itm_rus_hussar_pants_officer_pl|黑 森 輕 騎 兵 褲 
+itm_rus_horse_guard_pants|騎 兵 靴 
+itm_rus_horse_guard_pants_pl|騎 兵 靴 
+itm_rus_cossack_off_pants|哥 薩 克 褲 
+itm_rus_cossack_off_pants_pl|哥 薩 克 褲 
+itm_rus_kutuzov_pants|將 軍 靴 
+itm_rus_kutuzov_pants_pl|將 軍 靴 
+itm_rus_militia_off_pants|民 兵 靴 
+itm_rus_militia_off_pants_pl|民 兵 靴 
+itm_rus_militia_ranker_pants|民 兵 靴 
+itm_rus_militia_ranker_pants_pl|民 兵 靴 
+itm_rus_militia_ranker_pants1|民 兵 褲 
+itm_rus_militia_ranker_pants1_pl|民 兵 褲 
+itm_rus_jaeger_pants|純 毛 靴 
+itm_rus_jaeger_pants_pl|純 毛 靴 
+itm_rus_arty_pants|炮 兵 靴 
+itm_rus_arty_pants_pl|炮 兵 靴 
+itm_rus_dragoon_pants1|騎 兵 綁 腿 
+itm_rus_dragoon_pants1_pl|騎 兵 綁 腿 
+itm_rus_dragoon_pants2|騎 兵 綁 腿 
+itm_rus_dragoon_pants2_pl|騎 兵 綁 腿 
+itm_rus_uhlan_pants|騎 兵 綁 腿 
+itm_rus_uhlan_pants_pl|騎 兵 綁 腿 
+itm_austrian_infantry_pants|步 兵 靴 
+itm_austrian_infantry_pants_pl|步 兵 靴 
+itm_hungarian_pants|步 兵 鞋 
+itm_hungarian_pants_pl|步 兵 鞋 
+itm_hungarian_pants_officer|步 兵 靴 
+itm_hungarian_pants_officer_pl|步 兵 靴 
+itm_austrian_jaeger_pants|純 毛 靴 
+itm_austrian_jaeger_pants_pl|純 毛 靴 
+itm_austrian_jaeger_pants_officer|純 毛 靴 
+itm_austrian_jaeger_pants_officer_pl|純 毛 靴 
+itm_hungarian_hussar_pants|黑 森 輕 騎 兵 褲 
+itm_hungarian_hussar_pants_pl|黑 森 輕 騎 兵 褲 
+itm_hungarian_uhlan_pants|黑 森 輕 騎 兵 褲 
+itm_hungarian_uhlan_pants_pl|黑 森 輕 騎 兵 褲 
+itm_austrian_schwarzenberg_pants|施 瓦 岑 貝 格 褲 
+itm_austrian_schwarzenberg_pants_pl|施 瓦 岑 貝 格 褲 
+itm_austrian_officer_boots|步 兵 靴 
+itm_austrian_officer_boots_pl|步 兵 靴 
+itm_austrian_cavalry_boots|騎 兵 靴 
+itm_austrian_cavalry_boots_pl|騎 兵 靴 
+itm_british_highland_kilt|褶 裙 
+itm_british_highland_kilt_pl|褶 裙 
+itm_british_highland_kilt_2|褶 裙 
+itm_british_highland_kilt_2_pl|褶 裙 
+itm_british_highland_kilt_officer|褶 裙 
+itm_british_highland_kilt_officer_pl|褶 裙 
+itm_british_rifle_captain_pants|步 槍 兵 綁 腿 
+itm_british_rifle_captain_pants_pl|步 槍 兵 綁 腿 
+itm_british_rifle_pants_green|步 槍 兵 靴 
+itm_british_rifle_pants_green_pl|步 槍 兵 靴 
+itm_british_rifle_pants_grey|步 槍 兵 靴 
+itm_british_rifle_pants_grey_pl|步 槍 兵 靴 
+itm_british_rifle_pants_rolled|步 槍 兵 褲 
+itm_british_rifle_pants_rolled_pl|步 槍 兵 褲 
+itm_british_coldstream_pants|步 兵 褲 
+itm_british_coldstream_pants_pl|步 兵 褲 
+itm_british_sapper_pants|工 兵 褲 
+itm_british_sapper_pants_pl|工 兵 褲 
+itm_british_wellington_pants|惠 靈 頓 褲 
+itm_british_wellington_pants_pl|惠 靈 頓 褲 
+itm_british_light_dragoon_pants|輕 騎 兵 褲 
+itm_british_light_dragoon_pants_pl|輕 騎 兵 褲 
+itm_british_rocketeer_pants|騎 兵 褲 
+itm_british_rocketeer_pants_pl|騎 兵 褲 
+itm_british_cav_pants|騎 兵 褲 
+itm_british_cav_pants_pl|騎 兵 褲 
+itm_british_kgl_hussar_pants|騎 兵 綁 腿 
+itm_british_kgl_hussar_pants_pl|騎 兵 綁 腿 
+itm_british_kgl_hussar_officer_pants|騎 兵 綁 腿 
+itm_british_kgl_hussar_officer_pants_pl|騎 兵 綁 腿 
+itm_british_captain_legs|英 國 隊 長 綁 腿 
+itm_british_captain_legs_pl|英 國 隊 長 綁 腿 
+itm_sailor_pants|水 兵 綁 腿 
+itm_sailor_pants_pl|水 兵 綁 腿 
+itm_sailor_pants_female|女 性 水 兵 綁 腿 
+itm_sailor_pants_female_pl|女 性 水 兵 綁 腿 
+itm_prussian_infantry_pants|步 兵 靴 
+itm_prussian_infantry_pants_pl|步 兵 靴 
+itm_prussian_jaeger_pants|步 兵 靴 
+itm_prussian_jaeger_pants_pl|步 兵 靴 
+itm_prussian_landwehr_pants|后 備 兵 褲 
+itm_prussian_landwehr_pants_pl|后 備 兵 褲 
+itm_prussian_landwehr_pants2|后 備 兵 褲 
+itm_prussian_landwehr_pants2_pl|后 備 兵 褲 
+itm_prussian_blucher_pants|布 盧 徹 褲 
+itm_prussian_blucher_pants_pl|布 盧 徹 褲 
+itm_prussian_cavalry_pants|騎 兵 褲 
+itm_prussian_cavalry_pants_pl|騎 兵 褲 
+itm_prussian_cavalry_pants2|騎 兵 褲 
+itm_prussian_cavalry_pants2_pl|騎 兵 褲 
+itm_prussian_hussar_pants|騎 兵 長 靴 
+itm_prussian_hussar_pants_pl|騎 兵 長 靴 
+itm_prussian_hussar_pants_officer|黑 森 騎 兵 靴 
+itm_prussian_hussar_pants_officer_pl|黑 森 騎 兵 靴 
+itm_prussian_freikorps_pants|自 由 軍 團 褲 
+itm_prussian_freikorps_pants_pl|自 由 軍 團 褲 
+itm_bavarian_infantry_pants|步 兵 靴 
+itm_bavarian_infantry_pants_pl|步 兵 靴 
+itm_bavarian_pants_officer|步 兵 靴 
+itm_bavarian_pants_officer_pl|步 兵 靴 
+itm_bavarian_artillery_pants|炮 兵 褲 
+itm_bavarian_artillery_pants_pl|炮 兵 褲 
+itm_bavarian_artillery_pants_officer|炮 兵 靴 
+itm_bavarian_artillery_pants_officer_pl|炮 兵 靴 
+itm_saxon_uhlan_pants|騎 兵 靴 
+itm_saxon_uhlan_pants_pl|騎 兵 靴 
+itm_saxon_uhlan_pants_alt|騎 兵 靴 
+itm_saxon_uhlan_pants_alt_pl|騎 兵 靴 
+itm_saxon_uhlan_pants_officer|騎 兵 靴 
+itm_saxon_uhlan_pants_officer_pl|騎 兵 靴 
+itm_hessian_infantry_pants|步 兵 靴 
+itm_hessian_infantry_pants_pl|步 兵 靴 
+itm_hessian_infantry_pants_officer|步 兵 靴 
+itm_hessian_infantry_pants_officer_pl|步 兵 靴 
+itm_nassau_jaeger_pants|騎 兵 靴 
+itm_nassau_jaeger_pants_pl|騎 兵 靴 
+itm_nassau_jaeger_pants_officer|騎 兵 靴 
+itm_nassau_jaeger_pants_officer_pl|騎 兵 靴 
+itm_wurttemberg_pants_all_ranks|步 兵 靴 
+itm_wurttemberg_pants_all_ranks_pl|步 兵 靴 
+itm_wurttemberg_pants_officer|步 兵 靴 
+itm_wurttemberg_pants_officer_pl|步 兵 靴 
+itm_wurttemberg_grenadier_pants|步 兵 靴 
+itm_wurttemberg_grenadier_pants_pl|步 兵 靴 
+itm_berg_pioneer_pants|步 兵 靴 
+itm_berg_pioneer_pants_pl|步 兵 靴 
+itm_garde_du_corps_pants_ranker|騎 兵 靴 
+itm_garde_du_corps_pants_ranker_pl|騎 兵 靴 
+itm_garde_du_corps_pants|騎 兵 靴 
+itm_garde_du_corps_pants_pl|騎 兵 靴 
+itm_baden_dragoon_pants|騎 兵 靴 
+itm_baden_dragoon_pants_pl|騎 兵 靴 
+itm_officer_gloves|軍 官 手 套 
+itm_officer_gloves_pl|軍 官 手 套 
+itm_drummer_gloves|鼓 手 手 套 
+itm_drummer_gloves_pl|鼓 手 手 套 
+itm_rus_chevgarde_gloves|手 套 
+itm_rus_chevgarde_gloves_pl|手 套 
+itm_fr_cuirassier_gloves|手 套 
+itm_fr_cuirassier_gloves_pl|手 套 
+itm_fr_artillery_gloves|手 套 
+itm_fr_artillery_gloves_pl|手 套 
+itm_br_cavalry_gloves|手 套 
+itm_br_cavalry_gloves_pl|手 套 
+itm_br_horseguard_gloves|手 套 
+itm_br_horseguard_gloves_pl|手 套 
+itm_br_cavalry_gloves_short|手 套 
+itm_br_cavalry_gloves_short_pl|手 套 
+itm_br_horseguard_gloves_short|手 套 
+itm_br_horseguard_gloves_short_pl|手 套 
+itm_hussar_horse_french|輕 型 馬 
+itm_hussar_horse_french_pl|輕 型 馬 
+itm_hussar_horse_french_trumpet|輕 型 馬 
+itm_hussar_horse_french_trumpet_pl|輕 型 馬 
+itm_lancer_horse_french|輕 型 馬 
+itm_lancer_horse_french_pl|輕 型 馬 
+itm_lancer_horse_french_trumpet|輕 型 馬 
+itm_lancer_horse_french_trumpet_pl|輕 型 馬 
+itm_dragoon_horse_french|中 型 馬 
+itm_dragoon_horse_french_pl|中 型 馬 
+itm_dragoon_horse_french_trumpet|中 型 馬 
+itm_dragoon_horse_french_trumpet_pl|中 型 馬 
+itm_cuirassier_horse_french|重 型 馬 
+itm_cuirassier_horse_french_pl|重 型 馬 
+itm_cuirassier_horse_french_officer|重 型 馬 
+itm_cuirassier_horse_french_officer_pl|重 型 馬 
+itm_cuirassier_horse_french_trumpet|重 型 馬 
+itm_cuirassier_horse_french_trumpet_pl|重 型 馬 
+itm_carabineer_horse_french|重 型 馬 
+itm_carabineer_horse_french_pl|重 型 馬 
+itm_carabineer_horse_french_officer|重 型 馬 
+itm_carabineer_horse_french_officer_pl|重 型 馬 
+itm_carabineer_horse_french_trumpet|重 型 馬 
+itm_carabineer_horse_french_trumpet_pl|重 型 馬 
+itm_heavy_horse_french|重 型 馬 
+itm_heavy_horse_french_pl|重 型 馬 
+itm_heavy_horse_french_trumpet|重 型 馬 
+itm_heavy_horse_french_trumpet_pl|重 型 馬 
+itm_lightdragoon_horse_britain_1|輕 型 馬 
+itm_lightdragoon_horse_britain_1_pl|輕 型 馬 
+itm_lightdragoon_horse_britain_2|輕 型 馬 
+itm_lightdragoon_horse_britain_2_pl|輕 型 馬 
+itm_lightdragoon_horse_britain_3|輕 型 馬 
+itm_lightdragoon_horse_britain_3_pl|輕 型 馬 
+itm_lightdragoon_horse_britain_4|輕 型 馬 
+itm_lightdragoon_horse_britain_4_pl|輕 型 馬 
+itm_kgl_horse_britain|輕 型 馬 
+itm_kgl_horse_britain_pl|輕 型 馬 
+itm_heavydragoon_horse_britain|重 型 馬 
+itm_heavydragoon_horse_britain_pl|重 型 馬 
+itm_heavy_horse_britain|重 型 馬 
+itm_heavy_horse_britain_pl|重 型 馬 
+itm_lancer_horse_prussia_1|輕 型 馬 
+itm_lancer_horse_prussia_1_pl|輕 型 馬 
+itm_lancer_horse_prussia_2|輕 型 馬 
+itm_lancer_horse_prussia_2_pl|輕 型 馬 
+itm_hussar_horse_prussia_1|輕 型 馬 
+itm_hussar_horse_prussia_1_pl|輕 型 馬 
+itm_hussar_horse_prussia_2|輕 型 馬 
+itm_hussar_horse_prussia_2_pl|輕 型 馬 
+itm_dragoon_horse_prussia_1|中 型 馬 
+itm_dragoon_horse_prussia_1_pl|中 型 馬 
+itm_dragoon_horse_prussia_2|中 型 馬 
+itm_dragoon_horse_prussia_2_pl|中 型 馬 
+itm_heavy_horse_prussia_1|重 型 馬 
+itm_heavy_horse_prussia_1_pl|重 型 馬 
+itm_heavy_horse_prussia_2|重 型 馬 
+itm_heavy_horse_prussia_2_pl|重 型 馬 
+itm_cossack_horse_russia_1|輕 型 馬 
+itm_cossack_horse_russia_1_pl|輕 型 馬 
+itm_cossack_horse_russia_2|輕 型 馬 
+itm_cossack_horse_russia_2_pl|輕 型 馬 
+itm_cossack_horse_russia_3|輕 型 馬 
+itm_cossack_horse_russia_3_pl|輕 型 馬 
+itm_cossack_horse_russia_4|輕 型 馬 
+itm_cossack_horse_russia_4_pl|輕 型 馬 
+itm_lancer_horse_russia|輕 型 馬 
+itm_lancer_horse_russia_pl|輕 型 馬 
+itm_hussar_horse_russia|輕 型 馬 
+itm_hussar_horse_russia_pl|輕 型 馬 
+itm_dragoon_horse_russia|中 型 馬 
+itm_dragoon_horse_russia_pl|中 型 馬 
+itm_heavy_horse_russia|重 型 馬 
+itm_heavy_horse_russia_pl|重 型 馬 
+itm_lancer_horse_austria|輕 型 馬 
+itm_lancer_horse_austria_pl|輕 型 馬 
+itm_hussar_horse_austria|輕 型 馬 
+itm_hussar_horse_austria_pl|輕 型 馬 
+itm_lightcav_horse_austria|輕 型 馬 
+itm_lightcav_horse_austria_pl|輕 型 馬 
+itm_dragoon_horse_austria|中 型 馬 
+itm_dragoon_horse_austria_pl|中 型 馬 
+itm_heavy_horse_austria|重 型 馬 
+itm_heavy_horse_austria_pl|重 型 馬 
+itm_lancer_horse_rhine|輕 型 馬 
+itm_lancer_horse_rhine_pl|輕 型 馬 
+itm_lancer_horse_rhine_officer|輕 型 馬 
+itm_lancer_horse_rhine_officer_pl|輕 型 馬 
+itm_hussar_horse_rhine|輕 型 馬 
+itm_hussar_horse_rhine_pl|輕 型 馬 
+itm_hussar_horse_rhine_officer|輕 型 馬 
+itm_hussar_horse_rhine_officer_pl|輕 型 馬 
+itm_lightcav_horse_rhine|輕 型 馬 
+itm_lightcav_horse_rhine_pl|輕 型 馬 
+itm_cuirassier_horse_rhine|重 型 馬 
+itm_cuirassier_horse_rhine_pl|重 型 馬 
+itm_cuirassier_horse_rhine_officer|重 型 馬 
+itm_cuirassier_horse_rhine_officer_pl|重 型 馬 
+itm_garde_du_corps_horse_rhine|重 型 馬 
+itm_garde_du_corps_horse_rhine_pl|重 型 馬 
+itm_garde_du_corps_horse_rhine_officer|重 型 馬 
+itm_garde_du_corps_horse_rhine_officer_pl|重 型 馬 
+itm_lancer_horse_placeholder|輕 型 馬 
+itm_lancer_horse_placeholder_pl|輕 型 馬 
+itm_hussar_horse_placeholder|輕 型 馬 
+itm_hussar_horse_placeholder_pl|輕 型 馬 
+itm_dragoon_horse_placeholder|中 型 馬 
+itm_dragoon_horse_placeholder_pl|中 型 馬 
+itm_heavy_horse_placeholder|重 型 馬 
+itm_heavy_horse_placeholder_pl|重 型 馬 
+itm_admin_horse|管 理 員 之 馬 
+itm_admin_horse_pl|管 理 員 之 馬 
+itm_arty_horse_cannon_french|炮 兵 馬 
+itm_arty_horse_cannon_french_pl|炮 兵 馬 
+itm_arty_horse_cannon_british|炮 兵 馬 
+itm_arty_horse_cannon_british_pl|炮 兵 馬 
+itm_arty_horse_cannon_russian|炮 兵 馬 
+itm_arty_horse_cannon_russian_pl|炮 兵 馬 
+itm_arty_horse_cannon_austrian|炮 兵 馬 
+itm_arty_horse_cannon_austrian_pl|炮 兵 馬 
+itm_arty_horse_cannon_prussian|炮 兵 馬 
+itm_arty_horse_cannon_prussian_pl|炮 兵 馬 
+itm_arty_horse_howitzer_french|炮 兵 馬 
+itm_arty_horse_howitzer_french_pl|炮 兵 馬 
+itm_arty_horse_howitzer_british|炮 兵 馬 
+itm_arty_horse_howitzer_british_pl|炮 兵 馬 
+itm_arty_horse_howitzer_russian|炮 兵 馬 
+itm_arty_horse_howitzer_russian_pl|炮 兵 馬 
+itm_arty_horse_howitzer_austrian|炮 兵 馬 
+itm_arty_horse_howitzer_austrian_pl|炮 兵 馬 
+itm_arty_horse_howitzer_prussian|炮 兵 馬 
+itm_arty_horse_howitzer_prussian_pl|炮 兵 馬 
+itm_items_end|Items End 
+itm_items_end_pl|Items End 

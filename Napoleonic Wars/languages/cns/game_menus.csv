@@ -1,0 +1,39 @@
+menu_start_game_0|士 兵 ， 欢 迎 来 到 骑 马 与 砍 杀 的 剧 本 ： 拿 破 仑 时 代 ， 在 开 始 游 戏 之 前 你 必 须 创 建 一 角 色 并 且 选 择 一 个 合 适 的 难 度 。 
+mno_start_easy|简 单 
+mno_start_normal|一 般 
+mno_start_hard|困 难 
+mno_go_back|返 回 
+mno_debug|去 除 漏 洞 
+menu_start_phase_2|开 始 阶 段 2 
+mno_map|地 图 
+menu_start_game_3|开 始 游 戏 3 
+menu_tutorial|下 午 好 ， 先 生 ， 今 天 天 气 真 美 ， 您 是 否 要 一 杯 茶 呢 ？ 
+mno_continue|是 的 ， 请 。 
+mno_go_back_dot|不 ， 谢 谢 。 
+menu_reports|报 告 
+mno_resume_travelling|返 回 旅 程 。 
+menu_camp|地 图 
+mno_camp_wait_here|休 息 。 
+menu_custom_battle_scene|（ 不 转 移 ） 
+menu_custom_battle_end|战 斗 结 束 了 ， {s1}你 方 杀 消 灭 了 {reg5}名 敌 人 ， 而 你 方 损 失 了 {reg6}人 ， 你 亲 自 干 掉 了 {reg7}人 。 
+menu_town_trade|你 朝 着 营 地 的 交 易 场 所 。 
+mno_trade_with_arms_merchant|与 武 器 商 人 交 易 。 
+mno_trade_with_armor_merchant|与 裁 缝 交 易 。 
+mno_trade_with_horse_merchant|与 马 匹 贩 子 交 易 。 
+mno_back_to_town_menu|返 回 。 
+menu_debug|选 择 一 个 场 景 。 
+mno_scene1|维 也 纳 桥 (sp vienna)
+mno_scene2|奥 斯 德 利 兹 部 分 1 (sp sokolniz)
+mno_scene3|奥 斯 德 利 兹 部 分 2 (sp auster)
+mno_scene4|奥 斯 德 利 兹 部 分 3 (sp sokolniz2)
+mno_scene5|德 雷 斯 顿 部 分 1 (sp dresden1)
+mno_scene6|德 雷 斯 顿 部 分 2 (sp dresden2)
+mno_scene7|新 场 景 1 (NON-PLAYABLE)
+mno_scene8|新 场 景 2 (NON-PLAYABLE)
+mno_scene9|新 场 景 3 (NON-PLAYABLE)
+mno_scene10|新 场 景 4 (NON-PLAYABLE)
+menu_run_mission_dummy|去 漏 洞 视 角 
+menu_run_companion_dummy|去 漏 洞 视 角 
+menu_visit_camp_dummy|去 漏 洞 视 角 
+menu_go_briefing_dummy|去 漏 洞 视 角 
+menu_quit_dummy|去 漏 洞 视 角 

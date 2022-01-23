@@ -1,0 +1,45 @@
+ui_character_window|Battle Cry
+ui_start_tutorial|Tutorial
+ui_start_a_new_game|Singleplayer
+ui_particle_systems|High Detail Particle Systems
+ui_no_more_bolts|No more cartridges...
+ui_you_are_not_carrying_any_bolts|You are not carrying any cartridges.
+ui_cut|Cutting
+ui_pierce|Piercing
+ui_blunt|Blunt
+ui_autoexpore|Use High-contrast Tonemap
+ui_use_melee_weapons_e_|Use melee weapons!
+ui_use_ranged_weapons_e_|Use ranged weapons!
+ui_order_button_use_melee_weapons|Use melee weapons
+ui_order_button_use_ranged_weapons|Use ranged weapons
+ui_order_button_weapon_usage_orders|Weapon usage orders
+ui_fire_at_my_command_e_|Fire at my command!
+ui_fire_now_e_|Fire now!
+ui_order_button_fire_at_my_command|Fire at my command
+ui_order_button_fire_now|Fire now
+ui_order_form_1_row|Form 1 row
+ui_order_form_2_row|Form 2 rows
+ui_order_form_3_row|Form 3 rows
+ui_order_form_4_row|Form 4 rows
+ui_order_form_5_row|Form 5 rows
+ui_form_1_row_e_|Form 1 row!
+ui_form_2_row_e_|Form 2 rows!
+ui_form_3_row_e_|Form 3 rows!
+ui_form_4_row_e_|Form 4 rows!
+ui_form_5_row_e_|Form 5 rows!
+ui_order_7|Select Order 7
+ui_order_8|Select Order 8
+ui_all_fire_now_e_|All fire now!
+ui_left_fire_now_e_|Left flank fire now!
+ui_middle_fire_now_e_|Middle group fire now!
+ui_right_fire_now_e_|Right flank fire now!
+ui_order_button_all_fire_now|All fire now
+ui_order_button_left_fire_now|Left flank fire now
+ui_order_button_middle_fire_now|Middle group fire now
+ui_order_button_right_fire_now|Right flank fire now
+ui_crouch|Crouch
+ui_change_accessories|Extra
+ui_archers|Regiment
+ui_group_2|Regiment
+ui_zoom|Toggle Walk
+ui_party_window|Surrender 

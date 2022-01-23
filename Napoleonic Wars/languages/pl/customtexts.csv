@@ -1,0 +1,45 @@
+﻿ui_character_window|Okrzyk wojenny
+ui_start_tutorial|Samouczek
+ui_start_a_new_game|Jeden gracz
+ui_particle_systems|Wysoka jakość systemu cząstek
+ui_no_more_bolts|Nie masz więcej amunicji...
+ui_you_are_not_carrying_any_bolts|Nie posiadasz amunicji.
+ui_cut|Tnące
+ui_pierce|Kłujące
+ui_blunt|Obuchowe
+ui_autoexpore|Wykorzystaj paletę wysoko-kontrastową
+ui_use_melee_weapons_e_|Użyć broni ręcznej!
+ui_use_ranged_weapons_e_|Użyć broni dystansowej!
+ui_order_button_use_melee_weapons|Użyć broni ręcznej
+ui_order_button_use_ranged_weapons|Użyć broni dystansowej
+ui_order_button_weapon_usage_orders|Rozkazy dotyczące broni
+ui_fire_at_my_command_e_|Strzelać na mój rozkaz!
+ui_fire_now_e_|Strzelać!
+ui_order_button_fire_at_my_command|Strzelać na mój rozkaz
+ui_order_button_fire_now|Strzelać
+ui_order_form_1_row|Formować szereg
+ui_order_form_2_row|Formować dwuszereg
+ui_order_form_3_row|Formować trójszereg
+ui_order_form_4_row|Formować czwórszereg
+ui_order_form_5_row|Formować pięcioszereg
+ui_form_1_row_e_|Formować szereg!
+ui_form_2_row_e_|Formować dwuszereg!
+ui_form_3_row_e_|Formować trójszereg!
+ui_form_4_row_e_|Formować czwórszereg!
+ui_form_5_row_e_|Formować pięcioszereg!
+ui_order_7|Wybierz rozkaz 7
+ui_order_8|Wybierz rozkaz 8
+ui_all_fire_now_e_|Wszyscy - strzelać!
+ui_left_fire_now_e_|Lewa flanka - strzelać!
+ui_middle_fire_now_e_|Środek - strzelać!
+ui_right_fire_now_e_|Prawa flanka - strzelać!
+ui_order_button_all_fire_now|Wszyscy - strzelać
+ui_order_button_left_fire_now|Lewa flanka - strzelać
+ui_order_button_middle_fire_now|Środek - strzelać
+ui_order_button_right_fire_now|Prawa flanka - strzelać
+ui_crouch|Padnij!
+ui_change_accessories|Dodatkowe
+ui_archers|Regiment
+ui_group_2|Regiment
+ui_zoom|Przełącz tryb chodu
+ui_party_window|Poddaj się

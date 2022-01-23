@@ -1,0 +1,1834 @@
+﻿itm_no_item|유효하지 않은 아이템
+itm_no_item_pl|유효하지 않은 아이템
+itm_french_cav_pistol|프랑스 기병용 권총
+itm_french_cav_pistol_pl|권총
+itm_french_officer_pistol|권총
+itm_french_officer_pistol_pl|권총
+itm_french_pistol_1766|권총
+itm_french_pistol_1766_pl|권총
+itm_french_pistol_1777|권총
+itm_french_pistol_1777_pl|권총
+itm_russian_pistol|권총
+itm_russian_pistol_pl|권총
+itm_british_pistol|권총
+itm_british_pistol_pl|권총
+itm_french_mousquiton|기병용 카빈
+itm_french_mousquiton_pl|기병용 카빈
+itm_french_mousquiton_melee|기병용 카빈
+itm_french_mousquiton_melee_pl|기병용 카빈
+itm_french_mousquiton_ai|기병용 카빈
+itm_french_mousquiton_ai_pl|기병용 카빈
+itm_french_mousquiton_light|기병용 단축 카빈
+itm_french_mousquiton_light_pl|기병용 단축 카빈
+itm_french_mousquiton_light_melee|기병용 단축 카빈
+itm_french_mousquiton_light_melee_pl|기병용 단축 카빈
+itm_french_mousquiton_light_ai|기병용 단축 카빈
+itm_french_mousquiton_light_ai_pl|기병용 단축 카빈
+itm_french_dragoon_musket|기병용 머스킷
+itm_french_dragoon_musket_pl|기병용 머스킷
+itm_french_dragoon_musket_melee|기병용 머스킷
+itm_french_dragoon_musket_melee_pl|기병용 머스킷
+itm_french_dragoon_musket_ai|기병용 머스킷
+itm_french_dragoon_musket_ai_pl|기병용 머스킷
+itm_russian_dragoon_musket|기병용 머스킷
+itm_russian_dragoon_musket_pl|기병용 머스킷
+itm_russian_dragoon_musket_melee|기병용 머스킷
+itm_russian_dragoon_musket_melee_pl|기병용 머스킷
+itm_russian_dragoon_musket_ai|기병용 머스킷
+itm_russian_dragoon_musket_ai_pl|기병용 머스킷
+itm_russian_cavalry_stutzer_1803|단축형 카빈
+itm_russian_cavalry_stutzer_1803_pl|단축형 카빈
+itm_russian_gusarskiy_karabin|머스커툰
+itm_russian_gusarskiy_karabin_pl|머스커툰
+itm_russian_gusarskiy_karabin_melee|머스커툰
+itm_russian_gusarskiy_karabin_melee_pl|머스커툰
+itm_russian_gusarskiy_karabin_ai|머스커툰
+itm_russian_gusarskiy_karabin_ai_pl|머스커툰
+itm_british_carbine|기병 카빈
+itm_british_carbine_pl|기병 카빈
+itm_british_carbine_melee|기병 카빈
+itm_british_carbine_melee_pl|기병 카빈
+itm_british_carbine_ai|기병 카빈
+itm_british_carbine_ai_pl|기병 카빈
+itm_russian_rifle_1805|소총
+itm_russian_rifle_1805_pl|소총
+itm_russian_rifle_1805_melee|소총
+itm_russian_rifle_1805_melee_pl|소총
+itm_british_baker_rifle|베이커 소총
+itm_british_baker_rifle_pl|베이커 소총
+itm_british_baker_rifle_melee|베이커 소총
+itm_british_baker_rifle_melee_pl|베이커 소총
+itm_sniper_rifle|저격소총
+itm_sniper_rifle_pl|저격소총
+itm_blunderbluss|블런더버스
+itm_blunderbluss_pl|블런더버스
+itm_french_charleville|샤를비유 머스켓
+itm_french_charleville_pl|샤를비유 머스켓
+itm_french_charleville_melee|샤를비유 머스킷
+itm_french_charleville_melee_pl|샤를비유 머스킷
+itm_french_versailles|베르사유 머스킷
+itm_french_versailles_pl|베르사유 머스킷
+itm_french_versailles_melee|베르사유 머스킷
+itm_french_versailles_melee_pl|베르사유 머스킷
+itm_british_brown_bess|브라운 베스 머스킷
+itm_british_brown_bess_pl|브라운 베스 머스킷
+itm_british_brown_bess_melee|브라운 베스 머스킷
+itm_british_brown_bess_melee_pl|브라운 베스 머스킷
+itm_russian_musket_1808|1808년형 머스킷
+itm_russian_musket_1808_pl|1808년형 머스킷
+itm_russian_musket_1808_melee|1808년형 머스킷
+itm_russian_musket_1808_melee_pl|1808년형 머스킷
+itm_austrian_musket|1798년형 머스킷
+itm_austrian_musket_pl|1798년형 머스킷
+itm_austrian_musket_melee|1798년형 머스킷
+itm_austrian_musket_melee_pl|1798년형 머스킷
+itm_prussian_potsdam|포츠담 머스킷
+itm_prussian_potsdam_pl|포츠담 머스킷
+itm_prussian_potsdam_melee|포츠담 머스킷
+itm_prussian_potsdam_melee_pl|포츠담 머스킷
+itm_prussian_musket_1806|포츠담 머스킷
+itm_prussian_musket_1806_pl|포츠담 머스킷
+itm_prussian_musket_1806_melee|포츠담 머스킷
+itm_prussian_musket_1806_melee_pl|포츠담 머스킷
+itm_french_art_off_sword|포병장교 검
+itm_french_art_off_sword_pl|포병장교 검
+itm_french_carabineer_sword|중기병 세이버
+itm_french_carabineer_sword_pl|중기병 세이버
+itm_french_briquet_garde|근위병 세이버
+itm_french_briquet_garde_pl|근위병 세이버
+itm_french_light_cav_sabre_garde|경기병 세이버
+itm_french_light_cav_sabre_garde_pl|경기병 세이버
+itm_french_heavy_cav_sabre_garde|중기병 세이버
+itm_french_heavy_cav_sabre_garde_pl|중기병 세이버
+itm_french_inf_off_sabre_garde|제국근위대 장교 세이버
+itm_french_inf_off_sabre_garde_pl|제국근위대 장교 세이버
+itm_french_heavy_cav_off_sabre|중기병 세이버
+itm_french_heavy_cav_off_sabre_pl|중기병 세이버
+itm_french_inf_off_sabre|보병장교 세이버
+itm_french_inf_off_sabre_pl|보병장교 세이버
+itm_french_light_cav_off_sabre|경기병 세이버
+itm_french_light_cav_off_sabre_pl|경기병 세이버
+itm_french_light_inf_off_sabre|경기병 세이버
+itm_french_light_inf_off_sabre_pl|경기병 세이버
+itm_french_line_cav_sabre|중기병 세이버
+itm_french_line_cav_sabre_pl|중기병 세이버
+itm_french_briquet|브리켓 세이버
+itm_french_briquet_pl|브리켓 세이버
+itm_french_light_cav_sabre|경기병 세이버
+itm_french_light_cav_sabre_pl|경기병 세이버
+itm_french_sappeur_sword|공병용 검
+itm_french_sappeur_sword_pl|공병용 검
+itm_russian_sabre_1798|경기병 세이버
+itm_russian_sabre_1798_pl|경기병 세이버
+itm_russian_sabre_1809|경기병 세이버
+itm_russian_sabre_1809_pl|경기병 세이버
+itm_russian_sword_1810|용기병 검
+itm_russian_sword_1810_pl|용기병 검
+itm_russian_guard_sword_1799|중기병 검
+itm_russian_guard_sword_1799_pl|중기병 검
+itm_russian_briquet_1807|브리켓 세이버
+itm_russian_briquet_1807_pl|브리켓 세이버
+itm_russian_jaeger_bayonet|총검
+itm_russian_jaeger_bayonet_pl|총검
+itm_russian_jaeger_bayonet_jaeger|총검
+itm_russian_jaeger_bayonet_jaeger_pl|총검
+itm_russian_officer_sword|장교용 검
+itm_russian_officer_sword_pl|장교용 검
+itm_russian_officer_sword_jaeger|장교용 검
+itm_russian_officer_sword_jaeger_pl|장교용 검
+itm_russian_peasant_axe|손도끼
+itm_russian_peasant_axe_pl|손도끼
+itm_brokenbottle|깨진 술병
+itm_brokenbottle_pl|깨진 술병
+itm_brokenbottle_melee|깨진 술병
+itm_brokenbottle_melee_pl|깨진 술병
+itm_russian_kindjal|킨드잘 단검
+itm_russian_kindjal_pl|킨드잘 단검
+itm_russian_guard_off_sword|장교용 검
+itm_russian_guard_off_sword_pl|장교용 검
+itm_russian_sappeur_dagger|공병용 대거
+itm_russian_sappeur_dagger_pl|공병용 대거
+itm_russian_sappeur_dagger_invis|공병용 대거
+itm_russian_sappeur_dagger_invis_pl|공병용 대거
+itm_russian_peasant_knife|주머니칼
+itm_russian_peasant_knife_pl|주머니칼
+itm_russian_peasant_serp|낫
+itm_russian_peasant_serp_pl|낫
+itm_british_highlander_officer_sword|스코티쉬 브로드소드
+itm_british_highlander_officer_sword_pl|스코티쉬 브로드소드
+itm_british_heavy_cav_sword|중기병도
+itm_british_heavy_cav_sword_pl|중기병도
+itm_british_light_cav_sabre|경기병 세이버
+itm_british_light_cav_sabre_pl|경기병 세이버
+itm_british_baker_bayonet|총검
+itm_british_baker_bayonet_pl|총검
+itm_british_musician_sword|군악병 소드
+itm_british_musician_sword_pl|군악병 소드
+itm_british_musician_sword_invis|군악병 소드
+itm_british_musician_sword_invis_pl|군악병 소드
+itm_british_officer_sword|장교용 검
+itm_british_officer_sword_pl|장교용 검
+itm_austrian_infantry_briquet|총검
+itm_austrian_infantry_briquet_pl|총검
+itm_austrian_infantry_briquet_black|총검
+itm_austrian_infantry_briquet_black_pl|총검
+itm_austrian_jaeger_bayonet|총검
+itm_austrian_jaeger_bayonet_pl|총검
+itm_austrian_jaeger_bayonet_invis|총검
+itm_austrian_jaeger_bayonet_invis_pl|총검
+itm_russian_briquet_1807_black|브리켓 세이버
+itm_russian_briquet_1807_black_pl|브리켓 세이버
+itm_russian_briquet_1807_black_blackbelt|브리켓 세이버
+itm_russian_briquet_1807_black_blackbelt_pl|브리켓 세이버
+itm_russian_briquet_1807_landwehr|브리켓 세이버
+itm_russian_briquet_1807_landwehr_pl|브리켓 세이버
+itm_russian_peasant_axe_landwehr|손도끼
+itm_russian_peasant_axe_landwehr_pl|손도끼
+itm_french_briquet_garde_fake|브리켓 세이버
+itm_french_briquet_garde_fake_pl|브리켓 세이버
+itm_french_briquet_fake|브리켓 세이버
+itm_french_briquet_fake_pl|브리켓 세이버
+itm_russian_briquet_1807_fake|브리켓 세이버
+itm_russian_briquet_1807_fake_pl|브리켓 세이버
+itm_russian_briquet_1807_black_fake|브리켓 세이버
+itm_russian_briquet_1807_black_fake_pl|브리켓 세이버
+itm_russian_briquet_1807_black_blackbelt_fake|브리켓 세이버
+itm_russian_briquet_1807_black_blackbelt_fake_pl|브리켓 세이버
+itm_russian_briquet_1807_landwehr_fake|브리켓 세이버
+itm_russian_briquet_1807_landwehr_fake_pl|브리켓 세이버
+itm_russian_peasant_axe_landwehr_fake|손도끼
+itm_russian_peasant_axe_landwehr_fake_pl|손도끼
+itm_austrian_infantry_briquet_fake|총검
+itm_austrian_infantry_briquet_fake_pl|총검
+itm_banhammer|밴해머
+itm_banhammer_pl|밴해머
+itm_drumstick_right|북
+itm_drumstick_right_pl|북
+itm_flute|피리
+itm_flute_pl|피리
+itm_horn|호른
+itm_horn_pl|호른
+itm_trumpet|트럼펫
+itm_trumpet_pl|트럼펫
+itm_bugle|뷰글
+itm_bugle_pl|뷰글
+itm_bagpipe|백파이프
+itm_bagpipe_pl|백파이프
+itm_bullets|탄약
+itm_bullets_pl|탄약
+itm_pistol_ammo|탄약
+itm_pistol_ammo_pl|탄약
+itm_canister_ammo|탄약
+itm_canister_ammo_pl|탄약
+itm_shell_fragment|포탄 파편
+itm_shell_fragment_pl|포탄 파편
+itm_explosive_bullets|탄약
+itm_explosive_bullets_pl|탄약
+itm_cannon_cartridge_round|통상탄
+itm_cannon_cartridge_round_pl|통상탄
+itm_cannon_cartridge_shell|작렬탄
+itm_cannon_cartridge_shell_pl|작렬탄
+itm_cannon_cartridge_canister|산탄
+itm_cannon_cartridge_canister_pl|산탄
+itm_cannon_cartridge_bomb|박격포탄
+itm_cannon_cartridge_bomb_pl|박격포탄
+itm_rockets|로켓
+itm_rockets_pl|로켓
+itm_french_lance|랜스
+itm_french_lance_pl|랜스
+itm_prussian_lance|랜스
+itm_prussian_lance_pl|랜스
+itm_austrian_lance|랜스
+itm_austrian_lance_pl|랜스
+itm_saxon_lance|랜스
+itm_saxon_lance_pl|랜스
+itm_russian_cossack_pike|랜스
+itm_russian_cossack_pike_pl|랜스
+itm_russian_lancer_pike|랜스
+itm_russian_lancer_pike_pl|랜스
+itm_russian_opolcheniye_pike|송곳창
+itm_russian_opolcheniye_pike_pl|송곳창
+itm_russian_peasant_kosa|대낫
+itm_russian_peasant_kosa_pl|대낫
+itm_russian_peasant_fork|나무꼬챙이
+itm_russian_peasant_fork_pl|나무꼬챙이
+itm_russian_peasant_pitchfork|쇠스랑
+itm_russian_peasant_pitchfork_pl|쇠스랑
+itm_russian_peasant_sap|갈퀴
+itm_russian_peasant_sap_pl|갈퀴
+itm_birch_trunk|나무 기둥
+itm_birch_trunk_pl|나무 기둥
+itm_russian_peasant_kosa2|대낫
+itm_russian_peasant_kosa2_pl|대낫
+itm_russian_peasant_club|몽둥이
+itm_russian_peasant_club_pl|몽둥이
+itm_russian_peasant_birch_club|나무 방망이
+itm_russian_peasant_birch_club_pl|나무 방망이
+itm_russian_peasant_pike|장창
+itm_russian_peasant_pike_pl|장창
+itm_russian_peasant_kuvalda|오함마
+itm_russian_peasant_kuvalda_pl|오함마
+itm_russian_peasant_2handed_axe|벌목용 도끼
+itm_russian_peasant_2handed_axe_pl|벌목용 도끼
+itm_russian_peasant_rogatina|사냥용 창
+itm_russian_peasant_rogatina_pl|사냥용 창
+itm_sapper_axe_ship|도끼
+itm_sapper_axe_ship_pl|도끼
+itm_sapper_axe_rus_ship|도끼
+itm_sapper_axe_rus_ship_pl|도끼
+itm_french_mousquiton_melee_gf|기병 카빈
+itm_french_mousquiton_melee_gf_pl|기병 카빈
+itm_french_mousquiton_light_melee_gf|1777년형 카빈(단축형)
+itm_french_mousquiton_light_melee_gf_pl|1777년형 카빈(단축형)
+itm_french_dragoon_musket_melee_gf|용기병 머스킷
+itm_french_dragoon_musket_melee_gf_pl|용기병 머스킷
+itm_russian_dragoon_musket_melee_gf|용기병 머스킷
+itm_russian_dragoon_musket_melee_gf_pl|용기병 머스킷
+itm_russian_gusarskiy_karabin_melee_gf|머스커툰
+itm_russian_gusarskiy_karabin_melee_gf_pl|머스커툰
+itm_british_carbine_melee_gf|기병 카빈
+itm_british_carbine_melee_gf_pl|기병 카빈
+itm_russian_rifle_1805_melee_gf|소총
+itm_russian_rifle_1805_melee_gf_pl|소총
+itm_british_baker_rifle_melee_gf|베이커 소총
+itm_british_baker_rifle_melee_gf_pl|베이커 소총
+itm_french_charleville_melee_gf|샤를비유 머스킷
+itm_french_charleville_melee_gf_pl|샤를비유 머스킷
+itm_french_versailles_melee_gf|샤를비유 머스킷
+itm_french_versailles_melee_gf_pl|샤를비유 머스킷
+itm_british_brown_bess_melee_gf|브라운 베스 머스킷
+itm_british_brown_bess_melee_gf_pl|브라운 베스 머스킷
+itm_russian_musket_1808_melee_gf|1808년형 머스킷
+itm_russian_musket_1808_melee_gf_pl|1808년형 머스킷
+itm_austrian_musket_melee_gf|1798년형 머스킷
+itm_austrian_musket_melee_gf_pl|1798년형 머스킷
+itm_prussian_potsdam_melee_gf|포츠담 머스킷
+itm_prussian_potsdam_melee_gf_pl|포츠담 머스킷
+itm_prussian_musket_1806_melee_gf|포츠담 머스킷
+itm_prussian_musket_1806_melee_gf_pl|포츠담 머스킷
+itm_flag_france_45e|프랑스 45연대 깃발
+itm_flag_france_45e_pl|프랑스 45연대 깃발
+itm_flag_france_84e|프랑스 84연대 깃발
+itm_flag_france_84e_pl|프랑스 84연대 깃발
+itm_flag_france_vistula|폴란드 비스툴라 군단 깃발
+itm_flag_france_vistula_pl|폴란드 비스툴라 군단 깃발
+itm_flag_france_grenadiers|프랑스 근위보병대 깃발
+itm_flag_france_grenadiers_pl|프랑스 근위보병대 깃발
+itm_flag_france_15|프랑스 제 15 경보병연대 깃발
+itm_flag_france_15_pl|프랑스 제 15 경보병연대 깃발
+itm_flag_france_hussard|프랑스 경기병대 깃발
+itm_flag_france_hussard_pl|프랑스 경기병대 깃발
+itm_flag_france_carab|프랑스 캐러비니어 부대기
+itm_flag_france_carab_pl|프랑스 캐러비니어 부대기
+itm_flag_france_cuirassier|프랑스 쿼러시어 부대기
+itm_flag_france_cuirassier_pl|프랑스 쿼러시어 부대기
+itm_flag_france_cheval|프랑스 기마척탄병연대 깃발
+itm_flag_france_cheval_pl|프랑스 기마척탄병연대 깃발
+itm_flag_france_dragon|프랑스 용기병연대 깃발
+itm_flag_france_dragon_pl|프랑스 용기병연대 깃발
+itm_flag_france_lancier|프랑스 창기병연대 깃발
+itm_flag_france_lancier_pl|프랑스 창기병연대 깃발
+itm_flag_russia_opolcheniye|러시아 오폴체니예 부대기
+itm_flag_russia_opolcheniye_pl|러시아 오폴체니예 부대기
+itm_flag_russia_pavlovsk_color|러시아 파블롭스키 연대기
+itm_flag_russia_pavlovsk_color_pl|러시아 파블롭스키 연대기
+itm_flag_russia_pavlovsk_white|러시아 파블롭스키 연대 백색 깃발
+itm_flag_russia_pavlovsk_white_pl|러시아 파블롭스키 연대 백색 깃발
+itm_flag_russia_preobragenskiy_color|러시아 프레오브라젠스키 연대 깃발
+itm_flag_russia_preobragenskiy_color_pl|러시아 프레오브라젠스키 연대 깃발
+itm_flag_russia_preobragenskiy_white|러시아 프레오브라젠스키 연대 백색 깃발
+itm_flag_russia_preobragenskiy_white_pl|러시아 프레오브라젠스키 연대 백색 깃발
+itm_flag_russia_simbirsk_color|러시아 심벌스키 연대 깃발
+itm_flag_russia_simbirsk_color_pl|러시아 심벌스키 연대 깃발
+itm_flag_russia_simbirsk_white|러시아 심벌스키 연대 백색 깃발
+itm_flag_russia_simbirsk_white_pl|러시아 심벌스키 연대 백색 깃발
+itm_flag_russia_kyiv_dragoon|러시아 키예프 용기병 연대 깃발
+itm_flag_russia_kyiv_dragoon_pl|러시아 키예프 용기병 연대 깃발
+itm_britain_colour_33rd_regt|영국 33연대 깃발
+itm_britain_colour_33rd_regt_pl|영국 33연대 깃발
+itm_britain_colour_33rd_king|영국 33연대 국왕기
+itm_britain_colour_33rd_king_pl|영국 33연대 국왕기
+itm_britain_colour_42nd_regt|영국 42연대 깃발
+itm_britain_colour_42nd_regt_pl|영국 42연대 깃발
+itm_britain_colour_42nd_king|영국 42연대 국왕기
+itm_britain_colour_42nd_king_pl|영국 42연대 국왕기
+itm_britain_colour_2nd_regt|영국 제2근위대 깃발
+itm_britain_colour_2nd_regt_pl|영국 제2근위대 깃발
+itm_britain_colour_2nd_king|영국 제2근위대 국왕기
+itm_britain_colour_2nd_king_pl|영국 제2근위대 국왕기
+itm_britain_colour_51st_regt|영국 51연대 깃발
+itm_britain_colour_51st_regt_pl|영국 51연대 깃발
+itm_britain_colour_51st_king|영국 51연대 국왕기
+itm_britain_colour_51st_king_pl|영국 51연대 국왕기
+itm_britain_colour_kgl_regt|왕립 독일인 군단 깃발
+itm_britain_colour_kgl_regt_pl|왕립 독일인 군단 깃발
+itm_britain_colour_kgl_king|왕립 독일인 군단 국왕기
+itm_britain_colour_kgl_king_pl|왕립 독일인 군단 국왕기
+itm_britain_colour_blues|영국 기마 근위대 깃발
+itm_britain_colour_blues_pl|영국 기마 근위대 깃발
+itm_prussia_colour_infantry|프로이센 보병연대 깃발
+itm_prussia_colour_infantry_pl|프로이센 보병연대 깃발
+itm_prussia_colour_infantry2|프로이센 보병연대 깃발
+itm_prussia_colour_infantry2_pl|프로이센 보병연대 깃발
+itm_prussia_colour_guard|프로이센 근위대 깃발
+itm_prussia_colour_guard_pl|프로이센 근위대 깃발
+itm_prussia_colour_landwehr|프로이센 란트베어 깃발
+itm_prussia_colour_landwehr_pl|프로이센 란트베어 깃발
+itm_prussia_colour_hussard|프로이센 경기병 부대기
+itm_prussia_colour_hussard_pl|프로이센 경기병 부대기
+itm_austria_colour_leibfahne|오스트리아 근위대 깃발
+itm_austria_colour_leibfahne_pl|오스트리아 근위대 깃발
+itm_austria_colour_ordinarfahne|오스트리아 보병연대 깃발
+itm_austria_colour_ordinarfahne_pl|오스트리아 보병연대 깃발
+itm_austria_colour_ordinarfahne_cav|오스트리아 기병연대 깃발
+itm_austria_colour_ordinarfahne_cav_pl|오스트리아 기병연대 깃발
+itm_bavarian_flag_national|바이에른 국기
+itm_bavarian_flag_national_pl|바이에른 국기
+itm_bavarian_flag_regimental|바이에른 연대 깃발
+itm_bavarian_flag_regimental_pl|바이에른 연대 깃발
+itm_saxon_flag_infantry|작센 보병연대 깃발
+itm_saxon_flag_infantry_pl|작센 보병연대 깃발
+itm_saxon_flag_uhlan|작센 창기병 부대기
+itm_saxon_flag_uhlan_pl|작센 창기병 부대기
+itm_hessian_flag_infantry|헤시안 보병연대 깃발
+itm_hessian_flag_infantry_pl|헤시안 보병연대 깃발
+itm_westphalian_flag_infantry|베스트팔렌 보병연대 깃발
+itm_westphalian_flag_infantry_pl|베스트팔렌 보병연대 깃발
+itm_baden_flag_dragoon|바덴 용기병 부대기
+itm_baden_flag_dragoon_pl|바덴 용기병 부대기
+itm_westphalian_flag_cuirassier|베스트팔렌 흉갑기병 부대기
+itm_westphalian_flag_cuirassier_pl|베스트팔렌 흉갑기병 부대기
+itm_saxon_flag_garde|작센 근위기병 부대기
+itm_saxon_flag_garde_pl|작센 근위기병 부대기
+itm_wurttemberg_flag_infantry|뷔르템베르크 보병연대 깃발
+itm_wurttemberg_flag_infantry_pl|뷔르템베르크 보병연대 깃발
+itm_wurttemberg_flag_infantry2|뷔르템베르크 보병연대 깃발
+itm_wurttemberg_flag_infantry2_pl|뷔르템베르크 보병연대 깃발
+itm_cannon_lighter|점화 막대
+itm_cannon_lighter_pl|점화 막대
+itm_ramrod|꽂을대
+itm_ramrod_pl|꽂을대
+itm_rocket_placement|로켓 발사기
+itm_rocket_placement_pl|로켓 발사기
+itm_spyglass|망원경
+itm_spyglass_pl|망원경
+itm_bandages|붕대
+itm_bandages_pl|붕대
+itm_grenade|신성 수류탄
+itm_grenade_pl|신성 수류탄
+itm_sapper_axe|공병용 도끼
+itm_sapper_axe_pl|공병용 도끼
+itm_sapper_axe_rus|공병용 도끼
+itm_sapper_axe_rus_pl|공병용 도끼
+itm_construction_hammer|축성용 망치
+itm_construction_hammer_pl|축성용 망치
+itm_shovel|삽
+itm_shovel_pl|삽
+itm_shovel_undig|삽
+itm_shovel_undig_pl|삽
+itm_french_bomb|폭탄
+itm_french_bomb_pl|폭탄
+itm_french_voltigeur_body_officer|프랑스 경보병 제복
+itm_french_voltigeur_body_officer_pl|프랑스 경보병 제복
+itm_french_voltigeur_body_ranker|프랑스 경보병 제복
+itm_french_voltigeur_body_ranker_pl|프랑스 경보병 제복
+itm_french_voltigeur_body_sarge|프랑스 경보병 제복
+itm_french_voltigeur_body_sarge_pl|프랑스 경보병 제복
+itm_french_45e_body_officer|프랑스 보병 제복
+itm_french_45e_body_officer_pl|프랑스 보병 제복
+itm_french_45e_body_colours|프랑스 보병 제복
+itm_french_45e_body_colours_pl|프랑스 보병 제복
+itm_french_45e_body_ranker|프랑스 보병 제복
+itm_french_45e_body_ranker_pl|프랑스 보병 제복
+itm_french_84e_body_officer|프랑스 보병 제복
+itm_french_84e_body_officer_pl|프랑스 보병 제복
+itm_french_84e_body_ranker|프랑스 보병 제복
+itm_french_84e_body_ranker_pl|프랑스 보병 제복
+itm_french_84e_body_sarge|프랑스 보병 제복
+itm_french_84e_body_sarge_pl|프랑스 보병 제복
+itm_french_dragoon_body_ranker|프랑스 용기병 제복
+itm_french_dragoon_body_ranker_pl|프랑스 용기병 제복
+itm_french_dragoon_body_officer|프랑스 용기병 제복
+itm_french_dragoon_body_officer_pl|프랑스 용기병 제복
+itm_french_general_body_boney|나폴레옹 제복
+itm_french_general_body_boney_pl|나폴레옹 제복
+itm_french_grenadiers_a_cheval_body_colours|프랑스 기마척탄병연대 제복
+itm_french_grenadiers_a_cheval_body_colours_pl|프랑스 기마척탄병연대 제복
+itm_french_grenadiers_a_cheval_body_ranker|프랑스 기마척탄병연대 제복
+itm_french_grenadiers_a_cheval_body_ranker_pl|프랑스 기마척탄병연대 제복
+itm_french_grenadiers_a_cheval_body_officer|프랑스 기마척탄병연대 제복
+itm_french_grenadiers_a_cheval_body_officer_pl|프랑스 기마척탄병연대 제복
+itm_french_gap_body_colours|프랑스 척탄병 제복
+itm_french_gap_body_colours_pl|프랑스 척탄병 제복
+itm_french_gap_body_ranker|프랑스 척탄병 제복
+itm_french_gap_body_ranker_pl|프랑스 척탄병 제복
+itm_french_gap_body_officer|프랑스 척탄병 제복
+itm_french_gap_body_officer_pl|프랑스 척탄병 제복
+itm_french_art_ranker_body|프랑스 포병 제복
+itm_french_art_ranker_body_pl|프랑스 포병 제복
+itm_french_art_ranker_body_alt|프랑스 포병 제복
+itm_french_art_ranker_body_alt_pl|프랑스 포병 제복
+itm_french_art_officer_body|프랑스 포병 제복
+itm_french_art_officer_body_pl|프랑스 포병 제복
+itm_french_vistula_body_ranker|비스툴라 군단 제복
+itm_french_vistula_body_ranker_pl|비스툴라 군단 제복
+itm_french_vistula_body_colours|비스툴라 군단 제복
+itm_french_vistula_body_colours_pl|비스툴라 군단 제복
+itm_french_vistula_body_officer|비스툴라 군단 제복
+itm_french_vistula_body_officer_pl|비스툴라 군단 제복
+itm_french_lancer_body_ranker|프랑스 근위창기병연대 제복
+itm_french_lancer_body_ranker_pl|프랑스 근위창기병연대 제복
+itm_french_lancer_body_colours|프랑스 근위창기병연대 제복
+itm_french_lancer_body_colours_pl|프랑스 근위창기병연대 제복
+itm_french_lancer_body_officer|프랑스 근위창기병연대 제복
+itm_french_lancer_body_officer_pl|프랑스 근위창기병연대 제복
+itm_french_cuirassier_ranker|프랑스 흉갑기병 제복
+itm_french_cuirassier_ranker_pl|프랑스 흉갑기병 제복
+itm_french_cuirassier_colours|프랑스 흉갑기병 제복
+itm_french_cuirassier_colours_pl|프랑스 흉갑기병 제복
+itm_french_cuirassier_officer|프랑스 흉갑기병 제복
+itm_french_cuirassier_officer_pl|프랑스 흉갑기병 제복
+itm_french_carabineer_ranker|프랑스 캐러비니어 제복
+itm_french_carabineer_ranker_pl|프랑스 캐러비니어 제복
+itm_french_carabineer_colours|프랑스 캐러비니어 제복
+itm_french_carabineer_colours_pl|프랑스 캐러비니어 제복
+itm_french_carabineer_officer|프랑스 캐러비니어 제복
+itm_french_carabineer_officer_pl|프랑스 캐러비니어 제복
+itm_french_hussards_ranker|프랑스 경기병 제복
+itm_french_hussards_ranker_pl|프랑스 경기병 제복
+itm_french_hussards_nco|프랑스 경기병 제복
+itm_french_hussards_nco_pl|프랑스 경기병 제복
+itm_french_hussards_officer|프랑스 경기병 제복
+itm_french_hussards_officer_pl|프랑스 경기병 제복
+itm_french_hussards_trumpeter|프랑스 경기병 제복
+itm_french_hussards_trumpeter_pl|프랑스 경기병 제복
+itm_french_sapper|프랑스 공병 제복
+itm_french_sapper_pl|프랑스 공병 제복
+itm_french_grap_body_drummer|프랑스 드럼 연주병 제복
+itm_french_grap_body_drummer_pl|프랑스 드럼 연주병 제복
+itm_french_grap_body_flautist|프랑스 파이퍼 제복
+itm_french_grap_body_flautist_pl|프랑스 파이퍼 제복
+itm_french_voltigeur_body_hornist|프랑스 경보병 제복
+itm_french_voltigeur_body_hornist_pl|프랑스 경보병 제복
+itm_french_45e_body_drummer|프랑스 드럼 연주병 제복
+itm_french_45e_body_drummer_pl|프랑스 드럼 연주병 제복
+itm_french_45e_body_flautist|프랑스 파이퍼 제복
+itm_french_45e_body_flautist_pl|프랑스 파이퍼 제복
+itm_french_84e_body_drummer|프랑스 드럼 연주병 제복
+itm_french_84e_body_drummer_pl|프랑스 드럼 연주병 제복
+itm_french_84e_body_flautist|프랑스 파이퍼 제복
+itm_french_84e_body_flautist_pl|프랑스 파이퍼 제복
+itm_fr_carabineer_trumpeter|프랑스 나팔수 제복
+itm_fr_carabineer_trumpeter_pl|프랑스 나팔수 제복
+itm_fr_cuirassier_body_trumpeter|프랑스 나팔수 제복
+itm_fr_cuirassier_body_trumpeter_pl|프랑스 나팔수 제복
+itm_french_dragoon_body_trumpeter|프랑스 나팔수 제복
+itm_french_dragoon_body_trumpeter_pl|프랑스 나팔수 제복
+itm_french_lancer_trumpeter_body|프랑스 나팔수 제복
+itm_french_lancer_trumpeter_body_pl|프랑스 나팔수 제복
+itm_french_vistula_body_drummer|비스툴라 군단 제복
+itm_french_vistula_body_drummer_pl|비스툴라 군단 제복
+itm_french_vistula_body_flautist|비스툴라 군단 제복
+itm_french_vistula_body_flautist_pl|비스툴라 군단 제복
+itm_french_dragoon_body_sargent|프랑스 용기병 제복
+itm_french_dragoon_body_sargent_pl|프랑스 용기병 제복
+itm_french_arty_train|프랑스 포차견인대 마부 제복
+itm_french_arty_train_pl|프랑스 포차견인대 마부 제복
+itm_french_grenadier_a_cheval_body_trumpeter|프랑스 나팔수 제복
+itm_french_grenadier_a_cheval_body_trumpeter_pl|프랑스 나팔수 제복
+itm_french_captain|프랑스 장교
+itm_french_captain_pl|프랑스 장교
+itm_french_equipage_batallion|프랑스 해병대
+itm_french_equipage_batallion_pl|프랑스 해병대
+itm_french_surgeon|군의관 복장
+itm_french_surgeon_pl|군의관 복장
+itm_british_infantry_ranker|영국 보병 제복
+itm_british_infantry_ranker_pl|영국 보병 제복
+itm_british_infantry_sarge|영국 보병 제복
+itm_british_infantry_sarge_pl|영국 보병 제복
+itm_british_infantry_officer|영국 보병 제복
+itm_british_infantry_officer_pl|영국 보병 제복
+itm_british_infantry_drum|영국 보병 제복
+itm_british_infantry_drum_pl|영국 보병 제복
+itm_british_infantry_flute|영국 보병 제복
+itm_british_infantry_flute_pl|영국 보병 제복
+itm_british_kgl_ranker|왕립 독일인 군단 보병 제복
+itm_british_kgl_ranker_pl|왕립 독일인 군단 보병 제복
+itm_british_kgl_sarge|왕립 독일인 군단 보병 제복
+itm_british_kgl_sarge_pl|왕립 독일인 군단 보병 제복
+itm_british_kgl_officer|왕립 독일인 군단 제복
+itm_british_kgl_officer_pl|왕립 독일인 군단 제복
+itm_british_kgl_drum|왕립 독일인 군단 제복
+itm_british_kgl_drum_pl|왕립 독일인 군단 제복
+itm_british_kgl_flute|왕립 독일인 군단 제복
+itm_british_kgl_flute_pl|왕립 독일인 군단 제복
+itm_british_highland_ranker|영국 스코틀랜드 보병 제복
+itm_british_highland_ranker_pl|영국 스코틀랜드 보병 제복
+itm_british_highland_sarge|영국 스코틀랜드 보병 제복
+itm_british_highland_sarge_pl|영국 스코틀랜드 보병 제복
+itm_british_highland_officer|영국 스코틀랜드 보병 제복
+itm_british_highland_officer_pl|영국 스코틀랜드 보병 제복
+itm_british_highland_drummer|영국 스코틀랜드 보병 제복
+itm_british_highland_drummer_pl|영국 스코틀랜드 보병 제복
+itm_british_highland_piper|영국 스코틀랜드 보병 제복
+itm_british_highland_piper_pl|영국 스코틀랜드 보병 제복
+itm_british_highland_piper_2|영국 스코틀랜드 보병 제복
+itm_british_highland_piper_2_pl|영국 스코틀랜드 보병 제복
+itm_british_guard_ranker|영국 근위대 제복
+itm_british_guard_ranker_pl|영국 근위대 제복
+itm_british_guard_sarge|영국 근위대 제복
+itm_british_guard_sarge_pl|영국 근위대 제복
+itm_british_guard_officer|영국 근위대 제복
+itm_british_guard_officer_pl|영국 근위대 제복
+itm_british_guard_drum|영국 근위대 제복
+itm_british_guard_drum_pl|영국 근위대 제복
+itm_british_guard_flute|영국 근위대 제복
+itm_british_guard_flute_pl|영국 근위대 제복
+itm_british_light_ranker|영국 경보병 제복
+itm_british_light_ranker_pl|영국 경보병 제복
+itm_british_light_sarge|영국 경보병 제복
+itm_british_light_sarge_pl|영국 경보병 제복
+itm_british_light_officer|영국 경보병 제복
+itm_british_light_officer_pl|영국 경보병 제복
+itm_british_light_bugler|영국 경보병 제복
+itm_british_light_bugler_pl|영국 경보병 제복
+itm_british_rifle_ranker|영국 소총병 제복
+itm_british_rifle_ranker_pl|영국 소총병 제복
+itm_british_rifle_sarge|영국 소총병 제복
+itm_british_rifle_sarge_pl|영국 소총병 제복
+itm_british_rifle_captain|영국 소총병 제복
+itm_british_rifle_captain_pl|영국 소총병 제복
+itm_british_rifle_bugler|영국 소총병 제복
+itm_british_rifle_bugler_pl|영국 소총병 제복
+itm_british_artillery_ranker|영국 포병 제복
+itm_british_artillery_ranker_pl|영국 포병 제복
+itm_british_artillery_officer|영국 포병 제복
+itm_british_artillery_officer_pl|영국 포병 제복
+itm_british_artillery_train|영국 포병 제복
+itm_british_artillery_train_pl|영국 포병 제복
+itm_british_light_dragoon|영국 경용기병 제복
+itm_british_light_dragoon_pl|영국 경용기병 제복
+itm_british_light_dragoon_officer|영국 경용기병 제복
+itm_british_light_dragoon_officer_pl|영국 경용기병 제복
+itm_british_inniskilling_ranker|영국 용기병 제복
+itm_british_inniskilling_ranker_pl|영국 용기병 제복
+itm_british_inniskilling_officer|영국 용기병 제복
+itm_british_inniskilling_officer_pl|영국 용기병 제복
+itm_british_blue_ranker|영국 기마 근위대 제복
+itm_british_blue_ranker_pl|영국 기마 근위대 제복
+itm_british_blue_officer|영국 기마 근위대 제복
+itm_british_blue_officer_pl|영국 기마 근위대 제복
+itm_british_kgl_hussar_ranker|영국 기마 근위대 제복
+itm_british_kgl_hussar_ranker_pl|영국 기마 근위대 제복
+itm_british_kgl_hussar_officer|영국 기마 근위대 제복
+itm_british_kgl_hussar_officer_pl|영국 기마 근위대 제복
+itm_british_kgl_hussar_trumpeter|영국 기마 근위대 제복
+itm_british_kgl_hussar_trumpeter_pl|영국 기마 근위대 제복
+itm_british_wellington|영국 웰링턴 제복
+itm_british_wellington_pl|영국 웰링턴 제복
+itm_british_rocketeer|영국 로켓 사수 제복
+itm_british_rocketeer_pl|영국 로켓 사수 제복
+itm_british_sapper|영국 공병 제복
+itm_british_sapper_pl|영국 공병 제복
+itm_british_captain|영국 장교 제복
+itm_british_captain_pl|영국 장교 제복
+itm_british_royal_marine|영국 해병대 제복
+itm_british_royal_marine_pl|영국 해병대 제복
+itm_naked_female_body|나체 여성 몸
+itm_naked_female_body_pl|나체 여성 몸
+itm_naked_male_body|나체 남성 몸
+itm_naked_male_body_pl|나체 남성 몸
+itm_british_surgeon|군의관 복장
+itm_british_surgeon_pl|군의관 복장
+itm_prussian_infantry_ranker|프로이센 보병 제복
+itm_prussian_infantry_ranker_pl|프로이센 보병 제복
+itm_prussian_infantry_nco|프로이센 보병 제복
+itm_prussian_infantry_nco_pl|프로이센 보병 제복
+itm_prussian_infantry_officer|프로이센 보병 제복
+itm_prussian_infantry_officer_pl|프로이센 보병 제복
+itm_prussian_infantry_drum|프로이센 보병 제복
+itm_prussian_infantry_drum_pl|프로이센 보병 제복
+itm_prussian_infantry_flute|프로이센 보병 제복
+itm_prussian_infantry_flute_pl|프로이센 보병 제복
+itm_prussian_dragoon_ranker|프로이센 용기병 제복
+itm_prussian_dragoon_ranker_pl|프로이센 용기병 제복
+itm_prussian_dragoon_nco|프로이센 용기병 제복
+itm_prussian_dragoon_nco_pl|프로이센 용기병 제복
+itm_prussian_dragoon_officer|프로이센 용기병 제복
+itm_prussian_dragoon_officer_pl|프로이센 용기병 제복
+itm_prussian_dragoon_trumpet|프로이센 용기병 제복
+itm_prussian_dragoon_trumpet_pl|프로이센 용기병 제복
+itm_prussian_jaeger_ranker|프로이센 엽병 제복
+itm_prussian_jaeger_ranker_pl|프로이센 엽병 제복
+itm_prussian_jaeger_ranker_alt|프로이센 엽병 제복
+itm_prussian_jaeger_ranker_alt_pl|프로이센 엽병 제복
+itm_prussian_jaeger_nco|프로이센 엽병 제복
+itm_prussian_jaeger_nco_pl|프로이센 엽병 제복
+itm_prussian_jaeger_officer|프로이센 엽병 제복
+itm_prussian_jaeger_officer_pl|프로이센 엽병 제복
+itm_prussian_jaeger_hornist|프로이센 엽병 제복
+itm_prussian_jaeger_hornist_pl|프로이센 엽병 제복
+itm_prussian_guard_ranker|프로이센 근위보병 제복
+itm_prussian_guard_ranker_pl|프로이센 근위보병 제복
+itm_prussian_guard_nco|프로이센 근위보병 제복
+itm_prussian_guard_nco_pl|프로이센 근위보병 제복
+itm_prussian_guard_officer|프로이센 근위보병 제복
+itm_prussian_guard_officer_pl|프로이센 근위보병 제복
+itm_prussian_guard_drummer|프로이센 근위보병 제복
+itm_prussian_guard_drummer_pl|프로이센 근위보병 제복
+itm_prussian_guard_flute|프로이센 근위보병 제복
+itm_prussian_guard_flute_pl|프로이센 근위보병 제복
+itm_prussian_arty_ranker|프로이센 포병 제복
+itm_prussian_arty_ranker_pl|프로이센 포병 제복
+itm_prussian_arty_train|프로이센 포병 제복
+itm_prussian_arty_train_pl|프로이센 포병 제복
+itm_prussian_arty_officer|프로이센 포병 제복
+itm_prussian_arty_officer_pl|프로이센 포병 제복
+itm_prussian_hussar_ranker|프로이센 경기병 제복
+itm_prussian_hussar_ranker_pl|프로이센 경기병 제복
+itm_prussian_hussar_nco|프로이센 경기병 제복
+itm_prussian_hussar_nco_pl|프로이센 경기병 제복
+itm_prussian_hussar_officer|프로이센 경기병 제복
+itm_prussian_hussar_officer_pl|프로이센 경기병 제복
+itm_prussian_hussar_officer_variant|프로이센 경기병 제복
+itm_prussian_hussar_officer_variant_pl|프로이센 경기병 제복
+itm_prussian_hussar_trumpet|프로이센 경기병 제복
+itm_prussian_hussar_trumpet_pl|프로이센 경기병 제복
+itm_prussian_infantry2_ranker|프로이센 보병 제복
+itm_prussian_infantry2_ranker_pl|프로이센 보병 제복
+itm_prussian_infantry2_nco|프로이센 보병 제복
+itm_prussian_infantry2_nco_pl|프로이센 보병 제복
+itm_prussian_infantry2_officer|프로이센 보병 제복
+itm_prussian_infantry2_officer_pl|프로이센 보병 제복
+itm_prussian_infantry2_drum|프로이센 보병 제복
+itm_prussian_infantry2_drum_pl|프로이센 보병 제복
+itm_prussian_infantry2_flute|프로이센 보병 제복
+itm_prussian_infantry2_flute_pl|프로이센 보병 제복
+itm_prussian_landwehr_ranker|프로이센 란트베어 제복
+itm_prussian_landwehr_ranker_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_ranker_alt|프로이센 란트베어 제복
+itm_prussian_landwehr_ranker_alt_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_nco|프로이센 란트베어 제복
+itm_prussian_landwehr_nco_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_officer|프로이센 란트베어 제복
+itm_prussian_landwehr_officer_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_drum|프로이센 란트베어 제복
+itm_prussian_landwehr_drum_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_flute|프로이센 란트베어 제복
+itm_prussian_landwehr_flute_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_cav_ranker|프로이센 란트베어 제복
+itm_prussian_landwehr_cav_ranker_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_cav_nco|프로이센 란트베어 제복
+itm_prussian_landwehr_cav_nco_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_cav_officer|프로이센 란트베어 제복
+itm_prussian_landwehr_cav_officer_pl|프로이센 란트베어 제복
+itm_prussian_landwehr_cav_trumpet|프로이센 란트베어 제복
+itm_prussian_landwehr_cav_trumpet_pl|프로이센 란트베어 제복
+itm_prussian_blucher|블뤼허 군복
+itm_prussian_blucher_pl|블뤼허 군복
+itm_prussian_cuirassier_ranker|프로이센 흉갑기병 제복프로이센 흉갑기병 제복
+itm_prussian_cuirassier_ranker_pl|프로이센 흉갑기병 제복
+itm_prussian_cuirassier_nco|프로이센 흉갑기병 제복
+itm_prussian_cuirassier_nco_pl|프로이센 흉갑기병 제복
+itm_prussian_cuirassier_officer|프로이센 흉갑기병 제복
+itm_prussian_cuirassier_officer_pl|프로이센 흉갑기병 제복
+itm_prussian_cuirassier_trumpet|프로이센 흉갑기병 제복
+itm_prussian_cuirassier_trumpet_pl|프로이센 흉갑기병 제복
+itm_prussian_freikorps_ranker|프로이센 자유군단 제복
+itm_prussian_freikorps_ranker_pl|프로이센 자유군단 제복
+itm_prussian_freikorps_nco|프로이센 자유군단 제복
+itm_prussian_freikorps_nco_pl|프로이센 자유군단 제복
+itm_prussian_freikorps_officer|프로이센 자유군단 제복
+itm_prussian_freikorps_officer_pl|프로이센 자유군단 제복
+itm_prussian_freikorps_drum|프로이센 자유군단 제복
+itm_prussian_freikorps_drum_pl|프로이센 자유군단 제복
+itm_prussian_freikorps_flute|프로이센 자유군단 제복
+itm_prussian_freikorps_flute_pl|프로이센 자유군단 제복
+itm_prussian_pioneer|프로이센 공병 제복
+itm_prussian_pioneer_pl|프로이센 공병 제복
+itm_prussian_surgeon|군의관 복장
+itm_prussian_surgeon_pl|군의관 복장
+itm_russian_infantry1|러시아 보병 제복
+itm_russian_infantry1_pl|러시아 보병 제복
+itm_russian_infantry_nco|러시아 보병 제복
+itm_russian_infantry_nco_pl|러시아 보병 제복
+itm_russian_infantry_officer|러시아 보병 제복
+itm_russian_infantry_officer_pl|러시아 보병 제복
+itm_russian_drummer|러시아 보병 제복
+itm_russian_drummer_pl|러시아 보병 제복
+itm_russian_flautist|러시아 보병 제복
+itm_russian_flautist_pl|러시아 보병 제복
+itm_russian_hussar_officer|러시아 경기병 제복
+itm_russian_hussar_officer_pl|러시아 경기병 제복
+itm_russian_hussar_nco|러시아 경기병 제복
+itm_russian_hussar_nco_pl|러시아 경기병 제복
+itm_russian_hussar_ranker|러시아 경기병 제복
+itm_russian_hussar_ranker_pl|러시아 경기병 제복
+itm_russian_hussar_trumpeter|러시아 경기병 제복
+itm_russian_hussar_trumpeter_pl|러시아 경기병 제복
+itm_russian_horse_guard|러시아 근위기병 제복
+itm_russian_horse_guard_pl|러시아 근위기병 제복
+itm_russian_horse_guard_nco|러시아 근위기병 제복
+itm_russian_horse_guard_nco_pl|러시아 근위기병 제복
+itm_russian_horse_guard_officer|러시아 근위기병 제복
+itm_russian_horse_guard_officer_pl|러시아 근위기병 제복
+itm_russian_horse_guard_trumpeter|러시아 근위기병 제복
+itm_russian_horse_guard_trumpeter_pl|러시아 근위기병 제복
+itm_russian_cossack_officer|러시아 코사크 제복
+itm_russian_cossack_officer_pl|러시아 코사크 제복
+itm_russian_cossack|러시아 코사크 제복
+itm_russian_cossack_pl|러시아 코사크 제복
+itm_kutuzov|쿠투조프 제복
+itm_kutuzov_pl|쿠투조프 제복
+itm_russian_militia_officer|러시아 민병대 장교 제복
+itm_russian_militia_officer_pl|러시아 민병대 장교 제복
+itm_russian_militia_ranker|러시아 민병대 제복
+itm_russian_militia_ranker_pl|러시아 민병대 제복
+itm_russian_guard_officer|러시아 근위보병 제복
+itm_russian_guard_officer_pl|러시아 근위보병 제복
+itm_russian_guard_nco|러시아 근위보병 제복
+itm_russian_guard_nco_pl|러시아 근위보병 제복
+itm_russian_guard_ranker|러시아 근위보병 제복
+itm_russian_guard_ranker_pl|러시아 근위보병 제복
+itm_russian_guard_drummer|러시아 근위보병 제복
+itm_russian_guard_drummer_pl|러시아 근위보병 제복
+itm_russian_guard_flautist|러시아 근위보병 제복
+itm_russian_guard_flautist_pl|러시아 근위보병 제복
+itm_russian_jaeger_officer|러시아 엽병 제복
+itm_russian_jaeger_officer_pl|러시아 엽병 제복
+itm_russian_jaeger_nco|러시아 엽병 제복
+itm_russian_jaeger_nco_pl|러시아 엽병 제복
+itm_russian_jaeger_ranker|러시아 엽병 제복
+itm_russian_jaeger_ranker_pl|러시아 엽병 제복
+itm_russian_jaeger_musician|러시아 엽병 제복
+itm_russian_jaeger_musician_pl|러시아 엽병 제복
+itm_russian_gren_officer|러시아 보병 제복
+itm_russian_gren_officer_pl|러시아 보병 제복
+itm_russian_gren_nco|러시아 보병 제복
+itm_russian_gren_nco_pl|러시아 보병 제복
+itm_russian_gren_ranker|러시아 보병 제복
+itm_russian_gren_ranker_pl|러시아 보병 제복
+itm_russian_arty_officer|러시아 포병 제복
+itm_russian_arty_officer_pl|러시아 포병 제복
+itm_russian_arty_nco|러시아 포병 제복
+itm_russian_arty_nco_pl|러시아 포병 제복
+itm_russian_arty_ranker|러시아 포병 제복
+itm_russian_arty_ranker_pl|러시아 포병 제복
+itm_russian_dragoon_officer|프로이센 용기병 제복
+itm_russian_dragoon_officer_pl|프로이센 용기병 제복
+itm_russian_dragoon_nco|러시아 용기병 제복
+itm_russian_dragoon_nco_pl|러시아 용기병 제복
+itm_russian_dragoon_ranker|러시아 용기병 제복
+itm_russian_dragoon_ranker_pl|러시아 용기병 제복
+itm_russian_dragoon_trumpeter|러시아 용기병 제복
+itm_russian_dragoon_trumpeter_pl|러시아 용기병 제복
+itm_rus_partizan1|러시아 외투
+itm_rus_partizan1_pl|러시아 외투
+itm_rus_partizan2|러시아 외투
+itm_rus_partizan2_pl|러시아 외투
+itm_russian_uhlan_officer|러시아 창기병 제복
+itm_russian_uhlan_officer_pl|러시아 창기병 제복
+itm_russian_uhlan_nco|러시아 창기병 제복
+itm_russian_uhlan_nco_pl|러시아 창기병 제복
+itm_russian_uhlan_ranker|러시아 창기병 제복
+itm_russian_uhlan_ranker_pl|러시아 창기병 제복
+itm_russian_uhlan_trumpeter|러시아 창기병 제복
+itm_russian_uhlan_trumpeter_pl|러시아 창기병 제복
+itm_rus_pioneer|러시아 공병 제복
+itm_rus_pioneer_pl|러시아 공병 제복
+itm_russian_surgeon|군의관 복장
+itm_russian_surgeon_pl|군의관 복장
+itm_austrian_infantry|오스트리아 보병 제복
+itm_austrian_infantry_pl|오스트리아 보병 제복
+itm_austrian_infantry_nco|오스트리아 보병 제복
+itm_austrian_infantry_nco_pl|오스트리아 보병 제복
+itm_austrian_infantry_officer|오스트리아 보병 제복
+itm_austrian_infantry_officer_pl|오스트리아 보병 제복
+itm_austrian_infantry_drummer|오스트리아 보병 제복
+itm_austrian_infantry_drummer_pl|오스트리아 보병 제복
+itm_austrian_infantry_fifer|오스트리아 보병 제복
+itm_austrian_infantry_fifer_pl|오스트리아 보병 제복
+itm_austrian_infantry2|헝가리 보병 제복
+itm_austrian_infantry2_pl|헝가리 보병 제복
+itm_austrian_infantry2_nco|헝가리 보병 제복
+itm_austrian_infantry2_nco_pl|헝가리 보병 제복
+itm_austrian_infantry2_officer|헝가리 보병 제복
+itm_austrian_infantry2_officer_pl|헝가리 보병 제복
+itm_austrian_infantry2_drummer|헝가리 보병 제복
+itm_austrian_infantry2_drummer_pl|헝가리 보병 제복
+itm_austrian_infantry2_fifer|헝가리 보병 제복
+itm_austrian_infantry2_fifer_pl|헝가리 보병 제복
+itm_austrian_grenadier|오스트리아 척탄병 제복
+itm_austrian_grenadier_pl|오스트리아 척탄병 제복
+itm_austrian_grenadier_alt|오스트리아 척탄병 제복
+itm_austrian_grenadier_alt_pl|오스트리아 척탄병 제복
+itm_austrian_grenadier_nco|오스트리아 척탄병 제복
+itm_austrian_grenadier_nco_pl|오스트리아 척탄병 제복
+itm_austrian_grenadier_officer|오스트리아 척탄병 제복
+itm_austrian_grenadier_officer_pl|오스트리아 척탄병 제복
+itm_austrian_grenadier_drummer|오스트리아 척탄병 제복
+itm_austrian_grenadier_drummer_pl|오스트리아 척탄병 제복
+itm_austrian_grenadier_fifer|오스트리아 척탄병 제복
+itm_austrian_grenadier_fifer_pl|오스트리아 척탄병 제복
+itm_austrian_grenzer|오스트리아 그렌저 제복
+itm_austrian_grenzer_pl|오스트리아 그렌저 제복
+itm_austrian_grenzer_nco|오스트리아 그렌저 제복
+itm_austrian_grenzer_nco_pl|오스트리아 그렌저 제복
+itm_austrian_grenzer_officer|오스트리아 그렌저 제복
+itm_austrian_grenzer_officer_pl|오스트리아 그렌저 제복
+itm_austrian_grenzer_drummer|오스트리아 그렌저 제복
+itm_austrian_grenzer_drummer_pl|오스트리아 그렌저 제복
+itm_austrian_grenzer_fifer|오스트리아 그렌저 제복
+itm_austrian_grenzer_fifer_pl|오스트리아 그렌저 제복
+itm_austrian_jaeger|오스트리아 엽병 제복
+itm_austrian_jaeger_pl|오스트리아 엽병 제복
+itm_austrian_jaeger_nco|오스트리아 엽병 제복
+itm_austrian_jaeger_nco_pl|오스트리아 엽병 제복
+itm_austrian_jaeger_officer|오스트리아 엽병 제복
+itm_austrian_jaeger_officer_pl|오스트리아 엽병 제복
+itm_austrian_jaeger_hornist|오스트리아 엽병 제복
+itm_austrian_jaeger_hornist_pl|오스트리아 엽병 제복
+itm_austrian_lightcav|오스트리아 근위경기병 제복
+itm_austrian_lightcav_pl|오스트리아 근위경기병 제복
+itm_austrian_lightcav_nco|오스트리아 근위경기병 제복
+itm_austrian_lightcav_nco_pl|오스트리아 근위경기병 제복
+itm_austrian_lightcav_trumpet|오스트리아 근위경기병 제복
+itm_austrian_lightcav_trumpet_pl|오스트리아 근위경기병 제복
+itm_austrian_lightcav_officer|오스트리아 근위경기병 제복
+itm_austrian_lightcav_officer_pl|오스트리아 근위경기병 제복
+itm_austrian_dragoon|오스트리아 용기병 제복
+itm_austrian_dragoon_pl|오스트리아 용기병 제복
+itm_austrian_dragoon_nco|오스트리아 용기병 제복
+itm_austrian_dragoon_nco_pl|오스트리아 용기병 제복
+itm_austrian_dragoon_trumpet|오스트리아 용기병 제복
+itm_austrian_dragoon_trumpet_pl|오스트리아 용기병 제복
+itm_austrian_dragoon_officer|오스트리아 용기병 제복
+itm_austrian_dragoon_officer_pl|오스트리아 용기병 제복
+itm_austrian_uhlan|오스트리아 창기병 제복
+itm_austrian_uhlan_pl|오스트리아 창기병 제복
+itm_austrian_uhlan_nco|오스트리아 창기병 제복
+itm_austrian_uhlan_nco_pl|오스트리아 창기병 제복
+itm_austrian_uhlan_trumpet|오스트리아 창기병 제복
+itm_austrian_uhlan_trumpet_pl|오스트리아 창기병 제복
+itm_austrian_uhlan_officer|오스트리아 창기병 제복
+itm_austrian_uhlan_officer_pl|오스트리아 창기병 제복
+itm_austrian_arty|오스트리아 포병 제복
+itm_austrian_arty_pl|오스트리아 포병 제복
+itm_austrian_arty_train|오스트리아 포병 제복
+itm_austrian_arty_train_pl|오스트리아 포병 제복
+itm_austrian_arty_officer|오스트리아 포병 제복
+itm_austrian_arty_officer_pl|오스트리아 포병 제복
+itm_austrian_pioneer|오스트리아 공병 제복
+itm_austrian_pioneer_pl|오스트리아 공병 제복
+itm_austrian_hussar|오스트리아 경기병 제복
+itm_austrian_hussar_pl|오스트리아 경기병 제복
+itm_austrian_hussar_nco|오스트리아 경기병 제복
+itm_austrian_hussar_nco_pl|오스트리아 경기병 제복
+itm_austrian_hussar_trumpet|오스트리아 경기병 제복
+itm_austrian_hussar_trumpet_pl|오스트리아 경기병 제복
+itm_austrian_hussar_officer|오스트리아 경기병 제복
+itm_austrian_hussar_officer_pl|오스트리아 경기병 제복
+itm_austrian_cuiraisser|오스트리아 흉갑기병 제복
+itm_austrian_cuiraisser_pl|오스트리아 흉갑기병 제복
+itm_austrian_cuiraisser_nco|오스트리아 흉갑기병 제복
+itm_austrian_cuiraisser_nco_pl|오스트리아 흉갑기병 제복
+itm_austrian_cuiraisser_trumpet|오스트리아 흉갑기병 제복
+itm_austrian_cuiraisser_trumpet_pl|오스트리아 흉갑기병 제복
+itm_austrian_cuiraisser_officer|오스트리아 흉갑기병 제복
+itm_austrian_cuiraisser_officer_pl|오스트리아 흉갑기병 제복
+itm_austrian_schwarzenberg|슈바르첸베르크 제복
+itm_austrian_schwarzenberg_pl|슈바르첸베르크 제복
+itm_austrian_surgeon|군의관 복장
+itm_austrian_surgeon_pl|군의관 복장
+itm_bavarian_inf_ranker|바이에른 군복
+itm_bavarian_inf_ranker_pl|바이에른 군복
+itm_bavarian_inf_flagcarrier|바이에른 군복
+itm_bavarian_inf_flagcarrier_pl|바이에른 군복
+itm_bavarian_inf_officer|바이에른 군복
+itm_bavarian_inf_officer_pl|바이에른 군복
+itm_bavarian_inf_drummer|바이에른 군복
+itm_bavarian_inf_drummer_pl|바이에른 군복
+itm_bavarian_inf_flutist|바이에른 군복
+itm_bavarian_inf_flutist_pl|바이에른 군복
+itm_bavarian_jaeger_ranker|바이에른 군복
+itm_bavarian_jaeger_ranker_pl|바이에른 군복
+itm_bavarian_jaeger_nco|바이에른 군복
+itm_bavarian_jaeger_nco_pl|바이에른 군복
+itm_bavarian_jaeger_officer|바이에른 군복
+itm_bavarian_jaeger_officer_pl|바이에른 군복
+itm_bavarian_jaeger_hornist|바이에른 군복
+itm_bavarian_jaeger_hornist_pl|바이에른 군복
+itm_bavarian_artillery_ranker|바이에른 군복
+itm_bavarian_artillery_ranker_pl|바이에른 군복
+itm_bavarian_artillery_train|바이에른 군복
+itm_bavarian_artillery_train_pl|바이에른 군복
+itm_bavarian_artillery_officer|바이에른 군복
+itm_bavarian_artillery_officer_pl|바이에른 군복
+itm_saxon_inf_ranker|작센 제복
+itm_saxon_inf_ranker_pl|작센 제복
+itm_saxon_inf_nco|작센 제복
+itm_saxon_inf_nco_pl|작센 제복
+itm_saxon_inf_officer|작센 제복
+itm_saxon_inf_officer_pl|작센 제복
+itm_saxon_inf_drummer|작센 제복
+itm_saxon_inf_drummer_pl|작센 제복
+itm_saxon_inf_fifer|작센 제복
+itm_saxon_inf_fifer_pl|작센 제복
+itm_saxon_uhlan_ranker|작센 제복
+itm_saxon_uhlan_ranker_pl|작센 제복
+itm_saxon_uhlan_ranker_alt|작센 제복
+itm_saxon_uhlan_ranker_alt_pl|작센 제복
+itm_saxon_uhlan_nco|작센 제복
+itm_saxon_uhlan_nco_pl|작센 제복
+itm_saxon_uhlan_officer|작센 제복
+itm_saxon_uhlan_officer_pl|작센 제복
+itm_saxon_uhlan_trumpet|작센 제복
+itm_saxon_uhlan_trumpet_pl|작센 제복
+itm_hessian_inf_ranker|헤시안 보병 제복
+itm_hessian_inf_ranker_pl|헤시안 보병 제복
+itm_hessian_inf_nco|헤시안 보병 제복
+itm_hessian_inf_nco_pl|헤시안 보병 제복
+itm_hessian_inf_officer|헤시안 보병 제복
+itm_hessian_inf_officer_pl|헤시안 보병 제복
+itm_rhine_surgeon|군의관 복장
+itm_rhine_surgeon_pl|군의관 복장
+itm_westphalian_guard_ranker|베스트팔렌 제복
+itm_westphalian_guard_ranker_pl|베스트팔렌 제복
+itm_westphalian_guard_nco|베스트팔렌 제복
+itm_westphalian_guard_nco_pl|베스트팔렌 제복
+itm_westphalian_guard_officer|베스트팔렌 제복
+itm_westphalian_guard_officer_pl|베스트팔렌 제복
+itm_westphalian_guard_drummer|베스트팔렌 제복
+itm_westphalian_guard_drummer_pl|베스트팔렌 제복
+itm_westphalian_guard_fifer|베스트팔렌 제복
+itm_westphalian_guard_fifer_pl|베스트팔렌 제복
+itm_saxon_king|작센 왕가 제복
+itm_saxon_king_pl|작센 왕가 제복
+itm_nassau_jaeger_ranker|나소 엽병 제복
+itm_nassau_jaeger_ranker_pl|나소 엽병 제복
+itm_nassau_jaeger_nco|나소 엽병 제복
+itm_nassau_jaeger_nco_pl|나소 엽병 제복
+itm_nassau_jaeger_officer|나소 엽병 제복
+itm_nassau_jaeger_officer_pl|나소 엽병 제복
+itm_nassau_jaeger_trumpet|나소 엽병 제복
+itm_nassau_jaeger_trumpet_pl|나소 엽병 제복
+itm_wurttemberg_inf_ranker|뷔르템베르크 제복
+itm_wurttemberg_inf_ranker_pl|뷔르템베르크 제복
+itm_wurttemberg_inf_flagcarrier|뷔르템베르크 제복
+itm_wurttemberg_inf_flagcarrier_pl|뷔르템베르크 제복
+itm_wurttemberg_inf_officer|뷔르템베르크 제복
+itm_wurttemberg_inf_officer_pl|뷔르템베르크 제복
+itm_wurttemberg_inf_drummer|뷔르템베르크 제복
+itm_wurttemberg_inf_drummer_pl|뷔르템베르크 제복
+itm_wurttemberg_inf_flutist|뷔르템베르크 제복
+itm_wurttemberg_inf_flutist_pl|뷔르템베르크 제복
+itm_wurttemberg2_inf_ranker|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_ranker_pl|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_flagcarrier|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_flagcarrier_pl|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_officer|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_officer_pl|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_drummer|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_drummer_pl|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_flutist|뷔르템베르크 제복 2
+itm_wurttemberg2_inf_flutist_pl|뷔르템베르크 제복 2
+itm_berg_pioneer|공병 군복
+itm_berg_pioneer_pl|공병 군복
+itm_saxon_garde_ranker|작센 흉갑기병 제복
+itm_saxon_garde_ranker_pl|작센 흉갑기병 제복
+itm_saxon_garde_colours|작센 흉갑기병 제복
+itm_saxon_garde_colours_pl|작센 흉갑기병 제복
+itm_saxon_garde_officer|작센 흉갑기병 제복
+itm_saxon_garde_officer_pl|작센 흉갑기병 제복
+itm_saxon_garde_body_trumpeter|작센 나팔수 제복
+itm_saxon_garde_body_trumpeter_pl|작센 나팔수 제복
+itm_westphalian_cuirassier_ranker|베스트팔렌 흉갑기병 제복
+itm_westphalian_cuirassier_ranker_pl|베스트팔렌 흉갑기병 제복
+itm_westphalian_cuirassier_colours|베스트팔렌 흉갑기병 제복
+itm_westphalian_cuirassier_colours_pl|베스트팔렌 흉갑기병 제복
+itm_westphalian_cuirassier_officer|베스트팔렌 흉갑기병 제복
+itm_westphalian_cuirassier_officer_pl|베스트팔렌 흉갑기병 제복
+itm_westphalian_cuirassier_body_trumpeter|베스트팔렌 나팔수 제복
+itm_westphalian_cuirassier_body_trumpeter_pl|베스트팔렌 나팔수 제복
+itm_baden_dragoon_ranker|오스트리아 근위경기병 제복
+itm_baden_dragoon_ranker_pl|오스트리아 근위경기병 제복
+itm_baden_dragoon_nco|오스트리아 근위경기병 제복
+itm_baden_dragoon_nco_pl|오스트리아 근위경기병 제복
+itm_baden_dragoon_trumpet|오스트리아 근위경기병 제복
+itm_baden_dragoon_trumpet_pl|오스트리아 근위경기병 제복
+itm_baden_dragoon_officer|오스트리아 근위경기병 제복
+itm_baden_dragoon_officer_pl|오스트리아 근위경기병 제복
+itm_rus_pavlovsk_ranker|파블롭스키 척탄병모
+itm_rus_pavlovsk_ranker_pl|파블롭스키 척탄병모
+itm_rus_kyiv_dragoons_all|러시아 코사크 헬멧
+itm_rus_kyiv_dragoons_all_pl|러시아 코사크 헬멧
+itm_rus_kyiv_dragoons_trumpeter|러시아 용기병 나팔수 헬멧
+itm_rus_kyiv_dragoons_trumpeter_pl|러시아 용기병 나팔수 헬멧
+itm_rus_drummer_shako|러시아 보병 샤코
+itm_rus_drummer_shako_pl|러시아 보병 샤코
+itm_rus_chevalier_hat|러시아 근위기병 헬멧
+itm_rus_chevalier_hat_pl|러시아 근위기병 헬멧
+itm_rus_chevalier_hat_officer|러시아 근위기병 헬멧
+itm_rus_chevalier_hat_officer_pl|러시아 근위기병 헬멧
+itm_rus_chevalier_hat_trumpeter|러시아 근위기병 헬멧
+itm_rus_chevalier_hat_trumpeter_pl|러시아 근위기병 헬멧
+itm_rus_arty_shako_officer|러시아 포병 샤코
+itm_rus_arty_shako_officer_pl|러시아 포병 샤코
+itm_rus_arty_shako_nco|러시아 포병 샤코
+itm_rus_arty_shako_nco_pl|러시아 포병 샤코
+itm_rus_arty_shako_ranker|러시아 포병 샤코
+itm_rus_arty_shako_ranker_pl|러시아 포병 샤코
+itm_rus_cossack_hat_officer|코사크 모자
+itm_rus_cossack_hat_officer_pl|코사크 모자
+itm_rus_cossack_hat_nco|코사크 모자
+itm_rus_cossack_hat_nco_pl|코사크 모자
+itm_rus_cossack_hat_ranker|코사크 모자
+itm_rus_cossack_hat_ranker_pl|코사크 모자
+itm_rus_hussar_shako_officer|러시아 경기병 샤코
+itm_rus_hussar_shako_officer_pl|러시아 경기병 샤코
+itm_rus_hussar_shako_nco|러시아 경기병 샤코
+itm_rus_hussar_shako_nco_pl|러시아 경기병 샤코
+itm_rus_hussar_shako_ranker|러시아 경기병 샤코
+itm_rus_hussar_shako_ranker_pl|러시아 경기병 샤코
+itm_rus_hussar_shako_trumpeter|러시아 경기병 샤코
+itm_rus_hussar_shako_trumpeter_pl|러시아 경기병 샤코
+itm_rus_jaeger_shako_nco|러시아 엽병 샤코
+itm_rus_jaeger_shako_nco_pl|러시아 엽병 샤코
+itm_rus_jaeger_shako_ranker|러시아 엽병 샤코
+itm_rus_jaeger_shako_ranker_pl|러시아 엽병 샤코
+itm_kutuzov_hat|쿠투조프 모자
+itm_kutuzov_hat_pl|쿠투조프 모자
+itm_rus_guard_shako_officer|러시아 근위보병 샤코
+itm_rus_guard_shako_officer_pl|러시아 근위보병 샤코
+itm_rus_guard_shako_nco|러시아 근위보병 샤코
+itm_rus_guard_shako_nco_pl|러시아 근위보병 샤코
+itm_rus_guard_shako_ranker|러시아 근위보병 샤코
+itm_rus_guard_shako_ranker_pl|러시아 근위보병 샤코
+itm_rus_guard_shako_musician|러시아 근위보병 샤코러시아 근위보병 샤코
+itm_rus_guard_shako_musician_pl|러시아 근위보병 샤코
+itm_rus_infantry_officer_shako|러시아 보병 샤코
+itm_rus_infantry_officer_shako_pl|러시아 보병 샤코
+itm_rus_infantry_shako_nco|러시아 보병 샤코
+itm_rus_infantry_shako_nco_pl|러시아 보병 샤코
+itm_rus_pioneer_shako|러시아 공병 샤코
+itm_rus_pioneer_shako_pl|러시아 공병 샤코
+itm_rus_partisan_hat1|농민 모자
+itm_rus_partisan_hat1_pl|농민 모자
+itm_rus_partisan_hat2|농민 모자
+itm_rus_partisan_hat2_pl|농민 모자
+itm_rus_partisan_hat3|농민 모자
+itm_rus_partisan_hat3_pl|농민 모자
+itm_rus_partisan_hat4|농민 모자
+itm_rus_partisan_hat4_pl|농민 모자
+itm_rus_partisan_hat5|농민 모자
+itm_rus_partisan_hat5_pl|농민 모자
+itm_rus_uhlan_czapka_officer|러시아 창기병 차프카
+itm_rus_uhlan_czapka_officer_pl|러시아 창기병 차프카
+itm_rus_uhlan_czapka_nco|러시아 창기병 차프카
+itm_rus_uhlan_czapka_nco_pl|러시아 창기병 차프카
+itm_rus_uhlan_czapka_ranker|러시아 창기병 차프카
+itm_rus_uhlan_czapka_ranker_pl|러시아 창기병 차프카
+itm_rus_uhlan_czapka_trumpeter|러시아 창기병 차프카
+itm_rus_uhlan_czapka_trumpeter_pl|러시아 창기병 차프카
+itm_french_dragoon_helmet|용기병 헬멧
+itm_french_dragoon_helmet_pl|용기병 헬멧
+itm_french_dragoon_helmet_officer|용기병 헬멧
+itm_french_dragoon_helmet_officer_pl|용기병 헬멧
+itm_french_dragoon_helmet_trumpeter|용기병 헬멧
+itm_french_dragoon_helmet_trumpeter_pl|용기병 헬멧
+itm_french_cuirassier_helmet|흉갑기병 헬멧
+itm_french_cuirassier_helmet_pl|흉갑기병 헬멧
+itm_french_cuirassier_helmet_officer|흉갑기병 헬멧
+itm_french_cuirassier_helmet_officer_pl|흉갑기병 헬멧
+itm_french_cuirassier_helmet_trumpeter|흉갑기병 헬멧
+itm_french_cuirassier_helmet_trumpeter_pl|흉갑기병 헬멧
+itm_french_carabineer_helmet|캐러비니어 헬멧
+itm_french_carabineer_helmet_pl|캐러비니어 헬멧
+itm_french_carabineer_helmet_officer|캐러비니어 헬멧
+itm_french_carabineer_helmet_officer_pl|캐러비니어 헬멧
+itm_french_carabineer_helmet_trumpeter|캐러비니어 헬멧
+itm_french_carabineer_helmet_trumpeter_pl|캐러비니어 헬멧
+itm_french_hussar_shako_colours|프랑스 경기병 샤코
+itm_french_hussar_shako_colours_pl|프랑스 경기병 샤코
+itm_french_hussar_shako_ranker|프랑스 경기병 샤코
+itm_french_hussar_shako_ranker_pl|프랑스 경기병 샤코
+itm_french_hussar_shako_trumpeter|프랑스 경기병 샤코
+itm_french_hussar_shako_trumpeter_pl|프랑스 경기병 샤코
+itm_french_inf_shako_45_ranker|보병 샤코
+itm_french_inf_shako_45_ranker_pl|보병 샤코
+itm_french_vistula_shako_colours|보병 샤코
+itm_french_vistula_shako_colours_pl|보병 샤코
+itm_french_vistula_shako_ranker|보병 샤코
+itm_french_vistula_shako_ranker_pl|보병 샤코
+itm_french_vistula_shako_officer|보병 샤코
+itm_french_vistula_shako_officer_pl|보병 샤코
+itm_french_inf_shako_84_colours|보병 샤코
+itm_french_inf_shako_84_colours_pl|보병 샤코
+itm_french_inf_shako_84_ranker|보병 샤코
+itm_french_inf_shako_84_ranker_pl|보병 샤코
+itm_french_inf_shako_84_officer|보병 샤코
+itm_french_inf_shako_84_officer_pl|보병 샤코
+itm_french_voltigeur_shako_officer|프랑스 경보병 샤코
+itm_french_voltigeur_shako_officer_pl|프랑스 경보병 샤코
+itm_french_voltigeur_shako_ranker|프랑스 경보병 샤코
+itm_french_voltigeur_shako_ranker_pl|경보병 샤코
+itm_french_ldlg_czapka_officer|근위창기병 차프카
+itm_french_ldlg_czapka_officer_pl|근위창기병 차프카
+itm_french_ldlg_czapka_ranker|근위창기병 차프카
+itm_french_ldlg_czapka_ranker_pl|근위창기병 차프카
+itm_french_ldlg_czapka_trumpeter|근위창기병 차프카
+itm_french_ldlg_czapka_trumpeter_pl|근위창기병 차프카
+itm_french_artillery_bearskin_officer|포병 곰털모
+itm_french_artillery_bearskin_officer_pl|포병 곰털모
+itm_french_artillery_bearskin_ranker|포병 곰털모
+itm_french_artillery_bearskin_ranker_pl|포병 곰털모
+itm_french_gap_bearskin_officer|근위척탄병 곰털모
+itm_french_gap_bearskin_officer_pl|근위척탄병 곰털모
+itm_french_gap_bearskin_colours|근위척탄병 곰털모
+itm_french_gap_bearskin_colours_pl|근위척탄병 곰털모
+itm_french_gap_bearskin_ranker|근위척탄병 곰털모
+itm_french_gap_bearskin_ranker_pl|근위척탄병 곰털모
+itm_french_sapper_bearskin|공병 곰털모
+itm_french_sapper_bearskin_pl|공병 곰털모
+itm_french_inf_bicorne_45_officer|프랑스 보병 이각모
+itm_french_inf_bicorne_45_officer_pl|프랑스 보병 이각모
+itm_french_hussar_bearskin_officer|프랑스 경기병 곰털모
+itm_french_hussar_bearskin_officer_pl|프랑스 경기병 곰털모
+itm_french_artillery_train_shako|포병 마부 샤코
+itm_french_artillery_train_shako_pl|포병 마부 샤코
+itm_french_nappy_hat|나폴레옹 이각모
+itm_french_nappy_hat_pl|나폴레옹 이각모
+itm_grach_bearskin_ranker|기마척탄병연대 곰털모
+itm_grach_bearskin_ranker_pl|기마척탄병연대 곰털모
+itm_grach_bearskin_officer|기마척탄병연대 곰털모
+itm_grach_bearskin_officer_pl|기마척탄병연대 곰털모
+itm_grach_bearskin_trumpeter|기마척탄병연대 곰털모
+itm_grach_bearskin_trumpeter_pl|기마척탄병연대 곰털모
+itm_french_captain_hat|프랑스 장교 모자
+itm_french_captain_hat_pl|프랑스 장교 모자
+itm_french_marine_hat|프랑스 해병대 모자
+itm_french_marine_hat_pl|프랑스 해병대 모자
+itm_french_seaman_hat|프랑스 선원 모자
+itm_french_seaman_hat_pl|프랑스 선원 모자
+itm_french_seaman_hat_2|프랑스 선원 모자 2
+itm_french_seaman_hat_2_pl|프랑스 선원 모자 2
+itm_aus_arty_bicorn|포병 이각모
+itm_aus_arty_bicorn_pl|포병 이각모
+itm_aus_arty_cap_bicorn|포병 이각모
+itm_aus_arty_cap_bicorn_pl|포병 이각모
+itm_aus_arty_train_hat|포병 마부 모자
+itm_aus_arty_train_hat_pl|포병 마부 모자
+itm_aus_cavalry_helmet_officer|기병 헬멧
+itm_aus_cavalry_helmet_officer_pl|기병 헬멧
+itm_aus_cavalry_helmet_ranker|기병 헬멧
+itm_aus_cavalry_helmet_ranker_pl|기병 헬멧
+itm_aus_cavalry_helmet_trumpeter|기병 헬멧
+itm_aus_cavalry_helmet_trumpeter_pl|기병 헬멧
+itm_aus_uhlan_czapka|창기병 차프카
+itm_aus_uhlan_czapka_pl|창기병 차프카
+itm_aus_uhlan_czapka_officer|창기병 차프카
+itm_aus_uhlan_czapka_officer_pl|창기병 차프카
+itm_aus_uhlan_czapka_trumpeter|창기병 차프카
+itm_aus_uhlan_czapka_trumpeter_pl|창기병 차프카
+itm_aus_shwarzenberg_bicorn|슈바르첸베르크 이각모
+itm_aus_shwarzenberg_bicorn_pl|슈바르첸베르크 이각모
+itm_aus_grenadier_bearskin|척탄병 곰털모
+itm_aus_grenadier_bearskin_pl|척탄병 곰털모
+itm_aus_tyrol_hat|티롤 모자
+itm_aus_tyrol_hat_pl|티롤 모자
+itm_aus_tyrol_hat_officer|티롤 모자
+itm_aus_tyrol_hat_officer_pl|티롤 모자
+itm_aus_pioneer_hat|공병 모자
+itm_aus_pioneer_hat_pl|공병 모자
+itm_aus_grenadier_bearskin_officer|척탄병 곰털모
+itm_aus_grenadier_bearskin_officer_pl|척탄병 곰털모
+itm_aus_grenzer_officer|그렌저 샤코
+itm_aus_grenzer_officer_pl|그렌저 샤코
+itm_aus_grenzer_ranker|그렌저 샤코
+itm_aus_grenzer_ranker_pl|그렌저 샤코
+itm_aus_infantry_nco|보병 샤코
+itm_aus_infantry_nco_pl|보병 샤코
+itm_aus_infantry_officer|보병 샤코
+itm_aus_infantry_officer_pl|보병 샤코
+itm_aus_infantry_ranker|보병 샤코
+itm_aus_infantry_ranker_pl|보병 샤코
+itm_aus_hussard_shako_nco|오스트리아 경기병 샤코
+itm_aus_hussard_shako_nco_pl|오스트리아 경기병 샤코
+itm_aus_hussard_shako_officer|오스트리아 경기병 샤코
+itm_aus_hussard_shako_officer_pl|오스트리아 경기병 샤코
+itm_aus_hussard_shako_ranker|오스트리아 경기병 샤코
+itm_aus_hussard_shako_ranker_pl|오스트리아 경기병 샤코
+itm_aus_hussard_shako_trumpeter|오스트리아 경기병 샤코
+itm_aus_hussard_shako_trumpeter_pl|오스트리아 경기병 샤코
+itm_aus_surgeon_hat|군의관 모자
+itm_aus_surgeon_hat_pl|군의관 모자
+itm_british_artillery_shako_officer|포병 샤코
+itm_british_artillery_shako_officer_pl|포병 샤코
+itm_british_artillery_shako_ranker|포병 샤코
+itm_british_artillery_shako_ranker_pl|포병 샤코
+itm_british_rocket_tarleton|포병 탈턴모
+itm_british_rocket_tarleton_pl|포병 탈턴모
+itm_british_kgl_shako_officer|왕립 독일인 군단 샤코
+itm_british_kgl_shako_officer_pl|왕립 독일인 군단 샤코
+itm_british_kgl_shako_ranker|왕립 독일인 군단 샤코
+itm_british_kgl_shako_ranker_pl|왕립 독일인 군단 샤코
+itm_british_light_shako_ranker|경보병 샤코
+itm_british_light_shako_ranker_pl|경보병 샤코
+itm_british_light_shako_officer|경보병 샤코
+itm_british_light_shako_officer_pl|경보병 샤코
+itm_british_rifle_shako_officer|소총병 샤코
+itm_british_rifle_shako_officer_pl|소총병 샤코
+itm_british_rifle_shako_ranker|소총병 샤코
+itm_british_rifle_shako_ranker_pl|소총병 샤코
+itm_british_rifle_beret|소총병 베레모
+itm_british_rifle_beret_pl|소총병 베레모
+itm_british_rifle_beret_2|소총병 베레모
+itm_british_rifle_beret_2_pl|소총병 베레모
+itm_british_highland_bonnet_ranker|스코틀랜드 모자
+itm_british_highland_bonnet_ranker_pl|스코틀랜드 모자
+itm_british_highland_bonnet_ensign|스코틀랜드 모자
+itm_british_highland_bonnet_ensign_pl|스코틀랜드 모자
+itm_british_highland_bonnet_officer|스코틀랜드 모자
+itm_british_highland_bonnet_officer_pl|스코틀랜드 모자
+itm_british_highland_bonnet_drummer|스코틀랜드 모자
+itm_british_highland_bonnet_drummer_pl|스코틀랜드 모자
+itm_british_guard_shako_officer|영국 근위대 샤코
+itm_british_guard_shako_officer_pl|영국 근위대 샤코
+itm_british_guard_shako_ranker|영국 근위대 샤코
+itm_british_guard_shako_ranker_pl|영국 근위대 샤코
+itm_33_stovepipe|보병 샤코
+itm_33_stovepipe_pl|보병 샤코
+itm_british_lightdragoon_shako_ranker|경용기병 샤코
+itm_british_lightdragoon_shako_ranker_pl|경용기병 샤코
+itm_british_lightdragoon_shako_officer|경용기병 샤코
+itm_british_lightdragoon_shako_officer_pl|경용기병 샤코
+itm_british_lightdragoon_shako_trumpeter|경용기병 샤코
+itm_british_lightdragoon_shako_trumpeter_pl|경용기병 샤코
+itm_british_iniskilling_helmet_ranker|용기병 헬멧
+itm_british_iniskilling_helmet_ranker_pl|용기병 헬멧
+itm_british_iniskilling_helmet_officer|용기병 헬멧
+itm_british_iniskilling_helmet_officer_pl|용기병 헬멧
+itm_british_iniskilling_helmet_trumpeter|용기병 헬멧
+itm_british_iniskilling_helmet_trumpeter_pl|용기병 헬멧
+itm_british_lifeguard_helmet_ranker|영국 근위기병대 헬멧
+itm_british_lifeguard_helmet_ranker_pl|영국 근위기병대 헬멧
+itm_british_lifeguard_helmet_officer|영국 근위기병대 헬멧
+itm_british_lifeguard_helmet_officer_pl|영국 근위기병대 헬멧
+itm_british_lifeguard_helmet_trumpeter|영국 근위기병대 헬멧
+itm_british_lifeguard_helmet_trumpeter_pl|영국 근위기병대 헬멧
+itm_british_kgl_hussar_bearskin|왕립 독일인 군단 경기병 헬멧
+itm_british_kgl_hussar_bearskin_pl|왕립 독일인 군단 경기병 헬멧
+itm_british_kgl_hussar_officer_bearskin|왕립 독일인 군단 경기병 헬멧
+itm_british_kgl_hussar_officer_bearskin_pl|왕립 독일인 군단 경기병 헬멧
+itm_british_kgl_hussar_bearskin_trumpeter|왕립 독일인 군단 경기병 헬멧
+itm_british_kgl_hussar_bearskin_trumpeter_pl|왕립 독일인 군단 경기병 헬멧
+itm_british_wellington_bicorne|웰링턴 이각모
+itm_british_wellington_bicorne_pl|웰링턴 이각모
+itm_british_captain_hat|영국 장교 모자
+itm_british_captain_hat_pl|영국 장교 모자
+itm_british_seaman_hat|영국 선원 모자
+itm_british_seaman_hat_pl|영국 선원 모자
+itm_british_seaman_hat_2|영국 선원 모자 2
+itm_british_seaman_hat_2_pl|영국 선원 모자 2
+itm_royal_marine_beret|해병대 베레모
+itm_royal_marine_beret_pl|해병대 베레모
+itm_royal_marine_hat|영국 해병대 모자
+itm_royal_marine_hat_pl|영국 해병대 모자
+itm_british_surgeon_bicorne|군의관 이각모
+itm_british_surgeon_bicorne_pl|군의관 이각모
+itm_prussian_landwehr_hat|란트베어 모자
+itm_prussian_landwehr_hat_pl|란트베어 모자
+itm_prussian_landwehr_hat_2|란트베어 모자
+itm_prussian_landwehr_hat_2_pl|란트베어 모자
+itm_prussian_landwehr_hat_3|란트베어 모자
+itm_prussian_landwehr_hat_3_pl|란트베어 모자
+itm_prussian_shako|샤코
+itm_prussian_shako_pl|샤코
+itm_prussian_shako_2|샤코
+itm_prussian_shako_2_pl|샤코
+itm_prussian_infantry_hat_officer|장교 모자
+itm_prussian_infantry_hat_officer_pl|장교 모자
+itm_prussian_hussar_shako|프로이센 경기병 샤코
+itm_prussian_hussar_shako_pl|프로이센 경기병 샤코
+itm_prussian_hussar_officer_shako|프로이센 경기병 샤코
+itm_prussian_hussar_officer_shako_pl|프로이센 경기병 샤코
+itm_prussian_blucher_hat|블뤼허 모자
+itm_prussian_blucher_hat_pl|블뤼허 모자
+itm_prussian_arty_shako_officer|포병 샤코
+itm_prussian_arty_shako_officer_pl|포병 샤코
+itm_prussian_arty_shako_ranker|포병 샤코
+itm_prussian_arty_shako_ranker_pl|포병 샤코
+itm_prussian_dragoon_shako_officer|용기병 샤코
+itm_prussian_dragoon_shako_officer_pl|용기병 샤코
+itm_prussian_dragoon_shako_ranker|용기병 샤코
+itm_prussian_dragoon_shako_ranker_pl|용기병 샤코
+itm_prussian_guard_musician_shako|프로이센 근위대 샤코
+itm_prussian_guard_musician_shako_pl|프로이센 근위대 샤코
+itm_prussian_guard_colours_shako|프로이센 근위대 샤코
+itm_prussian_guard_colours_shako_pl|프로이센 근위대 샤코
+itm_prussian_guard_officer_shako|프로이센 근위대 샤코
+itm_prussian_guard_officer_shako_pl|프로이센 근위대 샤코
+itm_prussian_guard_ranker_shako|프로이센 근위대 샤코
+itm_prussian_guard_ranker_shako_pl|프로이센 근위대 샤코
+itm_prussian_inf_off_shako|보병 샤코
+itm_prussian_inf_off_shako_pl|보병 샤코
+itm_prussian_jaeger_officer_shako|엽병 샤코
+itm_prussian_jaeger_officer_shako_pl|엽병 샤코
+itm_prussian_landwehr_cav_shako|란트베어 샤코
+itm_prussian_landwehr_cav_shako_pl|란트베어 샤코
+itm_prussian_landwehr_cav_shako_officer|란트베어 샤코
+itm_prussian_landwehr_cav_shako_officer_pl|란트베어 샤코
+itm_prussian_pioneer_shako|공병 샤코
+itm_prussian_pioneer_shako_pl|공병 샤코
+itm_prussian_shako_colours|보병 샤코
+itm_prussian_shako_colours_pl|보병 샤코
+itm_prussian_shako_colours_2|보병 샤코
+itm_prussian_shako_colours_2_pl|보병 샤코
+itm_prussian_cuirassier_helmet|흉갑기병 헬멧
+itm_prussian_cuirassier_helmet_pl|흉갑기병 헬멧
+itm_prussian_cuirassier_helmet_trumpet|흉갑기병 헬멧
+itm_prussian_cuirassier_helmet_trumpet_pl|흉갑기병 헬멧
+itm_prussian_freikorps_officer_hat|자유군단 모자
+itm_prussian_freikorps_officer_hat_pl|자유군단 모자
+itm_prussian_infantry2_hat|프로이센 보병 모자
+itm_prussian_infantry2_hat_pl|프로이센 보병 모자
+itm_rus_opol_hat_ranker|오폴체니예 모자
+itm_rus_opol_hat_ranker_pl|오폴체니예 모자
+itm_rus_opol_hat_officer|오폴체니예 모자
+itm_rus_opol_hat_officer_pl|오폴체니예 모자
+itm_bavarian_helmet_other_ranks|바이에른 보병 헬멧
+itm_bavarian_helmet_other_ranks_pl|바이에른 보병 헬멧
+itm_bavarian_helmet_flagcarrier|바이에른 보병 헬멧
+itm_bavarian_helmet_flagcarrier_pl|바이에른 보병 헬멧
+itm_bavarian_helmet_officer|바이에른 보병 헬멧
+itm_bavarian_helmet_officer_pl|바이에른 보병 헬멧
+itm_bavarian_jaeger_helmet_other_ranks|엽병 헬멧
+itm_bavarian_jaeger_helmet_other_ranks_pl|엽병 헬멧
+itm_bavarian_jaeger_helmet_officer|엽병 헬멧
+itm_bavarian_jaeger_helmet_officer_pl|엽병 헬멧
+itm_bavarian_helmet_artillery|포병 헬멧
+itm_bavarian_helmet_artillery_pl|포병 헬멧
+itm_bavarian_helmet_train|포병 헬멧
+itm_bavarian_helmet_train_pl|포병 헬멧
+itm_bavarian_helmet_artillery_officer|포병 헬멧
+itm_bavarian_helmet_artillery_officer_pl|포병 헬멧
+itm_saxon_inf_shako_ranker|보병 샤코
+itm_saxon_inf_shako_ranker_pl|보병 샤코
+itm_saxon_inf_shako_nco|보병 샤코
+itm_saxon_inf_shako_nco_pl|보병 샤코
+itm_saxon_inf_shako_officer|보병 샤코
+itm_saxon_inf_shako_officer_pl|보병 샤코
+itm_saxon_uhlan_shako_ranker|기병 샤코
+itm_saxon_uhlan_shako_ranker_pl|기병 샤코
+itm_saxon_uhlan_shako_ranker_alt|기병 샤코
+itm_saxon_uhlan_shako_ranker_alt_pl|기병 샤코
+itm_saxon_uhlan_shako_nco|기병 샤코
+itm_saxon_uhlan_shako_nco_pl|기병 샤코
+itm_saxon_uhlan_shako_officer|기병 샤코
+itm_saxon_uhlan_shako_officer_pl|기병 샤코
+itm_saxon_uhlan_shako_trumpeter|기병 샤코
+itm_saxon_uhlan_shako_trumpeter_pl|기병 샤코
+itm_hessian_inf_shako_ranker|보병 샤코
+itm_hessian_inf_shako_ranker_pl|보병 샤코
+itm_hessian_inf_shako_nco|보병 샤코
+itm_hessian_inf_shako_nco_pl|보병 샤코
+itm_hessian_inf_bicorne_officer|헤센 보병 이각모
+itm_hessian_inf_bicorne_officer_pl|헤센 보병 이각모
+itm_rhine_surgeon_hat|군의관 모자
+itm_rhine_surgeon_hat_pl|군의관 모자
+itm_westphalian_hat_ranker|곰털모
+itm_westphalian_hat_ranker_pl|곰털모
+itm_westphalian_hat_officer|곰털모
+itm_westphalian_hat_officer_pl|곰털모
+itm_saxonyking_hat|프레드리히 어거스트 모자
+itm_saxonyking_hat_pl|프레드리히 어거스트 모자
+itm_nassau_jaeger_hat_ranker|곰털모
+itm_nassau_jaeger_hat_ranker_pl|곰털모
+itm_nassau_jaeger_hat_officer|곰털모
+itm_nassau_jaeger_hat_officer_pl|곰털모
+itm_wurttemberg_helmet_other_ranks|뷔르템베르크 보병 헬멧
+itm_wurttemberg_helmet_other_ranks_pl|뷔르템베르크 보병 헬멧
+itm_wurttemberg_helmet_flagcarrier|뷔르템베르크 기수 헬멧
+itm_wurttemberg_helmet_flagcarrier_pl|뷔르템베르크 기수 헬멧
+itm_wurttemberg_helmet_officer|뷔르템베르크 장교 헬멧
+itm_wurttemberg_helmet_officer_pl|뷔르템베르크 장교 헬멧
+itm_wurttemberg2_helmet_other_ranks|뷔르템베르크 보병 헬멧
+itm_wurttemberg2_helmet_other_ranks_pl|뷔르템베르크 보병 헬멧
+itm_wurttemberg2_helmet_flagcarrier|뷔르템베르크 기수 헬멧
+itm_wurttemberg2_helmet_flagcarrier_pl|뷔르템베르크 기수 헬멧
+itm_wurttemberg2_helmet_officer|뷔르템베르크 장교 헬멧
+itm_wurttemberg2_helmet_officer_pl|뷔르템베르크 장교 헬멧
+itm_berg_pioneer_bearskin|곰털모
+itm_berg_pioneer_bearskin_pl|곰털모
+itm_saxon_helmet_other_ranks|작센 사병 헬멧
+itm_saxon_helmet_other_ranks_pl|작센 사병 헬멧
+itm_saxon_helmet_flagcarrier|작센 기수 헬멧
+itm_saxon_helmet_flagcarrier_pl|작센 기수 헬멧
+itm_saxon_helmet_officer|작센 장교 헬멧
+itm_saxon_helmet_officer_pl|작센 장교 헬멧
+itm_saxon_helmet_trumpeter|작센 장교 헬멧
+itm_saxon_helmet_trumpeter_pl|작센 장교 헬멧
+itm_westphalian_helmet_other_ranks|베스트팔렌 사병 헬멧
+itm_westphalian_helmet_other_ranks_pl|베스트팔렌 사병 헬멧
+itm_westphalian_helmet_flagcarrier|베스트팔렌 기수 헬멧
+itm_westphalian_helmet_flagcarrier_pl|베스트팔렌 기수 헬멧
+itm_westphalian_helmet_officer|베스트팔렌 장교 헬멧
+itm_westphalian_helmet_officer_pl|베스트팔렌 장교 헬멧
+itm_westphalian_helmet_trumpeter|베스트팔렌 장교 헬멧
+itm_westphalian_helmet_trumpeter_pl|베스트팔렌 장교 헬멧
+itm_badner_helmet_flagcarrier|바덴 용기병 헬멧
+itm_badner_helmet_flagcarrier_pl|바덴 용기병 헬멧
+itm_badner_helmet_officer|바덴 용기병 헬멧
+itm_badner_helmet_officer_pl|바덴 용기병 헬멧
+itm_badner_helmet_ranker|바덴 용기병 헬멧
+itm_badner_helmet_ranker_pl|바덴 용기병 헬멧
+itm_badner_helmet_trumpeter|바덴 용기병 헬멧
+itm_badner_helmet_trumpeter_pl|바덴 용기병 헬멧
+itm_pirate_hat|해적 모자
+itm_pirate_hat_pl|해적 모자
+itm_french_voltigeur_pants|프랑스 경보병 바지
+itm_french_voltigeur_pants_pl|프랑스 경보병 바지
+itm_french_voltigeur_officer_pants|보병 바지
+itm_french_voltigeur_officer_pants_pl|보병 바지
+itm_french_dragoon_pants|승마 부츠
+itm_french_dragoon_pants_pl|승마 부츠
+itm_french_general_boots|장성 부츠
+itm_french_general_boots_pl|장성 부츠
+itm_french_grenadiers_a_cheval_pants|승마 부츠
+itm_french_grenadiers_a_cheval_pants_pl|승마 부츠
+itm_french_vistula_pants|헤시안 부츠
+itm_french_vistula_pants_pl|헤시안 부츠
+itm_french_lancer_pants|기병 바지
+itm_french_lancer_pants_pl|기병 바지
+itm_french_lancer_officer_pants|기병 바지
+itm_french_lancer_officer_pants_pl|기병 바지
+itm_french_hussards_ranker_pants|기병 바지
+itm_french_hussards_ranker_pants_pl|기병 바지
+itm_french_hussards_officer_pants|기병 바지
+itm_french_hussards_officer_pants_pl|기병 바지
+itm_french_hussards_trumpeter_pants|기병 바지
+itm_french_hussards_trumpeter_pants_pl|기병 바지
+itm_french_sappeur_pants|헤시안 부츠
+itm_french_sappeur_pants_pl|헤시안 부츠
+itm_french_art_ranker_pants|포병 각반
+itm_french_art_ranker_pants_pl|포병 각반
+itm_french_grap_pants|척탄병 각반
+itm_french_grap_pants_pl|척탄병 각반
+itm_fr_arty_captain_bottefortes|포병 부츠
+itm_fr_arty_captain_bottefortes_pl|포병 부츠
+itm_fr_arty_train_bottefortes|포병 부츠
+itm_fr_arty_train_bottefortes_pl|포병 부츠
+itm_fr_officer_bottefortes|장교 부츠
+itm_fr_officer_bottefortes_pl|장교 부츠
+itm_french_captain_pants|장교 부츠
+itm_french_captain_pants_pl|장교 부츠
+itm_french_basic_infantry_pants|프랑스 보병 바지
+itm_french_basic_infantry_pants_pl|프랑스 보병 부츠
+itm_french_captain_pants_blue|장교 부츠
+itm_french_captain_pants_blue_pl|장교 부츠
+itm_french_equipage_batallion_pants|프랑스 해병대 바지
+itm_french_equipage_batallion_pants_pl|프랑스 해병대 바지
+itm_french_sailor_pants|프랑스 선원 바지
+itm_french_sailor_pants_pl|프랑스 선원 바지
+itm_french_sailor_pants_female|프랑스 선원 바지
+itm_french_sailor_pants_female_pl|프랑스 선원 바지
+itm_french_surgeon_pants|군의관 바지
+itm_french_surgeon_pants_pl|군의관 바지
+itm_rus_infantry_pants1|러시아 보병 각반
+itm_rus_infantry_pants1_pl|러시아 보병 각반
+itm_rus_infantry_pants2|러시아 보병 바지
+itm_rus_infantry_pants2_pl|러시아 보병 바지
+itm_rus_hussar_pants1|기병 각반
+itm_rus_hussar_pants1_pl|기병 각반
+itm_rus_hussar_pants2|기병 각반
+itm_rus_hussar_pants2_pl|기병 각반
+itm_rus_hussar_pants_nco|러시아 경기병 바지
+itm_rus_hussar_pants_nco_pl|러시아 경기병 바지
+itm_rus_hussar_pants_officer|러시아 경기병 바지
+itm_rus_hussar_pants_officer_pl|러시아 경기병 바지
+itm_rus_horse_guard_pants|승마 부츠
+itm_rus_horse_guard_pants_pl|승마 부츠
+itm_rus_cossack_off_pants|코사크 바지
+itm_rus_cossack_off_pants_pl|코사크 바지
+itm_rus_kutuzov_pants|장성 부츠
+itm_rus_kutuzov_pants_pl|장성 부츠
+itm_rus_militia_off_pants|민병대 부츠
+itm_rus_militia_off_pants_pl|민병대 부츠
+itm_rus_militia_ranker_pants|민병대 부츠
+itm_rus_militia_ranker_pants_pl|민병대 부츠
+itm_rus_militia_ranker_pants1|민병대 부츠
+itm_rus_militia_ranker_pants1_pl|민병대 부츠
+itm_rus_jaeger_pants|엽병 부츠
+itm_rus_jaeger_pants_pl|엽병 부츠
+itm_rus_arty_pants|포병 부츠
+itm_rus_arty_pants_pl|포병 부츠
+itm_rus_dragoon_pants1|기병 각반
+itm_rus_dragoon_pants1_pl|기병 각반
+itm_rus_dragoon_pants2|기병 각반
+itm_rus_dragoon_pants2_pl|기병 각반
+itm_rus_uhlan_pants|기병 바지
+itm_rus_uhlan_pants_pl|기병 바지
+itm_austrian_infantry_pants|오스트리아 보병 바지
+itm_austrian_infantry_pants_pl|오스트리아 보병 바지
+itm_hungarian_pants|보병 샤코
+itm_hungarian_pants_pl|보병 샤코
+itm_hungarian_pants_officer|헝가리 보병 바지
+itm_hungarian_pants_officer_pl|헝가리 보병 바지
+itm_austrian_jaeger_pants|엽병 부츠
+itm_austrian_jaeger_pants_pl|엽병 부츠
+itm_austrian_jaeger_pants_officer|엽병 부츠
+itm_austrian_jaeger_pants_officer_pl|엽병 부츠
+itm_hungarian_hussar_pants|헝가리 경기병 바지
+itm_hungarian_hussar_pants_pl|헝가리 경기병 바지
+itm_hungarian_uhlan_pants|헝가리 창기병 바지
+itm_hungarian_uhlan_pants_pl|헝가리 창기병 바지
+itm_austrian_schwarzenberg_pants|슈바르첸베르크 바지
+itm_austrian_schwarzenberg_pants_pl|슈바르첸베르크 바지
+itm_austrian_officer_boots|오스트리아 보병 부츠
+itm_austrian_officer_boots_pl|오스트리아 보병 부츠
+itm_austrian_cavalry_boots|승마 부츠
+itm_austrian_cavalry_boots_pl|승마 부츠
+itm_british_highland_kilt|킬트
+itm_british_highland_kilt_pl|킬트
+itm_british_highland_kilt_2|킬트
+itm_british_highland_kilt_2_pl|킬트
+itm_british_highland_kilt_officer|킬트
+itm_british_highland_kilt_officer_pl|킬트
+itm_british_rifle_captain_pants|소총병 각반
+itm_british_rifle_captain_pants_pl|소총병 각반
+itm_british_rifle_pants_green|소총병 부츠
+itm_british_rifle_pants_green_pl|소총병 부츠
+itm_british_rifle_pants_grey|소총병 부츠
+itm_british_rifle_pants_grey_pl|소총병 부츠
+itm_british_rifle_pants_rolled|소총병 부츠
+itm_british_rifle_pants_rolled_pl|소총병 부츠
+itm_british_coldstream_pants|보병 바지
+itm_british_coldstream_pants_pl|보병 바지
+itm_british_sapper_pants|공병 바지
+itm_british_sapper_pants_pl|공병 바지
+itm_british_wellington_pants|웰링턴 바지
+itm_british_wellington_pants_pl|웰링턴 바지
+itm_british_light_dragoon_pants|경용기병 바지
+itm_british_light_dragoon_pants_pl|경용기병 바지
+itm_british_rocketeer_pants|기병 바지
+itm_british_rocketeer_pants_pl|기병 바지
+itm_british_cav_pants|기병 바지
+itm_british_cav_pants_pl|기병 바지
+itm_british_kgl_hussar_pants|기병 바지
+itm_british_kgl_hussar_pants_pl|기병 바지
+itm_british_kgl_hussar_officer_pants|기병 바지
+itm_british_kgl_hussar_officer_pants_pl|기병 바지
+itm_british_captain_legs|영국 장교 바지
+itm_british_captain_legs_pl|영국 장교 바지
+itm_sailor_pants|선원 바지
+itm_sailor_pants_pl|선원 바지
+itm_sailor_pants_female|여성 선원 바지
+itm_sailor_pants_female_pl|남성 선원 바지
+itm_prussian_infantry_pants|프로이센 보병 바지
+itm_prussian_infantry_pants_pl|프로이센 보병 바지
+itm_prussian_jaeger_pants|프로이센 엽병 바지
+itm_prussian_jaeger_pants_pl|프로이센 엽병 바지
+itm_prussian_landwehr_pants|란트베어 바지
+itm_prussian_landwehr_pants_pl|란트베어 바지
+itm_prussian_landwehr_pants2|란트베어 바지
+itm_prussian_landwehr_pants2_pl|란트베어 바지
+itm_prussian_blucher_pants|블뤼허 바지
+itm_prussian_blucher_pants_pl|블뤼허 바지
+itm_prussian_cavalry_pants|기병 바지
+itm_prussian_cavalry_pants_pl|기병 바지
+itm_prussian_cavalry_pants2|기병 바지
+itm_prussian_cavalry_pants2_pl|기병 바지
+itm_prussian_hussar_pants|승마 부츠
+itm_prussian_hussar_pants_pl|승마 부츠
+itm_prussian_hussar_pants_officer|경기병 바지
+itm_prussian_hussar_pants_officer_pl|경기병 바지
+itm_prussian_freikorps_pants|자유군단 바지
+itm_prussian_freikorps_pants_pl|자유군단 바지
+itm_bavarian_infantry_pants|바이에른 보병 바지
+itm_bavarian_infantry_pants_pl|바이에른 보병 바지
+itm_bavarian_pants_officer|바이에른 보병 바지
+itm_bavarian_pants_officer_pl|바이에른 보병 바지
+itm_bavarian_artillery_pants|포병 바지
+itm_bavarian_artillery_pants_pl|포병 바지
+itm_bavarian_artillery_pants_officer|포병 부츠
+itm_bavarian_artillery_pants_officer_pl|포병 부츠
+itm_saxon_uhlan_pants|승마 부츠
+itm_saxon_uhlan_pants_pl|승마 부츠
+itm_saxon_uhlan_pants_alt|승마 부츠
+itm_saxon_uhlan_pants_alt_pl|승마 부츠
+itm_saxon_uhlan_pants_officer|승마 부츠
+itm_saxon_uhlan_pants_officer_pl|승마 부츠
+itm_hessian_infantry_pants|헤센 보병 바지
+itm_hessian_infantry_pants_pl|헤센 보병 바지
+itm_hessian_infantry_pants_officer|헤센 보병 바지
+itm_hessian_infantry_pants_officer_pl|헤센 보병 바지
+itm_nassau_jaeger_pants|승마 부츠
+itm_nassau_jaeger_pants_pl|승마 부츠
+itm_nassau_jaeger_pants_officer|승마 부츠
+itm_nassau_jaeger_pants_officer_pl|승마 부츠
+itm_wurttemberg_pants_all_ranks|뷔르템베르크 보병 바지
+itm_wurttemberg_pants_all_ranks_pl|뷔르템베르크 보병 바지
+itm_wurttemberg_pants_officer|뷔르템베르크 보병 바지
+itm_wurttemberg_pants_officer_pl|뷔르템베르크 보병 바지
+itm_wurttemberg_grenadier_pants|뷔르템베르크 척탄병 바지
+itm_wurttemberg_grenadier_pants_pl|뷔르템베르크 척탄병 바지
+itm_berg_pioneer_pants|보병 부츠
+itm_berg_pioneer_pants_pl|보병 부츠
+itm_garde_du_corps_pants_ranker|승마 부츠
+itm_garde_du_corps_pants_ranker_pl|승마 부츠
+itm_garde_du_corps_pants|승마 부츠
+itm_garde_du_corps_pants_pl|승마 부츠
+itm_baden_dragoon_pants|승마 부츠
+itm_baden_dragoon_pants_pl|승마 부츠
+itm_officer_gloves|장교 장갑
+itm_officer_gloves_pl|장교 장갑
+itm_drummer_gloves|드러머 장갑
+itm_drummer_gloves_pl|드러머 장갑
+itm_rus_chevgarde_gloves|장갑
+itm_rus_chevgarde_gloves_pl|장갑
+itm_fr_cuirassier_gloves|장갑
+itm_fr_cuirassier_gloves_pl|장갑
+itm_fr_artillery_gloves|장갑
+itm_fr_artillery_gloves_pl|장갑
+itm_br_cavalry_gloves|장갑
+itm_br_cavalry_gloves_pl|장갑
+itm_br_horseguard_gloves|장갑
+itm_br_horseguard_gloves_pl|장갑
+itm_br_cavalry_gloves_short|장갑
+itm_br_cavalry_gloves_short_pl|장갑
+itm_br_horseguard_gloves_short|장갑
+itm_br_horseguard_gloves_short_pl|장갑
+itm_hussar_horse_french|경량 기마
+itm_hussar_horse_french_pl|경량 기마
+itm_hussar_horse_french_trumpet|경량 기마
+itm_hussar_horse_french_trumpet_pl|경량 기마
+itm_lancer_horse_french|경량 기마
+itm_lancer_horse_french_pl|경량 기마
+itm_lancer_horse_french_trumpet|경량 기마
+itm_lancer_horse_french_trumpet_pl|경량 기마
+itm_dragoon_horse_french|중형 기마
+itm_dragoon_horse_french_pl|중형 기마
+itm_dragoon_horse_french_trumpet|중형 기마
+itm_dragoon_horse_french_trumpet_pl|중형 기마
+itm_cuirassier_horse_french|대형 기마
+itm_cuirassier_horse_french_pl|대형 기마
+itm_cuirassier_horse_french_officer|대형 기마
+itm_cuirassier_horse_french_officer_pl|대형 기마
+itm_cuirassier_horse_french_trumpet|대형 기마
+itm_cuirassier_horse_french_trumpet_pl|대형 기마
+itm_carabineer_horse_french|대형 기마
+itm_carabineer_horse_french_pl|대형 기마
+itm_carabineer_horse_french_officer|대형 기마
+itm_carabineer_horse_french_officer_pl|대형 기마
+itm_carabineer_horse_french_trumpet|대형 기마
+itm_carabineer_horse_french_trumpet_pl|대형 기마
+itm_heavy_horse_french|대형 기마
+itm_heavy_horse_french_pl|대형 기마
+itm_heavy_horse_french_trumpet|대형 기마
+itm_heavy_horse_french_trumpet_pl|대형 기마
+itm_lightdragoon_horse_britain_1|경량 기마
+itm_lightdragoon_horse_britain_1_pl|경량 기마
+itm_lightdragoon_horse_britain_2|경량 기마
+itm_lightdragoon_horse_britain_2_pl|경량 기마
+itm_lightdragoon_horse_britain_3|경량 기마
+itm_lightdragoon_horse_britain_3_pl|경량 기마
+itm_lightdragoon_horse_britain_4|경량 기마
+itm_lightdragoon_horse_britain_4_pl|경량 기마
+itm_kgl_horse_britain|경량 기마
+itm_kgl_horse_britain_pl|경량 기마
+itm_heavydragoon_horse_britain|대형 기마
+itm_heavydragoon_horse_britain_pl|대형 기마
+itm_heavy_horse_britain|대형 기마
+itm_heavy_horse_britain_pl|대형 기마
+itm_lancer_horse_prussia_1|경량 기마
+itm_lancer_horse_prussia_1_pl|경량 기마
+itm_lancer_horse_prussia_2|경량 기마
+itm_lancer_horse_prussia_2_pl|경량 기마
+itm_hussar_horse_prussia_1|경량 기마
+itm_hussar_horse_prussia_1_pl|경량 기마
+itm_hussar_horse_prussia_2|경량 기마
+itm_hussar_horse_prussia_2_pl|경량 기마
+itm_dragoon_horse_prussia_1|중형 기마
+itm_dragoon_horse_prussia_1_pl|중형 기마
+itm_dragoon_horse_prussia_2|중형 기마
+itm_dragoon_horse_prussia_2_pl|중형 기마
+itm_heavy_horse_prussia_1|대형 기마
+itm_heavy_horse_prussia_1_pl|대형 기마
+itm_heavy_horse_prussia_2|대형 기마
+itm_heavy_horse_prussia_2_pl|대형 기마
+itm_cossack_horse_russia_1|경량 기마
+itm_cossack_horse_russia_1_pl|경량 기마
+itm_cossack_horse_russia_2|경량 기마
+itm_cossack_horse_russia_2_pl|경량 기마
+itm_cossack_horse_russia_3|경량 기마
+itm_cossack_horse_russia_3_pl|경량 기마
+itm_cossack_horse_russia_4|경량 기마
+itm_cossack_horse_russia_4_pl|경량 기마
+itm_lancer_horse_russia|경량 기마
+itm_lancer_horse_russia_pl|경량 기마
+itm_hussar_horse_russia|경량 기마
+itm_hussar_horse_russia_pl|경량 기마
+itm_dragoon_horse_russia|중형 기마
+itm_dragoon_horse_russia_pl|중형 기마
+itm_heavy_horse_russia|대형 기마
+itm_heavy_horse_russia_pl|대형 기마
+itm_lancer_horse_austria|경량 기마
+itm_lancer_horse_austria_pl|경량 기마
+itm_hussar_horse_austria|경량 기마
+itm_hussar_horse_austria_pl|경량 기마
+itm_lightcav_horse_austria|경량 기마
+itm_lightcav_horse_austria_pl|경량 기마
+itm_dragoon_horse_austria|중형 기마
+itm_dragoon_horse_austria_pl|중형 기마
+itm_heavy_horse_austria|대형 기마
+itm_heavy_horse_austria_pl|대형 기마
+itm_lancer_horse_rhine|경량 기마
+itm_lancer_horse_rhine_pl|경량 기마
+itm_lancer_horse_rhine_officer|경량 기마
+itm_lancer_horse_rhine_officer_pl|경량 기마
+itm_hussar_horse_rhine|경량 기마
+itm_hussar_horse_rhine_pl|경량 기마
+itm_hussar_horse_rhine_officer|경량 기마
+itm_hussar_horse_rhine_officer_pl|경량 기마
+itm_lightcav_horse_rhine|경량 기마
+itm_lightcav_horse_rhine_pl|경량 기마
+itm_cuirassier_horse_rhine|대형 기마
+itm_cuirassier_horse_rhine_pl|대형 기마
+itm_cuirassier_horse_rhine_officer|대형 기마
+itm_cuirassier_horse_rhine_officer_pl|대형 기마
+itm_garde_du_corps_horse_rhine|대형 기마
+itm_garde_du_corps_horse_rhine_pl|대형 기마
+itm_garde_du_corps_horse_rhine_officer|대형 기마
+itm_garde_du_corps_horse_rhine_officer_pl|대형 기마
+itm_lancer_horse_placeholder|경량 기마
+itm_lancer_horse_placeholder_pl|경량 기마
+itm_hussar_horse_placeholder|경량 기마
+itm_hussar_horse_placeholder_pl|경량 기마
+itm_dragoon_horse_placeholder|중형 기마중형 기마
+itm_dragoon_horse_placeholder_pl|중형 기마
+itm_heavy_horse_placeholder|대형 기마
+itm_heavy_horse_placeholder_pl|대형 기마
+itm_admin_horse|어드민 말
+itm_admin_horse_pl|어드민 말
+itm_arty_horse_cannon_french|포병용 기마
+itm_arty_horse_cannon_french_pl|포병용 기마
+itm_arty_horse_cannon_british|포병용 기마
+itm_arty_horse_cannon_british_pl|포병용 기마
+itm_arty_horse_cannon_russian|포병용 기마
+itm_arty_horse_cannon_russian_pl|포병용 기마
+itm_arty_horse_cannon_austrian|포병용 기마
+itm_arty_horse_cannon_austrian_pl|포병용 기마
+itm_arty_horse_cannon_prussian|포병용 기마
+itm_arty_horse_cannon_prussian_pl|포병용 기마
+itm_arty_horse_howitzer_french|포병용 기마
+itm_arty_horse_howitzer_french_pl|포병용 기마
+itm_arty_horse_howitzer_british|포병용 기마
+itm_arty_horse_howitzer_british_pl|포병용 기마
+itm_arty_horse_howitzer_russian|포병용 기마
+itm_arty_horse_howitzer_russian_pl|포병용 기마
+itm_arty_horse_howitzer_austrian|포병용 기마
+itm_arty_horse_howitzer_austrian_pl|포병용 기마
+itm_arty_horse_howitzer_prussian|포병용 기마
+itm_arty_horse_howitzer_prussian_pl|포병용 기마
+itm_items_end|아이템 목록 끝
+itm_items_end_pl|아이템 목록 끝

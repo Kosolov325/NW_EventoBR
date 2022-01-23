@@ -1,0 +1,39 @@
+menu_start_game_0|Bienvenue, soldat, dans "Mount and Blade Warband: Napoleonic Wars".^Pour commencer le jeu vous devez cr�er votre personnage et choisir la difficult� voulue.
+mno_start_easy|Facile
+mno_start_normal|Normal
+mno_start_hard|Difficile
+mno_go_back|Retour
+mno_debug|Débug
+menu_start_phase_2|Commencer phase 2
+mno_map|Carte
+menu_start_game_3|Commencer jeu 3
+menu_tutorial|Bonsoir monsieur. Le temps est beau pour la saison. Prendrez-vous une tasse de thé ?
+mno_continue|Continuer.
+mno_go_back_dot|Retour.
+menu_reports|Rapports
+mno_resume_travelling|Continuer le voyage.
+menu_camp|Camper
+mno_camp_wait_here|Rester.
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|La battaille est terminée. Vous avez tué {reg5} ennemis et perdu {reg6} soldats dans la battaille. Vous avez personnellement tué {reg7} hommes au combat.
+menu_town_trade|Vous allez au march� du camp.
+mno_trade_with_arms_merchant|Commercer avec le marchand d'armes.
+mno_trade_with_armor_merchant|Commercer avec le tailleur.
+mno_trade_with_horse_merchant|Commercer avec le marchand de chevaux.
+mno_back_to_town_menu|Retourner � la ville.
+menu_debug|Choose a scene
+mno_scene1|Vienna Bridge (sp vienna)
+mno_scene2|Austerlitz part 1 (sp sokolniz)
+mno_scene3|Austerlitz part 2 (sp auster)
+mno_scene4|Austerlitz part 3 (sp sokolniz2)
+mno_scene5|Dresden part 1 (sp dresden1)
+mno_scene6|Dresden part 2 (sp dresden2)
+mno_scene7|New Scene 1 (NON-PLAYABLE)
+mno_scene8|New Scene 2 (NON-PLAYABLE)
+mno_scene9|New Scene 3 (NON-PLAYABLE)
+mno_scene10|New Scene 4 (NON-PLAYABLE)
+menu_run_mission_dummy|debug screen
+menu_run_companion_dummy|debug screen
+menu_visit_camp_dummy|debug screen
+menu_go_briefing_dummy|debug screen
+menu_quit_dummy|debug screen

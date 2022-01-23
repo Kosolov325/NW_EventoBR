@@ -1,0 +1,39 @@
+﻿menu_start_game_0|"제군이여, 마운트 앤 블레이드 시리즈: 나폴레옹 시대에 오신 것을 환영합니다,시작하기에 앞서 당신의 캐릭터를 생성하고 본인에게 적합한 난이도를 선택하십시오."
+mno_start_easy|쉬움
+mno_start_normal|보통
+mno_start_hard|어려움
+mno_go_back|뒤로 가기
+mno_debug|디버그
+menu_start_phase_2|2단계 시작
+mno_map|지도
+menu_start_game_3|3단계 시작
+menu_tutorial|"안녕하십니까,오늘은 날씨가 아름답군요. 괜찮으시다면 차라도 한 잔 하시겠습니까?"
+mno_continue|"네,좋아요."
+mno_go_back_dot|"아니요,괜찮습니다."
+menu_reports|보고서
+mno_resume_travelling|여행을 계속한다.
+menu_camp|캠프
+mno_camp_wait_here|휴식
+menu_custom_battle_scene|(NO TRANS)
+menu_custom_battle_end|전투가 끝났습니다. {s1} 당신의 팀은 전투에서 {reg5} 만큼의 적을 사살하였고 {reg6} 만큼의 아군을 잃었습니다. 당신은 개인적으로 {reg7} 만큼의 적을 학살했습니다.
+menu_town_trade|당신은 캠프의 거래 장소로 향하고 있습니다.
+mno_trade_with_arms_merchant|무기 상인과 거래한다.
+mno_trade_with_armor_merchant|군복 상인과 거래한다.
+mno_trade_with_horse_merchant|말 상인과 거래한다.
+mno_back_to_town_menu|뒤로 가기
+menu_debug|맵을 선택하십시오
+mno_scene1|빈 교각 (sp vienna)
+mno_scene2|아우스터리츠 제 1 장 (sp sokolniz)
+mno_scene3|아우스터리츠 제 2 장 (sp auster)
+mno_scene4|아우스터리츠 제 3 장 (sp sokolniz2)
+mno_scene5|드레스덴 제 1 장 (sp dresden1)
+mno_scene6|드레스덴 제 2 장 (sp dresden2)
+mno_scene7|새로운 맵 1 (플레이 불가능)
+mno_scene8|새로운 맵 2 (플레이 불가능)
+mno_scene9|새로운 맵 3 (플레이 불가능)
+mno_scene10|새로운 맵 4 (플레이 불가능)
+menu_run_mission_dummy|화면 디버그
+menu_run_companion_dummy|화면 디버그
+menu_visit_camp_dummy|화면 디버그
+menu_go_briefing_dummy|화면 디버그
+menu_quit_dummy|화면 디버그
