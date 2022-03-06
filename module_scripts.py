@@ -24,8 +24,7 @@ scripts = [
 
 
  ("chat_commands", #kosolov start
-  [(store_script_param, s0, 1),
-   (store_script_param, ":player_id", 2),
+  [(store_script_param, ":player_id", 1),
 
    (str_store_substring, s0, s0, 1),
    (assign, ":failure", 0),
@@ -100,7 +99,7 @@ scripts = [
         
         (try_begin),
             (str_starts_with, s0, "@/"),
-            (call_script, "script_chat_commands", s0, ":player_no"),
+            (call_script, "script_chat_commands", ":player_no"),
             (set_trigger_result, 1),
         (else_try),
          (eq, "$g_allow_global_chat", 0),
@@ -7860,13 +7859,16 @@ scripts = [
                   (assign, ":script_ok", 1),                  
                 (else_try),
                   (eq, ":command", player_list_admin_slay_player),
-                  (call_script, "script_multiplayer_server_slay_player", ":value", 1),
-                  (assign, ":script_ok", reg0),
                   (try_begin), #Koso Slay removal slay warning (Aka: hislay)
                     (player_slot_eq, ":player_no", slot_player_admin_show_slay, 1),
+                    (player_set_slot, ":value", slot_player_dont_show_slay, 1),
+                    (call_script, "script_multiplayer_server_slay_player", ":value", 1),
+                    (assign, ":script_ok", reg0),
                     (str_clear, s3),
                     (str_clear, s4),
                   (else_try),
+                    (call_script, "script_multiplayer_server_slay_player", ":value", 1),
+                    (assign, ":script_ok", reg0),
                    (str_store_string, s4, "str_slay_player_s2_s3"),
                   (try_end),
                 (else_try),

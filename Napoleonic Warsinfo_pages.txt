@@ -1,3 +1,0 @@
-infopagesfile version 1
-1
-ip_info_page fix_mem fix_mem
