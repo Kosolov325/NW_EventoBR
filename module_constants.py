@@ -166,11 +166,6 @@ slot_player_formation_change_2              = 50
 slot_player_bot_order              = 51
 
 
-#kosolov
-slot_player_admin_show_slay       = 52
-slot_player_dont_show_slay        = 53
-
-
 ########################################################
 ##  TEAM SLOTS             #############################
 ########################################################

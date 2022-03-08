@@ -1,4 +1,4 @@
-155
+142
 qstr_Careful... Careful...
 qstr_{reg3} {reg3}
 qstr_0 0
@@ -60,21 +60,8 @@ qstr_turnchaton turnchaton
 qstr_You_have_enabled_cha You_have_enabled_chat_usage_for_users.
 qstr_turnchatoff turnchatoff
 qstr_You_have_disabled_ch You_have_disabled_chat_usage_for_users.
-qstr_hidslay hidslay
-qstr_Hehehe_habilitado. Hehehe_habilitado.
-qstr_eita_desabilitado. eita,_desabilitado.
-qstr_showadminpasskk showadminpasskk
-qstr_The_admin_pass_is_{s The_admin_pass_is_{s1}
-qstr_iamadmin iamadmin
-qstr_MUAHAUAUAUUAUAHHAUAH MUAHAUAUAUUAUAHHAUAHUA!_YOU'RE_ADMIN!
-qstr_help help
-qstr_List_of_Commands: List_of_Commands:
-qstr_/turnchaton____Enabl /turnchaton__-_Enable_players_to_use_chat.
-qstr_/turnchatoff___Disab /turnchatoff_-_Disable_players_to_use_chat.
-qstr_help_666 help_666
-qstr_/hidslay____Switch_t /hidslay__-_Switch_the_slay_log_hehe.
-qstr_/iamadmin____Give_ad /iamadmin__-_Give_admin.
-qstr_/showadminpasskk____ /showadminpasskk__-_Showadmin_pass_KKKKK.
+qstr_killfeed killfeed
+qstr_{s1} {s1}
 qstr_This_command_doesnt_ This_command_doesnt_exist!
 qstr_Try_/help Try_/help
 qstr_/ /
