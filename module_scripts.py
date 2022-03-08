@@ -65,16 +65,16 @@ scripts = [
 ("wse_chat_message_received", [
 	(store_script_param, ":player_no", 1),
         (store_script_param, ":chat_type", 2),
-    
+
+        (eq, ":chat_type", 0),
         (try_begin),
-            (str_starts_with, s0, "@/"),
+            (str_starts_with, s0, "@!"),
             (call_script, "script_chat_commands", ":player_no"),
-            (set_trigger_result, 1),
-        (else_try),
-         (eq, ":chat_type", 0),
+        (try_begin),
+        
          (eq, "$g_allow_global_chat", 0),
          (set_trigger_result, 1),
-        (try_end),
+        
 ]),
 
 
