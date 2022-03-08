@@ -64,7 +64,7 @@ qstr_killfeed killfeed
 qstr_{s1} {s1}
 qstr_This_command_doesnt_ This_command_doesnt_exist!
 qstr_Try_/help Try_/help
-qstr_! !
+qstr_$ $
 qstr_Open_ze_Treasure Open_ze_Treasure
 qstr_View_Caimpaign_Map View_Caimpaign_Map
 qstr_Use Use

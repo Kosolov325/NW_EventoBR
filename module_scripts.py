@@ -68,7 +68,7 @@ scripts = [
 
         (eq, ":chat_type", 0),
         (try_begin),
-            (str_starts_with, s0, "@!"),
+            (str_starts_with, s0, "@$"),
             (call_script, "script_chat_commands", ":player_no"),
         (try_begin),
         
