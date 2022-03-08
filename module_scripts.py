@@ -29,7 +29,7 @@ scripts = [
    (str_store_substring, s0, s0, 1),
    (assign, ":failure", 0),
    (try_begin),
-      (str_equals, s0, "@turnchaton", 1),
+       (str_equals, s0, "@turnchaton", 1),
        (player_is_admin, ":player_id"),
        (eq, "$g_allow_global_chat", 0),
        (multiplayer_send_string_to_player, ":player_id", multiplayer_event_show_server_message, "@You have enabled chat usage for users."),
@@ -65,15 +65,15 @@ scripts = [
 	(store_script_param, ":player_no", 1),
         (store_script_param, ":chat_type", 2),
 
-        (eq, ":chat_type", 0),
+        (try_begin),
+            (eq, ":chat_type", 0),
+            (eq, "$g_allow_global_chat", 0),
+            (set_trigger_result, 1),
+        (try_end),
         (try_begin),
             (str_starts_with, s0, "@$"),
             (call_script, "script_chat_commands", ":player_no"),
-        (try_begin),
-        
-         (eq, "$g_allow_global_chat", 0),
-         (set_trigger_result, 1),
-        
+        (try_end), 
 ]),
 
 
