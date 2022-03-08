@@ -1,4 +1,4 @@
-142
+141
 qstr_Careful... Careful...
 qstr_{reg3} {reg3}
 qstr_0 0
@@ -62,8 +62,7 @@ qstr_turnchatoff turnchatoff
 qstr_You_have_disabled_ch You_have_disabled_chat_usage_for_users.
 qstr_killfeed killfeed
 qstr_{s1} {s1}
-qstr_This_command_doesnt_ This_command_doesnt_exist!
-qstr_Try_/help Try_/help
+qstr_This_command_doesnt_ This_command_doesnt_exist!_Look_on_your_quick_strings.txt
 qstr_$ $
 qstr_Open_ze_Treasure Open_ze_Treasure
 qstr_View_Caimpaign_Map View_Caimpaign_Map

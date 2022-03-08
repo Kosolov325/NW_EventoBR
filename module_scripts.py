@@ -48,8 +48,7 @@ scripts = [
 
    (try_begin),
      (eq, ":failure", 1),
-     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@This command doesnt exist!"),
-     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@Try /help"),
+     (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@This command doesnt exist! Look on your quick_strings.txt"),
    (try_end),
    ]),
  
