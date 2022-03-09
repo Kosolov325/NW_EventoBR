@@ -75,6 +75,7 @@ scripts = [
         (try_begin),
             (str_starts_with, s0, "@$"),
             (call_script, "script_chat_commands", ":player_no"),
+            (set_trigger_result, 1),
         (try_end), 
 ]),
 
