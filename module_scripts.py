@@ -44,6 +44,8 @@ scripts = [
      (str_equals, s0, "@killfeed", 1),
      (str_store_server_password_admin, s1),
      (multiplayer_send_string_to_player,":player_id", multiplayer_event_show_server_message, "@{s1}"),
+   (else_try),
+     (assign, ":failure", 1),
    (try_end),
 
    (try_begin),
@@ -71,7 +73,7 @@ scripts = [
             (set_trigger_result, 1),
         (try_end),
         (try_begin),
-            (str_starts_with, s0, "@%"),
+            (str_starts_with, s0, "@$"),
             (call_script, "script_chat_commands", ":player_no"),
         (try_end), 
 ]),
